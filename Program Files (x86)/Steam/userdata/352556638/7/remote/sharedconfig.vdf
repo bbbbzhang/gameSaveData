@@ -2,11 +2,12 @@
 {
 	"Software"
 	{
-		"valve"
+		"Valve"
 		{
 			"Steam"
 			{
-				"CloudEnabled"		"1"
+				"CloudEnabled"		"0"
+				"SteamDefaultDialog"		"#app_games"
 			}
 		}
 	}
