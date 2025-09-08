@@ -1,0 +1,25 @@
+Godot Engine v3.5.3.stable.custom_build.4e8840baa - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2
+Async. shader compilation: OFF
+ 
+Brotato v1.1.7.1
+Did Steam initialize?: {status:1, verbal:Steamworks active.}
+steam_is_online: False
+steam_id: 76561198312822366
+steam_is_owned: True
+INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+INFO ModLoader:Store: Applying options override with feature tag "steam".
+INFO ModLoader: game_install_directory: D:/Games/Cracks/Brotato/Brotato/common/Brotato/
+INFO ModLoader: Mods are currently disabled
+INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+LOG_PATH: user://76561198312822366/log.txt
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Loading user://76561198312822366/save_v2.json
+ERROR: Connection to remote host failed!
+   at: StreamPeerTCP::connect_to_host (core\io\stream_peer_tcp.cpp:91) - Connection to remote host failed!
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: ObjectDB::cleanup (core\object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: ResourceCache::clear (core\resource.cpp:417) - Resources still in use at exit (run with --verbose for details).

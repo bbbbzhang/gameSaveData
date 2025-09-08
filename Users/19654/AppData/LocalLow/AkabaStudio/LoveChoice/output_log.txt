@@ -1,0 +1,27 @@
+Initialize engine version: 2017.4.30f1 (c6fa43736cae)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   32.0.15.7700
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.191 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.690100 ms
+LanguageManager.cs: Waking up
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 47e4 -> priority: 1 
+  Thread -> id: 1930 -> priority: 1 
+  Thread -> id: 4ab8 -> priority: 1 
+  Thread -> id: 40b0 -> priority: 1 
+  Thread -> id: 5a54 -> priority: 1 
+  Thread -> id: 42e0 -> priority: 1 
+  Thread -> id: 51cc -> priority: 1 
+  Thread -> id: 50e8 -> priority: 1 

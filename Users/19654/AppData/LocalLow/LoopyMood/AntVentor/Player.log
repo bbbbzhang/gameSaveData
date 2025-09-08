@@ -1,0 +1,207 @@
+Mono path[0] = 'D:/Games/StemLibrary/steamapps/common/AntVentor/AntVentor_Data/Managed'
+Mono config path = 'D:/Games/StemLibrary/steamapps/common/AntVentor/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.20f1 (c67d00285037)
+[XR] Discovering subsystems at path D:/Games/StemLibrary/steamapps/common/AntVentor/AntVentor_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.8115
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.967 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.320700 ms
+KickStarter not initiaized
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+KickStarter not initiaized
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayerPrefs Key 'AC_AntVentor_0' loaded
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+No NavMesh set. Characters will not be able to PathFind until one is defined - please choose one using the Scene Manager.
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+No default PlayerStart set.  The game may not be able to begin if one is not defined - please choose one using the Scene Manager.
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+StartPlayMusic
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 17652.
+Total: 4.289600 ms (FindLiveObjects: 0.558700 ms CreateObjectMapping: 0.641100 ms MarkObjects: 3.046900 ms  DeleteObjects: 0.042600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.759500 ms
+No NavMesh set. Characters will not be able to PathFind until one is defined - please choose one using the Scene Manager.
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+No default PlayerStart set.  The game may not be able to begin if one is not defined - please choose one using the Scene Manager.
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayerPrefs Key 'AC_AntVentor_0' saved
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayerPrefs Key 'AC_AntVentor_0' saved
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+StopPlayMusic
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AntIdle_DL_000 cannot find Sorting Map to follow!
+
+-----------------------------
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18156.
+Total: 3.704900 ms (FindLiveObjects: 0.540400 ms CreateObjectMapping: 0.473000 ms MarkObjects: 2.639900 ms  DeleteObjects: 0.050900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 18156.
+Total: 3.840600 ms (FindLiveObjects: 0.628300 ms CreateObjectMapping: 0.561300 ms MarkObjects: 2.630300 ms  DeleteObjects: 0.020200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 18158.
+Total: 4.603500 ms (FindLiveObjects: 0.582200 ms CreateObjectMapping: 0.685700 ms MarkObjects: 3.310500 ms  DeleteObjects: 0.024800 ms)
+
+Joystick connected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename: C:\buildslave\unity\build\PlatformDependent/Win/Input/RawInput.cpp Line: 1437)
+
+HasSavedGame
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 3904 -> priority: 1 
+  Thread -> id: 1794 -> priority: 1 
+  Thread -> id: 1c68 -> priority: 1 
+  Thread -> id: 854 -> priority: 1 
+  Thread -> id: 2b74 -> priority: 1 
+  Thread -> id: 2464 -> priority: 1 
+  Thread -> id: f08 -> priority: 1 
+  Thread -> id: 4ab8 -> priority: 1 

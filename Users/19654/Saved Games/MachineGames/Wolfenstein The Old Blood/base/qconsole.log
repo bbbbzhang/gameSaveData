@@ -1,0 +1,1519 @@
+log file 'qconsole.log' opened on Thu Sep 04 19:59:06 2025
+
+1 CPU package, 8 physical cores, 16 logical cores
+2304 MHz Intel CPU with MMX & SSE & SSE2 & SSE3 & SSSE3 & SSE41 & SSE42 & AVX & HTT
+32768 kB 1st level cache, 1310720 kB 2nd level cache, 25165824 kB 3rd level cache
+16160 MB System Memory
+Winsock Initialized
+Found interface: {62ED2472-2B27-47F9-AC21-70FA23E51031} Realtek PCIe 2.5GbE Family Controller - 0.0.0.0 NULL netmask - skipped
+Found interface: {0EA4F849-9F66-4460-9771-39A3FB187927} Bluetooth Device (Personal Area Network) - 0.0.0.0 NULL netmask - skipped
+Found interface: {E93D27CD-347F-46A6-8B20-6EE38368BAFD} Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW) - 192.168.0.112/255.255.255.0
+Found interface: {94654AFD-7CD8-41B5-B163-83FE66B63F61} Microsoft Wi-Fi Direct Virtual Adapter - 0.0.0.0 NULL netmask - skipped
+Found interface: {80BCCA39-4DFE-46B9-B4E8-65FD4D6F7EFE} Microsoft Wi-Fi Direct Virtual Adapter #2 - 0.0.0.0 NULL netmask - skipped
+Sys_InitNetworking: adding loopback interface
+Executing default.cfg for device #0...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+Executing default.cfg for device #1...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+Executing default.cfg for device #2...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+Executing default.cfg for device #3...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+idLib::SetProduction( PROD_PRODUCTION )
+OpenDLCFileHandles: 0 packages mounted.
+couldn't exec D:\Games\StemLibrary\steamapps\common\Wolfenstein
+couldn't exec package.cfg
+Command line is: "D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\WolfOldBlood_x64.exe"
+providerName: NVIDIA
+driverDesc: NVIDIA GeForce RTX 3070 Laptop GPU
+driverVersion: 32.0.15.8115
+found driver version 32.0.15.8115
+------- Initializing renderSystem --------
+PreliminaryRenderSetup
+---registered window class
+---registered fake window class
+---registered context window class
+GetWGLExtensionsWithFakeWindow: OpenGL Vendor: "NVIDIA Corporation"
+GetWGLExtensionsWithFakeWindow: OpenGL Renderer: "NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2"
+GetWGLExtensionsWithFakeWindow: OpenGL version: "4.6.0 NVIDIA 581.15"
+---using WGL_EXT_swap_control
+---using WGL_EXT_swap_control_tear
+CreateOpenGLContextForCurrentThread: Assuming pre-checked Graphics Vendor: "NVIDIA Corporation"
+CreateOpenGLContextOnDC: Using gl version 3.2
+created OpenGL 3.2 context
+CreateOpenGLContextForCurrentThread: Actually got context with Vendor: "NVIDIA Corporation"
+CreateOpenGLContextForCurrentThread: Assuming pre-checked Graphics Vendor: "NVIDIA Corporation"
+CreateOpenGLContextOnDC: Using gl version 3.2
+created OpenGL 3.2 context
+CreateOpenGLContextForCurrentThread: Actually got context with Vendor: "NVIDIA Corporation"
+----- GL_Init -----
+OpenGL version 3.2
+GL_AMD_multi_draw_indirect              GL_AMD_seamless_cubemap_per_texture     
+GL_AMD_vertex_shader_viewport_index     GL_AMD_vertex_shader_layer              
+GL_ARB_arrays_of_arrays                 GL_ARB_base_instance                    
+GL_ARB_bindless_texture                 GL_ARB_blend_func_extended              
+GL_ARB_buffer_storage                   GL_ARB_clear_buffer_object              
+GL_ARB_clear_texture                    GL_ARB_clip_control                     
+GL_ARB_color_buffer_float               GL_ARB_compressed_texture_pixel_storage 
+GL_ARB_conservative_depth               GL_ARB_compute_shader                   
+GL_ARB_compute_variable_group_size      GL_ARB_conditional_render_inverted      
+GL_ARB_copy_buffer                      GL_ARB_copy_image                       
+GL_ARB_cull_distance                    GL_ARB_debug_output                     
+GL_ARB_depth_buffer_float               GL_ARB_depth_clamp                      
+GL_ARB_depth_texture                    GL_ARB_derivative_control               
+GL_ARB_direct_state_access              GL_ARB_draw_buffers                     
+GL_ARB_draw_buffers_blend               GL_ARB_draw_indirect                    
+GL_ARB_draw_elements_base_vertex        GL_ARB_draw_instanced                   
+GL_ARB_enhanced_layouts                 GL_ARB_ES2_compatibility                
+GL_ARB_ES3_compatibility                GL_ARB_ES3_1_compatibility              
+GL_ARB_ES3_2_compatibility              GL_ARB_explicit_attrib_location         
+GL_ARB_explicit_uniform_location        GL_ARB_fragment_coord_conventions       
+GL_ARB_fragment_layer_viewport          GL_ARB_fragment_program                 
+GL_ARB_fragment_program_shadow          GL_ARB_fragment_shader                  
+GL_ARB_fragment_shader_interlock        GL_ARB_framebuffer_no_attachments       
+GL_ARB_framebuffer_object               GL_ARB_framebuffer_sRGB                 
+GL_ARB_geometry_shader4                 GL_ARB_get_program_binary               
+GL_ARB_get_texture_sub_image            GL_ARB_gl_spirv                         
+GL_ARB_gpu_shader5                      GL_ARB_gpu_shader_fp64                  
+GL_ARB_gpu_shader_int64                 GL_ARB_half_float_pixel                 
+GL_ARB_half_float_vertex                GL_ARB_imaging                          
+GL_ARB_indirect_parameters              GL_ARB_instanced_arrays                 
+GL_ARB_internalformat_query             GL_ARB_internalformat_query2            
+GL_ARB_invalidate_subdata               GL_ARB_map_buffer_alignment             
+GL_ARB_map_buffer_range                 GL_ARB_multi_bind                       
+GL_ARB_multi_draw_indirect              GL_ARB_multisample                      
+GL_ARB_multitexture                     GL_ARB_occlusion_query                  
+GL_ARB_occlusion_query2                 GL_ARB_parallel_shader_compile          
+GL_ARB_pipeline_statistics_query        GL_ARB_pixel_buffer_object              
+GL_ARB_point_parameters                 GL_ARB_point_sprite                     
+GL_ARB_polygon_offset_clamp             GL_ARB_post_depth_coverage              
+GL_ARB_program_interface_query          GL_ARB_provoking_vertex                 
+GL_ARB_query_buffer_object              GL_ARB_robust_buffer_access_behavior    
+GL_ARB_robustness                       GL_ARB_sample_locations                 
+GL_ARB_sample_shading                   GL_ARB_sampler_objects                  
+GL_ARB_seamless_cube_map                GL_ARB_seamless_cubemap_per_texture     
+GL_ARB_separate_shader_objects          GL_ARB_shader_atomic_counter_ops        
+GL_ARB_shader_atomic_counters           GL_ARB_shader_ballot                    
+GL_ARB_shader_bit_encoding              GL_ARB_shader_clock                     
+GL_ARB_shader_draw_parameters           GL_ARB_shader_group_vote                
+GL_ARB_shader_image_load_store          GL_ARB_shader_image_size                
+GL_ARB_shader_objects                   GL_ARB_shader_precision                 
+GL_ARB_shader_storage_buffer_object     GL_ARB_shader_subroutine                
+GL_ARB_shader_texture_image_samples     GL_ARB_shader_texture_lod               
+GL_ARB_shading_language_100             GL_ARB_shader_viewport_layer_array      
+GL_ARB_shading_language_420pack         GL_ARB_shading_language_include         
+GL_ARB_shading_language_packing         GL_ARB_shadow                           
+GL_ARB_sparse_buffer                    GL_ARB_sparse_texture                   
+GL_ARB_sparse_texture2                  GL_ARB_sparse_texture_clamp             
+GL_ARB_spirv_extensions                 GL_ARB_stencil_texturing                
+GL_ARB_sync                             GL_ARB_tessellation_shader              
+GL_ARB_texture_barrier                  GL_ARB_texture_border_clamp             
+GL_ARB_texture_buffer_object            GL_ARB_texture_buffer_object_rgb32      
+GL_ARB_texture_buffer_range             GL_ARB_texture_compression              
+GL_ARB_texture_compression_bptc         GL_ARB_texture_compression_rgtc         
+GL_ARB_texture_cube_map                 GL_ARB_texture_cube_map_array           
+GL_ARB_texture_env_add                  GL_ARB_texture_env_combine              
+GL_ARB_texture_env_crossbar             GL_ARB_texture_env_dot3                 
+GL_ARB_texture_filter_anisotropic       GL_ARB_texture_filter_minmax            
+GL_ARB_texture_float                    GL_ARB_texture_gather                   
+GL_ARB_texture_mirror_clamp_to_edge     GL_ARB_texture_mirrored_repeat          
+GL_ARB_texture_multisample              GL_ARB_texture_non_power_of_two         
+GL_ARB_texture_query_levels             GL_ARB_texture_query_lod                
+GL_ARB_texture_rectangle                GL_ARB_texture_rg                       
+GL_ARB_texture_rgb10_a2ui               GL_ARB_texture_stencil8                 
+GL_ARB_texture_storage                  GL_ARB_texture_storage_multisample      
+GL_ARB_texture_swizzle                  GL_ARB_texture_view                     
+GL_ARB_timer_query                      GL_ARB_transform_feedback2              
+GL_ARB_transform_feedback3              GL_ARB_transform_feedback_instanced     
+GL_ARB_transform_feedback_overflow_queryGL_ARB_transpose_matrix                 
+GL_ARB_uniform_buffer_object            GL_ARB_vertex_array_bgra                
+GL_ARB_vertex_array_object              GL_ARB_vertex_attrib_64bit              
+GL_ARB_vertex_attrib_binding            GL_ARB_vertex_buffer_object             
+GL_ARB_vertex_program                   GL_ARB_vertex_shader                    
+GL_ARB_vertex_type_10f_11f_11f_rev      GL_ARB_vertex_type_2_10_10_10_rev       
+GL_ARB_viewport_array                   GL_ARB_window_pos                       
+GL_ATI_draw_buffers                     GL_ATI_texture_float                    
+GL_ATI_texture_mirror_once              GL_S3_s3tc                              
+GL_EXT_texture_env_add                  GL_EXT_abgr                             
+GL_EXT_bgra                             GL_EXT_bindable_uniform                 
+GL_EXT_blend_color                      GL_EXT_blend_equation_separate          
+GL_EXT_blend_func_separate              GL_EXT_blend_minmax                     
+GL_EXT_blend_subtract                   GL_EXT_compiled_vertex_array            
+GL_EXT_Cg_shader                        GL_EXT_depth_bounds_test                
+GL_EXT_direct_state_access              GL_EXT_draw_buffers2                    
+GL_EXT_draw_instanced                   GL_EXT_draw_range_elements              
+GL_EXT_fog_coord                        GL_EXT_framebuffer_blit                 
+GL_EXT_framebuffer_multisample          GL_EXTX_framebuffer_mixed_formats       
+GL_EXT_framebuffer_multisample_blit_scaledGL_EXT_framebuffer_object               
+GL_EXT_framebuffer_sRGB                 GL_EXT_geometry_shader4                 
+GL_EXT_gpu_program_parameters           GL_EXT_gpu_shader4                      
+GL_EXT_multi_draw_arrays                GL_EXT_multiview_texture_multisample    
+GL_EXT_multiview_timer_query            GL_EXT_packed_depth_stencil             
+GL_EXT_packed_float                     GL_EXT_packed_pixels                    
+GL_EXT_pixel_buffer_object              GL_EXT_point_parameters                 
+GL_EXT_polygon_offset_clamp             GL_EXT_post_depth_coverage              
+GL_EXT_provoking_vertex                 GL_EXT_raster_multisample               
+GL_EXT_rescale_normal                   GL_EXT_secondary_color                  
+GL_EXT_separate_shader_objects          GL_EXT_separate_specular_color          
+GL_EXT_shader_image_load_formatted      GL_EXT_shader_image_load_store          
+GL_EXT_shader_integer_mix               GL_EXT_shadow_funcs                     
+GL_EXT_sparse_texture2                  GL_EXT_stencil_two_side                 
+GL_EXT_stencil_wrap                     GL_EXT_texture3D                        
+GL_EXT_texture_array                    GL_EXT_texture_buffer_object            
+GL_EXT_texture_compression_dxt1         GL_EXT_texture_compression_latc         
+GL_EXT_texture_compression_rgtc         GL_EXT_texture_compression_s3tc         
+GL_EXT_texture_cube_map                 GL_EXT_texture_edge_clamp               
+GL_EXT_texture_env_combine              GL_EXT_texture_env_dot3                 
+GL_EXT_texture_filter_anisotropic       GL_EXT_texture_filter_minmax            
+GL_EXT_texture_integer                  GL_EXT_texture_lod                      
+GL_EXT_texture_lod_bias                 GL_EXT_texture_mirror_clamp             
+GL_EXT_texture_object                   GL_EXT_texture_shadow_lod               
+GL_EXT_texture_shared_exponent          GL_EXT_texture_sRGB                     
+GL_EXT_texture_sRGB_R8                  GL_EXT_texture_sRGB_decode              
+GL_EXT_texture_storage                  GL_EXT_texture_swizzle                  
+GL_EXT_timer_query                      GL_EXT_transform_feedback2              
+GL_EXT_vertex_array                     GL_EXT_vertex_array_bgra                
+GL_EXT_vertex_attrib_64bit              GL_EXT_window_rectangles                
+GL_EXT_import_sync_object               GL_IBM_rasterpos_clip                   
+GL_IBM_texture_mirrored_repeat          GL_KHR_context_flush_control            
+GL_KHR_debug                            GL_EXT_memory_object                    
+GL_EXT_memory_object_win32              GL_NV_memory_object_sparse              
+GL_EXT_win32_keyed_mutex                GL_KHR_parallel_shader_compile          
+GL_KHR_no_error                         GL_KHR_robust_buffer_access_behavior    
+GL_KHR_robustness                       GL_EXT_semaphore                        
+GL_EXT_semaphore_win32                  GL_NV_timeline_semaphore                
+GL_KHR_shader_subgroup                  GL_KTX_buffer_region                    
+GL_NV_alpha_to_coverage_dither_control  GL_NV_bindless_multi_draw_indirect      
+GL_NV_bindless_multi_draw_indirect_countGL_NV_bindless_texture                  
+GL_NV_blend_equation_advanced           GL_NV_blend_equation_advanced_coherent  
+GL_NVX_blend_equation_advanced_multi_draw_buffersGL_NV_blend_minmax_factor               
+GL_NV_blend_square                      GL_NV_clip_space_w_scaling              
+GL_NV_command_list                      GL_NV_compute_program5                  
+GL_NV_compute_shader_derivatives        GL_NV_conditional_render                
+GL_NV_conservative_raster               GL_NV_conservative_raster_dilate        
+GL_NV_conservative_raster_pre_snap      GL_NV_conservative_raster_pre_snap_triangles
+GL_NV_conservative_raster_underestimationGL_NV_copy_depth_to_color               
+GL_NV_copy_image                        GL_NV_depth_buffer_float                
+GL_NV_depth_clamp                       GL_NV_draw_texture                      
+GL_NV_draw_vulkan_image                 GL_NV_ES1_1_compatibility               
+GL_NV_ES3_1_compatibility               GL_NV_explicit_multisample              
+GL_NV_feature_query                     GL_NV_fence                             
+GL_NV_fill_rectangle                    GL_NV_float_buffer                      
+GL_NV_fog_distance                      GL_NV_fragment_coverage_to_color        
+GL_NV_fragment_program                  GL_NV_fragment_program_option           
+GL_NV_fragment_program2                 GL_NV_fragment_shader_barycentric       
+GL_NV_fragment_shader_interlock         GL_NV_framebuffer_mixed_samples         
+GL_NV_framebuffer_multisample_coverage  GL_NV_geometry_shader4                  
+GL_NV_geometry_shader_passthrough       GL_NV_gpu_program4                      
+GL_NV_internalformat_sample_query       GL_NV_gpu_program4_1                    
+GL_NV_gpu_program5                      GL_NV_gpu_program5_mem_extended         
+GL_NV_gpu_program_fp64                  GL_NV_gpu_program_multiview             
+GL_NV_gpu_shader5                       GL_NV_half_float                        
+GL_NV_light_max_exponent                GL_NV_memory_attachment                 
+GL_NV_mesh_shader                       GL_NV_multisample_coverage              
+GL_NV_multisample_filter_hint           GL_NV_occlusion_query                   
+GL_NV_packed_depth_stencil              GL_NV_parameter_buffer_object           
+GL_NV_parameter_buffer_object2          GL_NV_path_rendering                    
+GL_NV_path_rendering_shared_edge        GL_NV_pixel_data_range                  
+GL_NV_point_sprite                      GL_NV_primitive_restart                 
+GL_NV_primitive_shading_rate            GL_NV_query_resource                    
+GL_NV_query_resource_tag                GL_NV_register_combiners                
+GL_NV_register_combiners2               GL_NV_representative_fragment_test      
+GL_NV_sample_locations                  GL_NV_sample_mask_override_coverage     
+GL_NV_scissor_exclusive                 GL_NV_shader_atomic_counters            
+GL_NV_shader_atomic_float               GL_NV_shader_atomic_float64             
+GL_NV_shader_atomic_fp16_vector         GL_NV_shader_atomic_int64               
+GL_NV_shader_buffer_load                GL_NV_shader_storage_buffer_object      
+GL_NV_shader_subgroup_partitioned       GL_NV_shader_texture_footprint          
+GL_NV_shading_rate_image                GL_NV_stereo_view_rendering             
+GL_NV_texgen_reflection                 GL_NV_texture_barrier                   
+GL_NV_texture_compression_vtc           GL_NV_texture_dirty_tile_map            
+GL_NV_texture_env_combine4              GL_NV_texture_multisample               
+GL_NV_texture_rectangle                 GL_NV_texture_rectangle_compressed      
+GL_NV_texture_shader                    GL_NV_texture_shader2                   
+GL_NV_texture_shader3                   GL_NV_transform_feedback                
+GL_NV_transform_feedback2               GL_NV_uniform_buffer_unified_memory     
+GL_NV_uniform_buffer_std430_layout      GL_NV_vertex_array_range                
+GL_NV_vertex_array_range2               GL_NV_vertex_attrib_integer_64bit       
+GL_NV_vertex_buffer_unified_memory      GL_NV_vertex_program                    
+GL_NV_vertex_program1_1                 GL_NV_vertex_program2                   
+GL_NV_vertex_program2_option            GL_NV_vertex_program3                   
+GL_NV_viewport_array2                   GL_NV_viewport_swizzle                  
+GL_NVX_conditional_render               GL_NVX_linked_gpu_multicast             
+GL_NV_gpu_multicast                     GL_NVX_gpu_multicast2                   
+GL_NVX_progress_fence                   GL_NVX_gpu_memory_info                  
+GL_NVX_multigpu_info                    GL_NVX_nvenc_interop                    
+GL_NV_shader_thread_group               GL_NV_shader_thread_shuffle             
+GL_KHR_blend_equation_advanced          GL_KHR_blend_equation_advanced_coherent 
+GL_OVR_multiview                        GL_OVR_multiview2                       
+GL_SGIS_generate_mipmap                 GL_SGIS_texture_lod                     
+GL_SGIX_depth_texture                   GL_SGIX_shadow                          
+GL_SUN_slice_accum                      GL_WIN_swap_hint                        
+WGL_EXT_swap_control                    
+X..GL_AMD_multi_texsubimage not found
+Couldn't find proc address for: glGetMultiQueryObjectuivAMD
+---using GL_ARB_texture_multisample
+---using GL_ARB_texture_compression
+---using GL_EXT_texture_compression_s3tc
+---using GL_EXT_texture_filter_anisotropic
+---using GL_EXT_direct_state_access
+---using GL_ARB_sampler_objects
+---using GL_ARB_vertex_buffer_object
+---using GL_ARB_map_buffer_range
+---using GL_ARB_draw_elements_base_vertex
+---using GL_ARB_vertex_array_object
+---using GL_ARB_vertex_program
+---using GL_ARB_get_program_binary
+---using GL_ARB_uniform_buffer_object
+---using GL_ARB_occlusion_query
+---using GL_EXT_timer_query
+---using GL_EXT_framebuffer_object
+---using GL_EXT_framebuffer_blit
+---using GL_ARB_pixel_buffer_object
+---using GL_EXT_pixel_buffer_object
+---using GL_EXT_depth_bounds_test
+---using GL_ARB_sync
+---using GL_ARB_buffer_storage
+---using GL_ARB_debug_output
+Free vram: 7342.30MiB
+CreateOpenGLContextForCurrentThread: Assuming pre-checked Graphics Vendor: "NVIDIA Corporation"
+CreateOpenGLContextOnDC: Using gl version 3.2
+created OpenGL 3.2 context
+CreateOpenGLContextForCurrentThread: Actually got context with Vendor: "NVIDIA Corporation"
+Initializing OpenGL subsystem
+ShowGameWindow: (0, 0) 2560 x 1440, full screen
+OpenCachedPagesFile: D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\virtualtextures\_vmtr.pages
+ 21 pages locked in D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\virtualtextures\_vmtr.pages
+ 0.0 seconds for FinishFeedback()
+PHYSICAL_PAGES_POOL_VMTR
+------------------------
+total  : 1024
+locked :    4
+current:    4
+free   : 1020
+ 100 % empty hash table entries
+ 100 % pages 0 steps down the hash chain
+   0 % pages 1 step down the hash chain
+   0 % pages 2 steps down the hash chain
+   0 % pages > 2 steps down the hash chain
+------------------------
+ 0.0 seconds to load and lock 21 pages
+S 4096 4096  1 linr DXT5     clmp 16384k _physicalvmtrpages1
+S 4096 4096  1 linr DXT1     clmp  8192k _physicalvmtrpages0
+S 4096 4096  1 linr DXT5     clmp 16384k _physicalvmtrpages2
+S 8192 8192  1 linr DXT5     clmp 65536k _physicaluniquepages1
+S 8192 8192  1 linr DXT1     clmp 32768k _physicaluniquepages0
+S 8192 8192  1 linr DXT5     clmp 65536k _physicaluniquepages2
+S 1024 1024  1 linr DXT5     clmp  1024k _physicaluniquediffuseonlypages1
+S  128  128  1 linr DXT5     clmp    16k _physicaluniquediffuseonly2pages1
+
+virtual texture 1:
+S 1024 1024 11 nmn  RG       clmp  2730k _vmtrpagetable
+pool: VMTR
+Page file: D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\virtualtextures\_vmtr.pages
+header.magic: 0x77339904
+header.pagesWide: 1024
+header.numLevels:   11
+header.layoutVersion:    0
+header.diskOffsetScale:    4
+Pages resident per level:   0   0   0   0   0   0   0   0   2   1   1 
+Pages resident: 4
+Pages locked: 4
+ 2.7 total megs of page table images
+Resetting cheat cvar: cu_singleStageHDP
+----- Initializing Sound System ------
+  0: 
+     8 channels, 48000 Hz
+     Front Left, Front Right, Front Center, Low Frequency, Back Left, Back Right, Side Left, and Side Right
+     Default Console Device, Multimedia Device, and Game Device
+  1: Speaker (MSI Sound Tune)
+     2 channels, 48000 Hz
+     Front Left and Front Right
+     Default Communications Device
+  2: System Virtual Line (MSI Sound Tune)
+     2 channels, 48000 Hz
+     Front Left and Front Right
+Using device 0
+sound system initialized.
+--------------------------------------
+----- Initializing Decls -----
+124 types, 0 declSource in 0 ms
+------------------------------
+Initializing class hierarchy
+Reading strings/english.lang as UTF-8
+3572 strings read
+
+------- Input Initialization -------
+Initializing DirectInput...
+mouse: DirectInput initialized.
+keyboard: DirectInput initialized.
+------------------------------------
+Loading named resource block: "init"
+0.0 seconds to read 4305k table header
+Resources skipped by layer tests: 0
+Load 875 resources using 870 of 22539 total resource files, 0 streamed
+--------- EndBackgroundLoads() ----------
+IO: 0 seeks, 23 reads,   2MB,  35.9MB/s
+Read       sleep msec:     0
+Decompress sleep msec:     0
+Foreground sleep msec:     2
+Decompress work msec:     0
+Ringbuf: freeWait 0ms/0, dataWait 31ms/22
+Total            msec:   143
+ 0.2 seconds to preload resources
+Start time of bink logo video in ms: 1397
+Loading named resource block: "common"
+WARNING: (Sys_GetCurrentThreadPlaformAffinity) Not supported on windows/xboxes.
+WARNING: (Sys_SetCurrentThreadPlaformAffinity) Not supported on windows/xboxes.
+WARNING: (Sys_SetCurrentThreadPlaformAffinity) Not supported on windows/xboxes.
+Couldn't create FileCacheHeader.bin
+0.0 seconds to read 4305k table header
+Resources skipped by layer tests: 0
+Load 17768 resources using 21578 of 22539 total resource files, 0 streamed
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.044ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.678ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.907ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.401ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.096ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.821ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.246ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.198ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.151ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.939ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.860ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.172ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.590ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.019ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.551ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.307ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.494ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.811ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.532ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.212ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.695ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.367ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.907ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.665ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.877ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.313ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.641ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.225ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.427ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.065ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.230ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.623ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.963ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.473ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.712ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.822ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.684ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.896ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.309ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.049ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.745ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.944ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.169ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.285ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.231ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.176ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.301ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.293ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.799ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.620ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.657ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.078ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.555ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.134ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.657ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.688ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.463ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.274ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.466ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.568ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.847ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.380ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.009ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.921ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.761ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.850ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.363ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.582ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.131ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.866ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.675ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.176ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.378ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.394ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.870ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.241ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.713ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.292ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.252ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.720ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.894ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.129ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.758ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.816ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.188ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.191ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.710ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.177ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.655ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.813ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.216ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.617ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.438ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.511ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.106ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.384ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.044ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.562ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.015ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.938ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.448ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.552ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.598ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.400ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.272ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.078ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.688ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.600ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.151ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.640ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.493ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.841ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.981ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.785ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.313ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.070ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.888ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.046ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.161ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.832ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.807ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.585ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.735ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.356ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.896ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.251ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.814ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.256ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.745ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.764ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.850ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.611ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.266ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.094ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.296ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.663ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.341ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.187ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.959ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.256ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.490ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.186ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.732ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.654ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.370ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.569ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.318ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.551ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.879ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.595ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.447ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.799ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.648ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.397ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.528ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.060ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.287ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.092ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.118ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.310ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.170ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.774ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.070ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.203ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.801ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.006ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.496ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.729ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.100ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.125ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.232ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.232ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.440ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.867ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.100ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.867ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.748ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.804ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.474ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.204ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.204ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.030ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.428ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.367ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.206ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.955ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.681ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.640ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.999ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.933ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.560ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.816ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.826ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.073ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.147ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.676ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.250ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.478ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.766ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.240ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.341ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.034ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.590ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.174ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.549ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.500ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.758ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.593ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.117ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.544ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.627ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.313ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.458ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.684ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.871ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.799ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.524ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.720ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.761ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.642ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.888ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.505ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.166ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.306ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.100ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.389ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.652ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.677ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.589ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.264ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.284ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.914ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.103ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.948ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.450ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.402ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.831ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.288ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.180ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.130ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.950ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.269ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.072ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.972ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.707ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.668ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.278ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.939ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.246ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.631ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.415ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.797ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.241ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.275ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.600ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.428ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.078ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.872ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.705ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.775ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.625ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.832ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.450ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.206ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.130ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.555ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.918ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.674ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.001ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.369ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.309ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.369ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.608ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.359ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.028ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.012ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.973ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.878ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.104ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.324ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.857ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.741ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.157ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.262ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.278ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.604ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.729ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.829ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.085ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.623ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.126ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.586ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.301ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.208ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.873ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.506ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.538ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.311ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.875ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.742ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.832ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.541ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.186ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.779ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.303ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.319ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.409ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.508ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.306ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.822ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.944ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.860ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.597ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.202ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.081ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.412ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.416ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.546ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.393ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.542ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.743ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.798ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.217ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.343ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.803ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.443ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.373ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.329ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.537ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.837ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.590ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.489ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.536ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.466ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.051ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.232ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.386ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.978ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.838ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.713ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.839ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.652ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.858ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.438ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.044ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.560ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.340ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.068ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.352ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.479ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.100ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.092ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.164ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.207ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.028ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.640ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.367ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.428ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.097ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.430ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.119ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.974ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.482ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.343ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.140ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.838ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.368ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.056ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.577ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.072ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.190ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.799ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.099ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.059ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.538ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.809ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.432ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.276ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.811ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.237ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.193ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.020ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.198ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.962ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.273ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.718ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.916ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.924ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.736ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.006ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.085ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.453ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.355ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.243ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.593ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.733ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.089ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.418ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.849ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.714ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.368ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.521ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.186ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.973ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.063ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.395ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.278ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.801ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.795ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.171ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.228ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.488ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.545ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.198ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.085ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.382ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.329ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.273ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.171ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.654ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.182ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.803ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.429ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.674ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.910ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.883ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.645ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.443ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.791ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.456ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.622ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.396ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.985ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.685ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.481ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.721ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.774ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.351ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.081ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.553ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.033ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.873ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.404ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.693ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.028ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.680ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.273ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.004ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.623ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.923ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.347ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.919ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.939ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.996ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.898ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.174ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.643ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.442ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.599ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.885ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.477ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.019ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.256ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.301ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.955ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.810ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.064ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.199ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.630ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.638ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.646ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.931ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.137ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.057ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.448ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.916ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.416ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.579ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.804ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.307ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.532ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.751ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.315ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.104ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.887ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.952ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.652ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.584ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.717ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.361ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.354ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.826ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.726ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.519ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.221ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.132ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.084ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.440ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.226ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.928ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.450ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.314ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.879ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.707ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.392ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.961ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.083ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.857ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.689ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.385ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.128ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.487ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.151ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.224ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.581ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.817ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.619ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.518ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.319ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.920ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.769ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.748ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.561ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.644ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.641ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.375ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.589ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.307ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.536ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.457ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.276ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.449ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.295ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.876ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.388ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.777ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.595ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.432ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.308ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.659ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.776ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.356ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.582ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.023ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.368ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.437ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.643ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.341ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.505ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.447ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.809ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.099ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.673ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.659ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.545ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.757ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.857ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.735ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.039ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.611ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.621ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.073ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.924ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.488ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.166ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.727ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.088ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.981ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.428ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.775ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.774ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.572ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.635ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.433ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.649ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.948ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.600ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.782ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.601ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.582ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.653ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.901ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.223ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.447ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.080ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.922ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.731ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.300ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.088ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.214ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.419ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.492ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.228ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.213ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.937ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.316ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.351ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.883ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.435ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.695ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.109ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.471ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.459ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.295ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.423ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.222ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.417ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.912ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.529ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.214ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.884ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.237ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.531ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.864ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.644ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.697ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.884ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.642ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.375ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.358ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.072ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.397ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.265ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.582ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.118ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.456ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.867ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.503ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.348ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.798ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.094ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.910ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.436ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.211ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.067ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.157ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.447ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.226ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.717ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.278ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.778ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.013ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.283ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.170ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.663ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.774ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.959ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.373ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.123ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.846ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.169ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.565ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.496ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.694ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.461ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.907ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.696ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.933ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.720ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.212ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.392ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.070ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.945ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.307ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.958ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.070ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.858ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.486ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.526ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.360ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.033ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.528ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.530ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.773ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.890ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.598ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.633ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.273ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.550ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.802ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.782ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.462ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.091ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.902ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.414ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.807ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.247ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.488ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.303ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.519ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.378ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.103ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.463ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.897ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.095ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.736ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.453ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.980ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.511ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.174ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.948ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.930ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.087ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.894ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.399ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.976ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.424ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.410ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.553ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.841ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.541ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.679ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.502ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.311ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.361ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.887ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.317ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.951ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.951ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.051ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.886ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.335ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.750ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.251ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.320ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.614ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.522ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.570ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.704ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.417ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.519ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.659ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.099ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.885ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.288ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.157ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.577ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.306ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.304ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.250ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.766ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.480ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.967ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.230ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.517ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.086ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.939ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.499ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.987ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.830ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.023ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.605ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.815ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.658ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.305ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.962ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.548ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.903ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.530ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.309ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.378ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.691ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.488ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.124ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.613ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.132ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.883ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.571ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.638ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.022ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.449ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.726ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.581ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.266ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.175ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.017ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.026ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.465ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.342ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.227ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.744ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.194ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.089ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.556ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.323ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.126ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.404ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.762ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.515ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.362ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.268ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.922ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.125ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.002ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.644ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.998ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.287ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.973ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.436ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.118ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.712ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.079ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.891ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.939ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.707ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.980ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.704ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.277ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.087ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.221ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.893ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.013ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.849ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.472ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.291ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.601ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.555ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.305ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.605ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.950ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.054ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.519ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.021ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.249ms
+Animweb compositing for 'ai/tungsten/composite/rifle' took 2.3570 milliseconds.
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.909ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.188ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.069ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.684ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.055ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.596ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.742ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.378ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.152ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.102ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.408ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.899ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.052ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.337ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.107ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.683ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.164ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.043ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.150ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.255ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.062ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.479ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.434ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.806ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.944ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.935ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.495ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.469ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.916ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.960ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.115ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.227ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.007ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.351ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.587ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.070ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.906ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.737ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.196ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.576ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.592ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.097ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.119ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.127ms
+NOTE: MD6 mesh overload: weapons/hookpipe_left.md6 inherit weapons/hookpipe.md6 and both has a non-base mesh (md6/models/weapons/hookpipe/hookpipe_left.md6mesh, md6/models/weapons/hookpipe/hookpipe.md6mesh)
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.701ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.028ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.320ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.526ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.865ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.325ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.047ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.453ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.353ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.094ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.540ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.981ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.580ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.895ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.204ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.789ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.044ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.495ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.076ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.049ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.337ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.381ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.385ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.322ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.789ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.809ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.847ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.531ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.850ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.559ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.200ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.588ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.814ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.537ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.675ms
+NOTE: MD6 mesh overload: weapons/sawedoff_shotgun.md6 inherit weapons/grandpa_shotgun_fp.md6 and both has a non-base mesh (md6/models/weapons/sawedoff_shotgun/sawedoff_shotgun.md6mesh, md6/models/weapons/grandpa_shotgun/grandpa_shotgun_fp.md6mesh)
+WARNING: idRenderModelGui::Clear: waited for buffers for 18.053ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.796ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.552ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.253ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.930ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.289ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.365ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.703ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.164ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.427ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.229ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.950ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.916ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.024ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.478ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.105ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.923ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.178ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.512ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.411ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.688ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.312ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.924ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.748ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 17.675ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.915ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.987ms
+WARNING: idRenderModelGui::Clear: waited for buffers for 16.761ms
+NOTE: MD6 mesh overload: player/hands/hands_naked.md6 inherit player/hands.md6 and both has a non-base mesh (md6/models/characters/player/player_hands_naked.md6mesh, md6/models/characters/player/player_hands.md6mesh)
+--------- EndBackgroundLoads() ----------
+IO: 1 seeks, 1118 reads,  73MB,  33.1MB/s
+Read       sleep msec:     0
+Decompress sleep msec:     0
+Foreground sleep msec:     3
+Decompress work msec:   103
+Ringbuf: freeWait 29486ms/366, dataWait 474ms/455
+Total            msec: 34067
+34.2 seconds to preload resources
+WARNING: LoadNamedResourceBlock _globalshadowsimage missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _oceanframeatlas0 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _radiositypreview missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _ssrmap missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _frontdiffuse missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _automapfog missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _savedgamethumb missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic0 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic1 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic2 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic3 missing from idResourceManagerLocal::Init2 but referenced
+------- Initializing renderSystem media --------
+WARNING: couldn't read production file for decl 'generated/decls/material/lights/solidwhite.decl' while loading material:lights/solidWhite
+renderSystem initialized.
+--------------------------------------
+idDeclGlobalFlag::LoadAllDecls
+idDeclDifficulty::LoadAllDecls
+WARNING: Sources are different than the amount of difficulties might get unwanted results
+idDeclAiEvent::LoadAllDecls
+ReadTitleStorage: MANUALLY CREATED
+Num args: 0
+EnumerateDownloadableContent: D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\dlc
+OpenDLCFileHandles: 0 packages mounted.
+------------- Warnings ---------------
+during Wolfenstein The Old Blood initialization...
+WARNING: LoadNamedResourceBlock _globalshadowsimage missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _oceanframeatlas0 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _radiositypreview missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _ssrmap missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _frontdiffuse missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _automapfog missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _savedgamethumb missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic0 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic1 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic2 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: LoadNamedResourceBlock _gamerpic3 missing from idResourceManagerLocal::Init2 but referenced
+WARNING: couldn't read production file for decl 'generated/decls/material/lights/solidwhite.decl' while loading material:lights/solidWhite
+WARNING: Sources are different than the amount of difficulties might get unwanted results
+13 warnings
+--------------------------------------
+CreateOpenGLContextForCurrentThread: Assuming pre-checked Graphics Vendor: "NVIDIA Corporation"
+CreateOpenGLContextOnDC: Using gl version 3.2
+created OpenGL 3.2 context
+CreateOpenGLContextForCurrentThread: Actually got context with Vendor: "NVIDIA Corporation"
+idCommonLocal::ResetMapHeap
+renderMode == RENDER_MODE_SYNC
+Final pXAudio2 performanceData: Voices: 0/0 CPU: 0.00% Mem: 82kb
+---------- ResetMapHeap ----------
+Global heap: 196272 blocks 884.70mb data 3642kb overhead
+GlobalMemoryStatus: 0xf1965000 (16153.39MiB) dwTotalPhys
+GlobalMemoryStatus: 0xe311d000 (7729.11MiB) dwAvailPhys
+GlobalMemoryStatus: 0x0e848000 (8424.28MiB) used phys
+GlobalMemoryStatus: 0xbd780000 (39895.50MiB) used virtual
+----- Initializing Sound System ------
+  0: 
+     8 channels, 48000 Hz
+     Front Left, Front Right, Front Center, Low Frequency, Back Left, Back Right, Side Left, and Side Right
+     Default Console Device, Multimedia Device, and Game Device
+  1: Speaker (MSI Sound Tune)
+     2 channels, 48000 Hz
+     Front Left and Front Right
+     Default Communications Device
+  2: System Virtual Line (MSI Sound Tune)
+     2 channels, 48000 Hz
+     Front Left and Front Right
+Using device 0
+sound system initialized.
+--------------------------------------
+idCommonLocal::ResetMapHeap done
+--------- Initializing Game ----------
+mapName: 
+gameFlags: 1
+spawnSpot: 
+spawnSpotOverride: 
+initialMap: 0
+next map checkpoint: 0
+use loading screen: 0
+use video: 1
+transitional: 0
+from chapter browser: 0
+currentCheckpointSlot: -1
+Deactive layers:  --- Active layers: 
+numPlayers: 1
+gamedate: May  7 2015
+game initialized.
+--------------------------------------
+SetRetainedMemoryFiles
+      :  0  mapstart0.dat
+      :  1  checkpoint0.dat
+		FAILED BECAUSE USER IS NULL
+      :  2  mapstart1.dat
+      :  3  checkpoint1.dat
+idScopedResourceLoadBlockHint: AllowStaleChecks, SetForceSingleStaleCheck( true )
+execing default.cfg
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+execing 360_0.cfg
+execing joystick.cfg
+256 pages locked in D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\virtualtextures\_vmtr.pages
+ 0.0 seconds for FinishFeedback()
+PHYSICAL_PAGES_POOL_VMTR
+------------------------
+total  : 1024
+locked :   37
+current:   37
+free   :  987
+  98 % empty hash table entries
+ 100 % pages 0 steps down the hash chain
+   0 % pages 1 step down the hash chain
+   0 % pages 2 steps down the hash chain
+   0 % pages > 2 steps down the hash chain
+------------------------
+ 0.0 seconds to load and lock 256 pages
+----------- LoadMap() ------------
+ShowGameWindow: (0, 0) 2560 x 1440, full screen
+---------- idRenderWorldLocal::SpecificationComplete ----------
+idScopedResourceLoadBlockHint: SetForceSingleStaleCheck( false )
+AllocGame took 0.2840 seconds.
+requiredSizeSavesBytes: 0
+requiredSizeProfileBytes: 0
+requiredSizeBytes: 0
+Purging Overlays
+renderMode == RENDER_MODE_SYNC
+WARNING: vsync turned off because the game is running too fast!
+execing default.cfg
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+execing 360_0.cfg
+execing joystick.cfg
+256 pages locked in D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\virtualtextures\_vmtr.pages
+ 0.0 seconds for FinishFeedback()
+PHYSICAL_PAGES_POOL_VMTR
+------------------------
+total  : 1024
+locked :   37
+current:   37
+free   :  987
+  98 % empty hash table entries
+ 100 % pages 0 steps down the hash chain
+   0 % pages 1 step down the hash chain
+   0 % pages 2 steps down the hash chain
+   0 % pages > 2 steps down the hash chain
+------------------------
+ 0.0 seconds to load and lock 256 pages
+ShowGameWindow: (0, 0) 2560 x 1440, full screen
+----------- Initing Savegame List -----------
+Latest savegame found:
+	 Folder: SLOT1
+	 Map: game/dlc1/dlc1_c01_04/dlc1_c01_04
+	 MapId: 0
+	 Date: 8/19/2025 3:25:14pm
+	 Difficulty: 2 (#str_difficulty_desc2)
+	 Playtime: 0:08:08
+	 Completion: 1
+	 Saveslot: 1
+Latest savegame found:
+	 Folder: SLOT2
+	 Map: 
+	 MapId: 0
+	 Date: 3/1/2025 9:10:04pm
+	 Difficulty: 0 (#str_difficulty_desc0)
+	 Playtime: 0:00:00
+	 Completion: 0
+	 Saveslot: 2
+execing 360_0.cfg
+execing joystick.cfg
+256 pages locked in D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\virtualtextures\_vmtr.pages
+ 0.0 seconds for FinishFeedback()
+PHYSICAL_PAGES_POOL_VMTR
+------------------------
+total  : 1024
+locked :   37
+current:   37
+free   :  987
+  98 % empty hash table entries
+ 100 % pages 0 steps down the hash chain
+   0 % pages 1 step down the hash chain
+   0 % pages 2 steps down the hash chain
+   0 % pages > 2 steps down the hash chain
+------------------------
+ 0.0 seconds to load and lock 256 pages
+ShowGameWindow: (0, 0) 2560 x 1440, full screen
+SetRetainedMemoryFiles
+      :  0  mapstart0.dat
+      :  1  checkpoint0.dat
+      :  2  mapstart1.dat
+      :  3  checkpoint1.dat
+EnumerateDownloadableContent: D:\Games\StemLibrary\steamapps\common\Wolfenstein The Old Blood\dlc
+OpenDLCFileHandles: 0 packages mounted.
+WARNING: vsync turned off because the game is running too fast!
+ShowGameWindow: (0, 0) 2560 x 1440, full screen
+WARNING: vsync turned off because the game is running too fast!
+--------- Game Map Shutdown ----------
+------------ Game Shutdown -----------
+renderMode == RENDER_MODE_SYNC
+--------------------------------------
+Final pXAudio2 performanceData: Voices: 0/0 CPU: 0.00% Mem: 467kb
+idRenderSystem::Shutdown()
+Shutting down OpenGL subsystem

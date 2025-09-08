@@ -1,0 +1,12 @@
+checksum=-1145728829
+completionRation=6%
+date=1694005663
+difficulty=0
+gamePlayTime=10614
+gameVersion=1145896965
+mapName=game/wolf/c04/c04p2
+mapNiceName=#str_chapter_c04_name
+matName=textures/guis/missionobj/c04p2/mission_c4p2_main_obj_01_nuke
+missionName=#str_mission_c04p2_main_01_name
+objectiveDesc=#str_mission_c04p2_main_01_obj_01_nuke_summary
+objectiveName=#str_mission_c04p2_main_01_obj_01_nuke_name

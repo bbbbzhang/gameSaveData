@@ -1,0 +1,2095 @@
+22:33:08:502 (00023584) > [Startup] The Last of Us™ Part II
+22:33:08:502 (00023584) > [Startup] ==============
+22:33:08:502 (00023584) > [Startup] 
+22:33:08:502 (00023584) > [Startup] Build: v1.6.10721.0105
+22:33:08:502 (00023584) > [Startup] Windows 11.0 (build 22631.5840)
+22:33:08:502 (00023584) > [Startup] Distribution platform: Steam
+22:33:08:502 (00023584) > [Startup] Game directory: C:\Users\<username>\Documents\The Last of Us Part II\
+22:33:08:502 (00023584) > [Startup] Working directory: D:\Games\Cracks\The Last of Us Part II
+22:33:08:502 (00023584) > [Startup] Run ID: 9C50-D553-D443-017B
+22:33:08:502 (00023584) > [Startup] 
+22:33:08:502 (00023584) > [Startup] Memory statistics:
+22:33:08:502 (00023584) > [Startup]   Total RAM = 15.8 GB (16153 MB)
+22:33:08:502 (00023584) > [Startup]   Avail RAM = 9.0 GB (9189 MB)
+22:33:08:502 (00023584) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+22:33:08:502 (00023584) > [Startup]   Avail virtual memory = 130554.6 GB (133687936 MB)
+22:33:08:502 (00023584) > [Startup]   Total page file = 26.8 GB (27417 MB)
+22:33:08:502 (00023584) > [Startup]   Avail page file = 4.2 GB (4289 MB)
+22:33:08:502 (00023584) > [Startup] 
+
+22:33:08:625 (00023584) > [Steam] Initializing.
+22:33:08:625 (00023584) > [Steam] Successfully initialized.
+22:33:08:625 (00023584) > [Steam] Currently connected to 0 remote sessions
+22:33:08:625 (00023584) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+22:33:08:625 (00023584) > [Steam] Steam beta branch: unknown
+22:33:08:731 (00023584) > [NxApp] PreInit
+22:33:08:731 (00023584) > [NxProcessorInfo] Processor info:
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Description:             	11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+22:33:08:731 (00023584) > [NxProcessorInfo] 	NumaNode Count:    	0
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Group Count:       	1
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Physical Core:     	8
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Logical  Core:     	16
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Family:            	6
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Model:             	141
+22:33:08:731 (00023584) > [NxProcessorInfo] 	Name:              	11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+22:33:08:731 (00023584) > [NxProcessorInfo] 	AVX:               	1
+22:33:08:731 (00023584) > [NxProcessorInfo] 	F16C:              	1
+22:33:08:731 (00023584) > [NxProcessorInfo] 	AVX2:              	1
+22:33:08:731 (00023584) > [NxProcessorInfo] 	NormalAffinity(auto)
+22:33:08:731 (00023584) > [SwapChain] Initializing...
+22:33:08:731 (00023584) > [DXGI] Initializing...
+22:33:10:054 (00023584) > [NxApp] Streamline was successfully initialized. Version: 2.7.2
+22:33:10:055 (00023584) > [DXGI] Successfully initialized.
+22:33:10:055 (00023584) > [Render] Enumerating adapters:
+22:33:10:055 (00023584) > [Render] 	Adapter 0:
+22:33:10:055 (00023584) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Laptop GPU
+22:33:10:055 (00023584) > [Monitor] 		Vendor                  : nVidia (10de)
+22:33:10:055 (00023584) > [Monitor] 		Device                  : 249d
+22:33:10:055 (00023584) > [Monitor] 		Sub system              : 12fb1462
+22:33:10:055 (00023584) > [Monitor] 		Revision                : 161
+22:33:10:055 (00023584) > [Monitor] 		Dedicated Video Memory  : 8020 MB
+22:33:10:055 (00023584) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:33:10:055 (00023584) > [Monitor] 		Shared System Memory    : 8076 MB
+22:33:10:055 (00023584) > [Monitor] 
+22:33:10:055 (00023584) > [Render] Loading NVAPI...
+22:33:10:056 (00023584) > [Render] Done loading NVAPI
+22:33:10:056 (00023584) > [Render] 	Adapter 1:
+22:33:10:056 (00023584) > [Monitor] 		Description             : Microsoft Basic Render Driver
+22:33:10:056 (00023584) > [Monitor] 		Vendor                  : Unknown (1414)
+22:33:10:056 (00023584) > [Monitor] 		Device                  : 8c
+22:33:10:056 (00023584) > [Monitor] 		Sub system              : 0
+22:33:10:056 (00023584) > [Monitor] 		Revision                : 0
+22:33:10:056 (00023584) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+22:33:10:056 (00023584) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:33:10:056 (00023584) > [Monitor] 		Shared System Memory    : 8076 MB
+22:33:10:056 (00023584) > [Monitor] 
+22:33:10:056 (00023584) > [Render] 	Adapter 2:
+22:33:10:056 (00023584) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Laptop GPU
+22:33:10:056 (00023584) > [Monitor] 		Vendor                  : nVidia (10de)
+22:33:10:056 (00023584) > [Monitor] 		Device                  : 249d
+22:33:10:056 (00023584) > [Monitor] 		Sub system              : 12fb1462
+22:33:10:056 (00023584) > [Monitor] 		Revision                : 161
+22:33:10:056 (00023584) > [Monitor] 		Dedicated Video Memory  : 8020 MB
+22:33:10:056 (00023584) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:33:10:056 (00023584) > [Monitor] 		Shared System Memory    : 8076 MB
+22:33:10:056 (00023584) > [Monitor] 
+22:33:10:056 (00023584) > [Render] Enumerating monitors:
+22:33:10:056 (00023584) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+22:33:10:056 (00023584) > [Render] 
+22:33:10:058 (00023584) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+22:33:10:058 (00023584) > [SwapChain] Successfully initialized.
+22:33:10:058 (00023584) > [Render] Enumerating Display Modes:
+22:33:10:058 (00023584) > [Render] Querying NVAPI for Surround modes
+22:33:10:101 (00023584) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+22:33:10:101 (00023584) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3070 Laptop GPU(1))' (0000000000010001): rect(0 2560 0 1440)
+22:33:10:101 (00023584) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  2 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  3 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  6 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  7 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 10 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 11 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 12 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 13 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 14 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 15 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 16 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 17 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 18 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 19 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 20 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 21 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 22 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 23 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 24 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 25 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 26 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 27 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 28 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 29 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 30 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 31 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 32 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 33 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 34 : 1440 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 35 : 1440 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 36 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 37 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 38 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 39 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 40 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 41 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 42 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 43 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 44 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 45 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 46 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 47 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 48 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 49 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 50 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 51 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 52 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 53 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 54 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 55 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 56 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 57 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 58 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 59 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 60 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] 		- Mode 61 : 2560 x 1440 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:33:10:101 (00023584) > [Render] ***** Additional Monitor Output Info *****
+22:33:10:101 (00023584) > [Render] 		BitsPerColor: 8
+22:33:10:101 (00023584) > [Render] 		Primaries: R=0.6797;0.3203  G=0.2646;0.6904  B=0.1504;0.0596  White-Point=0.3135;0.3291
+22:33:10:101 (00023584) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+22:33:10:101 (00023584) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+22:33:10:101 (00023584) > [Render] ******************************************
+22:33:10:101 (00023584) > [Render] 
+22:33:10:337 (00023584) > [NxReflex] Reflex support result:Result::eOk
+22:33:10:337 (00023584) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+22:33:10:337 (00023584) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+22:33:10:337 (00023584) > [NxApp] Querying GPU Driver Info...
+22:33:10:337 (00023584) > [NxApp] Enumerating available display adapters:
+22:33:10:398 (00023584) > [NxApp] 		NVIDIA GeForce RTX 3070 Laptop GPU (active)
+22:33:10:398 (00023584) > [NxApp] 		Intel(R) UHD Graphics
+22:33:10:398 (00023584) > [NxApp] Successfully found GPU Driver Info
+22:33:10:398 (00023584) > [D3D] Max supported feature level: 11.0
+22:33:10:398 (00023584) > [Render] Disabled D3D12 experimentals
+22:33:10:495 (00023584) > [Render] VMEM Budget: 7252 MB
+22:33:10:495 (00023584) > [Render] VMEM Available: 7245 MB
+22:33:11:323 (00023584) > [Render] GPU node count: 1
+22:33:11:350 (00023584) > [NxFfx] Anti-Lag2 not supported. Error code (-2147024809)
+22:33:11:350 (00023584) > [NxReflex] Reflex support result:Result::eOk
+22:33:11:350 (00023584) > [NxReflex] Reflex GetState result:Result::eOk
+22:33:11:350 (00023584) > [NxApp] PreInit successful.
+22:33:11:350 (00023584) > [NxStorage] Detected device at 'D:/Games/Cracks/The Last of Us Part II/build/pc/main', name 'Predator SSD GM7 M.2 4TB', SSD: Yes, NVMe : Yes
+22:33:11:744 (00023584) > [NxStorage] DirectStorage initialization succeeded
+22:33:11:745 (00023584) > [NxUpscaler] SL DLSS support: Result::eOk
+22:33:11:768 (00023584) > [NxUpscaler] XeSS init, code = 0
+22:33:11:769 (00023584) > [NxReflex] Reflex support result:Result::eOk
+22:33:11:769 (00023584) > [NxReflex] Reflex GetState result:Result::eOk
+22:33:11:769 (00023584) > [NxReflex] DLSSG support result:Result::eErrorFeatureMissing
+22:33:11:769 (00023584) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3070 Laptop GPU
+22:33:11:769 (00023584) > [NxApp] Driver Version: 581.15
+22:33:11:769 (00023584) > [**************************************************Display + Graphics Settings**************************************************] 
+22:33:11:769 (00023584) > [Settings] DirectX Version: 12
+22:33:11:769 (00023584) > [Settings] Window mode: Fullscreen
+22:33:11:769 (00023584) > [Settings] Fullscreen display mode:
+22:33:11:769 (00023584) > [Settings] 	Displaying on monitor: 0
+22:33:11:769 (00023584) > [Settings] 	Resolution: 2560x1440
+22:33:11:769 (00023584) > [Settings] 	Forced Aspect Ratio: Auto
+22:33:11:769 (00023584) > [Settings] 	HDR: Off
+22:33:11:769 (00023584) > [Settings] 	Contrast: 0.500000
+22:33:11:769 (00023584) > [Settings] 	OS reported Refresh rate: 165
+22:33:11:769 (00023584) > [Settings] 	VSync: On
+22:33:11:769 (00023584) > [Settings] 	Reflex: Low Latency
+22:33:11:769 (00023584) > [Settings] 	Anti-Lag2: Off
+22:33:11:769 (00023584) > [Settings] 	Frame generation: None
+22:33:11:769 (00023584) > [Settings] 	Max generated frames: 1
+22:33:11:769 (00023584) > [Settings] 	Dynamic resolution FPS target: 0
+22:33:11:769 (00023584) > [Settings] Anti aliasing: DLAA
+22:33:11:769 (00023584) > [Settings] Upscale method: DLSS
+22:33:11:769 (00023584) > [Settings] Upscale quality: Balanced
+22:33:11:769 (00023584) > [Settings] DLSS preset: CNN
+22:33:11:769 (00023584) > [Settings] Upscale sharpen: 0.010000
+22:33:11:769 (00023584) > [Settings] Graphics Options:
+22:33:11:769 (00023584) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Character Texture Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Environment Texture Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Texture Filtering: Anisotropic16x
+22:33:11:769 (00023584) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:33:11:769 (00023584) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:33:11:769 (00023584) > [Settings] 	Ambient Shadow Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Directional Shadow Resolution: Ultra
+22:33:11:769 (00023584) > [Settings] 	Directional Shadow Distance: Ultra
+22:33:11:769 (00023584) > [Settings] 	Depth of Field: Ultra
+22:33:11:769 (00023584) > [Settings] 	Foreground Level of Detail: Ultra
+22:33:11:769 (00023584) > [Settings] 	Character Level of Detail: Ultra
+22:33:11:769 (00023584) > [Settings] 	Background Level of Detail: Ultra
+22:33:11:769 (00023584) > [Settings] 	Terrain Detail: High
+22:33:11:769 (00023584) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:33:11:769 (00023584) > [Settings] 	Screen space contact shadows: Ultra
+22:33:11:769 (00023584) > [Settings] 	Screen Space Reflections: High
+22:33:11:769 (00023584) > [Settings] 	Screen Space Accuracy: High
+22:33:11:769 (00023584) > [Settings] 	Screen Space Distance: High
+22:33:11:769 (00023584) > [Settings] 	Real-Time Reflections: Ultra
+22:33:11:769 (00023584) > [Settings] 	Refraction Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Screen Space Shadows: Ultra
+22:33:11:769 (00023584) > [Settings] 	Depth of Field Mode: Always On
+22:33:11:769 (00023584) > [Settings] 	Motion Blur Quality: Ultra
+22:33:11:769 (00023584) > [Settings] 	Particle Density: Ultra
+22:33:11:769 (00023584) > [Settings] 	Volumetric Fog: Ultra
+22:33:11:769 (00023584) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:33:11:769 (00023584) > [Settings] 	Bloom: Off
+22:33:11:769 (00023584) > [Settings] 	Vignette: On
+22:33:11:769 (00023584) > [Settings] 	Caustics: On
+22:33:11:769 (00023584) > [Settings] 	Image Based Lighting: On
+22:33:11:769 (00023584) > [Settings] 	Bounced Lighting: On
+22:33:11:769 (00023584) > [Settings] 	Dynamic Screen Space Shadows: On
+22:33:11:769 (00023584) > [Settings] 	RT Cloud reflections: On
+22:33:11:769 (00023584) > [Settings] 	Motion Blur: 1.000000
+22:33:11:769 (00023584) > [Settings] 	Framerate Cap: 360.000000
+22:33:11:769 (00023584) > [Settings] 	FOV Correction: 1.000000
+22:33:11:769 (00023584) > [Settings] 	Camera Shake: 1.000000
+22:33:11:769 (00023584) > [Settings] 	Chromatic Abberation: 1.000000
+22:33:11:769 (00023584) > [Settings] 	Lens Dirt: 1.000000
+22:33:11:769 (00023584) > [Settings] 	Film Grain Strength: 1.000000
+22:33:11:769 (00023584) > [Settings] 	Cinematic Pillarboxes: On
+22:33:11:769 (00023584) > [**************************************************Display + Graphics Settings**************************************************] 
+-[ GPU Adapter Info ]------------------------------------------------
+    Number of Adapters          : 1
+    Number of Supported Adapters: 1
+
+    1. NVIDIA GeForce RTX 3070 Laptop GPU [used]
+            Supported           : Yes
+            Type                : Hardware
+            Max Feature Level   : 12_2 [require 12_0]
+            Vendor ID           : 0x000010de
+            Device ID           : 0x0000249d
+            SubSys ID           : 0x12fb1462
+            Revision            : 0x000000a1
+            Video Memory        : 7.83 GiB (8,020 MiB)
+            System Memory       : 0
+            Shared System Memory: 7.89 GiB (8,076 MiB)
+            Graphics Preemption : pixel
+            Compute Preemption  : dispatch
+            TFlops              : 21.504000
+            Dedicated GPU       : 1
+            Flags               : ACG_COMPATIBLE (0x04)
+                                  SUPPORT_MONITORED_FENCES (0x08)
+                                  KEYED_MUTEX_CONFORMANCE (0x20)
+         -- Features -----------------------------------------------
+          + UAV Additional Formats    - Yes      [required        ]
+          + Raster Order View         - Yes      [not required    ]
+          + PSO Libraries             - Yes      [not required    ]
+          + PSO Driver InProc Cache   - No       [not required    ]
+          + PSO Driver Disk Cache     - No       [not required    ]
+          + Existing Heaps            - Yes      [not required    ]
+          + PS Output Stencil Ref     - No       [not required    ]
+          + More Compute Res States   - Yes      [not required    ]
+          + Logical Blend Ops         - Yes      [not required    ]
+          + Atomic Int 64 Typed Res   - Yes      [required        ]
+          + Atomic Int 64 Group Share - Yes      [not required    ]
+          + Atomic Int 64 Desc Heap   - Yes      [required        ]
+          + Double Shader Ops         - Yes      [not required    ]
+          + Int64 Shader Ops          - Yes      [required        ]
+          + 16 bit Shader Ops         - Yes      [not required    ]
+          + Wave Ops                  - Yes      [required        ]
+          + Resource Binding          - Tier 3   [require Tier 3  ]
+          + Tiled Resources           - Tier 3   [not required    ]
+          + Conservative Raster       - Tier 3   [not required    ]
+          + Resource Heap             - Tier 2   [require Tier 1  ]
+          + View Instancing           - Tier 3   [not required    ]
+          + Raytracing                - Tier 1.1 [not required    ]
+          + Variable Rate Shading     - Tier 2   [not required    ]
+          + Mesh Shaders              - Tier 1   [not required    ]
+          + Sampler Feedback          - Tier 0.9 [not required    ]
+          + Min Float Precision       - 16 bit   [require 32 bit  ]
+          + Max Resource Addressing   - 40 bit   [require 32 bit  ]
+          + Max Process Addressing    - 40 bit   [require 32 bit  ]
+          + Wave Lane Count Min       - 32       [require 0       ]
+          + Wave Lane Count Max       - 32       [require 0       ]
+          + Root Signature Version    - 1_1      [require 1_1     ]
+          + Shader Model              - 6_7      [require 6_6     ]
+---------------------------------------------------------------------
+-[ NVIDIA Driver Info ]----------------------------------------------
+	Version       : 581.15
+	Branch        : r581_07
+---------------------------------------------------------------------
+22:33:11:794 (00023584) > [NxApp] Creating window...
+22:33:11:837 (00021772) > [GameWindow] UpdateState bVisible true
+22:33:11:848 (00021772) > [Input] Keyboard language: "英语(美国)" (id: 1033)
+22:33:11:848 (00021772) > [Input] Keyboard physical layout: "US" (id: 00000409)
+22:33:11:848 (00021772) > [Input] Joystick            ""   product 8246 vendor 4152 version 256 usage 1 usagePage 12 xinput no
+22:33:11:848 (00021772) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+22:33:11:848 (00021772) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+22:33:11:848 (00021772) > [Input] Joystick            ""   product 8246 vendor 4152 version 256 usage 1 usagePage 65472 xinput no
+22:33:11:848 (00021772) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+22:33:11:848 (00021772) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 0 vendor 0 version 0 usage 12 usagePage 1
+22:33:11:848 (00021772) > [Input] Human Input Device  "HID-compliant touch pad"   product 32382 vendor 1739 version 1 usage 5 usagePage 13
+22:33:11:848 (00021772) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 136 usagePage 65468 xinput no
+22:33:11:848 (00021772) > [Input] Joystick            ""   product 4386 vendor 4152 version 576 usage 1 usagePage 12 xinput no
+22:33:11:849 (00021772) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 1 usagePage 12 xinput no
+22:33:11:849 (00021772) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 4 usagePage 65280 xinput no
+22:33:11:849 (00021772) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 2 usagePage 65280 xinput no
+22:33:11:849 (00021772) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 1 usagePage 65280 xinput no
+22:33:11:849 (00021772) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 32382 vendor 1739 version 1 usage 1 usagePage 65280
+22:33:11:849 (00021772) > [Input] Joystick            ""   product 4386 vendor 4152 version 576 usage 1 usagePage 65472 xinput no
+22:33:11:849 (00021772) > [Input] Mouse               "HID-compliant mouse"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+22:33:11:849 (00021772) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
+22:33:11:849 (00021772) > [Input] Mouse               "Feizhi Pointing Device"   id 128 buttons 5 sampleRate 1000 horizontalWheel no
+22:33:11:849 (00021772) > [Input] Mouse               "PS/2 Compatible Mouse"   id 2 buttons 2 sampleRate 100 horizontalWheel no
+22:33:11:849 (00021772) > [Input] Keyboard            "Feizhi Virtual Keyboard"   type 2 subType 0 mode 2 function 0 indicators 0 total 101
+22:33:11:849 (00021772) > [Input] Keyboard            "SteelSeries PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+22:33:11:849 (00021772) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 173
+22:33:11:856 (00021772) > [Input] Trying to load libScePad from C:\ProgramData\Sony Interactive Entertainment Inc\PSPC_SDK\S22\4.50.00.09\libScePad.dll
+22:33:11:890 (00021772) > [Input] Using LibScePad
+22:33:11:891 (00021772) > [XInput] Enumerating available xusb hid devices:
+
+22:33:11:892 (00021772) > [Xinput] Found device: {4D36E972-E325-11CE-BFC1-08002BE10318}(USB\VID_045E&PID_02FE&REV_0100),Xbox Wireless Adapter for Windows 
+	USB\VID_045E&PID_02FE\363479
+
+22:33:11:895 (00023584) > [NxApp] Window created.
+22:33:11:895 (00023584) > [NxApp] Initializing swapchain...
+22:33:11:895 (00022932) > [SwapChain] Creating...
+22:33:11:895 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:33:11:895 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:33:11:901 (00022932) > [DXGI] Created swapchain.
+22:33:11:930 (00022932) > [SwapChain] Gamma correction is enabled.
+22:33:11:930 (00022932) > [SwapChain] Successfully created.
+22:33:11:930 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:33:11:930 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:33:11:930 (00023584) > [NxApp] Swapchain initialized
+22:33:11:930 (00023584) > [NxApp] Initializing renderer...
+22:33:11:930 (00023584) > [NxApp] Renderer initialized
+22:33:11:930 (00023584) > [SteamController] "ingame" is not a valid action set!
+22:33:11:930 (00023584) > [SteamController] "menu" is not a valid action set!
+22:33:12:552 (00023584) > [Render] Pipeline cache default.pso read succesfully, added 103684 pipelines. Found 0 duplicates.
+22:33:12:567 (00023584) > [Render] Pipeline cache C:\Users\<username>\AppData\Roaming\Naughty Dog\The Last of Us Part II\user.pso read succesfully, added 64 pipelines. Found 216 duplicates.
+22:33:18:904 (00012276) > [Steam] Stats received: 2
+22:33:26:771 (00010636) > [Input] new Windows.Gaming.Input raw-controller found 45e 2ea {wgi/nrid/cb[aI-f>LE6@90-fG@O_C-PYhG=N4M-Wg=XD} Xbox One Game Controller
+
+22:33:47:074 (00012276) > [Input] Windows.Gaming.Input controller connected. index: 0
+22:33:47:074 (00012276) > [Input] XInput controller connected. index: 0
+22:33:47:075 (00012276) > [Input] Gamepad for main player: 8
+22:33:47:075 (00012276) > [Input] Gamepads connected: 0 -> 2
+22:33:47:075 (00012276) > [Input] Gamepad for main player: 0
+22:33:47:083 (00005668) > [Input] XInput disabled, disconnecting controller. index: 0
+22:33:47:083 (00005668) > [Input] Gamepads connected: 2 -> 1
+22:33:47:083 (00005668) > [Input] Gamepad for main player: 0
+22:34:08:499 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:34:08:500 (00012504) > [Render] Working set: 4070MB Page file: 18212MB Video Budget: 7252MB Video Usage: 4997MB Sys Budget: 7416MB Sys Usage: 1701MB Demoted: 0MB fps: 96.9
+22:34:17:214 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:34:17:214 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:34:17:214 (00025120) > [NxReflex] Reflex support result:Result::eOk
+22:34:17:214 (00025120) > [NxReflex] Reflex GetState result:Result::eOk
+22:34:17:214 (00025120) > [NxReflex] DLSSG support result:Result::eErrorFeatureMissing
+22:34:17:214 (00025120) > [Settings] New display settings are:
+22:34:17:214 (00025120) > [**************************************************Display + Graphics Settings**************************************************] 
+22:34:17:214 (00025120) > [Settings] DirectX Version: 12
+22:34:17:214 (00025120) > [Settings] Window mode: Fullscreen
+22:34:17:214 (00025120) > [Settings] Fullscreen display mode:
+22:34:17:214 (00025120) > [Settings] 	Displaying on monitor: 0
+22:34:17:214 (00025120) > [Settings] 	Resolution: 2560x1440
+22:34:17:214 (00025120) > [Settings] 	Forced Aspect Ratio: Auto
+22:34:17:214 (00025120) > [Settings] 	HDR: Off
+22:34:17:214 (00025120) > [Settings] 	Contrast: 0.500000
+22:34:17:214 (00025120) > [Settings] 	OS reported Refresh rate: 165
+22:34:17:214 (00025120) > [Settings] 	VSync: On
+22:34:17:214 (00025120) > [Settings] 	Reflex: Low Latency
+22:34:17:214 (00025120) > [Settings] 	Anti-Lag2: Off
+22:34:17:214 (00025120) > [Settings] 	Frame generation: None
+22:34:17:214 (00025120) > [Settings] 	Max generated frames: 1
+22:34:17:214 (00025120) > [Settings] 	Dynamic resolution FPS target: 0
+22:34:17:214 (00025120) > [Settings] Anti aliasing: DLAA
+22:34:17:214 (00025120) > [Settings] Upscale method: DLSS
+22:34:17:214 (00025120) > [Settings] Upscale quality: Balanced
+22:34:17:214 (00025120) > [Settings] DLSS preset: CNN
+22:34:17:214 (00025120) > [Settings] Upscale sharpen: 0.010000
+22:34:17:214 (00025120) > [Settings] Graphics Options:
+22:34:17:214 (00025120) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Character Texture Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Environment Texture Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Texture Filtering: Anisotropic16x
+22:34:17:214 (00025120) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:34:17:214 (00025120) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:34:17:214 (00025120) > [Settings] 	Ambient Shadow Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Directional Shadow Resolution: Ultra
+22:34:17:214 (00025120) > [Settings] 	Directional Shadow Distance: Ultra
+22:34:17:214 (00025120) > [Settings] 	Depth of Field: Ultra
+22:34:17:214 (00025120) > [Settings] 	Foreground Level of Detail: Ultra
+22:34:17:214 (00025120) > [Settings] 	Character Level of Detail: Ultra
+22:34:17:214 (00025120) > [Settings] 	Background Level of Detail: Ultra
+22:34:17:214 (00025120) > [Settings] 	Terrain Detail: High
+22:34:17:214 (00025120) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:34:17:214 (00025120) > [Settings] 	Screen space contact shadows: Ultra
+22:34:17:214 (00025120) > [Settings] 	Screen Space Reflections: High
+22:34:17:214 (00025120) > [Settings] 	Screen Space Accuracy: High
+22:34:17:214 (00025120) > [Settings] 	Screen Space Distance: High
+22:34:17:214 (00025120) > [Settings] 	Real-Time Reflections: Ultra
+22:34:17:214 (00025120) > [Settings] 	Refraction Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Screen Space Shadows: Ultra
+22:34:17:214 (00025120) > [Settings] 	Depth of Field Mode: Always On
+22:34:17:214 (00025120) > [Settings] 	Motion Blur Quality: Ultra
+22:34:17:214 (00025120) > [Settings] 	Particle Density: Ultra
+22:34:17:214 (00025120) > [Settings] 	Volumetric Fog: Ultra
+22:34:17:214 (00025120) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:34:17:214 (00025120) > [Settings] 	Bloom: On
+22:34:17:214 (00025120) > [Settings] 	Vignette: On
+22:34:17:214 (00025120) > [Settings] 	Caustics: On
+22:34:17:214 (00025120) > [Settings] 	Image Based Lighting: On
+22:34:17:214 (00025120) > [Settings] 	Bounced Lighting: On
+22:34:17:214 (00025120) > [Settings] 	Dynamic Screen Space Shadows: On
+22:34:17:214 (00025120) > [Settings] 	RT Cloud reflections: On
+22:34:17:214 (00025120) > [Settings] 	Motion Blur: 1.000000
+22:34:17:214 (00025120) > [Settings] 	Framerate Cap: 360.000000
+22:34:17:214 (00025120) > [Settings] 	FOV Correction: 1.000000
+22:34:17:214 (00025120) > [Settings] 	Camera Shake: 1.000000
+22:34:17:214 (00025120) > [Settings] 	Chromatic Abberation: 1.000000
+22:34:17:214 (00025120) > [Settings] 	Lens Dirt: 1.000000
+22:34:17:214 (00025120) > [Settings] 	Film Grain Strength: 1.000000
+22:34:17:214 (00025120) > [Settings] 	Cinematic Pillarboxes: On
+22:34:17:214 (00025120) > [**************************************************Display + Graphics Settings**************************************************] 
+22:34:17:214 (00025120) > [Settings] End of settings.
+22:34:17:214 (00025120) > [NxApp (Render Thread)] Finished enforcing display settings
+22:34:17:215 (00025120) > [NxApp] Finished enforcing display settings
+22:35:08:501 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:35:08:501 (00012504) > [Render] Working set: 4236MB Page file: 18266MB Video Budget: 7252MB Video Usage: 5003MB Sys Budget: 7416MB Sys Usage: 1714MB Demoted: 0MB fps: 106.5
+22:35:27:879 (00025308) > [NxReflex] Reflex support result:Result::eOk
+22:35:27:880 (00025308) > [NxReflex] Reflex GetState result:Result::eOk
+22:35:27:880 (00025308) > [NxReflex] DLSSG support result:Result::eErrorFeatureMissing
+22:35:27:881 (00025196) > [Save] Unable to open game icon file to read for save SAVEFILE5A: 2
+22:36:08:500 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:36:08:505 (00012504) > [Render] Working set: 6123MB Page file: 20519MB Video Budget: 7120MB Video Usage: 6799MB Sys Budget: 7416MB Sys Usage: 1787MB Demoted: 72MB fps: 148.9
+22:36:50:206 (00017900) > [NxReflex] Reflex support result:Result::eOk
+22:36:50:206 (00017900) > [NxReflex] Reflex GetState result:Result::eOk
+22:36:50:206 (00017900) > [NxReflex] DLSSG support result:Result::eErrorFeatureMissing
+22:37:08:498 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:37:08:498 (00012504) > [Render] Working set: 6960MB Page file: 21229MB Video Budget: 7120MB Video Usage: 6809MB Sys Budget: 7416MB Sys Usage: 2105MB Demoted: 365MB fps: 139.1
+22:38:08:504 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:38:08:504 (00012504) > [Render] Working set: 6736MB Page file: 21275MB Video Budget: 7120MB Video Usage: 6833MB Sys Budget: 7416MB Sys Usage: 2107MB Demoted: 365MB fps: 82.9
+22:38:19:974 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:19:974 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:293 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:293 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:324 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:324 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:342 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:342 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:362 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:363 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:381 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:381 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:400 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:400 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:420 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:420 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:439 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:439 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:459 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:459 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:479 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:479 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:499 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:499 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:519 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:519 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:540 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:540 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:560 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:560 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:579 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:579 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:600 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:600 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:620 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:620 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:640 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:640 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:659 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:659 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:680 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:680 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:700 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:700 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:718 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:718 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:739 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:739 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:758 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:758 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:778 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:778 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:797 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:797 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:819 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:819 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:838 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:838 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:857 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:858 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:878 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:878 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:897 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:897 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:916 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:916 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:936 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:936 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:955 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:955 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:975 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:975 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:20:994 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:20:994 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:013 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:013 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:032 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:032 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:052 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:052 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:072 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:073 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:092 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:092 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:112 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:112 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:131 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:131 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:151 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:151 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:173 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:173 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:191 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:191 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:212 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:212 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:233 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:233 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:253 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:254 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:275 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:275 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:295 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:295 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:316 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:316 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:336 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:337 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:357 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:358 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:378 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:378 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:398 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:398 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:419 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:419 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:439 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:439 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:459 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:459 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:479 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:479 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:499 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:499 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:519 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:519 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:538 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:538 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:558 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:558 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:577 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:578 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:597 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:597 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:616 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:616 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:636 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:636 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:655 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:655 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:675 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:675 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:693 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:693 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:712 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:712 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:732 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:732 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:752 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:752 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:771 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:771 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:791 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:791 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:812 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:812 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:833 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:833 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:853 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:853 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:873 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:873 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:893 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:893 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:913 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:913 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:934 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:934 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:953 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:953 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:974 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:974 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:21:994 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:21:994 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:22:015 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:22:015 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:22:035 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:22:035 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:22:056 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:22:056 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:23:197 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:23:197 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:24:321 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:24:321 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:058 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:058 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:276 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:276 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:563 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:563 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:862 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:862 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:894 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:894 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:915 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:915 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:935 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:935 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:956 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:956 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:973 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:973 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:25:993 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:25:993 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:013 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:013 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:032 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:032 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:051 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:051 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:070 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:071 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:091 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:091 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:112 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:112 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:132 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:132 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:493 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:493 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:692 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:692 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:26:915 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:26:915 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:27:292 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:27:292 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:27:483 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:27:483 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:27:685 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:27:685 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:35:125 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:38:35:125 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 1485x835 | min = 1280x720 | max =  2560x1440
+22:38:35:125 (00022932) > [NxReflex] Reflex support result:Result::eOk
+22:38:35:125 (00022932) > [NxReflex] Reflex GetState result:Result::eOk
+22:38:35:129 (00022932) > [NxReflex] DLSSG support result:Result::eErrorFeatureMissing
+22:38:35:129 (00002288) > [NxReflex] Reflex support result:Result::eOk
+22:38:35:129 (00002288) > [NxReflex] Reflex GetState result:Result::eOk
+22:38:35:129 (00002288) > [NxReflex] DLSSG support result:Result::eErrorFeatureMissing
+22:38:35:129 (00002288) > [Settings] New display settings are:
+22:38:35:129 (00002288) > [**************************************************Display + Graphics Settings**************************************************] 
+22:38:35:129 (00002288) > [Settings] DirectX Version: 12
+22:38:35:129 (00002288) > [Settings] Window mode: Fullscreen
+22:38:35:129 (00002288) > [Settings] Fullscreen display mode:
+22:38:35:130 (00002288) > [Settings] 	Displaying on monitor: 0
+22:38:35:130 (00002288) > [Settings] 	Resolution: 2560x1440
+22:38:35:130 (00002288) > [Settings] 	Forced Aspect Ratio: Auto
+22:38:35:130 (00002288) > [Settings] 	HDR: Off
+22:38:35:130 (00002288) > [Settings] 	Contrast: 0.500000
+22:38:35:130 (00002288) > [Settings] 	OS reported Refresh rate: 165
+22:38:35:130 (00002288) > [Settings] 	VSync: On
+22:38:35:130 (00002288) > [Settings] 	Reflex: Low Latency with Boost
+22:38:35:130 (00002288) > [Settings] 	Anti-Lag2: Off
+22:38:35:130 (00002288) > [Settings] 	Frame generation: None
+22:38:35:130 (00002288) > [Settings] 	Max generated frames: 1
+22:38:35:130 (00002288) > [Settings] 	Dynamic resolution FPS target: 0
+22:38:35:130 (00002288) > [Settings] Anti aliasing: DLAA
+22:38:35:130 (00002288) > [Settings] Upscale method: DLSS
+22:38:35:130 (00002288) > [Settings] Upscale quality: Balanced
+22:38:35:130 (00002288) > [Settings] DLSS preset: CNN
+22:38:35:130 (00002288) > [Settings] Upscale sharpen: 0.010000
+22:38:35:130 (00002288) > [Settings] Graphics Options:
+22:38:35:130 (00002288) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Character Texture Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Environment Texture Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Texture Filtering: Anisotropic16x
+22:38:35:130 (00002288) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:38:35:130 (00002288) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:38:35:130 (00002288) > [Settings] 	Ambient Shadow Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Directional Shadow Resolution: Ultra
+22:38:35:130 (00002288) > [Settings] 	Directional Shadow Distance: Ultra
+22:38:35:130 (00002288) > [Settings] 	Depth of Field: Ultra
+22:38:35:130 (00002288) > [Settings] 	Foreground Level of Detail: Ultra
+22:38:35:130 (00002288) > [Settings] 	Character Level of Detail: Ultra
+22:38:35:130 (00002288) > [Settings] 	Background Level of Detail: Ultra
+22:38:35:130 (00002288) > [Settings] 	Terrain Detail: High
+22:38:35:130 (00002288) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:38:35:130 (00002288) > [Settings] 	Screen space contact shadows: Ultra
+22:38:35:130 (00002288) > [Settings] 	Screen Space Reflections: High
+22:38:35:130 (00002288) > [Settings] 	Screen Space Accuracy: High
+22:38:35:130 (00002288) > [Settings] 	Screen Space Distance: High
+22:38:35:130 (00002288) > [Settings] 	Real-Time Reflections: Ultra
+22:38:35:130 (00002288) > [Settings] 	Refraction Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Screen Space Shadows: Ultra
+22:38:35:130 (00002288) > [Settings] 	Depth of Field Mode: Always On
+22:38:35:130 (00002288) > [Settings] 	Motion Blur Quality: Ultra
+22:38:35:130 (00002288) > [Settings] 	Particle Density: Ultra
+22:38:35:130 (00002288) > [Settings] 	Volumetric Fog: Ultra
+22:38:35:130 (00002288) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:38:35:130 (00002288) > [Settings] 	Bloom: On
+22:38:35:130 (00002288) > [Settings] 	Vignette: On
+22:38:35:130 (00002288) > [Settings] 	Caustics: On
+22:38:35:130 (00002288) > [Settings] 	Image Based Lighting: On
+22:38:35:130 (00002288) > [Settings] 	Bounced Lighting: On
+22:38:35:130 (00002288) > [Settings] 	Dynamic Screen Space Shadows: On
+22:38:35:130 (00002288) > [Settings] 	RT Cloud reflections: On
+22:38:35:130 (00002288) > [Settings] 	Motion Blur: 1.000000
+22:38:35:130 (00002288) > [Settings] 	Framerate Cap: 165.000000
+22:38:35:130 (00002288) > [Settings] 	FOV Correction: 1.000000
+22:38:35:130 (00002288) > [Settings] 	Camera Shake: 1.000000
+22:38:35:130 (00002288) > [Settings] 	Chromatic Abberation: 1.000000
+22:38:35:130 (00002288) > [Settings] 	Lens Dirt: 1.000000
+22:38:35:130 (00002288) > [Settings] 	Film Grain Strength: 1.000000
+22:38:35:130 (00002288) > [Settings] 	Cinematic Pillarboxes: On
+22:38:35:130 (00002288) > [**************************************************Display + Graphics Settings**************************************************] 
+22:38:35:130 (00002288) > [Settings] End of settings.
+22:38:35:130 (00002288) > [NxApp (Render Thread)] Finished enforcing display settings
+22:38:35:131 (00002288) > [NxApp] Finished enforcing display settings
+22:39:01:547 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:01:547 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:01:631 (00022932) > [DXGI] Resized swapchain.
+22:39:01:635 (00025120) > [Settings] New display settings are:
+22:39:01:635 (00025120) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:01:635 (00025120) > [Settings] DirectX Version: 12
+22:39:01:635 (00025120) > [Settings] Window mode: Fullscreen
+22:39:01:635 (00025120) > [Settings] Fullscreen display mode:
+22:39:01:635 (00025120) > [Settings] 	Displaying on monitor: 0
+22:39:01:635 (00025120) > [Settings] 	Resolution: 2560x1440
+22:39:01:635 (00025120) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:01:635 (00025120) > [Settings] 	HDR: Off
+22:39:01:635 (00025120) > [Settings] 	Contrast: 0.500000
+22:39:01:635 (00025120) > [Settings] 	OS reported Refresh rate: 165
+22:39:01:635 (00025120) > [Settings] 	VSync: On
+22:39:01:635 (00025120) > [Settings] 	Reflex: Low Latency with Boost
+22:39:01:635 (00025120) > [Settings] 	Anti-Lag2: Off
+22:39:01:635 (00025120) > [Settings] 	Frame generation: None
+22:39:01:635 (00025120) > [Settings] 	Max generated frames: 1
+22:39:01:635 (00025120) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:01:635 (00025120) > [Settings] Anti aliasing: DLAA
+22:39:01:635 (00025120) > [Settings] Upscale method: None
+22:39:01:635 (00025120) > [Settings] Upscale quality: Balanced
+22:39:01:635 (00025120) > [Settings] DLSS preset: CNN
+22:39:01:635 (00025120) > [Settings] Upscale sharpen: 0.010000
+22:39:01:635 (00025120) > [Settings] Graphics Options:
+22:39:01:635 (00025120) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Character Texture Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Environment Texture Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:01:635 (00025120) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:01:635 (00025120) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:01:635 (00025120) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:01:635 (00025120) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:01:635 (00025120) > [Settings] 	Depth of Field: Ultra
+22:39:01:635 (00025120) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:01:635 (00025120) > [Settings] 	Character Level of Detail: Ultra
+22:39:01:635 (00025120) > [Settings] 	Background Level of Detail: Ultra
+22:39:01:635 (00025120) > [Settings] 	Terrain Detail: High
+22:39:01:635 (00025120) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:01:635 (00025120) > [Settings] 	Screen space contact shadows: Ultra
+22:39:01:635 (00025120) > [Settings] 	Screen Space Reflections: High
+22:39:01:635 (00025120) > [Settings] 	Screen Space Accuracy: High
+22:39:01:635 (00025120) > [Settings] 	Screen Space Distance: High
+22:39:01:635 (00025120) > [Settings] 	Real-Time Reflections: Ultra
+22:39:01:635 (00025120) > [Settings] 	Refraction Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Screen Space Shadows: Ultra
+22:39:01:635 (00025120) > [Settings] 	Depth of Field Mode: Always On
+22:39:01:635 (00025120) > [Settings] 	Motion Blur Quality: Ultra
+22:39:01:635 (00025120) > [Settings] 	Particle Density: Ultra
+22:39:01:635 (00025120) > [Settings] 	Volumetric Fog: Ultra
+22:39:01:635 (00025120) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:01:635 (00025120) > [Settings] 	Bloom: On
+22:39:01:635 (00025120) > [Settings] 	Vignette: On
+22:39:01:635 (00025120) > [Settings] 	Caustics: On
+22:39:01:635 (00025120) > [Settings] 	Image Based Lighting: On
+22:39:01:635 (00025120) > [Settings] 	Bounced Lighting: On
+22:39:01:635 (00025120) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:01:635 (00025120) > [Settings] 	RT Cloud reflections: On
+22:39:01:635 (00025120) > [Settings] 	Motion Blur: 1.000000
+22:39:01:635 (00025120) > [Settings] 	Framerate Cap: 165.000000
+22:39:01:635 (00025120) > [Settings] 	FOV Correction: 1.000000
+22:39:01:635 (00025120) > [Settings] 	Camera Shake: 1.000000
+22:39:01:635 (00025120) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:01:635 (00025120) > [Settings] 	Lens Dirt: 1.000000
+22:39:01:635 (00025120) > [Settings] 	Film Grain Strength: 1.000000
+22:39:01:635 (00025120) > [Settings] 	Cinematic Pillarboxes: On
+22:39:01:635 (00025120) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:01:635 (00025120) > [Settings] End of settings.
+22:39:01:635 (00025120) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:01:637 (00025120) > [NxApp] Finished enforcing display settings
+22:39:01:845 (00005668) > [NxUpscaler] DLSS out of VRAM warning
+22:39:01:993 (00005668) > [NxUpscaler] DLSS out of VRAM warning
+22:39:08:514 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:39:08:514 (00012504) > [Render] Working set: 7361MB Page file: 21659MB Video Budget: 7146MB Video Usage: 6895MB Sys Budget: 7416MB Sys Usage: 2102MB Demoted: 357MB fps: 49.3
+22:39:11:770 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:11:770 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:11:804 (00022932) > [DXGI] Resized swapchain.
+22:39:11:810 (00002288) > [Settings] New display settings are:
+22:39:11:810 (00002288) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:11:810 (00002288) > [Settings] DirectX Version: 12
+22:39:11:810 (00002288) > [Settings] Window mode: Fullscreen
+22:39:11:810 (00002288) > [Settings] Fullscreen display mode:
+22:39:11:810 (00002288) > [Settings] 	Displaying on monitor: 0
+22:39:11:810 (00002288) > [Settings] 	Resolution: 2560x1440
+22:39:11:810 (00002288) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:11:810 (00002288) > [Settings] 	HDR: Off
+22:39:11:810 (00002288) > [Settings] 	Contrast: 0.500000
+22:39:11:810 (00002288) > [Settings] 	OS reported Refresh rate: 165
+22:39:11:810 (00002288) > [Settings] 	VSync: On
+22:39:11:810 (00002288) > [Settings] 	Reflex: Low Latency with Boost
+22:39:11:810 (00002288) > [Settings] 	Anti-Lag2: Off
+22:39:11:810 (00002288) > [Settings] 	Frame generation: None
+22:39:11:810 (00002288) > [Settings] 	Max generated frames: 1
+22:39:11:810 (00002288) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:11:810 (00002288) > [Settings] Anti aliasing: TAA
+22:39:11:810 (00002288) > [Settings] Upscale method: None
+22:39:11:810 (00002288) > [Settings] Upscale quality: Balanced
+22:39:11:810 (00002288) > [Settings] DLSS preset: CNN
+22:39:11:810 (00002288) > [Settings] Upscale sharpen: 0.010000
+22:39:11:810 (00002288) > [Settings] Graphics Options:
+22:39:11:810 (00002288) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Character Texture Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Environment Texture Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:11:810 (00002288) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:11:810 (00002288) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:11:810 (00002288) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:11:810 (00002288) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:11:810 (00002288) > [Settings] 	Depth of Field: Ultra
+22:39:11:810 (00002288) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:11:810 (00002288) > [Settings] 	Character Level of Detail: Ultra
+22:39:11:810 (00002288) > [Settings] 	Background Level of Detail: Ultra
+22:39:11:810 (00002288) > [Settings] 	Terrain Detail: High
+22:39:11:810 (00002288) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:11:810 (00002288) > [Settings] 	Screen space contact shadows: Ultra
+22:39:11:810 (00002288) > [Settings] 	Screen Space Reflections: High
+22:39:11:810 (00002288) > [Settings] 	Screen Space Accuracy: High
+22:39:11:810 (00002288) > [Settings] 	Screen Space Distance: High
+22:39:11:810 (00002288) > [Settings] 	Real-Time Reflections: Ultra
+22:39:11:810 (00002288) > [Settings] 	Refraction Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Screen Space Shadows: Ultra
+22:39:11:810 (00002288) > [Settings] 	Depth of Field Mode: Always On
+22:39:11:810 (00002288) > [Settings] 	Motion Blur Quality: Ultra
+22:39:11:810 (00002288) > [Settings] 	Particle Density: Ultra
+22:39:11:810 (00002288) > [Settings] 	Volumetric Fog: Ultra
+22:39:11:810 (00002288) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:11:810 (00002288) > [Settings] 	Bloom: On
+22:39:11:810 (00002288) > [Settings] 	Vignette: On
+22:39:11:810 (00002288) > [Settings] 	Caustics: On
+22:39:11:810 (00002288) > [Settings] 	Image Based Lighting: On
+22:39:11:810 (00002288) > [Settings] 	Bounced Lighting: On
+22:39:11:810 (00002288) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:11:810 (00002288) > [Settings] 	RT Cloud reflections: On
+22:39:11:810 (00002288) > [Settings] 	Motion Blur: 1.000000
+22:39:11:810 (00002288) > [Settings] 	Framerate Cap: 165.000000
+22:39:11:810 (00002288) > [Settings] 	FOV Correction: 1.000000
+22:39:11:810 (00002288) > [Settings] 	Camera Shake: 1.000000
+22:39:11:810 (00002288) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:11:810 (00002288) > [Settings] 	Lens Dirt: 1.000000
+22:39:11:810 (00002288) > [Settings] 	Film Grain Strength: 1.000000
+22:39:11:810 (00002288) > [Settings] 	Cinematic Pillarboxes: On
+22:39:11:810 (00002288) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:11:810 (00002288) > [Settings] End of settings.
+22:39:11:810 (00002288) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:11:811 (00002288) > [NxApp] Finished enforcing display settings
+22:39:12:543 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:12:543 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:12:543 (00025308) > [Settings] New display settings are:
+22:39:12:543 (00025308) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:12:543 (00025308) > [Settings] DirectX Version: 12
+22:39:12:543 (00025308) > [Settings] Window mode: Fullscreen
+22:39:12:543 (00025308) > [Settings] Fullscreen display mode:
+22:39:12:543 (00025308) > [Settings] 	Displaying on monitor: 0
+22:39:12:543 (00025308) > [Settings] 	Resolution: 2560x1440
+22:39:12:543 (00025308) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:12:543 (00025308) > [Settings] 	HDR: Off
+22:39:12:543 (00025308) > [Settings] 	Contrast: 0.500000
+22:39:12:543 (00025308) > [Settings] 	OS reported Refresh rate: 165
+22:39:12:543 (00025308) > [Settings] 	VSync: On
+22:39:12:543 (00025308) > [Settings] 	Reflex: Low Latency with Boost
+22:39:12:543 (00025308) > [Settings] 	Anti-Lag2: Off
+22:39:12:543 (00025308) > [Settings] 	Frame generation: None
+22:39:12:543 (00025308) > [Settings] 	Max generated frames: 1
+22:39:12:543 (00025308) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:12:543 (00025308) > [Settings] Anti aliasing: SMAA
+22:39:12:543 (00025308) > [Settings] Upscale method: None
+22:39:12:543 (00025308) > [Settings] Upscale quality: Balanced
+22:39:12:543 (00025308) > [Settings] DLSS preset: CNN
+22:39:12:543 (00025308) > [Settings] Upscale sharpen: 0.010000
+22:39:12:543 (00025308) > [Settings] Graphics Options:
+22:39:12:543 (00025308) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Character Texture Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Environment Texture Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:12:543 (00025308) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:12:543 (00025308) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:12:543 (00025308) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:12:543 (00025308) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:12:543 (00025308) > [Settings] 	Depth of Field: Ultra
+22:39:12:543 (00025308) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:12:543 (00025308) > [Settings] 	Character Level of Detail: Ultra
+22:39:12:543 (00025308) > [Settings] 	Background Level of Detail: Ultra
+22:39:12:543 (00025308) > [Settings] 	Terrain Detail: High
+22:39:12:543 (00025308) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:12:543 (00025308) > [Settings] 	Screen space contact shadows: Ultra
+22:39:12:543 (00025308) > [Settings] 	Screen Space Reflections: High
+22:39:12:543 (00025308) > [Settings] 	Screen Space Accuracy: High
+22:39:12:543 (00025308) > [Settings] 	Screen Space Distance: High
+22:39:12:543 (00025308) > [Settings] 	Real-Time Reflections: Ultra
+22:39:12:543 (00025308) > [Settings] 	Refraction Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Screen Space Shadows: Ultra
+22:39:12:543 (00025308) > [Settings] 	Depth of Field Mode: Always On
+22:39:12:543 (00025308) > [Settings] 	Motion Blur Quality: Ultra
+22:39:12:543 (00025308) > [Settings] 	Particle Density: Ultra
+22:39:12:543 (00025308) > [Settings] 	Volumetric Fog: Ultra
+22:39:12:543 (00025308) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:12:543 (00025308) > [Settings] 	Bloom: On
+22:39:12:543 (00025308) > [Settings] 	Vignette: On
+22:39:12:543 (00025308) > [Settings] 	Caustics: On
+22:39:12:543 (00025308) > [Settings] 	Image Based Lighting: On
+22:39:12:543 (00025308) > [Settings] 	Bounced Lighting: On
+22:39:12:543 (00025308) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:12:543 (00025308) > [Settings] 	RT Cloud reflections: On
+22:39:12:543 (00025308) > [Settings] 	Motion Blur: 1.000000
+22:39:12:543 (00025308) > [Settings] 	Framerate Cap: 165.000000
+22:39:12:543 (00025308) > [Settings] 	FOV Correction: 1.000000
+22:39:12:543 (00025308) > [Settings] 	Camera Shake: 1.000000
+22:39:12:543 (00025308) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:12:543 (00025308) > [Settings] 	Lens Dirt: 1.000000
+22:39:12:543 (00025308) > [Settings] 	Film Grain Strength: 1.000000
+22:39:12:543 (00025308) > [Settings] 	Cinematic Pillarboxes: On
+22:39:12:543 (00025308) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:12:543 (00025308) > [Settings] End of settings.
+22:39:12:543 (00025308) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:12:545 (00025308) > [NxApp] Finished enforcing display settings
+22:39:13:114 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:13:114 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:13:114 (00002868) > [Settings] New display settings are:
+22:39:13:114 (00002868) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:13:114 (00002868) > [Settings] DirectX Version: 12
+22:39:13:114 (00002868) > [Settings] Window mode: Fullscreen
+22:39:13:114 (00002868) > [Settings] Fullscreen display mode:
+22:39:13:114 (00002868) > [Settings] 	Displaying on monitor: 0
+22:39:13:114 (00002868) > [Settings] 	Resolution: 2560x1440
+22:39:13:114 (00002868) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:13:114 (00002868) > [Settings] 	HDR: Off
+22:39:13:114 (00002868) > [Settings] 	Contrast: 0.500000
+22:39:13:114 (00002868) > [Settings] 	OS reported Refresh rate: 165
+22:39:13:114 (00002868) > [Settings] 	VSync: On
+22:39:13:114 (00002868) > [Settings] 	Reflex: Low Latency with Boost
+22:39:13:114 (00002868) > [Settings] 	Anti-Lag2: Off
+22:39:13:114 (00002868) > [Settings] 	Frame generation: None
+22:39:13:114 (00002868) > [Settings] 	Max generated frames: 1
+22:39:13:114 (00002868) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:13:114 (00002868) > [Settings] Anti aliasing: Off
+22:39:13:114 (00002868) > [Settings] Upscale method: None
+22:39:13:114 (00002868) > [Settings] Upscale quality: Balanced
+22:39:13:114 (00002868) > [Settings] DLSS preset: CNN
+22:39:13:114 (00002868) > [Settings] Upscale sharpen: 0.010000
+22:39:13:114 (00002868) > [Settings] Graphics Options:
+22:39:13:114 (00002868) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Character Texture Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Environment Texture Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:13:114 (00002868) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:13:114 (00002868) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:13:114 (00002868) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:13:114 (00002868) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:13:114 (00002868) > [Settings] 	Depth of Field: Ultra
+22:39:13:114 (00002868) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:13:114 (00002868) > [Settings] 	Character Level of Detail: Ultra
+22:39:13:114 (00002868) > [Settings] 	Background Level of Detail: Ultra
+22:39:13:114 (00002868) > [Settings] 	Terrain Detail: High
+22:39:13:114 (00002868) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:13:114 (00002868) > [Settings] 	Screen space contact shadows: Ultra
+22:39:13:114 (00002868) > [Settings] 	Screen Space Reflections: High
+22:39:13:114 (00002868) > [Settings] 	Screen Space Accuracy: High
+22:39:13:114 (00002868) > [Settings] 	Screen Space Distance: High
+22:39:13:114 (00002868) > [Settings] 	Real-Time Reflections: Ultra
+22:39:13:114 (00002868) > [Settings] 	Refraction Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Screen Space Shadows: Ultra
+22:39:13:114 (00002868) > [Settings] 	Depth of Field Mode: Always On
+22:39:13:114 (00002868) > [Settings] 	Motion Blur Quality: Ultra
+22:39:13:114 (00002868) > [Settings] 	Particle Density: Ultra
+22:39:13:114 (00002868) > [Settings] 	Volumetric Fog: Ultra
+22:39:13:114 (00002868) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:13:114 (00002868) > [Settings] 	Bloom: On
+22:39:13:114 (00002868) > [Settings] 	Vignette: On
+22:39:13:114 (00002868) > [Settings] 	Caustics: On
+22:39:13:114 (00002868) > [Settings] 	Image Based Lighting: On
+22:39:13:114 (00002868) > [Settings] 	Bounced Lighting: On
+22:39:13:114 (00002868) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:13:114 (00002868) > [Settings] 	RT Cloud reflections: On
+22:39:13:114 (00002868) > [Settings] 	Motion Blur: 1.000000
+22:39:13:114 (00002868) > [Settings] 	Framerate Cap: 165.000000
+22:39:13:114 (00002868) > [Settings] 	FOV Correction: 1.000000
+22:39:13:114 (00002868) > [Settings] 	Camera Shake: 1.000000
+22:39:13:114 (00002868) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:13:114 (00002868) > [Settings] 	Lens Dirt: 1.000000
+22:39:13:114 (00002868) > [Settings] 	Film Grain Strength: 1.000000
+22:39:13:114 (00002868) > [Settings] 	Cinematic Pillarboxes: On
+22:39:13:114 (00002868) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:13:114 (00002868) > [Settings] End of settings.
+22:39:13:114 (00002868) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:13:115 (00002868) > [NxApp] Finished enforcing display settings
+22:39:13:629 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:13:629 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:13:629 (00024792) > [Settings] New display settings are:
+22:39:13:629 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:13:629 (00024792) > [Settings] DirectX Version: 12
+22:39:13:629 (00024792) > [Settings] Window mode: Fullscreen
+22:39:13:629 (00024792) > [Settings] Fullscreen display mode:
+22:39:13:629 (00024792) > [Settings] 	Displaying on monitor: 0
+22:39:13:629 (00024792) > [Settings] 	Resolution: 2560x1440
+22:39:13:629 (00024792) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:13:629 (00024792) > [Settings] 	HDR: Off
+22:39:13:629 (00024792) > [Settings] 	Contrast: 0.500000
+22:39:13:629 (00024792) > [Settings] 	OS reported Refresh rate: 165
+22:39:13:629 (00024792) > [Settings] 	VSync: On
+22:39:13:629 (00024792) > [Settings] 	Reflex: Low Latency with Boost
+22:39:13:629 (00024792) > [Settings] 	Anti-Lag2: Off
+22:39:13:629 (00024792) > [Settings] 	Frame generation: None
+22:39:13:629 (00024792) > [Settings] 	Max generated frames: 1
+22:39:13:629 (00024792) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:13:629 (00024792) > [Settings] Anti aliasing: SMAA
+22:39:13:629 (00024792) > [Settings] Upscale method: None
+22:39:13:629 (00024792) > [Settings] Upscale quality: Balanced
+22:39:13:629 (00024792) > [Settings] DLSS preset: CNN
+22:39:13:629 (00024792) > [Settings] Upscale sharpen: 0.010000
+22:39:13:629 (00024792) > [Settings] Graphics Options:
+22:39:13:629 (00024792) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Character Texture Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Environment Texture Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:13:629 (00024792) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:13:629 (00024792) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:13:629 (00024792) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:13:629 (00024792) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:13:629 (00024792) > [Settings] 	Depth of Field: Ultra
+22:39:13:629 (00024792) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:13:629 (00024792) > [Settings] 	Character Level of Detail: Ultra
+22:39:13:629 (00024792) > [Settings] 	Background Level of Detail: Ultra
+22:39:13:629 (00024792) > [Settings] 	Terrain Detail: High
+22:39:13:629 (00024792) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:13:629 (00024792) > [Settings] 	Screen space contact shadows: Ultra
+22:39:13:629 (00024792) > [Settings] 	Screen Space Reflections: High
+22:39:13:629 (00024792) > [Settings] 	Screen Space Accuracy: High
+22:39:13:629 (00024792) > [Settings] 	Screen Space Distance: High
+22:39:13:629 (00024792) > [Settings] 	Real-Time Reflections: Ultra
+22:39:13:629 (00024792) > [Settings] 	Refraction Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Screen Space Shadows: Ultra
+22:39:13:629 (00024792) > [Settings] 	Depth of Field Mode: Always On
+22:39:13:629 (00024792) > [Settings] 	Motion Blur Quality: Ultra
+22:39:13:629 (00024792) > [Settings] 	Particle Density: Ultra
+22:39:13:629 (00024792) > [Settings] 	Volumetric Fog: Ultra
+22:39:13:629 (00024792) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:13:629 (00024792) > [Settings] 	Bloom: On
+22:39:13:629 (00024792) > [Settings] 	Vignette: On
+22:39:13:629 (00024792) > [Settings] 	Caustics: On
+22:39:13:629 (00024792) > [Settings] 	Image Based Lighting: On
+22:39:13:629 (00024792) > [Settings] 	Bounced Lighting: On
+22:39:13:629 (00024792) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:13:629 (00024792) > [Settings] 	RT Cloud reflections: On
+22:39:13:629 (00024792) > [Settings] 	Motion Blur: 1.000000
+22:39:13:629 (00024792) > [Settings] 	Framerate Cap: 165.000000
+22:39:13:629 (00024792) > [Settings] 	FOV Correction: 1.000000
+22:39:13:629 (00024792) > [Settings] 	Camera Shake: 1.000000
+22:39:13:629 (00024792) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:13:629 (00024792) > [Settings] 	Lens Dirt: 1.000000
+22:39:13:629 (00024792) > [Settings] 	Film Grain Strength: 1.000000
+22:39:13:629 (00024792) > [Settings] 	Cinematic Pillarboxes: On
+22:39:13:629 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:13:629 (00024792) > [Settings] End of settings.
+22:39:13:629 (00024792) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:13:630 (00024792) > [NxApp] Finished enforcing display settings
+22:39:14:420 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:14:420 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:14:420 (00024792) > [Settings] New display settings are:
+22:39:14:420 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:14:420 (00024792) > [Settings] DirectX Version: 12
+22:39:14:420 (00024792) > [Settings] Window mode: Fullscreen
+22:39:14:420 (00024792) > [Settings] Fullscreen display mode:
+22:39:14:420 (00024792) > [Settings] 	Displaying on monitor: 0
+22:39:14:420 (00024792) > [Settings] 	Resolution: 2560x1440
+22:39:14:420 (00024792) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:14:420 (00024792) > [Settings] 	HDR: Off
+22:39:14:420 (00024792) > [Settings] 	Contrast: 0.500000
+22:39:14:420 (00024792) > [Settings] 	OS reported Refresh rate: 165
+22:39:14:420 (00024792) > [Settings] 	VSync: On
+22:39:14:420 (00024792) > [Settings] 	Reflex: Low Latency with Boost
+22:39:14:420 (00024792) > [Settings] 	Anti-Lag2: Off
+22:39:14:420 (00024792) > [Settings] 	Frame generation: None
+22:39:14:420 (00024792) > [Settings] 	Max generated frames: 1
+22:39:14:420 (00024792) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:14:420 (00024792) > [Settings] Anti aliasing: TAA
+22:39:14:420 (00024792) > [Settings] Upscale method: None
+22:39:14:420 (00024792) > [Settings] Upscale quality: Balanced
+22:39:14:420 (00024792) > [Settings] DLSS preset: CNN
+22:39:14:420 (00024792) > [Settings] Upscale sharpen: 0.010000
+22:39:14:420 (00024792) > [Settings] Graphics Options:
+22:39:14:420 (00024792) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Character Texture Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Environment Texture Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:14:420 (00024792) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:14:420 (00024792) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:14:420 (00024792) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:14:420 (00024792) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:14:420 (00024792) > [Settings] 	Depth of Field: Ultra
+22:39:14:420 (00024792) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:14:420 (00024792) > [Settings] 	Character Level of Detail: Ultra
+22:39:14:420 (00024792) > [Settings] 	Background Level of Detail: Ultra
+22:39:14:420 (00024792) > [Settings] 	Terrain Detail: High
+22:39:14:420 (00024792) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:14:420 (00024792) > [Settings] 	Screen space contact shadows: Ultra
+22:39:14:420 (00024792) > [Settings] 	Screen Space Reflections: High
+22:39:14:420 (00024792) > [Settings] 	Screen Space Accuracy: High
+22:39:14:420 (00024792) > [Settings] 	Screen Space Distance: High
+22:39:14:420 (00024792) > [Settings] 	Real-Time Reflections: Ultra
+22:39:14:420 (00024792) > [Settings] 	Refraction Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Screen Space Shadows: Ultra
+22:39:14:420 (00024792) > [Settings] 	Depth of Field Mode: Always On
+22:39:14:420 (00024792) > [Settings] 	Motion Blur Quality: Ultra
+22:39:14:420 (00024792) > [Settings] 	Particle Density: Ultra
+22:39:14:420 (00024792) > [Settings] 	Volumetric Fog: Ultra
+22:39:14:420 (00024792) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:14:420 (00024792) > [Settings] 	Bloom: On
+22:39:14:420 (00024792) > [Settings] 	Vignette: On
+22:39:14:420 (00024792) > [Settings] 	Caustics: On
+22:39:14:420 (00024792) > [Settings] 	Image Based Lighting: On
+22:39:14:420 (00024792) > [Settings] 	Bounced Lighting: On
+22:39:14:420 (00024792) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:14:420 (00024792) > [Settings] 	RT Cloud reflections: On
+22:39:14:420 (00024792) > [Settings] 	Motion Blur: 1.000000
+22:39:14:420 (00024792) > [Settings] 	Framerate Cap: 165.000000
+22:39:14:420 (00024792) > [Settings] 	FOV Correction: 1.000000
+22:39:14:420 (00024792) > [Settings] 	Camera Shake: 1.000000
+22:39:14:420 (00024792) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:14:420 (00024792) > [Settings] 	Lens Dirt: 1.000000
+22:39:14:420 (00024792) > [Settings] 	Film Grain Strength: 1.000000
+22:39:14:420 (00024792) > [Settings] 	Cinematic Pillarboxes: On
+22:39:14:420 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:14:420 (00024792) > [Settings] End of settings.
+22:39:14:420 (00024792) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:14:421 (00024792) > [NxApp] Finished enforcing display settings
+22:39:15:043 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:15:043 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:15:043 (00024792) > [Settings] New display settings are:
+22:39:15:043 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:15:043 (00024792) > [Settings] DirectX Version: 12
+22:39:15:043 (00024792) > [Settings] Window mode: Fullscreen
+22:39:15:043 (00024792) > [Settings] Fullscreen display mode:
+22:39:15:043 (00024792) > [Settings] 	Displaying on monitor: 0
+22:39:15:043 (00024792) > [Settings] 	Resolution: 2560x1440
+22:39:15:043 (00024792) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:15:043 (00024792) > [Settings] 	HDR: Off
+22:39:15:043 (00024792) > [Settings] 	Contrast: 0.500000
+22:39:15:043 (00024792) > [Settings] 	OS reported Refresh rate: 165
+22:39:15:043 (00024792) > [Settings] 	VSync: On
+22:39:15:043 (00024792) > [Settings] 	Reflex: Low Latency with Boost
+22:39:15:043 (00024792) > [Settings] 	Anti-Lag2: Off
+22:39:15:043 (00024792) > [Settings] 	Frame generation: None
+22:39:15:043 (00024792) > [Settings] 	Max generated frames: 1
+22:39:15:043 (00024792) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:15:043 (00024792) > [Settings] Anti aliasing: SMAA
+22:39:15:043 (00024792) > [Settings] Upscale method: None
+22:39:15:043 (00024792) > [Settings] Upscale quality: Balanced
+22:39:15:043 (00024792) > [Settings] DLSS preset: CNN
+22:39:15:043 (00024792) > [Settings] Upscale sharpen: 0.010000
+22:39:15:043 (00024792) > [Settings] Graphics Options:
+22:39:15:043 (00024792) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Character Texture Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Environment Texture Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:15:043 (00024792) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:15:043 (00024792) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:15:043 (00024792) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:15:043 (00024792) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:15:043 (00024792) > [Settings] 	Depth of Field: Ultra
+22:39:15:043 (00024792) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:15:043 (00024792) > [Settings] 	Character Level of Detail: Ultra
+22:39:15:043 (00024792) > [Settings] 	Background Level of Detail: Ultra
+22:39:15:043 (00024792) > [Settings] 	Terrain Detail: High
+22:39:15:043 (00024792) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:15:043 (00024792) > [Settings] 	Screen space contact shadows: Ultra
+22:39:15:043 (00024792) > [Settings] 	Screen Space Reflections: High
+22:39:15:043 (00024792) > [Settings] 	Screen Space Accuracy: High
+22:39:15:043 (00024792) > [Settings] 	Screen Space Distance: High
+22:39:15:043 (00024792) > [Settings] 	Real-Time Reflections: Ultra
+22:39:15:043 (00024792) > [Settings] 	Refraction Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Screen Space Shadows: Ultra
+22:39:15:043 (00024792) > [Settings] 	Depth of Field Mode: Always On
+22:39:15:043 (00024792) > [Settings] 	Motion Blur Quality: Ultra
+22:39:15:043 (00024792) > [Settings] 	Particle Density: Ultra
+22:39:15:043 (00024792) > [Settings] 	Volumetric Fog: Ultra
+22:39:15:043 (00024792) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:15:043 (00024792) > [Settings] 	Bloom: On
+22:39:15:043 (00024792) > [Settings] 	Vignette: On
+22:39:15:043 (00024792) > [Settings] 	Caustics: On
+22:39:15:043 (00024792) > [Settings] 	Image Based Lighting: On
+22:39:15:043 (00024792) > [Settings] 	Bounced Lighting: On
+22:39:15:043 (00024792) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:15:043 (00024792) > [Settings] 	RT Cloud reflections: On
+22:39:15:043 (00024792) > [Settings] 	Motion Blur: 1.000000
+22:39:15:043 (00024792) > [Settings] 	Framerate Cap: 165.000000
+22:39:15:043 (00024792) > [Settings] 	FOV Correction: 1.000000
+22:39:15:043 (00024792) > [Settings] 	Camera Shake: 1.000000
+22:39:15:043 (00024792) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:15:043 (00024792) > [Settings] 	Lens Dirt: 1.000000
+22:39:15:043 (00024792) > [Settings] 	Film Grain Strength: 1.000000
+22:39:15:043 (00024792) > [Settings] 	Cinematic Pillarboxes: On
+22:39:15:043 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:15:043 (00024792) > [Settings] End of settings.
+22:39:15:043 (00024792) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:15:044 (00024792) > [NxApp] Finished enforcing display settings
+22:39:15:789 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:15:789 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:15:789 (00024692) > [Settings] New display settings are:
+22:39:15:789 (00024692) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:15:789 (00024692) > [Settings] DirectX Version: 12
+22:39:15:789 (00024692) > [Settings] Window mode: Fullscreen
+22:39:15:789 (00024692) > [Settings] Fullscreen display mode:
+22:39:15:789 (00024692) > [Settings] 	Displaying on monitor: 0
+22:39:15:789 (00024692) > [Settings] 	Resolution: 2560x1440
+22:39:15:789 (00024692) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:15:789 (00024692) > [Settings] 	HDR: Off
+22:39:15:789 (00024692) > [Settings] 	Contrast: 0.500000
+22:39:15:789 (00024692) > [Settings] 	OS reported Refresh rate: 165
+22:39:15:789 (00024692) > [Settings] 	VSync: On
+22:39:15:789 (00024692) > [Settings] 	Reflex: Low Latency with Boost
+22:39:15:789 (00024692) > [Settings] 	Anti-Lag2: Off
+22:39:15:789 (00024692) > [Settings] 	Frame generation: None
+22:39:15:789 (00024692) > [Settings] 	Max generated frames: 1
+22:39:15:789 (00024692) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:15:789 (00024692) > [Settings] Anti aliasing: TAA
+22:39:15:789 (00024692) > [Settings] Upscale method: None
+22:39:15:789 (00024692) > [Settings] Upscale quality: Balanced
+22:39:15:789 (00024692) > [Settings] DLSS preset: CNN
+22:39:15:789 (00024692) > [Settings] Upscale sharpen: 0.010000
+22:39:15:789 (00024692) > [Settings] Graphics Options:
+22:39:15:789 (00024692) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Character Texture Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Environment Texture Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:15:789 (00024692) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:15:789 (00024692) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:15:789 (00024692) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:15:789 (00024692) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:15:789 (00024692) > [Settings] 	Depth of Field: Ultra
+22:39:15:789 (00024692) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:15:789 (00024692) > [Settings] 	Character Level of Detail: Ultra
+22:39:15:789 (00024692) > [Settings] 	Background Level of Detail: Ultra
+22:39:15:789 (00024692) > [Settings] 	Terrain Detail: High
+22:39:15:789 (00024692) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:15:789 (00024692) > [Settings] 	Screen space contact shadows: Ultra
+22:39:15:789 (00024692) > [Settings] 	Screen Space Reflections: High
+22:39:15:789 (00024692) > [Settings] 	Screen Space Accuracy: High
+22:39:15:789 (00024692) > [Settings] 	Screen Space Distance: High
+22:39:15:789 (00024692) > [Settings] 	Real-Time Reflections: Ultra
+22:39:15:789 (00024692) > [Settings] 	Refraction Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Screen Space Shadows: Ultra
+22:39:15:789 (00024692) > [Settings] 	Depth of Field Mode: Always On
+22:39:15:789 (00024692) > [Settings] 	Motion Blur Quality: Ultra
+22:39:15:789 (00024692) > [Settings] 	Particle Density: Ultra
+22:39:15:789 (00024692) > [Settings] 	Volumetric Fog: Ultra
+22:39:15:789 (00024692) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:15:789 (00024692) > [Settings] 	Bloom: On
+22:39:15:789 (00024692) > [Settings] 	Vignette: On
+22:39:15:789 (00024692) > [Settings] 	Caustics: On
+22:39:15:789 (00024692) > [Settings] 	Image Based Lighting: On
+22:39:15:789 (00024692) > [Settings] 	Bounced Lighting: On
+22:39:15:789 (00024692) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:15:789 (00024692) > [Settings] 	RT Cloud reflections: On
+22:39:15:789 (00024692) > [Settings] 	Motion Blur: 1.000000
+22:39:15:789 (00024692) > [Settings] 	Framerate Cap: 165.000000
+22:39:15:789 (00024692) > [Settings] 	FOV Correction: 1.000000
+22:39:15:789 (00024692) > [Settings] 	Camera Shake: 1.000000
+22:39:15:789 (00024692) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:15:789 (00024692) > [Settings] 	Lens Dirt: 1.000000
+22:39:15:789 (00024692) > [Settings] 	Film Grain Strength: 1.000000
+22:39:15:789 (00024692) > [Settings] 	Cinematic Pillarboxes: On
+22:39:15:789 (00024692) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:15:789 (00024692) > [Settings] End of settings.
+22:39:15:789 (00024692) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:15:790 (00024692) > [NxApp] Finished enforcing display settings
+22:39:17:868 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:17:868 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:17:925 (00022932) > [DXGI] Resized swapchain.
+22:39:17:929 (00005668) > [Settings] New display settings are:
+22:39:17:929 (00005668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:17:929 (00005668) > [Settings] DirectX Version: 12
+22:39:17:929 (00005668) > [Settings] Window mode: Fullscreen
+22:39:17:929 (00005668) > [Settings] Fullscreen display mode:
+22:39:17:929 (00005668) > [Settings] 	Displaying on monitor: 0
+22:39:17:929 (00005668) > [Settings] 	Resolution: 2560x1440
+22:39:17:929 (00005668) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:17:929 (00005668) > [Settings] 	HDR: Off
+22:39:17:929 (00005668) > [Settings] 	Contrast: 0.500000
+22:39:17:929 (00005668) > [Settings] 	OS reported Refresh rate: 165
+22:39:17:929 (00005668) > [Settings] 	VSync: On
+22:39:17:929 (00005668) > [Settings] 	Reflex: Low Latency with Boost
+22:39:17:929 (00005668) > [Settings] 	Anti-Lag2: Off
+22:39:17:929 (00005668) > [Settings] 	Frame generation: None
+22:39:17:929 (00005668) > [Settings] 	Max generated frames: 1
+22:39:17:929 (00005668) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:17:929 (00005668) > [Settings] Anti aliasing: DLAA
+22:39:17:929 (00005668) > [Settings] Upscale method: None
+22:39:17:929 (00005668) > [Settings] Upscale quality: Balanced
+22:39:17:929 (00005668) > [Settings] DLSS preset: CNN
+22:39:17:929 (00005668) > [Settings] Upscale sharpen: 0.010000
+22:39:17:929 (00005668) > [Settings] Graphics Options:
+22:39:17:929 (00005668) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Character Texture Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Environment Texture Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:17:929 (00005668) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:17:929 (00005668) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:17:929 (00005668) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:17:929 (00005668) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:17:929 (00005668) > [Settings] 	Depth of Field: Ultra
+22:39:17:929 (00005668) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:17:929 (00005668) > [Settings] 	Character Level of Detail: Ultra
+22:39:17:929 (00005668) > [Settings] 	Background Level of Detail: Ultra
+22:39:17:929 (00005668) > [Settings] 	Terrain Detail: High
+22:39:17:929 (00005668) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:17:929 (00005668) > [Settings] 	Screen space contact shadows: Ultra
+22:39:17:929 (00005668) > [Settings] 	Screen Space Reflections: High
+22:39:17:929 (00005668) > [Settings] 	Screen Space Accuracy: High
+22:39:17:929 (00005668) > [Settings] 	Screen Space Distance: High
+22:39:17:929 (00005668) > [Settings] 	Real-Time Reflections: Ultra
+22:39:17:929 (00005668) > [Settings] 	Refraction Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Screen Space Shadows: Ultra
+22:39:17:929 (00005668) > [Settings] 	Depth of Field Mode: Always On
+22:39:17:929 (00005668) > [Settings] 	Motion Blur Quality: Ultra
+22:39:17:929 (00005668) > [Settings] 	Particle Density: Ultra
+22:39:17:929 (00005668) > [Settings] 	Volumetric Fog: Ultra
+22:39:17:929 (00005668) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:17:929 (00005668) > [Settings] 	Bloom: On
+22:39:17:929 (00005668) > [Settings] 	Vignette: On
+22:39:17:929 (00005668) > [Settings] 	Caustics: On
+22:39:17:929 (00005668) > [Settings] 	Image Based Lighting: On
+22:39:17:929 (00005668) > [Settings] 	Bounced Lighting: On
+22:39:17:929 (00005668) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:17:929 (00005668) > [Settings] 	RT Cloud reflections: On
+22:39:17:929 (00005668) > [Settings] 	Motion Blur: 1.000000
+22:39:17:929 (00005668) > [Settings] 	Framerate Cap: 165.000000
+22:39:17:929 (00005668) > [Settings] 	FOV Correction: 1.000000
+22:39:17:929 (00005668) > [Settings] 	Camera Shake: 1.000000
+22:39:17:929 (00005668) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:17:929 (00005668) > [Settings] 	Lens Dirt: 1.000000
+22:39:17:929 (00005668) > [Settings] 	Film Grain Strength: 1.000000
+22:39:17:929 (00005668) > [Settings] 	Cinematic Pillarboxes: On
+22:39:17:929 (00005668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:17:929 (00005668) > [Settings] End of settings.
+22:39:17:929 (00005668) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:17:930 (00005668) > [NxApp] Finished enforcing display settings
+22:39:18:087 (00024792) > [NxUpscaler] DLSS out of VRAM warning
+22:39:18:799 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:18:799 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:18:863 (00022932) > [DXGI] Resized swapchain.
+22:39:18:868 (00024792) > [Settings] New display settings are:
+22:39:18:868 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:18:868 (00024792) > [Settings] DirectX Version: 12
+22:39:18:868 (00024792) > [Settings] Window mode: Fullscreen
+22:39:18:868 (00024792) > [Settings] Fullscreen display mode:
+22:39:18:868 (00024792) > [Settings] 	Displaying on monitor: 0
+22:39:18:868 (00024792) > [Settings] 	Resolution: 2560x1440
+22:39:18:868 (00024792) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:18:868 (00024792) > [Settings] 	HDR: Off
+22:39:18:868 (00024792) > [Settings] 	Contrast: 0.500000
+22:39:18:868 (00024792) > [Settings] 	OS reported Refresh rate: 165
+22:39:18:868 (00024792) > [Settings] 	VSync: On
+22:39:18:868 (00024792) > [Settings] 	Reflex: Low Latency with Boost
+22:39:18:868 (00024792) > [Settings] 	Anti-Lag2: Off
+22:39:18:868 (00024792) > [Settings] 	Frame generation: None
+22:39:18:868 (00024792) > [Settings] 	Max generated frames: 1
+22:39:18:868 (00024792) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:18:868 (00024792) > [Settings] Anti aliasing: TAA
+22:39:18:868 (00024792) > [Settings] Upscale method: None
+22:39:18:868 (00024792) > [Settings] Upscale quality: Balanced
+22:39:18:868 (00024792) > [Settings] DLSS preset: CNN
+22:39:18:868 (00024792) > [Settings] Upscale sharpen: 0.010000
+22:39:18:868 (00024792) > [Settings] Graphics Options:
+22:39:18:868 (00024792) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Character Texture Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Environment Texture Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:18:868 (00024792) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:18:868 (00024792) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:18:868 (00024792) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:18:868 (00024792) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:18:868 (00024792) > [Settings] 	Depth of Field: Ultra
+22:39:18:868 (00024792) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:18:868 (00024792) > [Settings] 	Character Level of Detail: Ultra
+22:39:18:868 (00024792) > [Settings] 	Background Level of Detail: Ultra
+22:39:18:868 (00024792) > [Settings] 	Terrain Detail: High
+22:39:18:868 (00024792) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:18:868 (00024792) > [Settings] 	Screen space contact shadows: Ultra
+22:39:18:868 (00024792) > [Settings] 	Screen Space Reflections: High
+22:39:18:868 (00024792) > [Settings] 	Screen Space Accuracy: High
+22:39:18:868 (00024792) > [Settings] 	Screen Space Distance: High
+22:39:18:868 (00024792) > [Settings] 	Real-Time Reflections: Ultra
+22:39:18:868 (00024792) > [Settings] 	Refraction Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Screen Space Shadows: Ultra
+22:39:18:868 (00024792) > [Settings] 	Depth of Field Mode: Always On
+22:39:18:868 (00024792) > [Settings] 	Motion Blur Quality: Ultra
+22:39:18:868 (00024792) > [Settings] 	Particle Density: Ultra
+22:39:18:868 (00024792) > [Settings] 	Volumetric Fog: Ultra
+22:39:18:868 (00024792) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:18:868 (00024792) > [Settings] 	Bloom: On
+22:39:18:868 (00024792) > [Settings] 	Vignette: On
+22:39:18:868 (00024792) > [Settings] 	Caustics: On
+22:39:18:868 (00024792) > [Settings] 	Image Based Lighting: On
+22:39:18:868 (00024792) > [Settings] 	Bounced Lighting: On
+22:39:18:868 (00024792) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:18:868 (00024792) > [Settings] 	RT Cloud reflections: On
+22:39:18:868 (00024792) > [Settings] 	Motion Blur: 1.000000
+22:39:18:868 (00024792) > [Settings] 	Framerate Cap: 165.000000
+22:39:18:868 (00024792) > [Settings] 	FOV Correction: 1.000000
+22:39:18:868 (00024792) > [Settings] 	Camera Shake: 1.000000
+22:39:18:868 (00024792) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:18:868 (00024792) > [Settings] 	Lens Dirt: 1.000000
+22:39:18:868 (00024792) > [Settings] 	Film Grain Strength: 1.000000
+22:39:18:868 (00024792) > [Settings] 	Cinematic Pillarboxes: On
+22:39:18:868 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:18:868 (00024792) > [Settings] End of settings.
+22:39:18:868 (00024792) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:18:870 (00024792) > [NxApp] Finished enforcing display settings
+22:39:19:420 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:19:420 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:19:420 (00017900) > [Settings] New display settings are:
+22:39:19:420 (00017900) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:19:420 (00017900) > [Settings] DirectX Version: 12
+22:39:19:420 (00017900) > [Settings] Window mode: Fullscreen
+22:39:19:420 (00017900) > [Settings] Fullscreen display mode:
+22:39:19:420 (00017900) > [Settings] 	Displaying on monitor: 0
+22:39:19:420 (00017900) > [Settings] 	Resolution: 2560x1440
+22:39:19:420 (00017900) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:19:420 (00017900) > [Settings] 	HDR: Off
+22:39:19:420 (00017900) > [Settings] 	Contrast: 0.500000
+22:39:19:420 (00017900) > [Settings] 	OS reported Refresh rate: 165
+22:39:19:420 (00017900) > [Settings] 	VSync: On
+22:39:19:420 (00017900) > [Settings] 	Reflex: Low Latency with Boost
+22:39:19:420 (00017900) > [Settings] 	Anti-Lag2: Off
+22:39:19:420 (00017900) > [Settings] 	Frame generation: None
+22:39:19:420 (00017900) > [Settings] 	Max generated frames: 1
+22:39:19:420 (00017900) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:19:420 (00017900) > [Settings] Anti aliasing: SMAA
+22:39:19:420 (00017900) > [Settings] Upscale method: None
+22:39:19:420 (00017900) > [Settings] Upscale quality: Balanced
+22:39:19:420 (00017900) > [Settings] DLSS preset: CNN
+22:39:19:420 (00017900) > [Settings] Upscale sharpen: 0.010000
+22:39:19:420 (00017900) > [Settings] Graphics Options:
+22:39:19:420 (00017900) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Character Texture Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Environment Texture Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:19:420 (00017900) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:19:420 (00017900) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:19:420 (00017900) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:19:420 (00017900) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:19:420 (00017900) > [Settings] 	Depth of Field: Ultra
+22:39:19:420 (00017900) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:19:420 (00017900) > [Settings] 	Character Level of Detail: Ultra
+22:39:19:420 (00017900) > [Settings] 	Background Level of Detail: Ultra
+22:39:19:420 (00017900) > [Settings] 	Terrain Detail: High
+22:39:19:420 (00017900) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:19:420 (00017900) > [Settings] 	Screen space contact shadows: Ultra
+22:39:19:420 (00017900) > [Settings] 	Screen Space Reflections: High
+22:39:19:420 (00017900) > [Settings] 	Screen Space Accuracy: High
+22:39:19:420 (00017900) > [Settings] 	Screen Space Distance: High
+22:39:19:420 (00017900) > [Settings] 	Real-Time Reflections: Ultra
+22:39:19:420 (00017900) > [Settings] 	Refraction Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Screen Space Shadows: Ultra
+22:39:19:420 (00017900) > [Settings] 	Depth of Field Mode: Always On
+22:39:19:420 (00017900) > [Settings] 	Motion Blur Quality: Ultra
+22:39:19:420 (00017900) > [Settings] 	Particle Density: Ultra
+22:39:19:420 (00017900) > [Settings] 	Volumetric Fog: Ultra
+22:39:19:420 (00017900) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:19:420 (00017900) > [Settings] 	Bloom: On
+22:39:19:420 (00017900) > [Settings] 	Vignette: On
+22:39:19:420 (00017900) > [Settings] 	Caustics: On
+22:39:19:420 (00017900) > [Settings] 	Image Based Lighting: On
+22:39:19:420 (00017900) > [Settings] 	Bounced Lighting: On
+22:39:19:420 (00017900) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:19:420 (00017900) > [Settings] 	RT Cloud reflections: On
+22:39:19:420 (00017900) > [Settings] 	Motion Blur: 1.000000
+22:39:19:420 (00017900) > [Settings] 	Framerate Cap: 165.000000
+22:39:19:420 (00017900) > [Settings] 	FOV Correction: 1.000000
+22:39:19:420 (00017900) > [Settings] 	Camera Shake: 1.000000
+22:39:19:420 (00017900) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:19:420 (00017900) > [Settings] 	Lens Dirt: 1.000000
+22:39:19:420 (00017900) > [Settings] 	Film Grain Strength: 1.000000
+22:39:19:420 (00017900) > [Settings] 	Cinematic Pillarboxes: On
+22:39:19:420 (00017900) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:19:420 (00017900) > [Settings] End of settings.
+22:39:19:420 (00017900) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:19:421 (00017900) > [NxApp] Finished enforcing display settings
+22:39:20:903 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:20:903 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:20:903 (00005668) > [Settings] New display settings are:
+22:39:20:903 (00005668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:20:903 (00005668) > [Settings] DirectX Version: 12
+22:39:20:903 (00005668) > [Settings] Window mode: Fullscreen
+22:39:20:903 (00005668) > [Settings] Fullscreen display mode:
+22:39:20:903 (00005668) > [Settings] 	Displaying on monitor: 0
+22:39:20:903 (00005668) > [Settings] 	Resolution: 2560x1440
+22:39:20:903 (00005668) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:20:903 (00005668) > [Settings] 	HDR: Off
+22:39:20:903 (00005668) > [Settings] 	Contrast: 0.500000
+22:39:20:903 (00005668) > [Settings] 	OS reported Refresh rate: 165
+22:39:20:903 (00005668) > [Settings] 	VSync: On
+22:39:20:903 (00005668) > [Settings] 	Reflex: Low Latency with Boost
+22:39:20:903 (00005668) > [Settings] 	Anti-Lag2: Off
+22:39:20:903 (00005668) > [Settings] 	Frame generation: None
+22:39:20:903 (00005668) > [Settings] 	Max generated frames: 1
+22:39:20:903 (00005668) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:20:903 (00005668) > [Settings] Anti aliasing: TAA
+22:39:20:903 (00005668) > [Settings] Upscale method: None
+22:39:20:903 (00005668) > [Settings] Upscale quality: Balanced
+22:39:20:903 (00005668) > [Settings] DLSS preset: CNN
+22:39:20:903 (00005668) > [Settings] Upscale sharpen: 0.010000
+22:39:20:903 (00005668) > [Settings] Graphics Options:
+22:39:20:903 (00005668) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Character Texture Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Environment Texture Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:20:903 (00005668) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:20:903 (00005668) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:20:903 (00005668) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:20:903 (00005668) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:20:903 (00005668) > [Settings] 	Depth of Field: Ultra
+22:39:20:903 (00005668) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:20:903 (00005668) > [Settings] 	Character Level of Detail: Ultra
+22:39:20:903 (00005668) > [Settings] 	Background Level of Detail: Ultra
+22:39:20:903 (00005668) > [Settings] 	Terrain Detail: High
+22:39:20:903 (00005668) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:20:903 (00005668) > [Settings] 	Screen space contact shadows: Ultra
+22:39:20:903 (00005668) > [Settings] 	Screen Space Reflections: High
+22:39:20:903 (00005668) > [Settings] 	Screen Space Accuracy: High
+22:39:20:903 (00005668) > [Settings] 	Screen Space Distance: High
+22:39:20:903 (00005668) > [Settings] 	Real-Time Reflections: Ultra
+22:39:20:903 (00005668) > [Settings] 	Refraction Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Screen Space Shadows: Ultra
+22:39:20:903 (00005668) > [Settings] 	Depth of Field Mode: Always On
+22:39:20:903 (00005668) > [Settings] 	Motion Blur Quality: Ultra
+22:39:20:903 (00005668) > [Settings] 	Particle Density: Ultra
+22:39:20:903 (00005668) > [Settings] 	Volumetric Fog: Ultra
+22:39:20:903 (00005668) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:20:903 (00005668) > [Settings] 	Bloom: On
+22:39:20:903 (00005668) > [Settings] 	Vignette: On
+22:39:20:903 (00005668) > [Settings] 	Caustics: On
+22:39:20:903 (00005668) > [Settings] 	Image Based Lighting: On
+22:39:20:903 (00005668) > [Settings] 	Bounced Lighting: On
+22:39:20:903 (00005668) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:20:903 (00005668) > [Settings] 	RT Cloud reflections: On
+22:39:20:903 (00005668) > [Settings] 	Motion Blur: 1.000000
+22:39:20:903 (00005668) > [Settings] 	Framerate Cap: 165.000000
+22:39:20:903 (00005668) > [Settings] 	FOV Correction: 1.000000
+22:39:20:903 (00005668) > [Settings] 	Camera Shake: 1.000000
+22:39:20:903 (00005668) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:20:903 (00005668) > [Settings] 	Lens Dirt: 1.000000
+22:39:20:903 (00005668) > [Settings] 	Film Grain Strength: 1.000000
+22:39:20:903 (00005668) > [Settings] 	Cinematic Pillarboxes: On
+22:39:20:903 (00005668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:20:903 (00005668) > [Settings] End of settings.
+22:39:20:903 (00005668) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:20:904 (00005668) > [NxApp] Finished enforcing display settings
+22:39:21:348 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:21:348 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:21:348 (00012276) > [Settings] New display settings are:
+22:39:21:348 (00012276) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:21:348 (00012276) > [Settings] DirectX Version: 12
+22:39:21:348 (00012276) > [Settings] Window mode: Fullscreen
+22:39:21:348 (00012276) > [Settings] Fullscreen display mode:
+22:39:21:348 (00012276) > [Settings] 	Displaying on monitor: 0
+22:39:21:348 (00012276) > [Settings] 	Resolution: 2560x1440
+22:39:21:348 (00012276) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:21:348 (00012276) > [Settings] 	HDR: Off
+22:39:21:348 (00012276) > [Settings] 	Contrast: 0.500000
+22:39:21:348 (00012276) > [Settings] 	OS reported Refresh rate: 165
+22:39:21:348 (00012276) > [Settings] 	VSync: On
+22:39:21:348 (00012276) > [Settings] 	Reflex: Low Latency with Boost
+22:39:21:348 (00012276) > [Settings] 	Anti-Lag2: Off
+22:39:21:348 (00012276) > [Settings] 	Frame generation: None
+22:39:21:348 (00012276) > [Settings] 	Max generated frames: 1
+22:39:21:348 (00012276) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:21:348 (00012276) > [Settings] Anti aliasing: SMAA
+22:39:21:348 (00012276) > [Settings] Upscale method: None
+22:39:21:348 (00012276) > [Settings] Upscale quality: Balanced
+22:39:21:348 (00012276) > [Settings] DLSS preset: CNN
+22:39:21:348 (00012276) > [Settings] Upscale sharpen: 0.010000
+22:39:21:348 (00012276) > [Settings] Graphics Options:
+22:39:21:348 (00012276) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Character Texture Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Environment Texture Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:21:348 (00012276) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:21:348 (00012276) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:21:348 (00012276) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:21:348 (00012276) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:21:348 (00012276) > [Settings] 	Depth of Field: Ultra
+22:39:21:348 (00012276) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:21:348 (00012276) > [Settings] 	Character Level of Detail: Ultra
+22:39:21:348 (00012276) > [Settings] 	Background Level of Detail: Ultra
+22:39:21:348 (00012276) > [Settings] 	Terrain Detail: High
+22:39:21:348 (00012276) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:21:348 (00012276) > [Settings] 	Screen space contact shadows: Ultra
+22:39:21:348 (00012276) > [Settings] 	Screen Space Reflections: High
+22:39:21:348 (00012276) > [Settings] 	Screen Space Accuracy: High
+22:39:21:348 (00012276) > [Settings] 	Screen Space Distance: High
+22:39:21:348 (00012276) > [Settings] 	Real-Time Reflections: Ultra
+22:39:21:348 (00012276) > [Settings] 	Refraction Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Screen Space Shadows: Ultra
+22:39:21:348 (00012276) > [Settings] 	Depth of Field Mode: Always On
+22:39:21:348 (00012276) > [Settings] 	Motion Blur Quality: Ultra
+22:39:21:348 (00012276) > [Settings] 	Particle Density: Ultra
+22:39:21:348 (00012276) > [Settings] 	Volumetric Fog: Ultra
+22:39:21:348 (00012276) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:21:348 (00012276) > [Settings] 	Bloom: On
+22:39:21:348 (00012276) > [Settings] 	Vignette: On
+22:39:21:348 (00012276) > [Settings] 	Caustics: On
+22:39:21:348 (00012276) > [Settings] 	Image Based Lighting: On
+22:39:21:348 (00012276) > [Settings] 	Bounced Lighting: On
+22:39:21:348 (00012276) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:21:348 (00012276) > [Settings] 	RT Cloud reflections: On
+22:39:21:348 (00012276) > [Settings] 	Motion Blur: 1.000000
+22:39:21:348 (00012276) > [Settings] 	Framerate Cap: 165.000000
+22:39:21:348 (00012276) > [Settings] 	FOV Correction: 1.000000
+22:39:21:348 (00012276) > [Settings] 	Camera Shake: 1.000000
+22:39:21:348 (00012276) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:21:348 (00012276) > [Settings] 	Lens Dirt: 1.000000
+22:39:21:348 (00012276) > [Settings] 	Film Grain Strength: 1.000000
+22:39:21:348 (00012276) > [Settings] 	Cinematic Pillarboxes: On
+22:39:21:348 (00012276) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:21:348 (00012276) > [Settings] End of settings.
+22:39:21:348 (00012276) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:21:350 (00012276) > [NxApp] Finished enforcing display settings
+22:39:23:019 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:23:019 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:23:019 (00024792) > [Settings] New display settings are:
+22:39:23:019 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:23:019 (00024792) > [Settings] DirectX Version: 12
+22:39:23:019 (00024792) > [Settings] Window mode: Fullscreen
+22:39:23:019 (00024792) > [Settings] Fullscreen display mode:
+22:39:23:019 (00024792) > [Settings] 	Displaying on monitor: 0
+22:39:23:019 (00024792) > [Settings] 	Resolution: 2560x1440
+22:39:23:019 (00024792) > [Settings] 	Forced Aspect Ratio: Auto
+22:39:23:019 (00024792) > [Settings] 	HDR: Off
+22:39:23:019 (00024792) > [Settings] 	Contrast: 0.500000
+22:39:23:019 (00024792) > [Settings] 	OS reported Refresh rate: 165
+22:39:23:019 (00024792) > [Settings] 	VSync: On
+22:39:23:019 (00024792) > [Settings] 	Reflex: Low Latency with Boost
+22:39:23:019 (00024792) > [Settings] 	Anti-Lag2: Off
+22:39:23:019 (00024792) > [Settings] 	Frame generation: None
+22:39:23:019 (00024792) > [Settings] 	Max generated frames: 1
+22:39:23:019 (00024792) > [Settings] 	Dynamic resolution FPS target: 0
+22:39:23:019 (00024792) > [Settings] Anti aliasing: TAA
+22:39:23:019 (00024792) > [Settings] Upscale method: None
+22:39:23:019 (00024792) > [Settings] Upscale quality: Balanced
+22:39:23:019 (00024792) > [Settings] DLSS preset: CNN
+22:39:23:019 (00024792) > [Settings] Upscale sharpen: 0.010000
+22:39:23:019 (00024792) > [Settings] Graphics Options:
+22:39:23:019 (00024792) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Character Texture Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Environment Texture Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Texture Filtering: Anisotropic16x
+22:39:23:019 (00024792) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:39:23:019 (00024792) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:39:23:019 (00024792) > [Settings] 	Ambient Shadow Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Directional Shadow Resolution: Ultra
+22:39:23:019 (00024792) > [Settings] 	Directional Shadow Distance: Ultra
+22:39:23:019 (00024792) > [Settings] 	Depth of Field: Ultra
+22:39:23:019 (00024792) > [Settings] 	Foreground Level of Detail: Ultra
+22:39:23:019 (00024792) > [Settings] 	Character Level of Detail: Ultra
+22:39:23:019 (00024792) > [Settings] 	Background Level of Detail: Ultra
+22:39:23:019 (00024792) > [Settings] 	Terrain Detail: High
+22:39:23:019 (00024792) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:39:23:019 (00024792) > [Settings] 	Screen space contact shadows: Ultra
+22:39:23:019 (00024792) > [Settings] 	Screen Space Reflections: High
+22:39:23:019 (00024792) > [Settings] 	Screen Space Accuracy: High
+22:39:23:019 (00024792) > [Settings] 	Screen Space Distance: High
+22:39:23:019 (00024792) > [Settings] 	Real-Time Reflections: Ultra
+22:39:23:019 (00024792) > [Settings] 	Refraction Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Screen Space Shadows: Ultra
+22:39:23:019 (00024792) > [Settings] 	Depth of Field Mode: Always On
+22:39:23:019 (00024792) > [Settings] 	Motion Blur Quality: Ultra
+22:39:23:019 (00024792) > [Settings] 	Particle Density: Ultra
+22:39:23:019 (00024792) > [Settings] 	Volumetric Fog: Ultra
+22:39:23:019 (00024792) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:39:23:019 (00024792) > [Settings] 	Bloom: On
+22:39:23:019 (00024792) > [Settings] 	Vignette: On
+22:39:23:019 (00024792) > [Settings] 	Caustics: On
+22:39:23:019 (00024792) > [Settings] 	Image Based Lighting: On
+22:39:23:019 (00024792) > [Settings] 	Bounced Lighting: On
+22:39:23:019 (00024792) > [Settings] 	Dynamic Screen Space Shadows: On
+22:39:23:019 (00024792) > [Settings] 	RT Cloud reflections: On
+22:39:23:019 (00024792) > [Settings] 	Motion Blur: 1.000000
+22:39:23:019 (00024792) > [Settings] 	Framerate Cap: 165.000000
+22:39:23:019 (00024792) > [Settings] 	FOV Correction: 1.000000
+22:39:23:019 (00024792) > [Settings] 	Camera Shake: 1.000000
+22:39:23:019 (00024792) > [Settings] 	Chromatic Abberation: 1.000000
+22:39:23:019 (00024792) > [Settings] 	Lens Dirt: 1.000000
+22:39:23:019 (00024792) > [Settings] 	Film Grain Strength: 1.000000
+22:39:23:019 (00024792) > [Settings] 	Cinematic Pillarboxes: On
+22:39:23:019 (00024792) > [**************************************************Display + Graphics Settings**************************************************] 
+22:39:23:019 (00024792) > [Settings] End of settings.
+22:39:23:019 (00024792) > [NxApp (Render Thread)] Finished enforcing display settings
+22:39:23:020 (00024792) > [NxApp] Finished enforcing display settings
+22:39:59:567 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:59:567 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:59:889 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:59:889 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:39:59:956 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:39:59:956 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:010 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:010 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:063 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:063 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:116 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:116 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:170 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:170 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:223 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:223 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:276 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:276 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:00:330 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:00:330 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:02:836 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:02:836 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:02:836 (00004668) > [Settings] New display settings are:
+22:40:02:836 (00004668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:02:836 (00004668) > [Settings] DirectX Version: 12
+22:40:02:836 (00004668) > [Settings] Window mode: Fullscreen
+22:40:02:836 (00004668) > [Settings] Fullscreen display mode:
+22:40:02:836 (00004668) > [Settings] 	Displaying on monitor: 0
+22:40:02:836 (00004668) > [Settings] 	Resolution: 2560x1440
+22:40:02:836 (00004668) > [Settings] 	Forced Aspect Ratio: Auto
+22:40:02:836 (00004668) > [Settings] 	HDR: Off
+22:40:02:836 (00004668) > [Settings] 	Contrast: 0.500000
+22:40:02:836 (00004668) > [Settings] 	OS reported Refresh rate: 165
+22:40:02:836 (00004668) > [Settings] 	VSync: On
+22:40:02:836 (00004668) > [Settings] 	Reflex: Low Latency with Boost
+22:40:02:836 (00004668) > [Settings] 	Anti-Lag2: Off
+22:40:02:836 (00004668) > [Settings] 	Frame generation: None
+22:40:02:836 (00004668) > [Settings] 	Max generated frames: 1
+22:40:02:836 (00004668) > [Settings] 	Dynamic resolution FPS target: 0
+22:40:02:836 (00004668) > [Settings] Anti aliasing: TAA
+22:40:02:836 (00004668) > [Settings] Upscale method: None
+22:40:02:836 (00004668) > [Settings] Upscale quality: Balanced
+22:40:02:836 (00004668) > [Settings] DLSS preset: CNN
+22:40:02:836 (00004668) > [Settings] Upscale sharpen: 0.010000
+22:40:02:836 (00004668) > [Settings] Graphics Options:
+22:40:02:836 (00004668) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:40:02:836 (00004668) > [Settings] 	Character Texture Quality: Ultra
+22:40:02:836 (00004668) > [Settings] 	Environment Texture Quality: Ultra
+22:40:02:836 (00004668) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:40:02:836 (00004668) > [Settings] 	Texture Filtering: Anisotropic16x
+22:40:02:836 (00004668) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:40:02:836 (00004668) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:40:02:836 (00004668) > [Settings] 	Ambient Shadow Quality: Ultra
+22:40:02:836 (00004668) > [Settings] 	Directional Shadow Resolution: Ultra
+22:40:02:836 (00004668) > [Settings] 	Directional Shadow Distance: Ultra
+22:40:02:836 (00004668) > [Settings] 	Depth of Field: Ultra
+22:40:02:836 (00004668) > [Settings] 	Foreground Level of Detail: Ultra
+22:40:02:836 (00004668) > [Settings] 	Character Level of Detail: Ultra
+22:40:02:836 (00004668) > [Settings] 	Background Level of Detail: Ultra
+22:40:02:836 (00004668) > [Settings] 	Terrain Detail: High
+22:40:02:836 (00004668) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:40:02:836 (00004668) > [Settings] 	Screen space contact shadows: Ultra
+22:40:02:836 (00004668) > [Settings] 	Screen Space Reflections: High
+22:40:02:836 (00004668) > [Settings] 	Screen Space Accuracy: High
+22:40:02:836 (00004668) > [Settings] 	Screen Space Distance: High
+22:40:02:836 (00004668) > [Settings] 	Real-Time Reflections: Ultra
+22:40:02:836 (00004668) > [Settings] 	Refraction Quality: Ultra
+22:40:02:836 (00004668) > [Settings] 	Screen Space Shadows: Ultra
+22:40:02:836 (00004668) > [Settings] 	Depth of Field Mode: Always On
+22:40:02:836 (00004668) > [Settings] 	Motion Blur Quality: High
+22:40:02:836 (00004668) > [Settings] 	Particle Density: Ultra
+22:40:02:836 (00004668) > [Settings] 	Volumetric Fog: Ultra
+22:40:02:836 (00004668) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:40:02:836 (00004668) > [Settings] 	Bloom: On
+22:40:02:836 (00004668) > [Settings] 	Vignette: On
+22:40:02:836 (00004668) > [Settings] 	Caustics: On
+22:40:02:836 (00004668) > [Settings] 	Image Based Lighting: On
+22:40:02:836 (00004668) > [Settings] 	Bounced Lighting: On
+22:40:02:836 (00004668) > [Settings] 	Dynamic Screen Space Shadows: On
+22:40:02:836 (00004668) > [Settings] 	RT Cloud reflections: On
+22:40:02:836 (00004668) > [Settings] 	Motion Blur: 0.000000
+22:40:02:836 (00004668) > [Settings] 	Framerate Cap: 165.000000
+22:40:02:836 (00004668) > [Settings] 	FOV Correction: 1.000000
+22:40:02:836 (00004668) > [Settings] 	Camera Shake: 1.000000
+22:40:02:836 (00004668) > [Settings] 	Chromatic Abberation: 1.000000
+22:40:02:836 (00004668) > [Settings] 	Lens Dirt: 1.000000
+22:40:02:836 (00004668) > [Settings] 	Film Grain Strength: 1.000000
+22:40:02:836 (00004668) > [Settings] 	Cinematic Pillarboxes: On
+22:40:02:836 (00004668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:02:836 (00004668) > [Settings] End of settings.
+22:40:02:836 (00004668) > [NxApp (Render Thread)] Finished enforcing display settings
+22:40:02:838 (00004668) > [NxApp] Finished enforcing display settings
+22:40:03:067 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:03:067 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:03:067 (00025308) > [Settings] New display settings are:
+22:40:03:067 (00025308) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:03:067 (00025308) > [Settings] DirectX Version: 12
+22:40:03:067 (00025308) > [Settings] Window mode: Fullscreen
+22:40:03:067 (00025308) > [Settings] Fullscreen display mode:
+22:40:03:067 (00025308) > [Settings] 	Displaying on monitor: 0
+22:40:03:067 (00025308) > [Settings] 	Resolution: 2560x1440
+22:40:03:067 (00025308) > [Settings] 	Forced Aspect Ratio: Auto
+22:40:03:067 (00025308) > [Settings] 	HDR: Off
+22:40:03:067 (00025308) > [Settings] 	Contrast: 0.500000
+22:40:03:067 (00025308) > [Settings] 	OS reported Refresh rate: 165
+22:40:03:067 (00025308) > [Settings] 	VSync: On
+22:40:03:067 (00025308) > [Settings] 	Reflex: Low Latency with Boost
+22:40:03:067 (00025308) > [Settings] 	Anti-Lag2: Off
+22:40:03:067 (00025308) > [Settings] 	Frame generation: None
+22:40:03:067 (00025308) > [Settings] 	Max generated frames: 1
+22:40:03:067 (00025308) > [Settings] 	Dynamic resolution FPS target: 0
+22:40:03:067 (00025308) > [Settings] Anti aliasing: TAA
+22:40:03:067 (00025308) > [Settings] Upscale method: None
+22:40:03:067 (00025308) > [Settings] Upscale quality: Balanced
+22:40:03:067 (00025308) > [Settings] DLSS preset: CNN
+22:40:03:067 (00025308) > [Settings] Upscale sharpen: 0.010000
+22:40:03:067 (00025308) > [Settings] Graphics Options:
+22:40:03:067 (00025308) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:40:03:067 (00025308) > [Settings] 	Character Texture Quality: Ultra
+22:40:03:067 (00025308) > [Settings] 	Environment Texture Quality: Ultra
+22:40:03:067 (00025308) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:40:03:067 (00025308) > [Settings] 	Texture Filtering: Anisotropic16x
+22:40:03:067 (00025308) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:40:03:067 (00025308) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:40:03:067 (00025308) > [Settings] 	Ambient Shadow Quality: Ultra
+22:40:03:067 (00025308) > [Settings] 	Directional Shadow Resolution: Ultra
+22:40:03:067 (00025308) > [Settings] 	Directional Shadow Distance: Ultra
+22:40:03:067 (00025308) > [Settings] 	Depth of Field: Ultra
+22:40:03:067 (00025308) > [Settings] 	Foreground Level of Detail: Ultra
+22:40:03:067 (00025308) > [Settings] 	Character Level of Detail: Ultra
+22:40:03:067 (00025308) > [Settings] 	Background Level of Detail: Ultra
+22:40:03:067 (00025308) > [Settings] 	Terrain Detail: High
+22:40:03:067 (00025308) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:40:03:067 (00025308) > [Settings] 	Screen space contact shadows: Ultra
+22:40:03:067 (00025308) > [Settings] 	Screen Space Reflections: High
+22:40:03:067 (00025308) > [Settings] 	Screen Space Accuracy: High
+22:40:03:067 (00025308) > [Settings] 	Screen Space Distance: High
+22:40:03:067 (00025308) > [Settings] 	Real-Time Reflections: Ultra
+22:40:03:067 (00025308) > [Settings] 	Refraction Quality: Ultra
+22:40:03:067 (00025308) > [Settings] 	Screen Space Shadows: Ultra
+22:40:03:067 (00025308) > [Settings] 	Depth of Field Mode: Always On
+22:40:03:067 (00025308) > [Settings] 	Motion Blur Quality: Medium
+22:40:03:067 (00025308) > [Settings] 	Particle Density: Ultra
+22:40:03:067 (00025308) > [Settings] 	Volumetric Fog: Ultra
+22:40:03:067 (00025308) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:40:03:067 (00025308) > [Settings] 	Bloom: On
+22:40:03:067 (00025308) > [Settings] 	Vignette: On
+22:40:03:067 (00025308) > [Settings] 	Caustics: On
+22:40:03:067 (00025308) > [Settings] 	Image Based Lighting: On
+22:40:03:067 (00025308) > [Settings] 	Bounced Lighting: On
+22:40:03:067 (00025308) > [Settings] 	Dynamic Screen Space Shadows: On
+22:40:03:067 (00025308) > [Settings] 	RT Cloud reflections: On
+22:40:03:067 (00025308) > [Settings] 	Motion Blur: 0.000000
+22:40:03:067 (00025308) > [Settings] 	Framerate Cap: 165.000000
+22:40:03:067 (00025308) > [Settings] 	FOV Correction: 1.000000
+22:40:03:067 (00025308) > [Settings] 	Camera Shake: 1.000000
+22:40:03:067 (00025308) > [Settings] 	Chromatic Abberation: 1.000000
+22:40:03:067 (00025308) > [Settings] 	Lens Dirt: 1.000000
+22:40:03:067 (00025308) > [Settings] 	Film Grain Strength: 1.000000
+22:40:03:067 (00025308) > [Settings] 	Cinematic Pillarboxes: On
+22:40:03:067 (00025308) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:03:067 (00025308) > [Settings] End of settings.
+22:40:03:067 (00025308) > [NxApp (Render Thread)] Finished enforcing display settings
+22:40:03:068 (00025308) > [NxApp] Finished enforcing display settings
+22:40:03:239 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:03:239 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:03:239 (00007976) > [Settings] New display settings are:
+22:40:03:239 (00007976) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:03:239 (00007976) > [Settings] DirectX Version: 12
+22:40:03:239 (00007976) > [Settings] Window mode: Fullscreen
+22:40:03:239 (00007976) > [Settings] Fullscreen display mode:
+22:40:03:239 (00007976) > [Settings] 	Displaying on monitor: 0
+22:40:03:239 (00007976) > [Settings] 	Resolution: 2560x1440
+22:40:03:239 (00007976) > [Settings] 	Forced Aspect Ratio: Auto
+22:40:03:239 (00007976) > [Settings] 	HDR: Off
+22:40:03:239 (00007976) > [Settings] 	Contrast: 0.500000
+22:40:03:239 (00007976) > [Settings] 	OS reported Refresh rate: 165
+22:40:03:239 (00007976) > [Settings] 	VSync: On
+22:40:03:239 (00007976) > [Settings] 	Reflex: Low Latency with Boost
+22:40:03:239 (00007976) > [Settings] 	Anti-Lag2: Off
+22:40:03:239 (00007976) > [Settings] 	Frame generation: None
+22:40:03:239 (00007976) > [Settings] 	Max generated frames: 1
+22:40:03:239 (00007976) > [Settings] 	Dynamic resolution FPS target: 0
+22:40:03:239 (00007976) > [Settings] Anti aliasing: TAA
+22:40:03:239 (00007976) > [Settings] Upscale method: None
+22:40:03:239 (00007976) > [Settings] Upscale quality: Balanced
+22:40:03:239 (00007976) > [Settings] DLSS preset: CNN
+22:40:03:239 (00007976) > [Settings] Upscale sharpen: 0.010000
+22:40:03:239 (00007976) > [Settings] Graphics Options:
+22:40:03:239 (00007976) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:40:03:239 (00007976) > [Settings] 	Character Texture Quality: Ultra
+22:40:03:239 (00007976) > [Settings] 	Environment Texture Quality: Ultra
+22:40:03:239 (00007976) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:40:03:239 (00007976) > [Settings] 	Texture Filtering: Anisotropic16x
+22:40:03:239 (00007976) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:40:03:239 (00007976) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:40:03:239 (00007976) > [Settings] 	Ambient Shadow Quality: Ultra
+22:40:03:239 (00007976) > [Settings] 	Directional Shadow Resolution: Ultra
+22:40:03:239 (00007976) > [Settings] 	Directional Shadow Distance: Ultra
+22:40:03:239 (00007976) > [Settings] 	Depth of Field: Ultra
+22:40:03:239 (00007976) > [Settings] 	Foreground Level of Detail: Ultra
+22:40:03:239 (00007976) > [Settings] 	Character Level of Detail: Ultra
+22:40:03:239 (00007976) > [Settings] 	Background Level of Detail: Ultra
+22:40:03:239 (00007976) > [Settings] 	Terrain Detail: High
+22:40:03:239 (00007976) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:40:03:239 (00007976) > [Settings] 	Screen space contact shadows: Ultra
+22:40:03:239 (00007976) > [Settings] 	Screen Space Reflections: High
+22:40:03:239 (00007976) > [Settings] 	Screen Space Accuracy: High
+22:40:03:239 (00007976) > [Settings] 	Screen Space Distance: High
+22:40:03:239 (00007976) > [Settings] 	Real-Time Reflections: Ultra
+22:40:03:239 (00007976) > [Settings] 	Refraction Quality: Ultra
+22:40:03:239 (00007976) > [Settings] 	Screen Space Shadows: Ultra
+22:40:03:239 (00007976) > [Settings] 	Depth of Field Mode: Always On
+22:40:03:239 (00007976) > [Settings] 	Motion Blur Quality: Low
+22:40:03:239 (00007976) > [Settings] 	Particle Density: Ultra
+22:40:03:239 (00007976) > [Settings] 	Volumetric Fog: Ultra
+22:40:03:239 (00007976) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:40:03:239 (00007976) > [Settings] 	Bloom: On
+22:40:03:239 (00007976) > [Settings] 	Vignette: On
+22:40:03:239 (00007976) > [Settings] 	Caustics: On
+22:40:03:239 (00007976) > [Settings] 	Image Based Lighting: On
+22:40:03:239 (00007976) > [Settings] 	Bounced Lighting: On
+22:40:03:239 (00007976) > [Settings] 	Dynamic Screen Space Shadows: On
+22:40:03:239 (00007976) > [Settings] 	RT Cloud reflections: On
+22:40:03:239 (00007976) > [Settings] 	Motion Blur: 0.000000
+22:40:03:239 (00007976) > [Settings] 	Framerate Cap: 165.000000
+22:40:03:239 (00007976) > [Settings] 	FOV Correction: 1.000000
+22:40:03:239 (00007976) > [Settings] 	Camera Shake: 1.000000
+22:40:03:239 (00007976) > [Settings] 	Chromatic Abberation: 1.000000
+22:40:03:239 (00007976) > [Settings] 	Lens Dirt: 1.000000
+22:40:03:239 (00007976) > [Settings] 	Film Grain Strength: 1.000000
+22:40:03:239 (00007976) > [Settings] 	Cinematic Pillarboxes: On
+22:40:03:239 (00007976) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:03:239 (00007976) > [Settings] End of settings.
+22:40:03:239 (00007976) > [NxApp (Render Thread)] Finished enforcing display settings
+22:40:03:240 (00007976) > [NxApp] Finished enforcing display settings
+22:40:03:429 (00022932) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+22:40:03:429 (00022932) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1440 | min = 1280x720 | max =  2560x1440
+22:40:03:429 (00005668) > [Settings] New display settings are:
+22:40:03:429 (00005668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:03:429 (00005668) > [Settings] DirectX Version: 12
+22:40:03:429 (00005668) > [Settings] Window mode: Fullscreen
+22:40:03:429 (00005668) > [Settings] Fullscreen display mode:
+22:40:03:429 (00005668) > [Settings] 	Displaying on monitor: 0
+22:40:03:429 (00005668) > [Settings] 	Resolution: 2560x1440
+22:40:03:429 (00005668) > [Settings] 	Forced Aspect Ratio: Auto
+22:40:03:429 (00005668) > [Settings] 	HDR: Off
+22:40:03:429 (00005668) > [Settings] 	Contrast: 0.500000
+22:40:03:429 (00005668) > [Settings] 	OS reported Refresh rate: 165
+22:40:03:429 (00005668) > [Settings] 	VSync: On
+22:40:03:429 (00005668) > [Settings] 	Reflex: Low Latency with Boost
+22:40:03:429 (00005668) > [Settings] 	Anti-Lag2: Off
+22:40:03:429 (00005668) > [Settings] 	Frame generation: None
+22:40:03:429 (00005668) > [Settings] 	Max generated frames: 1
+22:40:03:429 (00005668) > [Settings] 	Dynamic resolution FPS target: 0
+22:40:03:429 (00005668) > [Settings] Anti aliasing: TAA
+22:40:03:429 (00005668) > [Settings] Upscale method: None
+22:40:03:429 (00005668) > [Settings] Upscale quality: Balanced
+22:40:03:429 (00005668) > [Settings] DLSS preset: CNN
+22:40:03:429 (00005668) > [Settings] Upscale sharpen: 0.010000
+22:40:03:429 (00005668) > [Settings] Graphics Options:
+22:40:03:429 (00005668) > [Settings] 	Dynamic Objects Texture Quality: Ultra
+22:40:03:429 (00005668) > [Settings] 	Character Texture Quality: Ultra
+22:40:03:429 (00005668) > [Settings] 	Environment Texture Quality: Ultra
+22:40:03:429 (00005668) > [Settings] 	Visual Effects Texture Quality: Ultra
+22:40:03:429 (00005668) > [Settings] 	Texture Filtering: Anisotropic16x
+22:40:03:429 (00005668) > [Settings] 	Shadow Spotlight Resolution: Ultra
+22:40:03:429 (00005668) > [Settings] 	Shadow Pointlight Resolution: Ultra
+22:40:03:429 (00005668) > [Settings] 	Ambient Shadow Quality: Ultra
+22:40:03:429 (00005668) > [Settings] 	Directional Shadow Resolution: Ultra
+22:40:03:429 (00005668) > [Settings] 	Directional Shadow Distance: Ultra
+22:40:03:429 (00005668) > [Settings] 	Depth of Field: Ultra
+22:40:03:429 (00005668) > [Settings] 	Foreground Level of Detail: Ultra
+22:40:03:429 (00005668) > [Settings] 	Character Level of Detail: Ultra
+22:40:03:429 (00005668) > [Settings] 	Background Level of Detail: Ultra
+22:40:03:429 (00005668) > [Settings] 	Terrain Detail: High
+22:40:03:429 (00005668) > [Settings] 	Ambient Occlusion: SSAO Quality
+22:40:03:429 (00005668) > [Settings] 	Screen space contact shadows: Ultra
+22:40:03:429 (00005668) > [Settings] 	Screen Space Reflections: High
+22:40:03:429 (00005668) > [Settings] 	Screen Space Accuracy: High
+22:40:03:429 (00005668) > [Settings] 	Screen Space Distance: High
+22:40:03:429 (00005668) > [Settings] 	Real-Time Reflections: Ultra
+22:40:03:429 (00005668) > [Settings] 	Refraction Quality: Ultra
+22:40:03:429 (00005668) > [Settings] 	Screen Space Shadows: Ultra
+22:40:03:429 (00005668) > [Settings] 	Depth of Field Mode: Always On
+22:40:03:429 (00005668) > [Settings] 	Motion Blur Quality: Off
+22:40:03:429 (00005668) > [Settings] 	Particle Density: Ultra
+22:40:03:429 (00005668) > [Settings] 	Volumetric Fog: Ultra
+22:40:03:429 (00005668) > [Settings] 	SS Sub-Surface Scattering: Always On
+22:40:03:429 (00005668) > [Settings] 	Bloom: On
+22:40:03:429 (00005668) > [Settings] 	Vignette: On
+22:40:03:429 (00005668) > [Settings] 	Caustics: On
+22:40:03:429 (00005668) > [Settings] 	Image Based Lighting: On
+22:40:03:429 (00005668) > [Settings] 	Bounced Lighting: On
+22:40:03:429 (00005668) > [Settings] 	Dynamic Screen Space Shadows: On
+22:40:03:429 (00005668) > [Settings] 	RT Cloud reflections: On
+22:40:03:429 (00005668) > [Settings] 	Motion Blur: 0.000000
+22:40:03:429 (00005668) > [Settings] 	Framerate Cap: 165.000000
+22:40:03:429 (00005668) > [Settings] 	FOV Correction: 1.000000
+22:40:03:429 (00005668) > [Settings] 	Camera Shake: 1.000000
+22:40:03:429 (00005668) > [Settings] 	Chromatic Abberation: 1.000000
+22:40:03:429 (00005668) > [Settings] 	Lens Dirt: 1.000000
+22:40:03:429 (00005668) > [Settings] 	Film Grain Strength: 1.000000
+22:40:03:429 (00005668) > [Settings] 	Cinematic Pillarboxes: On
+22:40:03:429 (00005668) > [**************************************************Display + Graphics Settings**************************************************] 
+22:40:03:429 (00005668) > [Settings] End of settings.
+22:40:03:429 (00005668) > [NxApp (Render Thread)] Finished enforcing display settings
+22:40:03:430 (00005668) > [NxApp] Finished enforcing display settings
+22:40:08:514 (00012504) > [Render] Quering NVAPI for GPU temperature
+22:40:08:514 (00012504) > [Render] Working set: 7494MB Page file: 21209MB Video Budget: 7146MB Video Usage: 6839MB Sys Budget: 7416MB Sys Usage: 1997MB Demoted: 251MB fps: 46.2
+22:40:26:803 (00024792) > [GameWindow] Window close requested

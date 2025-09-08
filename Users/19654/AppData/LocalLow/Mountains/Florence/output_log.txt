@@ -1,0 +1,132 @@
+Initialize engine version: 2018.3.10f1 (f88de2c96e63)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.7700
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.436 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.826500 ms
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+FLORENCE VERSION NUMBER: 1.0.1.4373
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[CollageData] Data loaded: state: Unavailable, width 0, height 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[GameCore] Setting Audio Values
+SFX: 100%, Music: 100%
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[SceneLoader] SceneLoader already contains properties for 'loading_screen_FEATHERTOP_a'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: Initialising BundleManager. Bundle manager is enabled
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 7.657600 ms (FindLiveObjects: 0.192300 ms CreateObjectMapping: 0.036100 ms MarkObjects: 7.404800 ms  DeleteObjects: 0.023800 ms)
+
+Target Aspect Ratio set to 16:9
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam BigPicture Mode: disabled
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting resolution to 1280x720
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: loaded bundle prefabbundle
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: loaded bundle scenebundle
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: loaded bundle shaderbundle
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: loaded bundle otherbundle
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: Core, scene and shader bundles loaded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: Loading the bundle dependency lists
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BundleManager: Initialisation done!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FMOD Studio Integration: Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 53)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 7.796400 ms (FindLiveObjects: 0.163200 ms CreateObjectMapping: 0.034800 ms MarkObjects: 7.572700 ms  DeleteObjects: 0.025100 ms)
+
+[SceneLoader] Loading Scene: scene_menu
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[FeathertopLoadingScreen] FROM: None TO: scene_menu
+Show Fade Time: 0.3 ---------- Hide Fade Time: 0.3
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#FFA500>[FeathertopLoadingScreen]</color> Changing screen orientation to 'Portrait' for Non-Level
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 53)
+UnloadTime: 2.806100 ms
+[LevelManager] Getting first playable level: 成人生活
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[LevelManager] Getting last playable level: 继续前行
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 223 unused Assets to reduce memory usage. Loaded Objects now: 5013.
+Total: 9.121600 ms (FindLiveObjects: 0.264100 ms CreateObjectMapping: 0.064800 ms MarkObjects: 8.666900 ms  DeleteObjects: 0.125200 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 53)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 5013.
+Total: 8.873500 ms (FindLiveObjects: 0.288000 ms CreateObjectMapping: 0.060600 ms MarkObjects: 8.514000 ms  DeleteObjects: 0.010300 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 5e04 -> priority: 1 
+  Thread -> id: 4694 -> priority: 1 
+  Thread -> id: 43dc -> priority: 1 
+  Thread -> id: 8a8 -> priority: 1 
+  Thread -> id: 1ff0 -> priority: 1 
+  Thread -> id: 1fa4 -> priority: 1 
+  Thread -> id: 2730 -> priority: 1 
+  Thread -> id: 3430 -> priority: 1 

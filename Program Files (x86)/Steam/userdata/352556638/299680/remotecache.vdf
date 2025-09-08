@@ -1,0 +1,29 @@
+"299680"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"TengamiSaveData.bin"
+	{
+		"root"		"0"
+		"size"		"8192"
+		"localtime"		"1592449767"
+		"time"		"1592449768"
+		"remotetime"		"1592449772"
+		"sha"		"1a46cf388125609b1034d91e63258dc9794ec520"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"TengamiSettingData.bin"
+	{
+		"root"		"0"
+		"size"		"8192"
+		"localtime"		"1756910341"
+		"time"		"1756910347"
+		"remotetime"		"1706675270"
+		"sha"		"3ee3bc6726684d3f4ca3704207afc42fe29daf9b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

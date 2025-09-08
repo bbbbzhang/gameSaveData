@@ -1,0 +1,17 @@
+"40700"
+{
+	"ChangeNumber"		"8"
+	"ostype"		"0"
+	"Machinarium.dat"
+	{
+		"root"		"0"
+		"size"		"65536"
+		"localtime"		"1756910520"
+		"time"		"1756910527"
+		"remotetime"		"1756910527"
+		"sha"		"f527dadc95b96750cfcaf94eeb50e628101da8e0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

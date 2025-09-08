@@ -1,0 +1,41 @@
+"1942280"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"Brotato/76561198312822366/save.json"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Brotato/76561198312822366/save_latest.json"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Brotato/76561198312822366/save_stable.json"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

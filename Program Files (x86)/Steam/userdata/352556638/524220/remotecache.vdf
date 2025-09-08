@@ -1,0 +1,41 @@
+"524220"
+{
+	"ChangeNumber"		"13"
+	"ostype"		"0"
+	"My Games/NieR_Automata/GameData.dat"
+	{
+		"root"		"2"
+		"size"		"1128"
+		"localtime"		"1751514024"
+		"time"		"1751514024"
+		"remotetime"		"1751514024"
+		"sha"		"d4641245021b8260172b0e5f6afb637f53ebd155"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/NieR_Automata/SlotData_0.dat"
+	{
+		"root"		"2"
+		"size"		"235980"
+		"localtime"		"1756986153"
+		"time"		"1756986162"
+		"remotetime"		"1756986162"
+		"sha"		"caa25b0d7dc3b1ee0b21e05ee52d04a8fdc1bc60"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/NieR_Automata/SystemData.dat"
+	{
+		"root"		"2"
+		"size"		"72"
+		"localtime"		"1756986151"
+		"time"		"1756986160"
+		"remotetime"		"1756986160"
+		"sha"		"1ac4922eb7874a1563bab6222162b2499b6845f6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

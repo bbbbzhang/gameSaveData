@@ -1,0 +1,13 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"valve"
+		{
+			"Steam"
+			{
+				"CloudEnabled"		"1"
+			}
+		}
+	}
+}

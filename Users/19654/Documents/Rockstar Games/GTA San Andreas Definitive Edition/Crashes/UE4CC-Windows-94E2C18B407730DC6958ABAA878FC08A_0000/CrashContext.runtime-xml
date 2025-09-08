@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>65FF25DE42CD8BD05461E6857317F775</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-94E2C18B407730DC6958ABAA878FC08A_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Crash</CrashType>
+<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000024</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>6648</ProcessId>
+<SecondsSinceStart>6</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-Gameface</GameName>
+<ExecutableName>SanAndreas</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.26-CL-0-Win64-Shipping</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.26.1-0+++UE4+Release-4.26</EngineVersion>
+<CommandLine></CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>zh-CN</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.26-CL-0</BuildVersion>
+<IsUE4Release>true</IsUE4Release>
+<IsRequestingExit>true</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>D:/Games/Cracks/GTA San Andreas - Definitive Edition/Gameface/Binaries/Win64/</BaseDir>
+<RootDir>D:/Games/Cracks/GTA San Andreas - Definitive Edition/</RootDir>
+<MachineId>1F12FD3C427FD2011479B7A24FF00696</MachineId>
+<LoginId>1f12fd3c427fd2011479b7a24ff00696</LoginId>
+<EpicAccountId>15f3787c5399402cacd56a6ef04e1550</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>8</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 3070 Laptop GPU</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16938061824</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+SanAndreas  0x00007ff7077c0000 + e8c4f7          
+SanAndreas  0x00007ff7077c0000 + eb85f1          
+SanAndreas  0x00007ff7077c0000 + 1092677         
+SanAndreas  0x00007ff7077c0000 + 111d332         
+SanAndreas  0x00007ff7077c0000 + 111d4e2         
+SanAndreas  0x00007ff7077c0000 + 111d6af         
+SanAndreas  0x00007ff7077c0000 + adb10f          
+SanAndreas  0x00007ff7077c0000 + 2ebfab2         
+SanAndreas  0x00007ff7077c0000 + 3134f6d         
+SanAndreas  0x00007ff7077c0000 + ad59fe          
+SanAndreas  0x00007ff7077c0000 + a5ff04          
+SanAndreas  0x00007ff7077c0000 + a55779          
+SanAndreas  0x00007ff7077c0000 + a653da          
+SanAndreas  0x00007ff7077c0000 + a65eaf          
+SanAndreas  0x00007ff7077c0000 + 3d8dc1a         
+Unknown     0x0000000000000000 + 38f9            
+</PCallStack>
+<PCallStackHash>9251A700541A734875B0A4743F62CD18D667720C</PCallStackHash>
+<Threads><Thread><CallStack>ntdll         0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE    0x00007ff838b70000 + 344ee           
+SanAndreas    0x00007ff7077c0000 + 1916630         
+SanAndreas    0x00007ff7077c0000 + 3d967be         
+VCRUNTIME140  0x00007ff81e920000 + f0e0            
+ntdll         0x00007ff83b6f0000 + a441f           
+ntdll         0x00007ff83b6f0000 + 1e466           
+ntdll         0x00007ff83b6f0000 + a340e           
+SanAndreas    0x00007ff7077c0000 + e8c4f7          
+SanAndreas    0x00007ff7077c0000 + eb85f1          
+SanAndreas    0x00007ff7077c0000 + 1092677         
+SanAndreas    0x00007ff7077c0000 + 111d332         
+SanAndreas    0x00007ff7077c0000 + 111d4e2         
+SanAndreas    0x00007ff7077c0000 + 111d6af         
+SanAndreas    0x00007ff7077c0000 + adb10f          
+SanAndreas    0x00007ff7077c0000 + 2ebfab2         
+SanAndreas    0x00007ff7077c0000 + 3134f6d         
+SanAndreas    0x00007ff7077c0000 + ad59fe          
+SanAndreas    0x00007ff7077c0000 + a5ff04          
+SanAndreas    0x00007ff7077c0000 + a55779          
+SanAndreas    0x00007ff7077c0000 + a653da          
+SanAndreas    0x00007ff7077c0000 + a65eaf          
+SanAndreas    0x00007ff7077c0000 + 3d8dc1a         
+Unknown       0x0000000000000000 + 38f9            
+</CallStack>
+<IsCrashed>true</IsCrashed>
+<Registers></Registers>
+<ThreadID>11680</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12840</ThreadID>
+<ThreadName>TaskGraphThreadNP 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3784</ThreadID>
+<ThreadName>TaskGraphThreadNP 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13676</ThreadID>
+<ThreadName>TaskGraphThreadNP 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21172</ThreadID>
+<ThreadName>TaskGraphThreadNP 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5684</ThreadID>
+<ThreadName>TaskGraphThreadNP 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21240</ThreadID>
+<ThreadName>TaskGraphThreadNP 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1540</ThreadID>
+<ThreadName>TaskGraphThreadNP 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1408</ThreadID>
+<ThreadName>TaskGraphThreadNP 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21468</ThreadID>
+<ThreadName>TaskGraphThreadNP 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16880</ThreadID>
+<ThreadName>TaskGraphThreadNP 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9092</ThreadID>
+<ThreadName>TaskGraphThreadNP 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2996</ThreadID>
+<ThreadName>TaskGraphThreadNP 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21000</ThreadID>
+<ThreadName>TaskGraphThreadNP 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17276</ThreadID>
+<ThreadName>TaskGraphThreadNP 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21052</ThreadID>
+<ThreadName>TaskGraphThreadHP 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15256</ThreadID>
+<ThreadName>TaskGraphThreadHP 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2536</ThreadID>
+<ThreadName>TaskGraphThreadHP 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5980</ThreadID>
+<ThreadName>TaskGraphThreadHP 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20936</ThreadID>
+<ThreadName>TaskGraphThreadHP 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18924</ThreadID>
+<ThreadName>TaskGraphThreadHP 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21012</ThreadID>
+<ThreadName>TaskGraphThreadHP 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19484</ThreadID>
+<ThreadName>TaskGraphThreadHP 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10476</ThreadID>
+<ThreadName>TaskGraphThreadHP 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21028</ThreadID>
+<ThreadName>TaskGraphThreadHP 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11296</ThreadID>
+<ThreadName>TaskGraphThreadHP 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3096</ThreadID>
+<ThreadName>TaskGraphThreadHP 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17292</ThreadID>
+<ThreadName>TaskGraphThreadHP 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21676</ThreadID>
+<ThreadName>TaskGraphThreadHP 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9700</ThreadID>
+<ThreadName>TaskGraphThreadBP 28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7340</ThreadID>
+<ThreadName>TaskGraphThreadBP 29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21372</ThreadID>
+<ThreadName>TaskGraphThreadBP 30</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20608</ThreadID>
+<ThreadName>TaskGraphThreadBP 31</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21260</ThreadID>
+<ThreadName>TaskGraphThreadBP 32</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2480</ThreadID>
+<ThreadName>TaskGraphThreadBP 33</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3040</ThreadID>
+<ThreadName>TaskGraphThreadBP 34</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16212</ThreadID>
+<ThreadName>TaskGraphThreadBP 35</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10448</ThreadID>
+<ThreadName>TaskGraphThreadBP 36</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8908</ThreadID>
+<ThreadName>TaskGraphThreadBP 37</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8556</ThreadID>
+<ThreadName>TaskGraphThreadBP 38</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4536</ThreadID>
+<ThreadName>TaskGraphThreadBP 39</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13816</ThreadID>
+<ThreadName>TaskGraphThreadBP 40</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17cad70         
+SanAndreas  0x00007ff7077c0000 + 17ca8bc         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9416</ThreadID>
+<ThreadName>TaskGraphThreadBP 41</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21524</ThreadID>
+<ThreadName>PoolThread 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21688</ThreadID>
+<ThreadName>PoolThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21708</ThreadID>
+<ThreadName>PoolThread 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13052</ThreadID>
+<ThreadName>PoolThread 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21512</ThreadID>
+<ThreadName>PoolThread 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16352</ThreadID>
+<ThreadName>PoolThread 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21668</ThreadID>
+<ThreadName>PoolThread 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21672</ThreadID>
+<ThreadName>PoolThread 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17220</ThreadID>
+<ThreadName>PoolThread 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21984</ThreadID>
+<ThreadName>PoolThread 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21936</ThreadID>
+<ThreadName>PoolThread 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16764</ThreadID>
+<ThreadName>PoolThread 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20504</ThreadID>
+<ThreadName>PoolThread 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12848</ThreadID>
+<ThreadName>PoolThread 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18708</ThreadID>
+<ThreadName>PoolThread 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16848</ThreadID>
+<ThreadName>PoolThread 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f9f4           
+ntdll       0x00007ff83b6f0000 + 551b3           
+KERNELBASE  0x00007ff838b70000 + 4506d           
+SanAndreas  0x00007ff7077c0000 + 27be40b         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8424</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + c72406          
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22460</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 2e3388c         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17256</ThreadID>
+<ThreadName>FMediaTicker</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>23648</ThreadID>
+<ThreadName>PoolThread 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>23384</ThreadID>
+<ThreadName>PoolThread 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>23620</ThreadID>
+<ThreadName>PoolThread 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13940</ThreadID>
+<ThreadName>PoolThread 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17caa4b         
+SanAndreas  0x00007ff7077c0000 + 298e2fe         
+SanAndreas  0x00007ff7077c0000 + 298e69c         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22112</ThreadID>
+<ThreadName>RenderThread 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f9f4           
+ntdll       0x00007ff83b6f0000 + 551b3           
+KERNELBASE  0x00007ff838b70000 + 4506d           
+SanAndreas  0x00007ff7077c0000 + 298e89e         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22116</ThreadID>
+<ThreadName>RTHeartBeat 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21040</ThreadID>
+<ThreadName>PoolThread 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>20572</ThreadID>
+<ThreadName>PoolThread 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9772</ThreadID>
+<ThreadName>PoolThread 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>23356</ThreadID>
+<ThreadName>PoolThread 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>22464</ThreadID>
+<ThreadName>PoolThread 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>23844</ThreadID>
+<ThreadName>PoolThread 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>21928</ThreadID>
+<ThreadName>PoolThread 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 180776f         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>372</ThreadID>
+<ThreadName>PoolThread 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f9f4           
+ntdll       0x00007ff83b6f0000 + 551b3           
+KERNELBASE  0x00007ff838b70000 + 4506d           
+SanAndreas  0x00007ff7077c0000 + 356591b         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18600</ThreadID>
+<ThreadName>ScreenSaverInhibitor</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 2d1fa55         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17148</ThreadID>
+<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 17caa4b         
+SanAndreas  0x00007ff7077c0000 + 2fa3908         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>356</ThreadID>
+<ThreadName>AudioThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll       0x00007ff83b6f0000 + 9f3f4           
+KERNELBASE  0x00007ff838b70000 + 344ee           
+SanAndreas  0x00007ff7077c0000 + 1929bed         
+SanAndreas  0x00007ff7077c0000 + 1a97b42         
+SanAndreas  0x00007ff7077c0000 + 192d057         
+SanAndreas  0x00007ff7077c0000 + 192cf69         
+KERNEL32    0x00007ff839750000 + 1257d           
+ntdll       0x00007ff83b6f0000 + 5aa58           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7748</ThreadID>
+<ThreadName>FAsyncPurge</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 3070 Laptop GPU</RHI.AdapterName>
+<RHI.UserDriverVersion>546.33</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>31.0.15.4633</RHI.InternalDriverVersion>
+<RHI.DriverDate>12-6-2023</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

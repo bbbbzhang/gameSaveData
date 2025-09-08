@@ -1,0 +1,27 @@
+Mono path[0] = 'D:/Games/Cracks/Do Not Feed The Monkeys 2099/Do Not Feed the Monkeys 2099_Data/Managed'
+Mono config path = 'D:/Games/Cracks/Do Not Feed The Monkeys 2099/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.44f1 (7f159b6136da)
+[Subsystems] Discovering subsystems at path D:/Games/Cracks/Do Not Feed The Monkeys 2099/Do Not Feed the Monkeys 2099_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.8115
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.681 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.894900 ms
+WINDOW SOUND PAUSE
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 1e74 -> priority: 1 
+  Thread -> id: 2b0c -> priority: 1 
+  Thread -> id: 988 -> priority: 1 
+  Thread -> id: 1c54 -> priority: 1 
+  Thread -> id: e84 -> priority: 1 
+  Thread -> id: 2104 -> priority: 1 
+  Thread -> id: 1278 -> priority: 1 
+  Thread -> id: 40f0 -> priority: 1 

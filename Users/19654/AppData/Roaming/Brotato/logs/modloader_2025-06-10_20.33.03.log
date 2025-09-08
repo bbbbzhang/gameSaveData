@@ -1,0 +1,278 @@
+2025-06-03 Created log
+22:43:48   INFO ModLoader: game_install_directory: D:/Games/Cracks/Brotato/Brotato/common/Brotato/
+22:43:48   INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+22:43:48   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280"
+22:43:48   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2930905913"
+22:43:48   SUCCESS ModLoader:File: KANA-MultiRes.zip loaded.
+22:43:48   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2931387684"
+22:43:48   SUCCESS ModLoader:File: Darkly77-ContentLoader.zip loaded.
+22:43:48   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2931388196"
+22:43:48   SUCCESS ModLoader:File: Darkly77-Brotils.zip loaded.
+22:43:48   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2934197660"
+22:43:48   SUCCESS ModLoader:File: Darkly77-WiderCharacterSelect-v1.0.1.zip loaded.
+22:43:48   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2941874724"
+22:43:49   SUCCESS ModLoader:File: RobocrafterLP-WeaponSlot.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2945253579"
+22:43:49   SUCCESS ModLoader:File: FrakiLoZ-BladeDancer-V1.0.0.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2947760698"
+22:43:49   SUCCESS ModLoader:File: FrakiLoZ-SpellThief-V1.0.1.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2958802806"
+22:43:49   SUCCESS ModLoader:File: LoongFly-FreeRerolls.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2973127975"
+22:43:49   SUCCESS ModLoader:File: fCore-Bromato.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2994327489"
+22:43:49   SUCCESS ModLoader:File: ToggleModsEnable.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2997813248"
+22:43:49   SUCCESS ModLoader:File: Crimson-Respawn.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3002326847"
+22:43:49   SUCCESS ModLoader:File: RomatoPotato-WCDOT-1.0.1.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3003721761"
+22:43:49   SUCCESS ModLoader:File: monoSDE-RevampedIcons-0.2.1.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3336465279"
+22:43:49   SUCCESS ModLoader:File: UtilityDBLBeta.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3354765603"
+22:43:49   SUCCESS ModLoader:File: Crow-FreeRollsRevisited.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3355234514"
+22:43:49   SUCCESS ModLoader:File: mashtatoBeta.zip loaded.
+22:43:49   INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/"
+22:43:49   SUCCESS ModLoader: DONE: Loaded 16 mod files into the virtual filesystem
+22:43:49   SUCCESS ModLoader: DONE: Setup 16 mods
+22:43:49   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> KANA-MultiRes
+22:43:49   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Darkly77-ContentLoader
+22:43:49   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Darkly77-Brotils
+22:43:49   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Darkly77-WiderCharacterSelect
+22:43:49   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> RobocrafterLP-WeaponSlot
+22:43:49   WARNING ModLoader:Deprecated: DEPRECATED: RobocrafterLP-WeaponSlot - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+22:43:49   FATAL-ERROR ModLoader:ModManifest: A incompatibility for the mod "RobocrafterLP-WeaponSlot" is invalid: Expected a single hyphen in the mod ID, but the incompatibility was: ""
+[
+
+]
+22:43:49   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> FrakiLoZ-BladeDancer
+22:43:50   WARNING ModLoader:Deprecated: DEPRECATED: FrakiLoZ-BladeDancer - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> FrakiLoZ-SpellThief
+22:43:50   WARNING ModLoader:Deprecated: DEPRECATED: FrakiLoZ-SpellThief - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> LoongFly-FreeRerolls
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> fCore-Bromato
+22:43:50   WARNING ModLoader:Deprecated: DEPRECATED: fCore-Bromato - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> QianMo-ToggleModsOptions
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Crimson-Respawn
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> RomatoPotato-WCDoT
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> monoSDE-RevampedIcons
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> LexLooter-UtilityDBL
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Crow-FreeRollsRevisited
+22:43:50   INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> LexLooter-Mashtato
+22:43:50   SUCCESS ModLoader: DONE: Loaded all meta data
+22:43:50   INFO ModLoader: mod_load_order -> 1) Darkly77-Brotils
+22:43:50   INFO ModLoader: mod_load_order -> 2) Darkly77-ContentLoader
+22:43:50   INFO ModLoader: mod_load_order -> 3) LexLooter-UtilityDBL
+22:43:50   INFO ModLoader: mod_load_order -> 4) KANA-MultiRes
+22:43:50   INFO ModLoader: mod_load_order -> 5) Darkly77-WiderCharacterSelect
+22:43:50   INFO ModLoader: mod_load_order -> 6) RobocrafterLP-WeaponSlot
+22:43:50   INFO ModLoader: mod_load_order -> 7) FrakiLoZ-BladeDancer
+22:43:50   INFO ModLoader: mod_load_order -> 8) FrakiLoZ-SpellThief
+22:43:50   INFO ModLoader: mod_load_order -> 9) LoongFly-FreeRerolls
+22:43:50   INFO ModLoader: mod_load_order -> 10) fCore-Bromato
+22:43:50   INFO ModLoader: mod_load_order -> 11) QianMo-ToggleModsOptions
+22:43:50   INFO ModLoader: mod_load_order -> 12) Crimson-Respawn
+22:43:50   INFO ModLoader: mod_load_order -> 13) RomatoPotato-WCDoT
+22:43:50   INFO ModLoader: mod_load_order -> 14) monoSDE-RevampedIcons
+22:43:50   INFO ModLoader: mod_load_order -> 15) Crow-FreeRollsRevisited
+22:43:50   INFO ModLoader: mod_load_order -> 16) LexLooter-Mashtato
+22:43:50   INFO ModLoader: Initializing -> Darkly77-Brotils
+22:43:50   INFO Darkly77-Brotils: Init
+22:43:50   INFO ModLoader: Initializing -> Darkly77-ContentLoader
+22:43:50   INFO Darkly77-ContentLoader: Init
+22:43:50   INFO ModLoader: Initializing -> LexLooter-UtilityDBL
+22:43:50   INFO LexLooter-UtilityDBL: Init
+22:43:50   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.de.translation
+22:43:50   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.en.translation
+22:43:50   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.fr.translation
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.ru.translation
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.zh.translation
+22:43:51   INFO ModLoader: Initializing -> KANA-MultiRes
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/KANA-MultiRes/translations/KANAMultiRes_Translation.de.translation
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/KANA-MultiRes/translations/KANAMultiRes_Translation.en.translation
+22:43:51   INFO KANA-MultiRes:ModMain: Initialized
+22:43:51   INFO ModLoader: Initializing -> Darkly77-WiderCharacterSelect
+22:43:51   INFO Darkly77-WiderCharacterSelect: Init
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:51   INFO ModLoader: Initializing -> RobocrafterLP-WeaponSlot
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO RobocrafterLP-WeaponSlot: Init
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/RobocrafterLP-WeaponSlot/Content/resources/translations/RobocrafterLP-WeaponSlot_translations.en.translation
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:51   INFO ModLoader: Initializing -> FrakiLoZ-BladeDancer
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO FrakiLoZ-BladeDancer: Init
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/FrakiLoZ-BladeDancer/translations/mod_bladedancer_text.en.translation
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:51   INFO ModLoader: Initializing -> FrakiLoZ-SpellThief
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO FrakiLoZ-SpellThief: Init
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/FrakiLoZ-SpellThief/translations/mod_spellthief_text.en.translation
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:51   INFO ModLoader: Initializing -> LoongFly-FreeRerolls
+22:43:51   INFO ModLoader: Initializing -> fCore-Bromato
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO fCore-Bromato: Init
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.de.translation
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.en.translation
+22:43:51   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:51   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.es.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.fr.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.it.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ja.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ko.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pl.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pt.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ru.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.tr.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh_TW.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:52   INFO ModLoader: Initializing -> QianMo-ToggleModsOptions
+22:43:52   INFO QianMo-ToggleModsOptions: Init
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/QianMo-ToggleModsOptions/translations/mods_control_panel_translations.en.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/QianMo-ToggleModsOptions/translations/mods_control_panel_translations.zh.translation
+22:43:52   INFO ModLoader: Initializing -> Crimson-Respawn
+22:43:52   INFO Crimson-Respawn: Init。。。。。。。。。。。。。。。。。
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.de.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.en.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.zh.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.fr.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ru.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ja.translation
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:52   INFO ModLoader: Initializing -> RomatoPotato-WCDoT
+22:43:52   WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+22:43:52   INFO ModLoader: Initializing -> monoSDE-RevampedIcons
+22:43:52   INFO monoSDE-RevampedIcons:Main: Init
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.de.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.en.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.es.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.fr.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.it.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.ja.translation
+22:43:52   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.ko.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.pl.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.pt.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.ru.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.tr.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.zh.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.zh_TW.translation
+22:43:53   INFO ModLoader: Initializing -> Crow-FreeRollsRevisited
+22:43:53   INFO ModLoader: Initializing -> LexLooter-Mashtato
+22:43:53   INFO LexLooter-Mashtato: Init
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.de.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.en.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.fr.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.ru.translation
+22:43:53   INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.zh.translation
+22:43:53   SUCCESS ModLoader: DONE: Completely finished loading mods
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: Null <- res://mods-unpacked/Crimson-Respawn/extensions/main.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: Null <- res://mods-unpacked/Darkly77-WiderCharacterSelect/extensions/ui/menus/run/character_selection.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://entities/birth/entity_birth.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/entity_birth.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://entities/structures/turret/garden/garden.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/garden.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://entities/units/player/player.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/player.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://entities/units/player/player.gd <- res://mods-unpacked/RomatoPotato-WCDoT/extensions/entities/units/player/player.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://entities/units/player/player.gd <- res://mods-unpacked/Crimson-Respawn/extensions/player.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://effects/consumables/consumable_healing_effect.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/consumable_healing_effect.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://main.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/main.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://main.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/main.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://main.gd <- res://mods-unpacked/KANA-MultiRes/extensions/main.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/debug_service.gd <- res://mods-unpacked/KANA-MultiRes/extensions/singletons/debug_service.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/LoongFly-FreeRerolls/extensions/singletons/item_service.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/Crow-FreeRollsRevisited/extensions/singletons/item_service.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/item_service.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/item_service.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/player_run_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/player_run_data.gd
+22:43:56   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/player_run_data.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/player_run_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/monoSDE-RevampedIcons/overwrites/singletons/progress_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/progress_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/KANA-MultiRes/extensions/singletons/progress_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/progress_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/run_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/run_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/run_data.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/run_data.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/linked_stats.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/linked_stats.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/text.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/text.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/Darkly77-Brotils/extensions/singletons/utils.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/Darkly77-ContentLoader/extensions/singletons/utils.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/KANA-MultiRes/extensions/singletons/utils.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/utils.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/weapon_service.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/weapon_service.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/global/focus_emulator.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/global/focus_emulator.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/ingame/ingame_main_menu.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/ingame/ingame_main_menu.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/ingame/ingame_main_menu.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/ingame/ingame_main_menu.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/ingame/upgrades_ui.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/ingame/upgrades_ui.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/menus.gd <- res://mods-unpacked/QianMo-ToggleModsOptions/extensions/ui/menus/menus.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/pages/menu_choose_options.gd <- res://mods-unpacked/QianMo-ToggleModsOptions/extensions/ui/menus/pages/menu_choose_options.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/pages/menu_general_options.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/pages/menu_general_options.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/run/end_run.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/run/end_run.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/run/difficulty_selection/difficulty_selection.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/run/difficulty_selection/difficulty_selection.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/run/locked_panel.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/run/locked_panel.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/shop/base_shop.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/ui/menus/shop/base_shop.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/shop/base_shop.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/shop/base_shop.gd
+22:43:57   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/title_screen/title_screen.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/title_screen/title_screen.gd
+22:43:57   SUCCESS ModLoader: DONE: Installed all script extensions
+22:43:59   INFO Darkly77-Brotils: Ready
+22:43:59   INFO Darkly77-ContentLoader: Done
+22:43:59   INFO LexLooter-UtilityDBL: Done
+22:43:59   INFO ModLoader:ScriptExtension: Installing script extension: res://dlcs/dlc_1/effect_behaviors/enemy/curse_enemy_effect_behavior.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/dlc_1/curse_enemy_effect_behavior.gd
+22:43:59   INFO ModLoader:ScriptExtension: Installing script extension: res://dlcs/dlc_1/dlc_1_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/dlc_1/dlc_1_data.gd
+22:43:59   INFO KANA-MultiRes:ModMain: Finished loading KANA-Multi-Res mod.
+22:43:59   INFO Darkly77-WiderCharacterSelect: Done
+22:43:59   INFO Darkly77-ContentLoader: Loading ContentData (via RobocrafterLP-WeaponSlot) -> res://mods-unpacked/RobocrafterLP-WeaponSlot/Data/Data.tres
+22:43:59   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:43:59   INFO RobocrafterLP-WeaponSlot: Done
+22:43:59   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-BladeDancer) -> res://mods-unpacked/FrakiLoZ-BladeDancer/content_data/contentdata_character_bladedancer.tres
+22:43:59   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-BladeDancer) -> res://mods-unpacked/FrakiLoZ-BladeDancer/content_data/contentdata_weapon_dancingblade.tres
+22:43:59   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-BladeDancer) -> res://mods-unpacked/FrakiLoZ-BladeDancer/content_data/contentdata_weapon_enchantedcutlass.tres
+22:43:59   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:44:00   INFO FrakiLoZ-BladeDancer: Done
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_character_spellthief.tres
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_weapon_soulslicer.tres
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_weapon_arcanaorb.tres
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_item_bluestone.tres
+22:44:00   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:44:00   INFO FrakiLoZ-SpellThief: Done
+22:44:00   INFO LoongFly-FreeRerolls:Main: Ready!
+22:44:00   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:44:00   INFO fCore-Bromato: Adding characters ...
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_characters.tres
+22:44:00   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:44:00   INFO fCore-Bromato: Adding items ...
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_items.tres
+22:44:00   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:44:00   INFO fCore-Bromato: Adding challenges ...
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_challenges.tres
+22:44:00   WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+22:44:00   INFO fCore-Bromato: Adding weapons ...
+22:44:00   INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_weapons.tres
+22:44:00   INFO Crimson-Respawn: Mod Respawn ready
+22:44:00   INFO monoSDE-RevampedIcons:Main: Done
+22:44:00   INFO Crow-FreeRollsRevisited:Main: Ready!
+22:44:00   INFO LexLooter-Mashtato: Done
+22:44:01   INFO Darkly77-ContentLoader: Installing ContentData
+22:44:02   INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/shop/shop.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/shop/shop.gd
+20:33:03   INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+20:33:03   INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+20:33:03   INFO ModLoader:Store: Applying options override with feature tag "steam".

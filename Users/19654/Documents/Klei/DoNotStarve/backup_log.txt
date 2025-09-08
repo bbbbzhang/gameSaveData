@@ -1,0 +1,471 @@
+[00:00:03]: 
+System Memory:
+	Memory Load: 54%
+	Available Physical Memory: 7324m/16085m
+	Available Page File: 8942m/21461m
+	Available Virtual Memory: 3954m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:03]: 
+Process Memory:
+	Peak Working Set Size: 20m
+	Working Set Size: 20m
+	Quota Peak Page Pool Usage: 255k
+	Quota Page Pool Usage: 228k
+	Quota Peak Non Paged Pool Usage:24k
+	Quota Non Paged Pool Usage: 24k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:03]: Starting up
+[00:00:03]: Don't Starve: 429404 WIN32
+Branch: release
+Build Date: 802
+[00:00:03]: SteamID: 292733983277432559
+[00:00:03]: THREAD - started 'GAClient' (34164)
+[00:00:03]: HttpClient::ClientThread::Main()
+[00:00:03]: SteamApps()->BIsSubscribedApp( 282470 ) -- Not Subscribed
+[00:00:03]: SteamApps()->BIsSubscribedApp( 393010 ) -- Not Subscribed
+[00:00:03]: SteamApps()->BIsSubscribedApp( 712640 ) -- Not Subscribed
+[00:00:03]: Dynamic loading level: 0
+[00:00:03]: Cloud enabled: false
+[00:00:03]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 家庭中文版
+    version                   10.0.22631
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  8
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      Intel(R) UHD Graphics
+    driverDate                20220203000000.000000-000
+    megsOfRam                 1024
+    refreshRate               165
+    videoModeDescription      2560 x 1440 x 4294967296 种颜色
+    driverVersion             30.0.101.1340
+
+[00:00:03]: cGame::InitializeOnMainThread
+[00:00:03]: WindowManager::Initialize
+[00:00:03]: GLInfo
+[00:00:03]: ~~~~~~
+[00:00:03]: GL_VENDOR: Google Inc.
+[00:00:03]: GL_RENDERER: ANGLE (Intel(R) UHD Graphics)
+[00:00:03]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:03]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:03]: OpenGL extensions (19, 19):
+[00:00:03]: GL_ANGLE_depth_texture
+[00:00:03]: GL_ANGLE_framebuffer_blit
+[00:00:03]: GL_ANGLE_framebuffer_multisample
+[00:00:03]: GL_ANGLE_instanced_arrays
+[00:00:03]: GL_ANGLE_pack_reverse_row_order
+[00:00:03]: GL_ANGLE_texture_compression_dxt3
+[00:00:03]: GL_ANGLE_texture_compression_dxt5
+[00:00:03]: GL_ANGLE_texture_usage
+[00:00:03]: GL_ANGLE_translated_shader_source
+[00:00:03]: GL_EXT_read_format_bgra
+[00:00:03]: GL_EXT_robustness
+[00:00:03]: GL_EXT_texture_compression_dxt1
+[00:00:03]: GL_EXT_texture_format_BGRA8888
+[00:00:03]: GL_EXT_texture_storage
+[00:00:03]: GL_OES_get_program_binary
+[00:00:03]: GL_OES_packed_depth_stencil
+[00:00:03]: GL_OES_rgb8_rgba8
+[00:00:03]: GL_OES_standard_derivatives
+[00:00:03]: GL_OES_texture_npot
+[00:00:03]: THREAD - started 'WindowsInputManager' (19736)
+[00:00:03]: GL_MAX_TEXTURE_SIZE = 8192
+[00:00:03]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:03]: GL_MAX_RENDERBUFFER_SIZE = 8192
+[00:00:03]: GL_MAX_VIEWPORT_DIMS = 8192, 8192
+[00:00:03]: GL_MAX_VARYING_VECTORS = 10
+[00:00:03]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:03]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:03]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:03]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:03]: 4 compressed texture formats
+[00:00:03]: texture format 0x83f0
+[00:00:03]: texture format 0x83f1
+[00:00:03]: texture format 0x83f2
+[00:00:03]: texture format 0x83f3
+[00:00:03]: FMOD VERSION: 00044464 (00044464)
+[00:00:04]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]: scripts/playerprofile.lua(668,1) loaded profile	
+[00:00:05]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	true	
+[00:00:05]: scripts/translator.lua(73,1) Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:08]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	true	
+[00:00:08]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	true	
+[00:00:08]: scripts/main.lua(234,1) running main.lua
+	
+[00:00:08]: scripts/main.lua(241,1) Sim Seed = 	8000	
+[00:00:08]: scripts/modindex.lua(327,1) loaded modindex	
+[00:00:08]: scripts/modindex.lua(67,1) ModIndex: Beginning normal load sequence.
+	
+[00:00:08]: scripts/modindex.lua(250,1) WARNING loading modinfo.lua: screecher does not specify if it is compatible with Hamlet. It may not work properly.	
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:12]: HttpClientWriteCallback (0x03AAFE20, 1, 16, 0x04C3F910)
+[00:00:12]: HttpClientWriteCallback READ 16 (16 total)
+[00:00:12]: scripts/playerdeaths.lua(74,1) PlayerDeaths could not load morgue	
+[00:00:12]: scripts/playerprofile.lua(668,1) loaded profile	
+[00:00:12]: scripts/playerprofile.lua(739,1) bloom_enabled	false	
+[00:00:12]: DEVICE CAP 1736222700
+[00:00:12]: scripts/saveindex.lua(103,1) Attempting to load save file saveindex	
+[00:00:12]: scripts/saveindex.lua(112,1) loaded saveindex	
+[00:00:12]: scripts/gamelogic.lua(1181,1) OnFilesLoaded()	
+[00:00:12]: scripts/gamelogic.lua(1170,1) OnUpdatePurchaseStateComplete	
+[00:00:13]: scripts/gamelogic.lua(121,1) 	Unload BE	
+[00:00:13]: Could not unload undefined prefab 0x4374c56c (yellowstaff)
+[00:00:13]: Could not unload undefined prefab 0x36768a92 (orangestaff)
+[00:00:13]: Could not unload undefined prefab 0x378bda50 (wall_wood_item)
+[00:00:13]: Could not unload undefined prefab 0x8cc766ef (pumpkin_lantern)
+[00:00:13]: Could not unload undefined prefab 0xe2bfa46 (tophat)
+[00:00:13]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[00:00:13]: Could not unload undefined prefab 0xcceee6c3 (cutstone)
+[00:00:13]: Could not unload undefined prefab 0xaf34ecc0 (trunkvest_winter)
+[00:00:13]: Could not unload undefined prefab 0x875750ea (turf_road)
+[00:00:13]: Could not unload undefined prefab 0xcd7669e5 (nightsword)
+[00:00:13]: Could not unload undefined prefab 0xa8b25abc (wall_ruins_item)
+[00:00:13]: Could not unload undefined prefab 0xefa57cea (bandage)
+[00:00:13]: Could not unload undefined prefab 0x86860bc2 (boomerang)
+[00:00:13]: Could not unload undefined prefab 0xe51acd32 (lightning_rod)
+[00:00:13]: Could not unload undefined prefab 0x947bfcb8 (lightning_rod_placer)
+[00:00:13]: Could not unload undefined prefab 0x68ba7100 (researchlab2)
+[00:00:13]: Could not unload undefined prefab 0x3386a16a (researchlab2_placer)
+[00:00:13]: Could not unload undefined prefab 0x3f5176c5 (firepit)
+[00:00:13]: Could not unload undefined prefab 0x8a462465 (firepit_placer)
+[00:00:13]: Could not unload undefined prefab 0xe87e06c0 (icebox)
+[00:00:13]: Could not unload undefined prefab 0xf2bd1baa (icebox_placer)
+[00:00:13]: Could not unload undefined prefab 0xbea16a01 (hambat)
+[00:00:13]: Could not unload undefined prefab 0x10473739 (spear)
+[00:00:13]: Could not unload undefined prefab 0x8d44bbad (cookpot)
+[00:00:13]: Could not unload undefined prefab 0x30d2f57d (cookpot_placer)
+[00:00:13]: Could not unload undefined prefab 0x89c20b1b (telebase)
+[00:00:13]: Could not unload undefined prefab 0x868a468f (telebase_placer)
+[00:00:13]: Could not unload undefined prefab 0x9d92cce (purpleamulet)
+[00:00:13]: Could not unload undefined prefab 0xcf1626 (rabbithouse)
+[00:00:13]: Could not unload undefined prefab 0x1aa31ec4 (rabbithouse_placer)
+[00:00:13]: Could not unload undefined prefab 0xe474f23c (armormarble)
+[00:00:13]: Could not unload undefined prefab 0x3ccdbe75 (icestaff)
+[00:00:13]: Could not unload undefined prefab 0x68ba7101 (researchlab3)
+[00:00:13]: Could not unload undefined prefab 0xd6985329 (researchlab3_placer)
+[00:00:13]: Could not unload undefined prefab 0x21bf03b1 (thulecite)
+[00:00:13]: Could not unload undefined prefab 0x539e9e8a (trunkvest_summer)
+[00:00:13]: Could not unload undefined prefab 0xf4eb0943 (shovel)
+[00:00:13]: Could not unload undefined prefab 0x761a1799 (gunpowder)
+[00:00:13]: Could not unload undefined prefab 0xe8561ebe (waxpaper)
+[00:00:13]: Could not unload undefined prefab 0x9a99c7b7 (armorgrass)
+[00:00:13]: Could not unload undefined prefab 0xda17c8e8 (armorslurper)
+[00:00:13]: Could not unload undefined prefab 0x47611d71 (sweatervest)
+[00:00:13]: Could not unload undefined prefab 0x85181f7c (minerhat)
+[00:00:13]: Could not unload undefined prefab 0xe8f381a1 (turf_checkerfloor)
+[00:00:13]: Could not unload undefined prefab 0x80cb1e18 (featherhat)
+[00:00:13]: Could not unload undefined prefab 0x2e264dbc (blowdart_pipe)
+[00:00:13]: Could not unload undefined prefab 0x2ca456a0 (orangeamulet)
+[00:00:13]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:00:13]: Could not unload undefined prefab 0xa9bd39bd (beeswax)
+[00:00:13]: Could not unload undefined prefab 0xfbaefa0e (rainometer)
+[00:00:13]: Could not unload undefined prefab 0xeea990dc (rainometer_placer)
+[00:00:13]: Could not unload undefined prefab 0x7fcb037d (greenstaff)
+[00:00:13]: Could not unload undefined prefab 0xf295861a (brush)
+[00:00:13]: Could not unload undefined prefab 0x3c935451 (eyeturret_item)
+[00:00:13]: Could not unload undefined prefab 0xcba65752 (amulet)
+[00:00:13]: Could not unload undefined prefab 0xe16c07d0 (ruinshat)
+[00:00:13]: Could not unload undefined prefab 0xcad92460 (flowerhat)
+[00:00:13]: Could not unload undefined prefab 0xb1591875 (greenamulet)
+[00:00:13]: Could not unload undefined prefab 0xdac7fbf5 (birdcage)
+[00:00:13]: Could not unload undefined prefab 0xe1f9b335 (birdcage_placer)
+[00:00:13]: Could not unload undefined prefab 0x68ba7102 (researchlab4)
+[00:00:13]: Could not unload undefined prefab 0x79aa04e8 (researchlab4_placer)
+[00:00:13]: Could not unload undefined prefab 0x2c158f7c (torch)
+[00:00:13]: Could not unload undefined prefab 0x265d1455 (turf_woodfloor)
+[00:00:13]: Could not unload undefined prefab 0xa8651fd0 (saddle_war)
+[00:00:13]: Could not unload undefined prefab 0x9a0ed246 (yellowamulet)
+[00:00:13]: Could not unload undefined prefab 0x9a6718eb (resurrectionstatue)
+[00:00:13]: Could not unload undefined prefab 0x6b0c64bf (resurrectionstatue_placer)
+[00:00:13]: Could not unload undefined prefab 0xdfb37276 (telestaff)
+[00:00:13]: Could not unload undefined prefab 0x3f6c9ebb (diviningrod)
+[00:00:13]: Could not unload undefined prefab 0xe5936c6a (firestaff)
+[00:00:13]: Could not unload undefined prefab 0x34fb4f82 (pitchfork)
+[00:00:13]: Could not unload undefined prefab 0x18f754c1 (fence_item)
+[00:00:13]: Could not unload undefined prefab 0x3d4d1dc6 (bedroll_straw)
+[00:00:13]: Could not unload undefined prefab 0xadfdb7ae (armor_sanity)
+[00:00:13]: Could not unload undefined prefab 0x76d26529 (bugnet)
+[00:00:13]: Could not unload undefined prefab 0x5ce426c4 (blowdart_fire)
+[00:00:13]: Could not unload undefined prefab 0xa14b3e59 (fence_gate_item)
+[00:00:13]: Could not unload undefined prefab 0x4740cff7 (tent)
+[00:00:13]: Could not unload undefined prefab 0xb4d742b3 (tent_placer)
+[00:00:13]: Could not unload undefined prefab 0x62a5e7fe (nightlight)
+[00:00:13]: Could not unload undefined prefab 0x185806ec (nightlight_placer)
+[00:00:13]: Could not unload undefined prefab 0xa1e54a85 (goldenaxe)
+[00:00:13]: Could not unload undefined prefab 0xe6af29d2 (compass)
+[00:00:13]: Could not unload undefined prefab 0x5e02cffb (saltlick)
+[00:00:13]: Could not unload undefined prefab 0x5ddc09af (saltlick_placer)
+[00:00:13]: Could not unload undefined prefab 0x19c004b2 (pighouse)
+[00:00:13]: Could not unload undefined prefab 0x469fe538 (pighouse_placer)
+[00:00:13]: Could not unload undefined prefab 0xca16846d (boards)
+[00:00:13]: Could not unload undefined prefab 0xfa14dec6 (birdtrap)
+[00:00:13]: Could not unload undefined prefab 0x7c11af2 (treasurechest)
+[00:00:13]: Could not unload undefined prefab 0xd411bef8 (treasurechest_placer)
+[00:00:13]: Could not unload undefined prefab 0xef21c9f2 (rope)
+[00:00:13]: Could not unload undefined prefab 0xb981ecda (fast_farmplot)
+[00:00:13]: Could not unload undefined prefab 0x2639673 (farmplot_placer)
+[00:00:13]: Could not unload undefined prefab 0xbcfca634 (strawhat)
+[00:00:13]: Could not unload undefined prefab 0x111db7ae (footballhat)
+[00:00:13]: Could not unload undefined prefab 0x1cd9e60e (razor)
+[00:00:13]: Could not unload undefined prefab 0x1883478c (bundlewrap)
+[00:00:13]: Could not unload undefined prefab 0xd8067599 (beehat)
+[00:00:13]: Could not unload undefined prefab 0x68370bd6 (trap_teeth)
+[00:00:13]: Could not unload undefined prefab 0x15220700 (backpack)
+[00:00:13]: Could not unload undefined prefab 0x1541c9cc (armorruins)
+[00:00:13]: Could not unload undefined prefab 0x7f46d7c0 (batbat)
+[00:00:13]: Could not unload undefined prefab 0xd5201c09 (beebox)
+[00:00:13]: Could not unload undefined prefab 0x753b7621 (beebox_placer)
+[00:00:13]: Could not unload undefined prefab 0xb918c5fd (fishingrod)
+[00:00:13]: Could not unload undefined prefab 0xdeb59676 (saddle_basic)
+[00:00:13]: Could not unload undefined prefab 0x4742feaa (saddlehorn)
+[00:00:13]: Could not unload undefined prefab 0x5a59f5cc (goldenshovel)
+[00:00:13]: Could not unload undefined prefab 0x3532833e (minisign_item)
+[00:00:13]: Could not unload undefined prefab 0xb6201ac9 (onemanband)
+[00:00:13]: Could not unload undefined prefab 0x4685284 (umbrella)
+[00:00:13]: Could not unload undefined prefab 0xda1f7edf (winterometer)
+[00:00:13]: Could not unload undefined prefab 0x955229cb (winterometer_placer)
+[00:00:13]: Could not unload undefined prefab 0x303bfdce (axe)
+[00:00:13]: Could not unload undefined prefab 0x94cf6c04 (goldenpickaxe)
+[00:00:13]: Could not unload undefined prefab 0x3949a42 (meatrack)
+[00:00:13]: Could not unload undefined prefab 0x56340ba8 (meatrack_placer)
+[00:00:13]: Could not unload undefined prefab 0xbc429ef3 (bushhat)
+[00:00:13]: Could not unload undefined prefab 0xfdcabd86 (earmuffshat)
+[00:00:13]: Could not unload undefined prefab 0xa801bd29 (saddle_race)
+[00:00:13]: Could not unload undefined prefab 0xc4101586 (hammer)
+[00:00:13]: Could not unload undefined prefab 0x3cb06493 (healingsalve)
+[00:00:13]: Could not unload undefined prefab 0x39311b4d (grass_umbrella)
+[00:00:13]: Could not unload undefined prefab 0x37c31aa6 (lantern)
+[00:00:13]: Could not unload undefined prefab 0xba3ae90 (featherpencil)
+[00:00:13]: Could not unload undefined prefab 0x1daa5ab7 (turf_carpetfloor)
+[00:00:13]: Could not unload undefined prefab 0x3edae42e (multitool_axe_pickaxe)
+[00:00:13]: Could not unload undefined prefab 0x7f2d088c (armorwood)
+[00:00:13]: Could not unload undefined prefab 0xde4bc7e7 (wall_hay_item)
+[00:00:13]: Could not unload undefined prefab 0xf8e41fa9 (bedroll_furry)
+[00:00:13]: Could not unload undefined prefab 0xb1fa364d (pickaxe)
+[00:00:13]: Could not unload undefined prefab 0xec43b9f4 (sewing_kit)
+[00:00:13]: Could not unload undefined prefab 0x2e54b535 (cane)
+[00:00:13]: Could not unload undefined prefab 0x1c48b877 (campfire)
+[00:00:13]: Could not unload undefined prefab 0xdfe3a33 (campfire_placer)
+[00:00:13]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[00:00:13]: Could not unload undefined prefab 0x75370b6 (papyrus)
+[00:00:13]: Could not unload undefined prefab 0x8bbc7f55 (beemine)
+[00:00:13]: Could not unload undefined prefab 0xfb180669 (blowdart_sleep)
+[00:00:13]: Could not unload undefined prefab 0x38967bb2 (researchlab)
+[00:00:13]: Could not unload undefined prefab 0x77e9ae38 (researchlab_placer)
+[00:00:13]: Could not unload undefined prefab 0x739fbe3c (homesign)
+[00:00:13]: Could not unload undefined prefab 0x33fdbd2e (homesign_placer)
+[00:00:13]: Could not unload undefined prefab 0xdf13a0c1 (ruins_bat)
+[00:00:13]: Could not unload undefined prefab 0x22ec3802 (wall_stone_item)
+[00:00:13]: Could not unload undefined prefab 0x1153dbb9 (pottedfern)
+[00:00:13]: Could not unload undefined prefab 0xf2102a71 (pottedfern_placer)
+[00:00:13]: Could not unload undefined prefab 0x263bc4d5 (slow_farmplot)
+[00:00:13]: Could not unload undefined prefab 0x2639673 (farmplot_placer)
+[00:00:13]: Could not unload undefined prefab 0xe5071541 (nightmare_timepiece)
+[00:00:13]: Could not unload undefined prefab 0xc3bf310c (blueamulet)
+[00:00:13]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[00:00:13]: Could not unload undefined prefab 0x4d9a964d (trap)
+[00:00:13]: Could not unload undefined prefab 0x6f21e747 (piggyback)
+[00:00:13]: Could not unload undefined prefab 0xdb20fa95 (heatrock)
+[00:00:13]: Could not unload undefined prefab 0xf0330963 (panflute)
+[00:00:13]: Could not unload undefined prefab 0x33ab6997 (hud)
+[00:00:13]: Could not unload undefined prefab 0x3364203d (forest)
+[00:00:13]: Could not unload undefined prefab 0x2e5cb72d (cave)
+[00:00:13]: Could not unload undefined prefab 0x48fc3ce3 (porkland)
+[00:00:13]: Could not unload undefined prefab 0x7c61e1f5 (shipwrecked)
+[00:00:13]: Could not unload undefined prefab 0xa552d992 (volcanolevel)
+[00:00:13]: Could not unload undefined prefab 0x40b82ff2 (maxwell)
+[00:00:13]: Could not unload undefined prefab 0xbddda476 (fire)
+[00:00:13]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:00:13]: Could not unload undefined prefab 0x427b5b39 (shatter)
+[00:00:13]: scripts/gamelogic.lua(126,1) 	Unload BE done	
+[00:00:39]: scripts/gamelogic.lua(136,1) 	Load FE	
+[00:00:39]: scripts/gamelogic.lua(138,1) 	Load FE: done	
+[00:00:39]: SimLuaProxy::QueryServer()
+[00:00:39]: scripts/modindex.lua(77,1) ModIndex: Load sequence finished successfully.
+	
+[00:00:39]: Reset() returning
+[00:00:39]: QueryServerComplete no callback
+[00:00:40]: HttpClientWriteCallback (0x03AAFF72, 1, 1904, 0x04C3F910)
+[00:00:40]: HttpClientWriteCallback READ 1904 (1904 total)
+[00:00:40]: HttpClientWriteCallback (0x03AAFE20, 1, 16, 0x04C3F910)
+[00:00:40]: HttpClientWriteCallback READ 16 (16 total)
+[00:00:40]: QueryServerComplete no callback
+[00:00:47]: scripts/playerprofile.lua(158,1) LOADING SCREEN FLASH	
+[00:00:47]: scripts/playerprofile.lua(160,1) USE SETTING FILE	1	
+[00:00:47]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	true	
+[00:00:47]: CURRENT: 2560, 1440, 165
+[00:00:49]: CURRENT: 2560, 1440, 165
+[00:01:08]: SetDisplayMode
+[00:01:08]: fullscreen==true
+[00:01:08]: WindowManager::SetFullscreen(0, 2560, 1440, 60)
+[00:01:27]: scripts/playerprofile.lua(148,1) SETTING SCREEN FLASH	
+[00:01:38]: scripts/playerprofile.lua(158,1) LOADING SCREEN FLASH	
+[00:01:38]: scripts/playerprofile.lua(160,1) USE SETTING FILE	1	
+[00:01:38]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	false	
+[00:01:38]: CURRENT: 2560, 1440, 60
+[00:01:38]: CURRENT: 2560, 1440, 60
+[00:01:42]: scripts/playerprofile.lua(148,1) SETTING SCREEN FLASH	
+[00:01:45]: scripts/playerprofile.lua(158,1) LOADING SCREEN FLASH	
+[00:01:45]: scripts/playerprofile.lua(160,1) USE SETTING FILE	1	
+[00:01:45]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	false	
+[00:01:45]: CURRENT: 2560, 1440, 60
+[00:01:45]: CURRENT: 2560, 1440, 60
+[00:01:48]: scripts/playerprofile.lua(148,1) SETTING SCREEN FLASH	
+[00:01:57]: scripts/modindex.lua(250,1) WARNING loading modinfo.lua: screecher does not specify if it is compatible with Hamlet. It may not work properly.	
+[00:01:57]: GetCachedUGCCount 0
+[00:01:57]: EnumerateUserSubscribedFiles(0)
+[00:01:57]: OnEnumerateUserSubscribedFilesResult 
+[00:01:57]:    EResult 1, results 0/0
+[00:01:57]: Enum complete. Found 0 mods.
+[00:01:57]: DeleteUnsubscribedFiles [../mods]
+[00:01:57]: SteamModWorkshop::CompleteCallback (success, Refreshing mods complete. None found.) set
+[00:01:57]: SimLuaProxy::OnUpdateWorkshopModsComplete(ok., Refreshing mods complete. None found.)
+[00:01:57]: scripts/modindex.lua(250,1) WARNING loading modinfo.lua: screecher does not specify if it is compatible with Hamlet. It may not work properly.	
+[00:01:57]: scripts/screens/modsscreen.lua(915,1) Reloading Mod Info Prefabs	
+[00:01:57]: scripts/screens/modsscreen.lua(902,1) Loading Mod Info Prefabs	
+[00:01:57]: scripts/screens/modsscreen.lua(907,1) Unloading Mod Info Prefabs	
+[00:01:58]: scripts/screens/modsscreen.lua(827,1) RESTART REQUIRED	
+[00:02:02]: scripts/screens/modsscreen.lua(907,1) Unloading Mod Info Prefabs	
+[00:02:03]: scripts/screens/newgamescreen.lua(29,1) Loading slot	1	for new game	
+[00:02:05]: scripts/screens/newgamescreen.lua(181,1) GETTING CUSTOM OPTIONS FOR 	0	
+[00:02:05]: scripts/playerprofile.lua(864,1) Migrating presets	
+[00:02:05]: scripts/screens/customizationscreen.lua(81,1) CUSTOMIZATION SCREEN	
+[00:02:15]: scripts/screens/newgamescreen.lua(181,1) GETTING CUSTOM OPTIONS FOR 	0	
+[00:02:16]: scripts/saveindex.lua(1431,1) SaveIndex:StartSurvivalMode!:	ROG	false	SW	false	HAM	false	
+[00:02:16]: Collecting garbage...
+[00:02:16]: lua_gc took 0.02 seconds
+[00:02:16]: ~SimLuaProxy()
+[00:02:16]: lua_close took 0.02 seconds
+[00:02:16]: ReleaseAll
+[00:02:16]: ReleaseAll Finished
+[00:02:16]: cGame::StartPlaying
+[00:02:16]: LOADING LUA
+[00:02:16]: DoLuaFile scripts/main.lua
+[00:02:16]: DoLuaFile loading buffer scripts/main.lua
+[00:02:16]: scripts/playerprofile.lua(668,1) loaded profile	
+[00:02:16]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	false	
+[00:02:16]: scripts/translator.lua(73,1) Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:02:17]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	false	
+[00:02:17]: scripts/playerprofile.lua(398,1) FOUND THE NEW DATA	false	
+[00:02:17]: scripts/main.lua(234,1) running main.lua
+	
+[00:02:17]: scripts/main.lua(241,1) Sim Seed = 	138000	
+[00:02:17]: scripts/modindex.lua(327,1) loaded modindex	
+[00:02:17]: scripts/modindex.lua(67,1) ModIndex: Beginning normal load sequence.
+	
+[00:02:17]: scripts/modindex.lua(250,1) WARNING loading modinfo.lua: screecher does not specify if it is compatible with Hamlet. It may not work properly.	
+[00:02:17]: LOADING LUA SUCCESS
+[00:02:17]: scripts/playerdeaths.lua(74,1) PlayerDeaths could not load morgue	
+[00:02:17]: scripts/playerprofile.lua(668,1) loaded profile	
+[00:02:17]: scripts/playerprofile.lua(739,1) bloom_enabled	true	
+[00:02:17]: DEVICE CAP 1736222825
+[00:02:17]: scripts/saveindex.lua(103,1) Attempting to load save file saveindex	
+[00:02:17]: scripts/saveindex.lua(112,1) loaded saveindex	
+[00:02:17]: scripts/gamelogic.lua(1181,1) OnFilesLoaded()	
+[00:02:17]: scripts/gamelogic.lua(1170,1) OnUpdatePurchaseStateComplete	
+[00:02:17]: WorldSim::SimThread::SimThread()
+[00:02:17]: ABOUT TO INSTALL STACKTRACE
+[00:02:17]: DoLuaFile scripts/stacktrace.lua
+[00:02:17]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:02:17]: INSTALLED STACKTRACE
+[00:02:17]: WorldSim::SimThread::SimThread() complete
+[00:02:17]: THREAD - started 'WorldSim' (30836)
+[00:02:17]: WorldSim::SimThread::Main()
+[00:02:17]: DoLuaFile scripts/worldgen_main.lua
+[00:02:17]: scripts/modindex.lua(77,1) ModIndex: Load sequence finished successfully.
+	
+[00:02:17]: Reset() returning
+[00:02:17]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:02:17]: D:/Games/Cracks/Dont Starve/data/scripts/dlcsupport_worldgen.lua(26,1) DLC(RoG) enabled : 	false	
+[00:02:17]: D:/Games/Cracks/Dont Starve/data/scripts/dlcsupport_worldgen.lua(27,1) DLC(Shipwrecked) enabled : 	false	
+[00:02:18]: scripts/worldgen_main.lua(105,1) running worldgen_main.lua
+	
+[00:02:18]: scripts/worldgen_main.lua(107,1) SEED = 	1736222825	
+[00:02:18]: scripts/worldgen_main.lua(485,1) WORLDGEN PRESET: 	SURVIVAL_DEFAULT	
+[00:02:18]: scripts/worldgen_main.lua(493,1) WORLDGEN LEVEL ID: 	1	
+[00:02:18]: scripts/worldgen_main.lua(500,1) 
+#######
+#
+# Generating Normal Mode Default Level
+#
+#######
+	
+[00:02:18]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(221,1) Creating story...	
+[00:02:18]: D:/Games/Cracks/Dont Starve/data/scripts/map/storygen.lua(414,1) LinkNodesByKeys	
+[00:02:18]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(259,1) Baking map...	350	
+[00:02:18]: Could not unload undefined prefab 0xed95c616 (bundle_blueprint)
+[00:02:18]: Could not unload undefined prefab 0x97f0225e (bundle_large)
+[00:02:18]: Could not unload undefined prefab 0x22010b52 (bundle_medium)
+[00:02:18]: Could not unload undefined prefab 0x995e7e0a (bundle_small)
+[00:02:18]: Could not unload undefined prefab 0xf0533cd6 (area_maxwelllight)
+[00:02:18]: Could not unload undefined prefab 0x5f41a1f4 (brokenwalls)
+[00:02:18]: Could not unload undefined prefab 0x7ec8eb53 (nightmare_flame)
+[00:02:18]: Could not unload undefined prefab 0x5bb6aaea (paired_maxwelllight)
+[00:02:18]: Could not unload undefined prefab 0xed1e0dd6 (phonograph)
+[00:02:18]: Could not unload undefined prefab 0x223749c9 (player_common)
+[00:02:18]: Could not unload undefined prefab 0xe3941c2c (researchmachine)
+[00:02:18]: Could not unload undefined prefab 0xf20f2548 (ruin)
+[00:02:18]: Could not unload undefined prefab 0x92464c8a (stairs)
+[00:02:18]: Could not unload undefined prefab 0x8b7cefce (tree_clump)
+[00:02:18]: Could not unload undefined prefab 0xfa7e8231 (unlockable_players)
+[00:02:18]: Could not unload undefined prefab 0x350a87f2 (note)
+[00:02:18]: Could not unload undefined prefab 0x350a87f2 (note)
+[00:02:18]: Could not unload undefined prefab 0xaf0f7120 (bundle_unwrap)
+[00:02:18]: Could not unload undefined prefab 0x350a87f2 (note)
+[00:02:19]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(284,1) Map Baked!	
+[00:02:19]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(315,1) Encoding...	
+[00:02:19]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(319,1) Encoding... DONE	
+[00:02:19]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(374,1) Checking Tags	
+[00:02:19]: D:/Games/Cracks/Dont Starve/data/scripts/map/forest_map.lua(487,1) Populating voronoi...	
+[00:02:19]: Collecting garbage...
+[00:02:19]: lua_gc took 0.02 seconds
+[00:02:19]: ~SimLuaProxy()
+[00:02:19]: lua_close took 0.02 seconds
+[00:02:19]: Could not unload undefined prefab 0xed95c616 (bundle_blueprint)
+[00:02:19]: Could not unload undefined prefab 0x97f0225e (bundle_large)
+[00:02:19]: Could not unload undefined prefab 0x22010b52 (bundle_medium)
+[00:02:19]: Could not unload undefined prefab 0x995e7e0a (bundle_small)
+[00:02:19]: Could not unload undefined prefab 0xf0533cd6 (area_maxwelllight)
+[00:02:19]: Could not unload undefined prefab 0x5f41a1f4 (brokenwalls)
+[00:02:19]: Could not unload undefined prefab 0x7ec8eb53 (nightmare_flame)
+[00:02:19]: Could not unload undefined prefab 0x5bb6aaea (paired_maxwelllight)
+[00:02:19]: Could not unload undefined prefab 0xed1e0dd6 (phonograph)
+[00:02:19]: Could not unload undefined prefab 0x223749c9 (player_common)
+[00:02:19]: Could not unload undefined prefab 0xe3941c2c (researchmachine)
+[00:02:19]: Could not unload undefined prefab 0xf20f2548 (ruin)
+[00:02:19]: Could not unload undefined prefab 0x92464c8a (stairs)
+[00:02:19]: Could not unload undefined prefab 0x8b7cefce (tree_clump)
+[00:02:19]: Could not unload undefined prefab 0xfa7e8231 (unlockable_players)
+[00:02:19]: Could not unload undefined prefab 0x350a87f2 (note)
+[00:02:19]: Could not unload undefined prefab 0x350a87f2 (note)
+[00:02:19]: Could not unload undefined prefab 0xaf0f7120 (bundle_unwrap)
+[00:02:19]: Could not unload undefined prefab 0x350a87f2 (note)
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:02:19]: Assert failure '0 == sOpenHandles->size()' at ..\source\systemlib\kleifile.cpp(306): Trace follows...
+

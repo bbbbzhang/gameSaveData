@@ -1,0 +1,17 @@
+"966330"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"SAVEGAME.BIN"
+	{
+		"root"		"0"
+		"size"		"32768"
+		"localtime"		"1593932376"
+		"time"		"1593932375"
+		"remotetime"		"1593932384"
+		"sha"		"ae18c92364693fb045f8f9153384e7b9c180992d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

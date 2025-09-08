@@ -1,0 +1,29 @@
+"493540"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"20"
+	"000.sav"
+	{
+		"root"		"0"
+		"size"		"118308"
+		"localtime"		"1622259934"
+		"time"		"1622259934"
+		"remotetime"		"1622259933"
+		"sha"		"20a35544a49a69e24dcc17b4818f6d33d08b2435"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"RoamingConfig.cfg"
+	{
+		"root"		"0"
+		"size"		"3"
+		"localtime"		"1587695748"
+		"time"		"1587695748"
+		"remotetime"		"1587695747"
+		"sha"		"57218c316b6921e2cd61027a2387edc31a2d9471"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

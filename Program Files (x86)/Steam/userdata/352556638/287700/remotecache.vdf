@@ -1,0 +1,65 @@
+"287700"
+{
+	"ChangeNumber"		"13"
+	"ostype"		"0"
+	"mgsv_gz_save_data_gl_en0"
+	{
+		"root"		"0"
+		"size"		"69696"
+		"localtime"		"1755750009"
+		"time"		"1755750014"
+		"remotetime"		"1755750014"
+		"sha"		"40551428916a77b9111e7525539f16c02313485b"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"mgsv_gz_save_data_gl_en1"
+	{
+		"root"		"0"
+		"size"		"69696"
+		"localtime"		"1756987347"
+		"time"		"1756987356"
+		"remotetime"		"1756987356"
+		"sha"		"6cb1ebde669716e37fed27c64ad1da3ff3d40e77"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"PERSONAL_DATA"
+	{
+		"root"		"0"
+		"size"		"3088"
+		"localtime"		"1756987329"
+		"time"		"1756987338"
+		"remotetime"		"1756987338"
+		"sha"		"1e23ee0c1e0202022d29fd14471a46ee1d7c2e3a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"TPP_CONFIG_DATA"
+	{
+		"root"		"0"
+		"size"		"2064"
+		"localtime"		"1756987495"
+		"time"		"1756987504"
+		"remotetime"		"1756987504"
+		"sha"		"6476e4f036d4a1101a27259a10f13e81313b5dee"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"TPP_GAME_DATA"
+	{
+		"root"		"0"
+		"size"		"199916"
+		"localtime"		"1685629143"
+		"time"		"1685629142"
+		"remotetime"		"1685629155"
+		"sha"		"f953dfa7776ce9fa79deda97378df28b50567980"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

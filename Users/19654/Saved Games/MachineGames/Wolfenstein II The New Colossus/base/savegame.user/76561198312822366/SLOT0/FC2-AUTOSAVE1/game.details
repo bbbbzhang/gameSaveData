@@ -1,0 +1,12 @@
+checksum=116272680
+completionRation=2%
+date=1684050963
+difficulty=0
+gamePlayTime=9602
+gameVersion=1145896965
+mapName=game/dlc/c02/c2v1
+mapNiceName=#str_chronicle_2_v1_title
+matName=textures/guis/mission_fc/c2v1/c2v1_mission_obj_2_row
+missionName=#str_mission_cobalt_c2v1_main_name
+objectiveDesc=#str_mission_cobalt_c2v1_main_obj_02_locate_summary
+objectiveName=#str_mission_cobalt_c2v1_main_obj_02_locate_name

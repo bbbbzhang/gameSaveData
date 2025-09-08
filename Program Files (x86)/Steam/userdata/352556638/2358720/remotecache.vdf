@@ -1,0 +1,41 @@
+"2358720"
+{
+	"ChangeNumber"		"64"
+	"ostype"		"0"
+	"b1/Saved/SaveGames/76561198312822366/ArchiveSaveFile.1.sav"
+	{
+		"root"		"1"
+		"size"		"3052691"
+		"localtime"		"1755955106"
+		"time"		"1755955112"
+		"remotetime"		"1755955112"
+		"sha"		"69702a3799310f211e1a87a2fc14fd3727f76686"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"b1/Saved/SaveGames/76561198312822366/ShareArchiveSaveFile.sav"
+	{
+		"root"		"1"
+		"size"		"122"
+		"localtime"		"1743771863"
+		"time"		"1743771868"
+		"remotetime"		"1743771868"
+		"sha"		"c4152205fdb8c62167eca3722ed528cfc1eb4e04"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"b1/Saved/SaveGames/76561198312822366/UserSettingSaveGame.sav"
+	{
+		"root"		"1"
+		"size"		"969"
+		"localtime"		"1756955799"
+		"time"		"1756955807"
+		"remotetime"		"1756955807"
+		"sha"		"4aea3bd617186124591df882f58b6b70d5b0cd71"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,91 @@
+Started Fri Apr 25 07:22:23 2025
+
+session id: 1745536942
+LOADED: 'Init' 15 ms on Game Loading
+LOADING:Long reanim 'reanim\LoadBar_sprout.reanim' 123 ms on Game Loading
+LOADING:Long reanim 'reanim\LoadBar_Zombiehead.reanim' 108 ms on Game Loading
+First Draw Time: 1297 ms
+LOADED: 'LoaderBar' 249 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 211 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 236 ms on Game Loading
+Load Time: 8968 ms
+LOADED: 'DelayLoad_Zombatar' 231 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 64 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 1165 ms on Game Selector
+LOADING:Long reanim 'reanim\Zombie_charred.reanim' 150 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 39 ms on Game Selector
+LOADED: 'DelayLoad_Credits' 372 ms on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_zamboni.reanim' 114 ms on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_charred_zamboni.reanim' 103 ms on [INTRO]
+LOADING:Long reanim 'reanim\SunFlower.reanim' 141 ms on [INTRO]
+LOADING:Long reanim 'reanim\Tanglekelp.reanim' 116 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_football.reanim' on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_football.reanim' 147 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_snorkle.reanim' on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_snorkle.reanim' 120 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_catapult.reanim' 238 ms on [INTRO]
+Started Tue Apr 29 12:08:15 2025
+
+session id: 1745899693
+LOADED: 'Init' 87 ms on Game Loading
+LOADING:Long reanim 'reanim\LoadBar_sprout.reanim' 1486 ms on Game Loading
+LOADING:Long reanim 'reanim\LoadBar_Zombiehead.reanim' 1170 ms on Game Loading
+First Draw Time: 6109 ms
+LOADED: 'LoaderBar' 1136 ms on Game Loading
+LOADING:Long reanim 'reanim\Puff.reanim' 438 ms on Game Loading
+LOADING:Long reanim 'reanim\StartReadySetPlant.reanim' 183 ms on Game Loading
+LOADING:Long reanim 'reanim\FinalWave.reanim' 127 ms on Game Loading
+LOADING:Long reanim 'reanim\Sun.reanim' 682 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 2560 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_paper.reanim' 2266 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 2103 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_hand.reanim' 637 ms on Game Loading
+LOADING:Long reanim 'reanim\PeaShooterSingle.reanim' 510 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie_charred.reanim' 954 ms on Game Loading
+Load Time: 56625 ms
+LOADED: 'DelayLoad_Zombatar' 4107 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 674 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+LOADING:Long reanim 'reanim\Zombie_FlagPole.reanim' 445 ms on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 14648 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 201 ms on Game Selector
+LOADING:Long reanim 'reanim\LawnMower.reanim' 1291 ms on [INTRO]
+LOADING:Long reanim 'reanim\splash.reanim' 522 ms on [INTRO]
+LOADING:Long reanim 'reanim\PoolCleaner.reanim' 1368 ms on [INTRO]
+LOADED: 'DelayLoad_Credits' 2446 ms on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_zamboni.reanim' 1323 ms on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_imp.reanim' 783 ms on [INTRO]
+Started Tue Apr 29 12:12:30 2025
+
+session id: 1745899948
+LOADED: 'Init' 6 ms on Game Loading
+First Draw Time: 2000 ms
+LOADED: 'LoaderBar' 418 ms on Game Loading
+LOADING:Long reanim 'reanim\Zombie.reanim' 116 ms on Game Loading
+LOADING:Long reanim 'reanim\SelectorScreen.reanim' 249 ms on Game Loading
+Load Time: 8062 ms
+LOADED: 'DelayLoad_Zombatar' 236 ms on Game Selector
+LOADED: 'DelayLoad_Almanac' 82 ms on Game Selector
+Non-cheater failed to preload 'reanim\Zombie_FlagPole.reanim' on Game Selector
+Non-cheater failed to preload 'reanim\zombatar_zombie_head.reanim' on Game Selector
+LOADING:Long reanim 'reanim\zombatar_zombie_head.reanim' 260 ms on Game Selector
+LOADED: 'DelayLoad_Background3' 34 ms on Game Selector
+LOADED: 'DelayLoad_Credits' 361 ms on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_charred_zamboni.reanim' 169 ms on [INTRO]
+LOADING:Long reanim 'reanim\SunFlower.reanim' 249 ms on [INTRO]
+LOADING:Long reanim 'reanim\ThreePeater.reanim' 160 ms on [INTRO]
+LOADING:Long reanim 'reanim\Torchwood.reanim' 102 ms on [INTRO]
+LOADING:Long reanim 'reanim\fire.reanim' 161 ms on [INTRO]
+LOADING:Long reanim 'reanim\Tanglekelp.reanim' 195 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_football.reanim' on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_football.reanim' 136 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_snorkle.reanim' on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_snorkle.reanim' 244 ms on [INTRO]
+Non-cheater failed to preload 'reanim\Zombie_catapult.reanim' on [INTRO]
+LOADING:Long reanim 'reanim\Zombie_catapult.reanim' 912 ms on [INTRO]
+LOADED: 'DelayLoad_Background1' 36 ms on 1-1
+LOADED: 'DelayLoad_BackgroundUnsodded' 52 ms on 1-1

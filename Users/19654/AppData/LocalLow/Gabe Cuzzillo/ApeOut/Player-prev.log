@@ -1,0 +1,52 @@
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Ape Out/ApeOut_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8033 MB
+    Driver:   31.0.15.2698
+Default GameObject Tag: Player already registered
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.374400 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.341300 ms
+No Valid Keyzones for notes
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+AudioHelm.Sampler:GetPreppedAudioSources(Int32, Single)
+AudioHelm.Sampler:NoteOn(Int32, Boolean, Single)
+AudioHelm.Sampler:NoteOn(Int32, Single)
+MusicSystem:StopMusic()
+MainMenu:Start()
+
+Note: 57will not be played.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+AudioHelm.Sampler:NoteOn(Int32, Boolean, Single)
+AudioHelm.Sampler:NoteOn(Int32, Single)
+MusicSystem:StopMusic()
+MainMenu:Start()
+
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 265812.
+Total: 99.956200 ms (FindLiveObjects: 6.680600 ms CreateObjectMapping: 14.706000 ms MarkObjects: 78.175300 ms  DeleteObjects: 0.393600 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.821300 ms
+
+Unloading 339 unused Assets to reduce memory usage. Loaded Objects now: 310294.
+Total: 119.482500 ms (FindLiveObjects: 9.368200 ms CreateObjectMapping: 14.021300 ms MarkObjects: 94.557200 ms  DeleteObjects: 1.533500 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 4428 -> priority: 1 
+  Thread -> id: c70 -> priority: 1 
+  Thread -> id: 3e30 -> priority: 1 
+  Thread -> id: f8c -> priority: 1 
+  Thread -> id: 46ec -> priority: 1 
+  Thread -> id: 1234 -> priority: 1 
+  Thread -> id: 160 -> priority: 1 
+  Thread -> id: af4 -> priority: 1 

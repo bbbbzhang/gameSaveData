@@ -1,0 +1,29 @@
+"814380"
+{
+	"ChangeNumber"		"4"
+	"ostype"		"0"
+	"Sekiro/76561198312822366/S0000.sl2"
+	{
+		"root"		"4"
+		"size"		"11928528"
+		"localtime"		"1756987392"
+		"time"		"1756987401"
+		"remotetime"		"1756987401"
+		"sha"		"7be0e5f85435c39c3425c871a7a925f8d99e21e7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Sekiro/GraphicsConfig.xml"
+	{
+		"root"		"4"
+		"size"		"1924"
+		"localtime"		"1756987392"
+		"time"		"1756987401"
+		"remotetime"		"1756987401"
+		"sha"		"40f2fc685ab039a3145a550dc02c4c7573c27017"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

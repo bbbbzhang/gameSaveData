@@ -1,0 +1,29 @@
+"252610"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	".madgarden/DR2C/cheevos.save"
+	{
+		"root"		"14"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	".madgarden/DR2C/gstats.save"
+	{
+		"root"		"14"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

@@ -1,0 +1,5 @@
+"AcknowledgedViolators"
+{
+	"trainer_violator"		"1"
+	"guilds_violator"		"1"
+}

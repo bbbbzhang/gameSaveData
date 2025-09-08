@@ -1,0 +1,17 @@
+"287290"
+{
+	"ChangeNumber"		"6"
+	"ostype"		"0"
+	"DATA0.DAT"
+	{
+		"root"		"0"
+		"size"		"1211028"
+		"localtime"		"1756987109"
+		"time"		"1756987118"
+		"remotetime"		"1756987118"
+		"sha"		"10869d3418366411d78f29f1728aeb6b77dcd37e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

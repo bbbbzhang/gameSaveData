@@ -1,0 +1,17 @@
+"221040"
+{
+	"ChangeNumber"		"3"
+	"ostype"		"0"
+	"savedata.bin"
+	{
+		"root"		"0"
+		"size"		"39416"
+		"localtime"		"1755697457"
+		"time"		"1755697466"
+		"remotetime"		"1755697466"
+		"sha"		"89920ceb328c8ed0efb1f5ec1bffeee44a112022"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

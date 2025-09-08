@@ -1,0 +1,450 @@
+Godot Engine v3.5.3.stable.custom_build.4e8840baa - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2
+Async. shader compilation: OFF
+ 
+Brotato v1.1.7.1
+Did Steam initialize?: {status:1, verbal:Steamworks active.}
+steam_is_online: False
+steam_id: 76561198312822366
+steam_is_owned: True
+INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+INFO ModLoader:Store: Applying options override with feature tag "steam".
+INFO ModLoader: game_install_directory: D:/Games/Cracks/Brotato/Brotato/common/Brotato/
+INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280"
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2930905913"
+SUCCESS ModLoader:File: KANA-MultiRes.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2931387684"
+SUCCESS ModLoader:File: Darkly77-ContentLoader.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2931388196"
+SUCCESS ModLoader:File: Darkly77-Brotils.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2934197660"
+SUCCESS ModLoader:File: Darkly77-WiderCharacterSelect-v1.0.1.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2941874724"
+SUCCESS ModLoader:File: RobocrafterLP-WeaponSlot.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2945253579"
+SUCCESS ModLoader:File: FrakiLoZ-BladeDancer-V1.0.0.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2947760698"
+SUCCESS ModLoader:File: FrakiLoZ-SpellThief-V1.0.1.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2958802806"
+SUCCESS ModLoader:File: LoongFly-FreeRerolls.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2973127975"
+SUCCESS ModLoader:File: fCore-Bromato.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2994327489"
+SUCCESS ModLoader:File: ToggleModsEnable.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/2997813248"
+SUCCESS ModLoader:File: Crimson-Respawn.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3002326847"
+SUCCESS ModLoader:File: RomatoPotato-WCDOT-1.0.1.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3003721761"
+SUCCESS ModLoader:File: monoSDE-RevampedIcons-0.2.1.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3336465279"
+SUCCESS ModLoader:File: UtilityDBLBeta.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3354765603"
+SUCCESS ModLoader:File: Crow-FreeRollsRevisited.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/3355234514"
+SUCCESS ModLoader:File: mashtatoBeta.zip loaded.
+INFO ModLoader:ThirdParty:Steam: Checking workshop item path: "D:/Games/Cracks/Brotato/Brotato/workshop/content/1942280/"
+SUCCESS ModLoader: DONE: Loaded 16 mod files into the virtual filesystem
+SUCCESS ModLoader: DONE: Setup 16 mods
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> KANA-MultiRes
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Darkly77-ContentLoader
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Darkly77-Brotils
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Darkly77-WiderCharacterSelect
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> RobocrafterLP-WeaponSlot
+WARNING ModLoader:Deprecated: DEPRECATED: RobocrafterLP-WeaponSlot - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+WARNING: DEPRECATED: RobocrafterLP-WeaponSlot - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: RobocrafterLP-WeaponSlot - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+ERROR: A incompatibility for the mod "RobocrafterLP-WeaponSlot" is invalid: Expected a single hyphen in the mod ID, but the incompatibility was: ""
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - A incompatibility for the mod "RobocrafterLP-WeaponSlot" is invalid: Expected a single hyphen in the mod ID, but the incompatibility was: ""
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> FrakiLoZ-BladeDancer
+WARNING ModLoader:Deprecated: DEPRECATED: FrakiLoZ-BladeDancer - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+WARNING: DEPRECATED: FrakiLoZ-BladeDancer - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: FrakiLoZ-BladeDancer - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> FrakiLoZ-SpellThief
+WARNING ModLoader:Deprecated: DEPRECATED: FrakiLoZ-SpellThief - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+WARNING: DEPRECATED: FrakiLoZ-SpellThief - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: FrakiLoZ-SpellThief - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> LoongFly-FreeRerolls
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> fCore-Bromato
+WARNING ModLoader:Deprecated: DEPRECATED: fCore-Bromato - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+WARNING: DEPRECATED: fCore-Bromato - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: fCore-Bromato - The single String value for "compatible_mod_loader_version" is deprecated. Please provide an Array. For more details visit https://github.com/GodotModding/godot-mod-loader/wiki/Mod-Files#manifestjson (since version 6.0.0)
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> QianMo-ToggleModsOptions
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Crimson-Respawn
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> RomatoPotato-WCDoT
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> monoSDE-RevampedIcons
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> LexLooter-UtilityDBL
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> Crow-FreeRollsRevisited
+INFO ModLoader:ModData: Loading mod_manifest (manifest.json) for -> LexLooter-Mashtato
+SUCCESS ModLoader: DONE: Loaded all meta data
+INFO ModLoader: mod_load_order -> 1) Darkly77-Brotils
+INFO ModLoader: mod_load_order -> 2) Darkly77-ContentLoader
+INFO ModLoader: mod_load_order -> 3) LexLooter-UtilityDBL
+INFO ModLoader: mod_load_order -> 4) KANA-MultiRes
+INFO ModLoader: mod_load_order -> 5) Darkly77-WiderCharacterSelect
+INFO ModLoader: mod_load_order -> 6) RobocrafterLP-WeaponSlot
+INFO ModLoader: mod_load_order -> 7) FrakiLoZ-BladeDancer
+INFO ModLoader: mod_load_order -> 8) FrakiLoZ-SpellThief
+INFO ModLoader: mod_load_order -> 9) LoongFly-FreeRerolls
+INFO ModLoader: mod_load_order -> 10) fCore-Bromato
+INFO ModLoader: mod_load_order -> 11) QianMo-ToggleModsOptions
+INFO ModLoader: mod_load_order -> 12) Crimson-Respawn
+INFO ModLoader: mod_load_order -> 13) RomatoPotato-WCDoT
+INFO ModLoader: mod_load_order -> 14) monoSDE-RevampedIcons
+INFO ModLoader: mod_load_order -> 15) Crow-FreeRollsRevisited
+INFO ModLoader: mod_load_order -> 16) LexLooter-Mashtato
+INFO ModLoader: Initializing -> Darkly77-Brotils
+INFO Darkly77-Brotils: Init
+INFO ModLoader: Initializing -> Darkly77-ContentLoader
+INFO Darkly77-ContentLoader: Init
+INFO ModLoader: Initializing -> LexLooter-UtilityDBL
+INFO LexLooter-UtilityDBL: Init
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.de.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.en.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.fr.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.ru.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-UtilityDBL/translations/UtilityDBL.zh.translation
+INFO ModLoader: Initializing -> KANA-MultiRes
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/KANA-MultiRes/translations/KANAMultiRes_Translation.de.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/KANA-MultiRes/translations/KANAMultiRes_Translation.en.translation
+INFO KANA-MultiRes:ModMain: Initialized
+INFO ModLoader: Initializing -> Darkly77-WiderCharacterSelect
+INFO Darkly77-WiderCharacterSelect: Init
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> RobocrafterLP-WeaponSlot
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO RobocrafterLP-WeaponSlot: Init
+WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/RobocrafterLP-WeaponSlot/Content/resources/translations/RobocrafterLP-WeaponSlot_translations.en.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> FrakiLoZ-BladeDancer
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO FrakiLoZ-BladeDancer: Init
+WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/FrakiLoZ-BladeDancer/translations/mod_bladedancer_text.en.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> FrakiLoZ-SpellThief
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO FrakiLoZ-SpellThief: Init
+WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/FrakiLoZ-SpellThief/translations/mod_spellthief_text.en.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> LoongFly-FreeRerolls
+INFO ModLoader: Initializing -> fCore-Bromato
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO fCore-Bromato: Init
+WARNING ModLoader:Deprecated: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING: DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The const "UNPACKED_DIR" was removed, use "ModLoaderMod.get_unpacked_dir()" instead (since version 6.0.0)
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.de.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.en.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.es.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.fr.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.it.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ja.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ko.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pl.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pt.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ru.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.tr.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoader.add_translation_from_resource" has been deprecated since version 6.0.0. Please use "ModLoaderMod.add_translation" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh_TW.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> QianMo-ToggleModsOptions
+INFO QianMo-ToggleModsOptions: Init
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/QianMo-ToggleModsOptions/translations/mods_control_panel_translations.en.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/QianMo-ToggleModsOptions/translations/mods_control_panel_translations.zh.translation
+INFO ModLoader: Initializing -> Crimson-Respawn
+INFO Crimson-Respawn: Init。。。。。。。。。。。。。。。。。
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.de.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.en.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.zh.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.fr.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ru.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/Crimson-Respawn/translations/respawn_translations.ja.translation
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> RomatoPotato-WCDoT
+WARNING ModLoader:Deprecated: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+WARNING: DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The mod_main.gd _init argument (modLoader = ModLoader) is deprecated. Remove it from your _init to avoid crashes in the next major version. (since version 6.1.0)
+INFO ModLoader: Initializing -> monoSDE-RevampedIcons
+INFO monoSDE-RevampedIcons:Main: Init
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.de.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.en.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.es.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.fr.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.it.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.ja.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.ko.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.pl.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.pt.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.ru.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.tr.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.zh.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/monoSDE-RevampedIcons/translations/monoSDE_upgradenames.zh_TW.translation
+INFO ModLoader: Initializing -> Crow-FreeRollsRevisited
+INFO ModLoader: Initializing -> LexLooter-Mashtato
+INFO LexLooter-Mashtato: Init
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.de.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.en.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.fr.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.ru.translation
+INFO ModLoader:Mod: Added Translation from Resource -> res://mods-unpacked/LexLooter-Mashtato/translations/Mashtato.zh.translation
+SUCCESS ModLoader: DONE: Completely finished loading mods
+ERROR: Cannot open file 'res://resources/fonts/actual/base/font_biggest.tres'.
+   at: ResourceFormatLoaderText::load_interactive (scene\resources\resource_format_text.cpp:1183) - Condition "err != OK" is true. Returned: Ref<ResourceInteractiveLoader>()
+ERROR: Failed loading resource: res://resources/fonts/actual/base/font_biggest.tres. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+ERROR: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn:6 - Parse Error: [ext_resource] referenced nonexistent resource at: res://resources/fonts/actual/base/font_biggest.tres
+   at: ResourceInteractiveLoaderText::poll (scene\resources\resource_format_text.cpp:412) - res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn:6 - Parse Error: [ext_resource] referenced nonexistent resource at: res://resources/fonts/actual/base/font_biggest.tres
+ERROR: Failed to load resource 'res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn'.
+   at: ResourceFormatLoader::load (core\io\resource_loader.cpp:206) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+SCRIPT ERROR: Parse Error: Can't preload resource at path: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn
+   at: GDScript::reload (res://mods-unpacked/Crimson-Respawn/extensions/main.gd:9) - Parse Error: Can't preload resource at path: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn
+SCRIPT ERROR: Parse Error: The identifier "_inventory" isn't declared in the current scope.
+   at: GDScript::reload (res://mods-unpacked/Darkly77-WiderCharacterSelect/extensions/ui/menus/run/character_selection.gd:45) - Parse Error: The identifier "_inventory" isn't declared in the current scope.
+ERROR: Cannot open file 'res://resources/fonts/actual/base/font_biggest.tres'.
+   at: ResourceFormatLoaderText::load_interactive (scene\resources\resource_format_text.cpp:1183) - Condition "err != OK" is true. Returned: Ref<ResourceInteractiveLoader>()
+ERROR: Failed loading resource: res://resources/fonts/actual/base/font_biggest.tres. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+ERROR: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn:6 - Parse Error: [ext_resource] referenced nonexistent resource at: res://resources/fonts/actual/base/font_biggest.tres
+   at: ResourceInteractiveLoaderText::poll (scene\resources\resource_format_text.cpp:412) - res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn:6 - Parse Error: [ext_resource] referenced nonexistent resource at: res://resources/fonts/actual/base/font_biggest.tres
+ERROR: Failed to load resource 'res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn'.
+   at: ResourceFormatLoader::load (core\io\resource_loader.cpp:206) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+SCRIPT ERROR: Parse Error: Can't preload resource at path: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn
+   at: GDScript::reload (res://mods-unpacked/Crimson-Respawn/extensions/main.gd:9) - Parse Error: Can't preload resource at path: res://mods-unpacked/Crimson-Respawn/extensions/respawn.tscn
+INFO ModLoader:ScriptExtension: Installing script extension: Null <- res://mods-unpacked/Crimson-Respawn/extensions/main.gd
+SCRIPT ERROR: Parse Error: The identifier "_inventory" isn't declared in the current scope.
+   at: GDScript::reload (res://mods-unpacked/Darkly77-WiderCharacterSelect/extensions/ui/menus/run/character_selection.gd:45) - Parse Error: The identifier "_inventory" isn't declared in the current scope.
+INFO ModLoader:ScriptExtension: Installing script extension: Null <- res://mods-unpacked/Darkly77-WiderCharacterSelect/extensions/ui/menus/run/character_selection.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://entities/birth/entity_birth.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/entity_birth.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://entities/structures/turret/garden/garden.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/garden.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://entities/units/player/player.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/player.gd
+ERROR: Condition "err" is true. Returned: err
+   at: GDScript::load_source_code (modules\gdscript\gdscript.cpp:807) - Condition "err" is true. Returned: err
+ERROR: Cannot load source code from file 'res://tests/partial_doubles/player.gd'.
+   at: ResourceFormatLoaderGDScript::load (modules\gdscript\gdscript.cpp:2209) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://tests/partial_doubles/player.gd. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+INFO ModLoader:ScriptExtension: Installing script extension: res://entities/units/player/player.gd <- res://mods-unpacked/RomatoPotato-WCDoT/extensions/entities/units/player/player.gd
+ERROR: Condition "err" is true. Returned: err
+   at: GDScript::load_source_code (modules\gdscript\gdscript.cpp:807) - Condition "err" is true. Returned: err
+ERROR: Cannot load source code from file 'res://tests/partial_doubles/player.gd'.
+   at: ResourceFormatLoaderGDScript::load (modules\gdscript\gdscript.cpp:2209) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://tests/partial_doubles/player.gd. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+INFO ModLoader:ScriptExtension: Installing script extension: res://entities/units/player/player.gd <- res://mods-unpacked/Crimson-Respawn/extensions/player.gd
+ERROR: Condition "err" is true. Returned: err
+   at: GDScript::load_source_code (modules\gdscript\gdscript.cpp:807) - Condition "err" is true. Returned: err
+ERROR: Cannot load source code from file 'res://tests/partial_doubles/player.gd'.
+   at: ResourceFormatLoaderGDScript::load (modules\gdscript\gdscript.cpp:2209) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://tests/partial_doubles/player.gd. Make sure resources have been imported by opening the project in the editor at least once.
+   at: ResourceLoader::_load (core\io\resource_loader.cpp:271) - Condition "found" is true. Returned: RES()
+INFO ModLoader:ScriptExtension: Installing script extension: res://effects/consumables/consumable_healing_effect.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/consumable_healing_effect.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://main.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/main.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://main.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/main.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://main.gd <- res://mods-unpacked/KANA-MultiRes/extensions/main.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/debug_service.gd <- res://mods-unpacked/KANA-MultiRes/extensions/singletons/debug_service.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/LoongFly-FreeRerolls/extensions/singletons/item_service.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/Crow-FreeRollsRevisited/extensions/singletons/item_service.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/item_service.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/item_service.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/item_service.gd
+ERROR: Can't call non-static function 'duplicate' in script.
+   at: GDScript::call (modules\gdscript\gdscript.cpp:661) - Condition "!E->get()->is_static()" is true. Returned: Variant()
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/player_run_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/player_run_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/player_run_data.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/player_run_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/monoSDE-RevampedIcons/overwrites/singletons/progress_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/progress_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/KANA-MultiRes/extensions/singletons/progress_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/progress_data.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/progress_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/run_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/run_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/run_data.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/singletons/run_data.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/linked_stats.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/linked_stats.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/text.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/text.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/Darkly77-Brotils/extensions/singletons/utils.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/Darkly77-ContentLoader/extensions/singletons/utils.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/KANA-MultiRes/extensions/singletons/utils.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/utils.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/utils.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://singletons/weapon_service.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/singletons/weapon_service.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/global/focus_emulator.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/global/focus_emulator.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/ingame/ingame_main_menu.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/ingame/ingame_main_menu.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/ingame/ingame_main_menu.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/ingame/ingame_main_menu.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/ingame/upgrades_ui.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/ingame/upgrades_ui.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/menus.gd <- res://mods-unpacked/QianMo-ToggleModsOptions/extensions/ui/menus/menus.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/pages/menu_choose_options.gd <- res://mods-unpacked/QianMo-ToggleModsOptions/extensions/ui/menus/pages/menu_choose_options.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/pages/menu_general_options.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/pages/menu_general_options.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/run/end_run.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/run/end_run.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/run/difficulty_selection/difficulty_selection.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/run/difficulty_selection/difficulty_selection.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/run/locked_panel.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/run/locked_panel.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/shop/base_shop.gd <- res://mods-unpacked/LexLooter-Mashtato/extensions/ui/menus/shop/base_shop.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/shop/base_shop.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/ui/menus/shop/base_shop.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/title_screen/title_screen.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/title_screen/title_screen.gd
+SUCCESS ModLoader: DONE: Installed all script extensions
+INFO Darkly77-Brotils: Ready
+INFO Darkly77-ContentLoader: Done
+INFO LexLooter-UtilityDBL: Done
+Could not open the file . Aborting save operation. Error code: 12
+INFO ModLoader:ScriptExtension: Installing script extension: res://dlcs/dlc_1/effect_behaviors/enemy/curse_enemy_effect_behavior.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/dlc_1/curse_enemy_effect_behavior.gd
+INFO ModLoader:ScriptExtension: Installing script extension: res://dlcs/dlc_1/dlc_1_data.gd <- res://mods-unpacked/LexLooter-UtilityDBL/extensions/dlc_1/dlc_1_data.gd
+INFO KANA-MultiRes:ModMain: Finished loading KANA-Multi-Res mod.
+ERROR: Index p_which = 0 is out of bounds (popup->get_item_count() = 0).
+   at: OptionButton::_select (scene\gui\option_button.cpp:235) - Index p_which = 0 is out of bounds (popup->get_item_count() = 0).
+INFO Darkly77-WiderCharacterSelect: Done
+INFO Darkly77-ContentLoader: Loading ContentData (via RobocrafterLP-WeaponSlot) -> res://mods-unpacked/RobocrafterLP-WeaponSlot/Data/Data.tres
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO RobocrafterLP-WeaponSlot: Done
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-BladeDancer) -> res://mods-unpacked/FrakiLoZ-BladeDancer/content_data/contentdata_character_bladedancer.tres
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-BladeDancer) -> res://mods-unpacked/FrakiLoZ-BladeDancer/content_data/contentdata_weapon_dancingblade.tres
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-BladeDancer) -> res://mods-unpacked/FrakiLoZ-BladeDancer/content_data/contentdata_weapon_enchantedcutlass.tres
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO FrakiLoZ-BladeDancer: Done
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_character_spellthief.tres
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_weapon_soulslicer.tres
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_weapon_arcanaorb.tres
+INFO Darkly77-ContentLoader: Loading ContentData (via FrakiLoZ-SpellThief) -> res://mods-unpacked/FrakiLoZ-SpellThief/content_data/contentdata_item_bluestone.tres
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO FrakiLoZ-SpellThief: Done
+INFO LoongFly-FreeRerolls:Main: Ready!
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO fCore-Bromato: Adding characters ...
+INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_characters.tres
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO fCore-Bromato: Adding items ...
+INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_items.tres
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO fCore-Bromato: Adding challenges ...
+INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_challenges.tres
+WARNING ModLoader:Deprecated: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+WARNING: DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - DEPRECATED: The method "ModLoaderUtils.log_info" has been deprecated since version 6.0.0. Please use "ModLoaderLog.info" instead. The old method will be removed with the next major update, and will break your code if not changed. 
+INFO fCore-Bromato: Adding weapons ...
+INFO Darkly77-ContentLoader: Loading ContentData (via fCore-Bromato) -> res://mods-unpacked/fCore-Bromato/content_data/bromato_weapons.tres
+INFO Crimson-Respawn: Mod Respawn ready
+INFO monoSDE-RevampedIcons:Main: Done
+INFO Crow-FreeRollsRevisited:Main: Ready!
+INFO LexLooter-Mashtato: Done
+INFO Darkly77-ContentLoader: Installing ContentData
+ProgressDataLoaderV2: Loading failed - missing save path
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+LOG_PATH: user://76561198312822366/log.txt
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Loading user://76561198312822366/save_v2.json
+INFO ModLoader:ScriptExtension: Installing script extension: res://ui/menus/shop/shop.gd <- res://mods-unpacked/KANA-MultiRes/extensions/ui/menus/shop/shop.gd
+ERROR: Connection to remote host failed!
+   at: StreamPeerTCP::connect_to_host (core\io\stream_peer_tcp.cpp:91) - Connection to remote host failed!
+ERROR: Signal 'value_changed' is already connected to given method '_on_HSlider_value_changed' in that object.
+   at: Object::connect (core\object.cpp:1480) - Method failed. Returning: ERR_INVALID_PARAMETER
+ERROR: Signal 'value_changed' is already connected to given method '_on_HSlider_value_changed' in that object.
+   at: Object::connect (core\object.cpp:1480) - Method failed. Returning: ERR_INVALID_PARAMETER
+ERROR: Signal 'value_changed' is already connected to given method '_on_HSlider_value_changed' in that object.
+   at: Object::connect (core\object.cpp:1480) - Method failed. Returning: ERR_INVALID_PARAMETER
+ERROR: Signal 'value_changed' is already connected to given method '_on_HSlider_value_changed' in that object.
+   at: Object::connect (core\object.cpp:1480) - Method failed. Returning: ERR_INVALID_PARAMETER
+ERROR: Signal 'value_changed' is already connected to given method '_on_HSlider_value_changed' in that object.
+   at: Object::connect (core\object.cpp:1480) - Method failed. Returning: ERR_INVALID_PARAMETER
+ERROR: Signal 'value_changed' is already connected to given method '_on_HSlider_value_changed' in that object.
+   at: Object::connect (core\object.cpp:1480) - Method failed. Returning: ERR_INVALID_PARAMETER
+ERROR: Condition "p_width <= 0 || p_width > 16384" is true.
+   at: RasterizerStorageGLES3::texture_set_size_override (drivers\gles3\rasterizer_storage_gles3.cpp:1423) - Condition "p_width <= 0 || p_width > 16384" is true.
+ERROR: Condition "p_height <= 0 || p_height > 16384" is true.
+   at: RasterizerStorageGLES3::texture_set_size_override (drivers\gles3\rasterizer_storage_gles3.cpp:1424) - Condition "p_height <= 0 || p_height > 16384" is true.
+ERROR: Condition "_first != nullptr" is true.
+   at: SelfList<class DynamicFont>::List::~List (.\core/self_list.h:108) - Condition "_first != nullptr" is true.
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: ObjectDB::cleanup (core\object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: ResourceCache::clear (core\resource.cpp:417) - Resources still in use at exit (run with --verbose for details).
+ERROR: There are still MemoryPool allocs in use at exit!
+   at: MemoryPool::cleanup (core\pool_vector.cpp:63) - Condition "allocs_used > 0" is true.

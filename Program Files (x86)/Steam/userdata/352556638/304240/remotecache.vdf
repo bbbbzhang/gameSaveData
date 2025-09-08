@@ -1,0 +1,17 @@
+"304240"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"biodata.bin"
+	{
+		"root"		"0"
+		"size"		"457376"
+		"localtime"		"1756986587"
+		"time"		"1756986596"
+		"remotetime"		"1661948108"
+		"sha"		"a042d7c1145684e603af80faeac686665e75ce31"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

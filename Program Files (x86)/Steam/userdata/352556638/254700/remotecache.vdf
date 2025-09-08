@@ -1,0 +1,17 @@
+"254700"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"savegame00.sav"
+	{
+		"root"		"0"
+		"size"		"1047200"
+		"localtime"		"1683453195"
+		"time"		"1683453200"
+		"remotetime"		"1683453196"
+		"sha"		"a2f37198d88752a4889748ab9827d96a7ed7f9ef"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

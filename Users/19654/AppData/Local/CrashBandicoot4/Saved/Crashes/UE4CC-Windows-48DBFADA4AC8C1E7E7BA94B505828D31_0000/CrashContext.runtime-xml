@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>C57F00D0400E90F95F827198FEF55A5C</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-48DBFADA4AC8C1E7E7BA94B505828D31_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsAssert>true</IsAssert>
+<CrashType>Assert</CrashType>
+<ErrorMessage>LowLevelFatalError [File:Unknown] [Line: 258] 
+Result failed 
+ at E:/bamboo/commodore/buildbot-package/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_INVALID_CALL
+
+
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>1812</ProcessId>
+<SecondsSinceStart>52</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-Lava</GameName>
+<ExecutableName>CrashBandicoot4</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>1.0.0-Win64-Shipping</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.24.2-0+++UE4+Release-4.24</EngineVersion>
+<CommandLine></CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>zh-CN</AppDefaultLocale>
+<BuildVersion>1.0.0</BuildVersion>
+<IsUE4Release>true</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<CustomBuildVersion></CustomBuildVersion>
+<UserName></UserName>
+<BaseDir>D:/Games/Cracks/Crash Bandicoot 4/Lava/Binaries/Win64/</BaseDir>
+<RootDir>D:/Games/Cracks/Crash Bandicoot 4/</RootDir>
+<MachineId>D7B05FF94C2C769C19779A92C1E5FA9A</MachineId>
+<LoginId>d7b05ff94c2c769c19779a92c1e5fa9a</LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>8</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 3070 Laptop GPU</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16938061824</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>6329958400</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140729505345536</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>946700288</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>1465032704</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>2575949824</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>2576007168</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+CrashBandicoot4  0x0000000068740000 + 12e821c 
+CrashBandicoot4  0x0000000068740000 + 12f00df 
+CrashBandicoot4  0x0000000068740000 + 1965adb 
+CrashBandicoot4  0x0000000068740000 + 1965a30 
+CrashBandicoot4  0x0000000068740000 + 1963037 
+CrashBandicoot4  0x0000000068740000 + 1b36381 
+CrashBandicoot4  0x0000000068740000 + 1b38609 
+CrashBandicoot4  0x0000000068740000 + da2a09  
+CrashBandicoot4  0x0000000068740000 + da2b13  
+CrashBandicoot4  0x0000000068740000 + 19bae92 
+CrashBandicoot4  0x0000000068740000 + 19bbac8 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</PCallStack>
+<PCallStackHash>EB1EE2B42BF050D83FF5825867B3E3C7719C3769</PCallStackHash>
+<Threads><Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + 19aa274 
+CrashBandicoot4  0x0000000068740000 + 19c3d13 
+CrashBandicoot4  0x0000000068740000 + 2cf860  
+CrashBandicoot4  0x0000000068740000 + 2d533c  
+CrashBandicoot4  0x0000000068740000 + 2d53aa  
+CrashBandicoot4  0x0000000068740000 + 2dec1b  
+CrashBandicoot4  0x0000000068740000 + 2d05ade 
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18412</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19600</ThreadID>
+<ThreadName>TaskGraphThreadNP 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18324</ThreadID>
+<ThreadName>TaskGraphThreadNP 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11752</ThreadID>
+<ThreadName>TaskGraphThreadNP 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10092</ThreadID>
+<ThreadName>TaskGraphThreadNP 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7744</ThreadID>
+<ThreadName>TaskGraphThreadNP 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17936</ThreadID>
+<ThreadName>TaskGraphThreadNP 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11148</ThreadID>
+<ThreadName>TaskGraphThreadNP 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18320</ThreadID>
+<ThreadName>TaskGraphThreadNP 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11516</ThreadID>
+<ThreadName>TaskGraphThreadNP 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6892</ThreadID>
+<ThreadName>TaskGraphThreadNP 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1056</ThreadID>
+<ThreadName>TaskGraphThreadNP 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8724</ThreadID>
+<ThreadName>TaskGraphThreadNP 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12140</ThreadID>
+<ThreadName>TaskGraphThreadNP 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9716</ThreadID>
+<ThreadName>TaskGraphThreadNP 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4884</ThreadID>
+<ThreadName>TaskGraphThreadHP 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6124</ThreadID>
+<ThreadName>TaskGraphThreadHP 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9132</ThreadID>
+<ThreadName>TaskGraphThreadHP 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9156</ThreadID>
+<ThreadName>TaskGraphThreadHP 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15444</ThreadID>
+<ThreadName>TaskGraphThreadHP 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>776</ThreadID>
+<ThreadName>TaskGraphThreadHP 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1368</ThreadID>
+<ThreadName>TaskGraphThreadHP 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13504</ThreadID>
+<ThreadName>TaskGraphThreadHP 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13100</ThreadID>
+<ThreadName>TaskGraphThreadHP 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>4412</ThreadID>
+<ThreadName>TaskGraphThreadHP 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14728</ThreadID>
+<ThreadName>TaskGraphThreadHP 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6448</ThreadID>
+<ThreadName>TaskGraphThreadHP 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6360</ThreadID>
+<ThreadName>TaskGraphThreadHP 26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6372</ThreadID>
+<ThreadName>TaskGraphThreadHP 27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6384</ThreadID>
+<ThreadName>TaskGraphThreadBP 28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6500</ThreadID>
+<ThreadName>TaskGraphThreadBP 29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6512</ThreadID>
+<ThreadName>TaskGraphThreadBP 30</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14756</ThreadID>
+<ThreadName>TaskGraphThreadBP 31</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11944</ThreadID>
+<ThreadName>TaskGraphThreadBP 32</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14572</ThreadID>
+<ThreadName>TaskGraphThreadBP 33</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13756</ThreadID>
+<ThreadName>TaskGraphThreadBP 34</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12780</ThreadID>
+<ThreadName>TaskGraphThreadBP 35</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14824</ThreadID>
+<ThreadName>TaskGraphThreadBP 36</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3748</ThreadID>
+<ThreadName>TaskGraphThreadBP 37</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13144</ThreadID>
+<ThreadName>TaskGraphThreadBP 38</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8940</ThreadID>
+<ThreadName>TaskGraphThreadBP 39</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8948</ThreadID>
+<ThreadName>TaskGraphThreadBP 40</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2bd9  
+CrashBandicoot4  0x0000000068740000 + da571c  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17080</ThreadID>
+<ThreadName>TaskGraphThreadBP 41</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17188</ThreadID>
+<ThreadName>PoolThread 0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3172</ThreadID>
+<ThreadName>PoolThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3176</ThreadID>
+<ThreadName>PoolThread 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6484</ThreadID>
+<ThreadName>PoolThread 3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11356</ThreadID>
+<ThreadName>PoolThread 4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8068</ThreadID>
+<ThreadName>PoolThread 5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7612</ThreadID>
+<ThreadName>PoolThread 6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6148</ThreadID>
+<ThreadName>PoolThread 7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6364</ThreadID>
+<ThreadName>PoolThread 8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5420</ThreadID>
+<ThreadName>PoolThread 9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8152</ThreadID>
+<ThreadName>PoolThread 10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7532</ThreadID>
+<ThreadName>PoolThread 11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6108</ThreadID>
+<ThreadName>PoolThread 12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7596</ThreadID>
+<ThreadName>PoolThread 13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9148</ThreadID>
+<ThreadName>PoolThread 14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7008</ThreadID>
+<ThreadName>PoolThread 15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0624   
+ntdll            0x00000000104d0000 + 55683   
+KERNELBASE       0x000000000d800000 + 49acd   
+CrashBandicoot4  0x0000000068740000 + 17fe3dd 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1976</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + 5f42b6  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17136</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadSteam DefaultInstance</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0624   
+ntdll            0x00000000104d0000 + 55683   
+KERNELBASE       0x000000000d800000 + 49acd   
+CrashBandicoot4  0x0000000068740000 + ed9a8a  
+CrashBandicoot4  0x0000000068740000 + 1d3d264 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9344</ThreadID>
+<ThreadName>FMediaTicker</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2016</ThreadID>
+<ThreadName>PoolThread 16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16884</ThreadID>
+<ThreadName>PoolThread 17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8732</ThreadID>
+<ThreadName>PoolThread 18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6776</ThreadID>
+<ThreadName>PoolThread 19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + ed6750  
+CrashBandicoot4  0x0000000068740000 + 2d12a92 
+VCRUNTIME140     0x00000000e50d0000 + f73f    
+ntdll            0x00000000104d0000 + a504f   
+ntdll            0x00000000104d0000 + 1e866   
+ntdll            0x00000000104d0000 + 54945   
+KERNELBASE       0x000000000d800000 + 5f39c   
+CrashBandicoot4  0x0000000068740000 + ed66d6  
+CrashBandicoot4  0x0000000068740000 + e8e3bd  
+CrashBandicoot4  0x0000000068740000 + 12f9c44 
+CrashBandicoot4  0x0000000068740000 + 12e821c 
+CrashBandicoot4  0x0000000068740000 + 12f00df 
+CrashBandicoot4  0x0000000068740000 + 1965adb 
+CrashBandicoot4  0x0000000068740000 + 1965a30 
+CrashBandicoot4  0x0000000068740000 + 1963037 
+CrashBandicoot4  0x0000000068740000 + 1b36381 
+CrashBandicoot4  0x0000000068740000 + 1b38609 
+CrashBandicoot4  0x0000000068740000 + da2a09  
+CrashBandicoot4  0x0000000068740000 + da2b13  
+CrashBandicoot4  0x0000000068740000 + 19bae92 
+CrashBandicoot4  0x0000000068740000 + 19bbac8 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>true</IsCrashed>
+<Registers></Registers>
+<ThreadID>5512</ThreadID>
+<ThreadName>RenderThread 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0624   
+ntdll            0x00000000104d0000 + 55683   
+KERNELBASE       0x000000000d800000 + 49acd   
+CrashBandicoot4  0x0000000068740000 + ed9a8a  
+CrashBandicoot4  0x0000000068740000 + 19bbbe7 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5200</ThreadID>
+<ThreadName>RTHeartBeat 1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10520</ThreadID>
+<ThreadName>PoolThread 20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7520</ThreadID>
+<ThreadName>PoolThread 21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>19628</ThreadID>
+<ThreadName>PoolThread 22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17524</ThreadID>
+<ThreadName>PoolThread 23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>412</ThreadID>
+<ThreadName>PoolThread 24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + e0478a  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17152</ThreadID>
+<ThreadName>PoolThread 25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0624   
+ntdll            0x00000000104d0000 + 55683   
+KERNELBASE       0x000000000d800000 + 49acd   
+CrashBandicoot4  0x0000000068740000 + ed9a8a  
+CrashBandicoot4  0x0000000068740000 + 23dbfc1 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10448</ThreadID>
+<ThreadName>ScreenSaverInhibitor</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + 1c20723 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10808</ThreadID>
+<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + da2964  
+CrashBandicoot4  0x0000000068740000 + da2b13  
+CrashBandicoot4  0x0000000068740000 + 1e527fb 
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1848</ThreadID>
+<ThreadName>AudioThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll            0x00000000104d0000 + a0024   
+KERNELBASE       0x000000000d800000 + 3952e   
+CrashBandicoot4  0x0000000068740000 + edabae  
+CrashBandicoot4  0x0000000068740000 + 5f42b6  
+CrashBandicoot4  0x0000000068740000 + edb1d7  
+CrashBandicoot4  0x0000000068740000 + edafb4  
+KERNEL32         0x000000000ef70000 + 1257d   
+ntdll            0x00000000104d0000 + 5af28   
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13728</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 3070 Laptop GPU</RHI.AdapterName>
+<RHI.UserDriverVersion>555.85</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>32.0.15.5585</RHI.InternalDriverVersion>
+<RHI.DriverDate>5-13-2024</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

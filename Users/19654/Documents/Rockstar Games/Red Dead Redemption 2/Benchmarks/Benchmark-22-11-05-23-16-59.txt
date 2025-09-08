@@ -1,0 +1,40 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 26.538572, 108.962128, 53.350445
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Test 0, 9.177501, 37.681004, 18.743986
+
+Frames under 16ms (for 60fps): 
+Test 0: 6/427 frames (1.41%)
+
+Frames under 33ms (for 30fps): 
+Test 0: 426/427 frames (99.77%)
+
+Percentiles in ms for pass 0
+50%,	18.00
+75%,	18.00
+80%,	18.00
+85%,	19.00
+90%,	19.00
+91%,	19.00
+92%,	19.00
+93%,	19.00
+94%,	19.00
+95%,	19.00
+96%,	19.00
+97%,	19.00
+98%,	19.00
+99%,	22.00
+
+=== SYSTEM ===
+CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+	Physical Cores: 8
+	Logical Cores: 16
+
+GPU: NVIDIA NVIDIA GeForce RTX 3070 Laptop GPU	API: VULKAN	VRAM: 8191 MB
+
+System RAM: 16153 MB
+
+
+=== SETTINGS ===
+

@@ -1,0 +1,16 @@
+Mono path[0] = 'D:/Games/SteamLibrary/steamapps/common/AntVentor/AntVentor_Data/Managed'
+Mono config path = 'D:/Games/SteamLibrary/steamapps/common/AntVentor/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.20f1 (c67d00285037)
+[XR] Discovering subsystems at path D:/Games/SteamLibrary/steamapps/common/AntVentor/AntVentor_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.7688
+Begin MonoManager ReloadAssembly
+- Completed reload, in  4.026 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.

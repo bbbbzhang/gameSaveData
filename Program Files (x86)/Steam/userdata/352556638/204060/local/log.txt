@@ -1,0 +1,1143 @@
+Info: Superbrothers: Sword & Sworcery EP Version 1.1
+Info: Steam Game Language: english
+Info: Capy::DriverPlatform::initOS() OK!
+Info: Capy::DriverPlatform::initialise() OK!
+Info: Capy::DriverFileSystem::initialise() OK!
+Info: Resource Directory: 'D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/'
+Info: DriverArchive::initialise()...
+Info: Capy::DriverArchive::initialise() OK!
+Info: D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sworcery.datInfo: openArchive D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sworcery.dat, D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sworcery.dat.cat, D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/, 1
+Info: fill_archive_filefunc..
+Info: unzOpen2..
+Info: loadCatalogue..
+Info: sizeof(unsigned int) 4
+Info: sizeof(uLong) 4
+Info: read 22 bytes fonts/arial_narrow.fnt pos: 26074196
+Info: read 24 bytes fonts/arial_narrow_0.png pos: 26074264
+Info: read 27 bytes fonts/arial_narrow_bold.fnt pos: 26074334
+Info: read 29 bytes fonts/arial_narrow_bold_0.png pos: 26074407
+Info: read 32 bytes fonts/arial_narrow_bold_ipad.fnt pos: 26074482
+Info: read 34 bytes fonts/arial_narrow_bold_ipad_0.png pos: 26074560
+Info: read 31 bytes fonts/arial_narrow_bold_pc.bmfc pos: 26074640
+Info: read 27 bytes fonts/arial_narrow_ipad.fnt pos: 26074717
+Info: read 29 bytes fonts/arial_narrow_ipad_0.png pos: 26074790
+Info: read 26 bytes fonts/arial_narrow_pc.bmfc pos: 26074865
+Info: read 27 bytes fonts/arial_narrow_tiny.fnt pos: 26074937
+Info: read 29 bytes fonts/arial_narrow_tiny_0.png pos: 26075010
+Info: read 32 bytes fonts/arial_narrow_tiny_ipad.fnt pos: 26075085
+Info: read 34 bytes fonts/arial_narrow_tiny_ipad_0.png pos: 26075163
+Info: read 31 bytes fonts/arial_narrow_tiny_pc.bmfc pos: 26075243
+Info: read 21 bytes fonts/conduit_itc.fnt pos: 26075320
+Info: read 23 bytes fonts/conduit_itc_0.png pos: 26075387
+Info: read 26 bytes fonts/conduit_itc_ipad.fnt pos: 26075456
+Info: read 28 bytes fonts/conduit_itc_ipad_0.png pos: 26075528
+Info: read 21 bytes fonts/conduit_pc.bmfc pos: 26075602
+Info: read 20 bytes fonts/japanese2.bmfc pos: 26075669
+Info: read 21 bytes fonts/motoyalmaru.fnt pos: 26075735
+Info: read 23 bytes fonts/motoyalmaru_0.png pos: 26075802
+Info: read 26 bytes fonts/motoyalmaru_ipad.fnt pos: 26075871
+Info: read 28 bytes fonts/motoyalmaru_ipad_0.png pos: 26075943
+Info: read 28 bytes fonts/motoyalmaru_ipad_1.png pos: 26076017
+Info: read 28 bytes fonts/motoyalmaru_ipad_2.png pos: 26076091
+Info: read 28 bytes fonts/motoyalmaru_ipad_3.png pos: 26076165
+Info: read 28 bytes fonts/motoyalmaru_ipad_4.png pos: 26076239
+Info: read 28 bytes fonts/motoyalmaru_ipad_5.png pos: 26076313
+Info: read 28 bytes fonts/motoyalmaru_ipad_6.png pos: 26076387
+Info: read 17 bytes fonts/mtlmr3m.ttf pos: 26076461
+Info: read 18 bytes locales/dialog.tsv pos: 26076524
+Info: read 19 bytes locales/strings.tsv pos: 26076588
+Info: read 30 bytes locales/sworcery_all_chars.tsv pos: 26076653
+Info: read 38 bytes scenes/alpineleft/entities/output.xmlc pos: 26076729
+Info: read 25 bytes scenes/alpineleft/map.spl pos: 26076813
+Info: read 31 bytes scenes/alpineleft/output.luac64 pos: 26076884
+Info: read 31 bytes scenes/alpineleft/positions.pnt pos: 26076961
+Info: read 39 bytes scenes/alpineridge/entities/output.xmlc pos: 26077038
+Info: read 26 bytes scenes/alpineridge/map.spl pos: 26077123
+Info: read 32 bytes scenes/alpineridge/output.luac64 pos: 26077195
+Info: read 32 bytes scenes/alpineridge/positions.pnt pos: 26077273
+Info: read 39 bytes scenes/alpineright/entities/output.xmlc pos: 26077351
+Info: read 26 bytes scenes/alpineright/map.spl pos: 26077436
+Info: read 32 bytes scenes/alpineright/output.luac64 pos: 26077508
+Info: read 32 bytes scenes/alpineright/positions.pnt pos: 26077586
+Info: read 39 bytes scenes/alpinestart/entities/output.xmlc pos: 26077664
+Info: read 26 bytes scenes/alpinestart/map.spl pos: 26077749
+Info: read 32 bytes scenes/alpinestart/output.luac64 pos: 26077821
+Info: read 32 bytes scenes/alpinestart/positions.pnt pos: 26077899
+Info: read 40 bytes scenes/amphitheatre/entities/output.xmlc pos: 26077977
+Info: read 27 bytes scenes/amphitheatre/map.spl pos: 26078063
+Info: read 33 bytes scenes/amphitheatre/output.luac64 pos: 26078136
+Info: read 31 bytes scenes/amphitheatre/output.xmlc pos: 26078215
+Info: read 33 bytes scenes/amphitheatre/positions.pnt pos: 26078292
+Info: read 37 bytes scenes/archetype/entities/output.xmlc pos: 26078371
+Info: read 30 bytes scenes/archetype/output.luac64 pos: 26078454
+Info: read 28 bytes scenes/archetype/output.xmlc pos: 26078530
+Info: read 30 bytes scenes/archetype/positions.pnt pos: 26078604
+Info: read 38 bytes scenes/bearbattle/entities/output.xmlc pos: 26078680
+Info: read 31 bytes scenes/bearbattle/output.luac64 pos: 26078764
+Info: read 29 bytes scenes/bearbattle/output.xmlc pos: 26078841
+Info: read 31 bytes scenes/bearbattle/positions.pnt pos: 26078916
+Info: read 46 bytes scenes/bonesoldierbattle1/entities/output.xmlc pos: 26078993
+Info: read 39 bytes scenes/bonesoldierbattle1/output.luac64 pos: 26079085
+Info: read 39 bytes scenes/bonesoldierbattle1/positions.pnt pos: 26079170
+Info: read 46 bytes scenes/bonesoldierbattle2/entities/output.xmlc pos: 26079255
+Info: read 39 bytes scenes/bonesoldierbattle2/output.luac64 pos: 26079347
+Info: read 39 bytes scenes/bonesoldierbattle2/positions.pnt pos: 26079432
+Info: read 46 bytes scenes/bonesoldierbattle3/entities/output.xmlc pos: 26079517
+Info: read 39 bytes scenes/bonesoldierbattle3/output.luac64 pos: 26079609
+Info: read 39 bytes scenes/bonesoldierbattle3/positions.pnt pos: 26079694
+Info: read 44 bytes scenes/brisklywalking/entities/output.luac64 pos: 26079779
+Info: read 42 bytes scenes/brisklywalking/entities/output.xmlc pos: 26079869
+Info: read 29 bytes scenes/brisklywalking/map.spl pos: 26079957
+Info: read 35 bytes scenes/brisklywalking/output.luac64 pos: 26080032
+Info: read 33 bytes scenes/brisklywalking/output.xmlc pos: 26080113
+Info: read 35 bytes scenes/brisklywalking/positions.pnt pos: 26080192
+Info: read 35 bytes scenes/cabin/entities/output.luac64 pos: 26080273
+Info: read 33 bytes scenes/cabin/entities/output.xmlc pos: 26080354
+Info: read 20 bytes scenes/cabin/map.spl pos: 26080433
+Info: read 26 bytes scenes/cabin/output.luac64 pos: 26080499
+Info: read 24 bytes scenes/cabin/output.xmlc pos: 26080571
+Info: read 26 bytes scenes/cabin/positions.pnt pos: 26080641
+Info: read 48 bytes scenes/combatbluegoldmaster/entities/output.xmlc pos: 26080713
+Info: read 41 bytes scenes/combatbluegoldmaster/output.luac64 pos: 26080807
+Info: read 41 bytes scenes/combatbluegoldmaster/positions.pnt pos: 26080894
+Info: read 48 bytes scenes/combatpinkgoldmaster/entities/output.xmlc pos: 26080981
+Info: read 41 bytes scenes/combatpinkgoldmaster/output.luac64 pos: 26081075
+Info: read 41 bytes scenes/combatpinkgoldmaster/positions.pnt pos: 26081162
+Info: read 46 bytes scenes/combatwolfmountain/entities/output.xmlc pos: 26081249
+Info: read 39 bytes scenes/combatwolfmountain/output.luac64 pos: 26081341
+Info: read 39 bytes scenes/combatwolfmountain/positions.pnt pos: 26081426
+Info: read 45 bytes scenes/combatwolfupslope/entities/output.xmlc pos: 26081511
+Info: read 38 bytes scenes/combatwolfupslope/output.luac64 pos: 26081602
+Info: read 38 bytes scenes/combatwolfupslope/positions.pnt pos: 26081686
+Info: read 46 bytes scenes/combatwolfupslope1/entities/output.xmlc pos: 26081770
+Info: read 39 bytes scenes/combatwolfupslope1/output.luac64 pos: 26081862
+Info: read 39 bytes scenes/combatwolfupslope1/positions.pnt pos: 26081947
+Info: read 50 bytes scenes/combatyellowgoldmaster/entities/output.xmlc pos: 26082032
+Info: read 43 bytes scenes/combatyellowgoldmaster/output.luac64 pos: 26082128
+Info: read 43 bytes scenes/combatyellowgoldmaster/positions.pnt pos: 26082217
+Info: read 38 bytes scenes/comicszone/entities/output.xmlc pos: 26082306
+Info: read 31 bytes scenes/comicszone/output.luac64 pos: 26082390
+Info: read 29 bytes scenes/comicszone/output.xmlc pos: 26082467
+Info: read 31 bytes scenes/comicszone/positions.pnt pos: 26082542
+Info: read 52 bytes scenes/common/adventuremegamenu/entities/output.xmlc pos: 26082619
+Info: read 45 bytes scenes/common/adventuremegamenu/output.luac64 pos: 26082717
+Info: read 43 bytes scenes/common/adventuremegamenu/output.xmlc pos: 26082808
+Info: read 49 bytes scenes/common/adventuresetup/entities/output.xmlc pos: 26082897
+Info: read 42 bytes scenes/common/adventuresetup/output.luac64 pos: 26082992
+Info: read 40 bytes scenes/common/adventuresky/output.luac64 pos: 26083080
+Info: read 49 bytes scenes/common/adventuresword/entities/output.xmlc pos: 26083166
+Info: read 42 bytes scenes/common/adventuresword/output.luac64 pos: 26083261
+Info: read 40 bytes scenes/common/adventuresword/output.xmlc pos: 26083349
+Info: read 42 bytes scenes/common/adventuretimer/output.luac64 pos: 26083435
+Info: read 42 bytes scenes/common/archetypeghost/output.luac64 pos: 26083523
+Info: read 40 bytes scenes/common/archetypeghost/output.xmlc pos: 26083611
+Info: read 45 bytes scenes/common/battlenode/entities/output.xmlc pos: 26083697
+Info: read 38 bytes scenes/common/battlenode/output.luac64 pos: 26083788
+Info: read 36 bytes scenes/common/battlenode/output.xmlc pos: 26083872
+Info: read 46 bytes scenes/common/bonesoldier/entities/output.xmlc pos: 26083954
+Info: read 39 bytes scenes/common/bonesoldier/output.luac64 pos: 26084046
+Info: read 37 bytes scenes/common/bonesoldier/output.xmlc pos: 26084131
+Info: read 52 bytes scenes/common/bonesoldierbattle/entities/output.xmlc pos: 26084214
+Info: read 45 bytes scenes/common/bonesoldierbattle/output.luac64 pos: 26084312
+Info: read 43 bytes scenes/common/bonesoldierbattle/output.xmlc pos: 26084403
+Info: read 45 bytes scenes/common/bonesoldierbattle/positions.pnt pos: 26084492
+Info: read 38 bytes scenes/common/chaserwolf/output.luac64 pos: 26084583
+Info: read 38 bytes scenes/common/chimesound/output.luac64 pos: 26084667
+Info: read 56 bytes scenes/common/collecttrianglescreen/entities/output.xmlc pos: 26084751
+Info: read 49 bytes scenes/common/collecttrianglescreen/output.luac64 pos: 26084853
+Info: read 47 bytes scenes/common/collecttrianglescreen/output.xmlc pos: 26084948
+Info: read 41 bytes scenes/common/combat/entities/output.xmlc pos: 26085041
+Info: read 34 bytes scenes/common/combat/output.luac64 pos: 26085128
+Info: read 32 bytes scenes/common/combat/output.xmlc pos: 26085208
+Info: read 43 bytes scenes/common/cropbars/entities/output.xmlc pos: 26085286
+Info: read 36 bytes scenes/common/cropbars/output.luac64 pos: 26085375
+Info: read 34 bytes scenes/common/cropbars/output.xmlc pos: 26085457
+Info: read 37 bytes scenes/common/crosstext/output.luac64 pos: 26085537
+Info: read 35 bytes scenes/common/crosstext/output.xmlc pos: 26085620
+Info: read 34 bytes scenes/common/deerai/output.luac64 pos: 26085701
+Info: read 32 bytes scenes/common/deerai/output.xmlc pos: 26085781
+Info: read 48 bytes scenes/common/dialogstarter/entities/output.xmlc pos: 26085859
+Info: read 41 bytes scenes/common/dialogstarter/output.luac64 pos: 26085953
+Info: read 39 bytes scenes/common/dialogstarter/output.xmlc pos: 26086040
+Info: read 46 bytes scenes/common/doortransitionnode/output.luac64 pos: 26086125
+Info: read 44 bytes scenes/common/doortransitionnode/output.xmlc pos: 26086217
+Info: read 34 bytes scenes/common/duckai/output.luac64 pos: 26086307
+Info: read 32 bytes scenes/common/duckai/output.xmlc pos: 26086387
+Info: read 40 bytes scenes/common/duckpuzzleai/output.luac64 pos: 26086465
+Info: read 38 bytes scenes/common/duckpuzzleai/output.xmlc pos: 26086551
+Info: read 38 bytes scenes/common/effectnode/output.luac64 pos: 26086635
+Info: read 40 bytes scenes/common/fades/entities/output.xmlc pos: 26086719
+Info: read 33 bytes scenes/common/fades/output.luac64 pos: 26086805
+Info: read 31 bytes scenes/common/fades/output.xmlc pos: 26086884
+Info: read 39 bytes scenes/common/flankerwolf/output.luac64 pos: 26086961
+Info: read 47 bytes scenes/common/ghoulhaunter/entities/output.xmlc pos: 26087046
+Info: read 40 bytes scenes/common/ghoulhaunter/output.luac64 pos: 26087139
+Info: read 38 bytes scenes/common/ghoulhaunter/output.xmlc pos: 26087225
+Info: read 51 bytes scenes/common/goldmasterbattle/entities/output.xmlc pos: 26087309
+Info: read 44 bytes scenes/common/goldmasterbattle/output.luac64 pos: 26087406
+Info: read 42 bytes scenes/common/goldmasterbattle/output.xmlc pos: 26087496
+Info: read 44 bytes scenes/common/goldmasterbattle/positions.pnt pos: 26087584
+Info: read 40 bytes scenes/common/gourd/entities/output.xmlc pos: 26087674
+Info: read 33 bytes scenes/common/gourd/output.luac64 pos: 26087760
+Info: read 31 bytes scenes/common/gourd/output.xmlc pos: 26087839
+Info: read 46 bytes scenes/common/gourdexodus/entities/output.xmlc pos: 26087916
+Info: read 39 bytes scenes/common/gourdexodus/output.luac64 pos: 26088008
+Info: read 37 bytes scenes/common/gourdexodus/output.xmlc pos: 26088093
+Info: read 40 bytes scenes/common/grabableitem/output.luac64 pos: 26088176
+Info: read 38 bytes scenes/common/graveghost/output.luac64 pos: 26088262
+Info: read 36 bytes scenes/common/graveghost/output.xmlc pos: 26088346
+Info: read 44 bytes scenes/common/heartglow/entities/output.xmlc pos: 26088428
+Info: read 37 bytes scenes/common/heartglow/output.luac64 pos: 26088518
+Info: read 35 bytes scenes/common/heartglow/output.xmlc pos: 26088601
+Info: read 45 bytes scenes/common/interestingobject/output.luac64 pos: 26088682
+Info: read 44 bytes scenes/common/inventory/entities/output.xmlc pos: 26088773
+Info: read 37 bytes scenes/common/inventory/output.luac64 pos: 26088863
+Info: read 35 bytes scenes/common/inventory/output.xmlc pos: 26088946
+Info: read 42 bytes scenes/common/logbook/entities/output.xmlc pos: 26089027
+Info: read 35 bytes scenes/common/logbook/output.luac64 pos: 26089115
+Info: read 33 bytes scenes/common/logbook/output.xmlc pos: 26089196
+Info: read 45 bytes scenes/common/messagebox/entities/output.xmlc pos: 26089275
+Info: read 38 bytes scenes/common/messagebox/output.luac64 pos: 26089366
+Info: read 36 bytes scenes/common/messagebox/output.xmlc pos: 26089450
+Info: read 44 bytes scenes/common/mouseicon/entities/output.xmlc pos: 26089532
+Info: read 37 bytes scenes/common/mouseicon/output.luac64 pos: 26089622
+Info: read 35 bytes scenes/common/mouseicon/output.xmlc pos: 26089705
+Info: read 46 bytes scenes/common/mushroomcontroller/output.luac64 pos: 26089786
+Info: read 44 bytes scenes/common/mushroomcontroller/output.xmlc pos: 26089878
+Info: read 36 bytes scenes/common/notifier/output.luac64 pos: 26089968
+Info: read 51 bytes scenes/common/orderedtappuzzle/entities/output.xmlc pos: 26090050
+Info: read 44 bytes scenes/common/orderedtappuzzle/output.luac64 pos: 26090147
+Info: read 42 bytes scenes/common/orderedtappuzzle/output.xmlc pos: 26090237
+Info: read 50 bytes scenes/common/orientationbars/entities/output.xmlc pos: 26090325
+Info: read 43 bytes scenes/common/orientationbars/output.luac64 pos: 26090421
+Info: read 41 bytes scenes/common/orientationbars/output.xmlc pos: 26090510
+Info: read 27 bytes scenes/common/output.luac64 pos: 26090597
+Info: read 50 bytes scenes/common/pagetransitions/entities/output.xmlc pos: 26090670
+Info: read 43 bytes scenes/common/pagetransitions/output.luac64 pos: 26090766
+Info: read 41 bytes scenes/common/pagetransitions/output.xmlc pos: 26090855
+Info: read 51 bytes scenes/common/particleemitters/entities/output.xmlc pos: 26090942
+Info: read 45 bytes scenes/common/particleemitters/gourdsflightup pos: 26091039
+Info: read 44 bytes scenes/common/particleemitters/output.luac64 pos: 26091130
+Info: read 43 bytes scenes/common/persistenttimer/output.luac64 pos: 26091220
+Info: read 42 bytes scenes/common/pickupableitem/output.luac64 pos: 26091309
+Info: read 46 bytes scenes/common/pickupablemushroom/output.luac64 pos: 26091397
+Info: read 41 bytes scenes/common/pinkdawnmusic/output.luac64 pos: 26091489
+Info: read 41 bytes scenes/common/prompt/entities/output.xmlc pos: 26091576
+Info: read 34 bytes scenes/common/prompt/output.luac64 pos: 26091663
+Info: read 32 bytes scenes/common/prompt/output.xmlc pos: 26091743
+Info: read 40 bytes scenes/common/questmanager/output.luac64 pos: 26091821
+Info: read 39 bytes scenes/common/quithandler/output.luac64 pos: 26091907
+Info: read 37 bytes scenes/common/quithandler/output.xmlc pos: 26091992
+Info: read 36 bytes scenes/common/rabbitai/output.luac64 pos: 26092075
+Info: read 34 bytes scenes/common/rabbitai/output.xmlc pos: 26092157
+Info: read 40 bytes scenes/common/readablesign/output.luac64 pos: 26092237
+Info: read 38 bytes scenes/common/readablesign/output.xmlc pos: 26092323
+Info: read 40 bytes scenes/common/redirectarea/output.luac64 pos: 26092407
+Info: read 45 bytes scenes/common/rotateicon/entities/output.xmlc pos: 26092493
+Info: read 38 bytes scenes/common/rotateicon/output.luac64 pos: 26092584
+Info: read 36 bytes scenes/common/rotateicon/output.xmlc pos: 26092668
+Info: read 49 bytes scenes/common/screensettings/entities/output.xmlc pos: 26092750
+Info: read 42 bytes scenes/common/screensettings/output.luac64 pos: 26092845
+Info: read 40 bytes scenes/common/screensettings/output.xmlc pos: 26092933
+Info: read 35 bytes scenes/common/sheepai/output.luac64 pos: 26093019
+Info: read 33 bytes scenes/common/sheepai/output.xmlc pos: 26093100
+Info: read 55 bytes scenes/common/sidetransitionscreen/entities/output.xmlc pos: 26093179
+Info: read 48 bytes scenes/common/sidetransitionscreen/output.luac64 pos: 26093280
+Info: read 46 bytes scenes/common/sidetransitionscreen/output.xmlc pos: 26093374
+Info: read 46 bytes scenes/common/simplesworcerygate/output.luac64 pos: 26093466
+Info: read 44 bytes scenes/common/simplesworcerygate/output.xmlc pos: 26093558
+Info: read 43 bytes scenes/common/simpletouchable/output.luac64 pos: 26093648
+Info: read 41 bytes scenes/common/simpletouchable/output.xmlc pos: 26093737
+Info: read 35 bytes scenes/common/sitnode/output.luac64 pos: 26093824
+Info: read 33 bytes scenes/common/sitnode/output.xmlc pos: 26093905
+Info: read 42 bytes scenes/common/statefulentity/output.luac64 pos: 26093984
+Info: read 46 bytes scenes/common/storyteller/entities/output.xmlc pos: 26094072
+Info: read 39 bytes scenes/common/storyteller/output.luac64 pos: 26094164
+Info: read 37 bytes scenes/common/storyteller/output.xmlc pos: 26094249
+Info: read 48 bytes scenes/common/sworceryblock/entities/output.xmlc pos: 26094332
+Info: read 41 bytes scenes/common/sworceryblock/output.luac64 pos: 26094426
+Info: read 39 bytes scenes/common/sworceryblock/output.xmlc pos: 26094513
+Info: read 42 bytes scenes/common/sworcerycaster/output.luac64 pos: 26094598
+Info: read 40 bytes scenes/common/sworcerycaster/output.xmlc pos: 26094686
+Info: read 40 bytes scenes/common/sworcerygate/output.luac64 pos: 26094772
+Info: read 40 bytes scenes/common/sworcerymode/output.luac64 pos: 26094858
+Info: read 40 bytes scenes/common/sworcerynode/output.luac64 pos: 26094944
+Info: read 40 bytes scenes/common/sworceryring/output.luac64 pos: 26095030
+Info: read 38 bytes scenes/common/sworceryring/output.xmlc pos: 26095116
+Info: read 36 bytes scenes/common/textecho/output.luac64 pos: 26095200
+Info: read 34 bytes scenes/common/textecho/output.xmlc pos: 26095282
+Info: read 43 bytes scenes/common/touchhum/entities/output.xmlc pos: 26095362
+Info: read 36 bytes scenes/common/touchhum/output.luac64 pos: 26095451
+Info: read 46 bytes scenes/common/touchshadow/entities/output.xmlc pos: 26095533
+Info: read 39 bytes scenes/common/touchshadow/output.luac64 pos: 26095625
+Info: read 37 bytes scenes/common/touchshadow/output.xmlc pos: 26095710
+Info: read 37 bytes scenes/common/tourguide/output.luac64 pos: 26095793
+Info: read 42 bytes scenes/common/transitionnode/output.luac64 pos: 26095876
+Info: read 43 bytes scenes/common/transitionpoint/output.luac64 pos: 26095964
+Info: read 47 bytes scenes/common/travelcamera/entities/output.xmlc pos: 26096053
+Info: read 40 bytes scenes/common/travelcamera/output.luac64 pos: 26096146
+Info: read 38 bytes scenes/common/travelcamera/output.xmlc pos: 26096232
+Info: read 41 bytes scenes/common/travellerbase/output.luac64 pos: 26096316
+Info: read 39 bytes scenes/common/travellerbase/output.xmlc pos: 26096403
+Info: read 48 bytes scenes/common/travellerboor/entities/output.xmlc pos: 26096488
+Info: read 41 bytes scenes/common/travellerboor/output.luac64 pos: 26096582
+Info: read 39 bytes scenes/common/travellerboor/output.xmlc pos: 26096669
+Info: read 45 bytes scenes/common/travellerdirector/output.luac64 pos: 26096754
+Info: read 43 bytes scenes/common/travellerdirector/output.xmlc pos: 26096845
+Info: read 47 bytes scenes/common/travellerdog/entities/output.xmlc pos: 26096934
+Info: read 40 bytes scenes/common/travellerdog/output.luac64 pos: 26097027
+Info: read 38 bytes scenes/common/travellerdog/output.xmlc pos: 26097113
+Info: read 49 bytes scenes/common/travellerghoul/entities/output.xmlc pos: 26097197
+Info: read 42 bytes scenes/common/travellerghoul/output.luac64 pos: 26097292
+Info: read 40 bytes scenes/common/travellerghoul/output.xmlc pos: 26097380
+Info: read 52 bytes scenes/common/travellerlogfella/entities/output.xmlc pos: 26097466
+Info: read 45 bytes scenes/common/travellerlogfella/output.luac64 pos: 26097564
+Info: read 43 bytes scenes/common/travellerlogfella/output.xmlc pos: 26097655
+Info: read 52 bytes scenes/common/travelleroldbones/entities/output.xmlc pos: 26097744
+Info: read 45 bytes scenes/common/travelleroldbones/output.luac64 pos: 26097842
+Info: read 53 bytes scenes/common/travellerstorygirl/entities/output.xmlc pos: 26097933
+Info: read 46 bytes scenes/common/travellerstorygirl/output.luac64 pos: 26098032
+Info: read 44 bytes scenes/common/travellerstorygirl/output.xmlc pos: 26098124
+Info: read 50 bytes scenes/common/travellerursula/entities/output.xmlc pos: 26098214
+Info: read 43 bytes scenes/common/travellerursula/output.luac64 pos: 26098310
+Info: read 41 bytes scenes/common/travellerursula/output.xmlc pos: 26098399
+Info: read 48 bytes scenes/common/travellerwolf/entities/output.xmlc pos: 26098486
+Info: read 41 bytes scenes/common/travellerwolf/output.luac64 pos: 26098580
+Info: read 39 bytes scenes/common/travellerwolf/output.xmlc pos: 26098667
+Info: read 52 bytes scenes/common/triangleheartbeat/entities/output.xmlc pos: 26098752
+Info: read 45 bytes scenes/common/triangleheartbeat/output.luac64 pos: 26098850
+Info: read 43 bytes scenes/common/triangleheartbeat/output.xmlc pos: 26098941
+Info: read 47 bytes scenes/common/tutorialtext/entities/output.xmlc pos: 26099030
+Info: read 40 bytes scenes/common/tutorialtext/output.luac64 pos: 26099123
+Info: read 38 bytes scenes/common/tutorialtext/output.xmlc pos: 26099209
+Info: read 47 bytes scenes/common/twitterlogin/entities/output.xmlc pos: 26099293
+Info: read 40 bytes scenes/common/twitterlogin/output.luac64 pos: 26099386
+Info: read 38 bytes scenes/common/twitterlogin/output.xmlc pos: 26099472
+Info: read 55 bytes scenes/common/twitterloginportrait/entities/output.xmlc pos: 26099556
+Info: read 48 bytes scenes/common/twitterloginportrait/output.luac64 pos: 26099657
+Info: read 46 bytes scenes/common/twitterloginportrait/output.xmlc pos: 26099751
+Info: read 49 bytes scenes/common/unconsciouscontroller/output.luac64 pos: 26099843
+Info: read 47 bytes scenes/common/unconsciouscontroller/output.xmlc pos: 26099938
+Info: read 41 bytes scenes/common/unifiedscript/output.luac64 pos: 26100031
+Info: read 42 bytes scenes/common/unlockabledoor/output.luac64 pos: 26100118
+Info: read 40 bytes scenes/common/unlockabledoor/output.xmlc pos: 26100206
+Info: read 45 bytes scenes/common/unwellwell/entities/output.xmlc pos: 26100292
+Info: read 38 bytes scenes/common/unwellwell/output.luac64 pos: 26100383
+Info: read 36 bytes scenes/common/unwellwell/output.xmlc pos: 26100467
+Info: read 48 bytes scenes/common/ursuladrowner/entities/output.xmlc pos: 26100549
+Info: read 41 bytes scenes/common/ursuladrowner/output.luac64 pos: 26100643
+Info: read 39 bytes scenes/common/ursuladrowner/output.xmlc pos: 26100730
+Info: read 47 bytes scenes/common/ursulahealth/entities/output.xmlc pos: 26100815
+Info: read 40 bytes scenes/common/ursulahealth/output.luac64 pos: 26100908
+Info: read 38 bytes scenes/common/ursulahealth/output.xmlc pos: 26100994
+Info: read 40 bytes scenes/common/ursulakiller/output.luac64 pos: 26101078
+Info: read 46 bytes scenes/common/walkoffarea/entities/output.xmlc pos: 26101164
+Info: read 39 bytes scenes/common/walkoffarea/output.luac64 pos: 26101256
+Info: read 43 bytes scenes/common/warpnode/entities/output.xmlc pos: 26101341
+Info: read 36 bytes scenes/common/warpnode/output.luac64 pos: 26101430
+Info: read 34 bytes scenes/common/warpnode/output.xmlc pos: 26101512
+Info: read 37 bytes scenes/common/waterfall/output.luac64 pos: 26101592
+Info: read 36 bytes scenes/common/windflag/output.luac64 pos: 26101675
+Info: read 34 bytes scenes/common/windflag/output.xmlc pos: 26101757
+Info: read 46 bytes scenes/common/windmanager/entities/output.xmlc pos: 26101837
+Info: read 39 bytes scenes/common/windmanager/output.luac64 pos: 26101929
+Info: read 37 bytes scenes/common/windmanager/output.xmlc pos: 26102014
+Info: read 45 bytes scenes/common/wolfbattle/entities/output.xmlc pos: 26102097
+Info: read 38 bytes scenes/common/wolfbattle/output.luac64 pos: 26102188
+Info: read 36 bytes scenes/common/wolfbattle/output.xmlc pos: 26102272
+Info: read 38 bytes scenes/common/wolfbattle/positions.pnt pos: 26102354
+Info: read 35 bytes scenes/credits/entities/output.xmlc pos: 26102438
+Info: read 28 bytes scenes/credits/output.luac64 pos: 26102519
+Info: read 26 bytes scenes/credits/output.xmlc pos: 26102593
+Info: read 28 bytes scenes/credits/positions.pnt pos: 26102665
+Info: read 43 bytes scenes/downslopewoods1/entities/output.xmlc pos: 26102739
+Info: read 30 bytes scenes/downslopewoods1/map.spl pos: 26102828
+Info: read 36 bytes scenes/downslopewoods1/output.luac64 pos: 26102904
+Info: read 36 bytes scenes/downslopewoods1/positions.pnt pos: 26102986
+Info: read 43 bytes scenes/downslopewoods2/entities/output.xmlc pos: 26103068
+Info: read 30 bytes scenes/downslopewoods2/map.spl pos: 26103157
+Info: read 36 bytes scenes/downslopewoods2/output.luac64 pos: 26103233
+Info: read 36 bytes scenes/downslopewoods2/positions.pnt pos: 26103315
+Info: read 43 bytes scenes/downslopewoods3/entities/output.xmlc pos: 26103397
+Info: read 30 bytes scenes/downslopewoods3/map.spl pos: 26103486
+Info: read 36 bytes scenes/downslopewoods3/output.luac64 pos: 26103562
+Info: read 36 bytes scenes/downslopewoods3/positions.pnt pos: 26103644
+Info: read 37 bytes scenes/emptytest/entities/output.xmlc pos: 26103726
+Info: read 30 bytes scenes/emptytest/output.luac64 pos: 26103809
+Info: read 37 bytes scenes/endscene1/entities/output.xmlc pos: 26103885
+Info: read 30 bytes scenes/endscene1/output.luac64 pos: 26103968
+Info: read 28 bytes scenes/endscene1/output.xmlc pos: 26104044
+Info: read 30 bytes scenes/endscene1/positions.pnt pos: 26104118
+Info: read 38 bytes scenes/endscene22/entities/output.xmlc pos: 26104194
+Info: read 25 bytes scenes/endscene22/map.spl pos: 26104278
+Info: read 31 bytes scenes/endscene22/output.luac64 pos: 26104349
+Info: read 29 bytes scenes/endscene22/output.xmlc pos: 26104426
+Info: read 31 bytes scenes/endscene22/positions.pnt pos: 26104501
+Info: read 37 bytes scenes/endscene3/entities/output.xmlc pos: 26104578
+Info: read 30 bytes scenes/endscene3/output.luac64 pos: 26104661
+Info: read 28 bytes scenes/endscene3/output.xmlc pos: 26104737
+Info: read 30 bytes scenes/endscene3/positions.pnt pos: 26104811
+Info: read 37 bytes scenes/endscene4/entities/output.xmlc pos: 26104887
+Info: read 24 bytes scenes/endscene4/map.spl pos: 26104970
+Info: read 30 bytes scenes/endscene4/output.luac64 pos: 26105040
+Info: read 28 bytes scenes/endscene4/output.xmlc pos: 26105116
+Info: read 30 bytes scenes/endscene4/positions.pnt pos: 26105190
+Info: read 37 bytes scenes/endscene5/entities/output.xmlc pos: 26105266
+Info: read 24 bytes scenes/endscene5/map.spl pos: 26105349
+Info: read 30 bytes scenes/endscene5/output.luac64 pos: 26105419
+Info: read 28 bytes scenes/endscene5/output.xmlc pos: 26105495
+Info: read 30 bytes scenes/endscene5/positions.pnt pos: 26105569
+Info: read 37 bytes scenes/endscene6/entities/output.xmlc pos: 26105645
+Info: read 30 bytes scenes/endscene6/output.luac64 pos: 26105728
+Info: read 28 bytes scenes/endscene6/output.xmlc pos: 26105804
+Info: read 30 bytes scenes/endscene6/positions.pnt pos: 26105878
+Info: read 34 bytes scenes/estate/entities/output.xmlc pos: 26105954
+Info: read 21 bytes scenes/estate/map.spl pos: 26106034
+Info: read 27 bytes scenes/estate/output.luac64 pos: 26106101
+Info: read 25 bytes scenes/estate/output.xmlc pos: 26106174
+Info: read 27 bytes scenes/estate/positions.pnt pos: 26106245
+Info: read 38 bytes scenes/forestpath/entities/output.xmlc pos: 26106318
+Info: read 25 bytes scenes/forestpath/map.spl pos: 26106402
+Info: read 31 bytes scenes/forestpath/output.luac64 pos: 26106473
+Info: read 31 bytes scenes/forestpath/positions.pnt pos: 26106550
+Info: read 40 bytes scenes/hilltopchasm/entities/output.xmlc pos: 26106627
+Info: read 27 bytes scenes/hilltopchasm/map.spl pos: 26106713
+Info: read 33 bytes scenes/hilltopchasm/output.luac64 pos: 26106786
+Info: read 33 bytes scenes/hilltopchasm/positions.pnt pos: 26106865
+Info: read 38 bytes scenes/homecoming/entities/output.xmlc pos: 26106944
+Info: read 25 bytes scenes/homecoming/map.spl pos: 26107028
+Info: read 31 bytes scenes/homecoming/output.luac64 pos: 26107099
+Info: read 29 bytes scenes/homecoming/output.xmlc pos: 26107176
+Info: read 31 bytes scenes/homecoming/positions.pnt pos: 26107251
+Info: read 38 bytes scenes/hugetree/entities/output.luac64 pos: 26107328
+Info: read 36 bytes scenes/hugetree/entities/output.xmlc pos: 26107412
+Info: read 23 bytes scenes/hugetree/map.spl pos: 26107494
+Info: read 29 bytes scenes/hugetree/output.luac64 pos: 26107563
+Info: read 27 bytes scenes/hugetree/output.xmlc pos: 26107638
+Info: read 29 bytes scenes/hugetree/positions.pnt pos: 26107711
+Info: read 38 bytes scenes/islandcave/entities/output.xmlc pos: 26107786
+Info: read 25 bytes scenes/islandcave/map.spl pos: 26107870
+Info: read 31 bytes scenes/islandcave/output.luac64 pos: 26107941
+Info: read 29 bytes scenes/islandcave/output.xmlc pos: 26108018
+Info: read 31 bytes scenes/islandcave/positions.pnt pos: 26108093
+Info: read 45 bytes scenes/lakecrosspedestal/entities/output.xmlc pos: 26108170
+Info: read 32 bytes scenes/lakecrosspedestal/map.spl pos: 26108261
+Info: read 38 bytes scenes/lakecrosspedestal/output.luac64 pos: 26108339
+Info: read 36 bytes scenes/lakecrosspedestal/output.xmlc pos: 26108423
+Info: read 38 bytes scenes/lakecrosspedestal/positions.pnt pos: 26108505
+Info: read 56 bytes scenes/lakeshorebunnystraightaway/entities/output.luac64 pos: 26108589
+Info: read 54 bytes scenes/lakeshorebunnystraightaway/entities/output.xmlc pos: 26108691
+Info: read 41 bytes scenes/lakeshorebunnystraightaway/map.spl pos: 26108791
+Info: read 47 bytes scenes/lakeshorebunnystraightaway/output.luac64 pos: 26108878
+Info: read 45 bytes scenes/lakeshorebunnystraightaway/output.xmlc pos: 26108971
+Info: read 47 bytes scenes/lakeshorebunnystraightaway/positions.pnt pos: 26109062
+Info: read 43 bytes scenes/lakeshorelake/entities/output.luac64 pos: 26109155
+Info: read 41 bytes scenes/lakeshorelake/entities/output.xmlc pos: 26109244
+Info: read 28 bytes scenes/lakeshorelake/map.spl pos: 26109331
+Info: read 34 bytes scenes/lakeshorelake/output.luac64 pos: 26109405
+Info: read 32 bytes scenes/lakeshorelake/output.xmlc pos: 26109485
+Info: read 34 bytes scenes/lakeshorelake/positions.pnt pos: 26109563
+Info: read 50 bytes scenes/lakeshorestonebridge/entities/output.luac64 pos: 26109643
+Info: read 48 bytes scenes/lakeshorestonebridge/entities/output.xmlc pos: 26109739
+Info: read 35 bytes scenes/lakeshorestonebridge/map.spl pos: 26109833
+Info: read 41 bytes scenes/lakeshorestonebridge/output.luac64 pos: 26109914
+Info: read 41 bytes scenes/lakeshorestonebridge/positions.pnt pos: 26110001
+Info: read 40 bytes scenes/lowridgeline/entities/output.xmlc pos: 26110088
+Info: read 27 bytes scenes/lowridgeline/map.spl pos: 26110174
+Info: read 33 bytes scenes/lowridgeline/output.luac64 pos: 26110247
+Info: read 31 bytes scenes/lowridgeline/output.xmlc pos: 26110326
+Info: read 33 bytes scenes/lowridgeline/positions.pnt pos: 26110403
+Info: read 44 bytes scenes/lowridgelineback/entities/output.xmlc pos: 26110482
+Info: read 31 bytes scenes/lowridgelineback/map.spl pos: 26110572
+Info: read 37 bytes scenes/lowridgelineback/output.luac64 pos: 26110649
+Info: read 35 bytes scenes/lowridgelineback/output.xmlc pos: 26110732
+Info: read 37 bytes scenes/lowridgelineback/positions.pnt pos: 26110813
+Info: read 36 bytes scenes/megatomb/entities/output.xmlc pos: 26110896
+Info: read 23 bytes scenes/megatomb/map.spl pos: 26110978
+Info: read 29 bytes scenes/megatomb/output.luac64 pos: 26111047
+Info: read 27 bytes scenes/megatomb/output.xmlc pos: 26111122
+Info: read 29 bytes scenes/megatomb/positions.pnt pos: 26111195
+Info: read 40 bytes scenes/midridgeline/entities/output.xmlc pos: 26111270
+Info: read 27 bytes scenes/midridgeline/map.spl pos: 26111356
+Info: read 33 bytes scenes/midridgeline/output.luac64 pos: 26111429
+Info: read 33 bytes scenes/midridgeline/positions.pnt pos: 26111508
+Info: read 47 bytes scenes/mountainlakeshore/entities/output.luac64 pos: 26111587
+Info: read 45 bytes scenes/mountainlakeshore/entities/output.xmlc pos: 26111680
+Info: read 32 bytes scenes/mountainlakeshore/map.spl pos: 26111771
+Info: read 38 bytes scenes/mountainlakeshore/output.luac64 pos: 26111849
+Info: read 36 bytes scenes/mountainlakeshore/output.xmlc pos: 26111933
+Info: read 38 bytes scenes/mountainlakeshore/positions.pnt pos: 26112015
+Info: read 44 bytes scenes/mountainmeadow/entities/output.luac64 pos: 26112099
+Info: read 42 bytes scenes/mountainmeadow/entities/output.xmlc pos: 26112189
+Info: read 29 bytes scenes/mountainmeadow/map.spl pos: 26112277
+Info: read 35 bytes scenes/mountainmeadow/output.luac64 pos: 26112352
+Info: read 33 bytes scenes/mountainmeadow/output.xmlc pos: 26112433
+Info: read 35 bytes scenes/mountainmeadow/positions.pnt pos: 26112512
+Info: read 46 bytes scenes/mountainmeadowback/entities/output.xmlc pos: 26112593
+Info: read 33 bytes scenes/mountainmeadowback/map.spl pos: 26112685
+Info: read 39 bytes scenes/mountainmeadowback/output.luac64 pos: 26112764
+Info: read 37 bytes scenes/mountainmeadowback/output.xmlc pos: 26112849
+Info: read 39 bytes scenes/mountainmeadowback/positions.pnt pos: 26112932
+Info: read 40 bytes scenes/mountainpass/entities/output.xmlc pos: 26113017
+Info: read 27 bytes scenes/mountainpass/map.spl pos: 26113103
+Info: read 33 bytes scenes/mountainpass/output.luac64 pos: 26113176
+Info: read 31 bytes scenes/mountainpass/output.xmlc pos: 26113255
+Info: read 33 bytes scenes/mountainpass/positions.pnt pos: 26113332
+Info: read 44 bytes scenes/mountainpassback/entities/output.xmlc pos: 26113411
+Info: read 31 bytes scenes/mountainpassback/map.spl pos: 26113501
+Info: read 37 bytes scenes/mountainpassback/output.luac64 pos: 26113578
+Info: read 35 bytes scenes/mountainpassback/output.xmlc pos: 26113661
+Info: read 37 bytes scenes/mountainpassback/positions.pnt pos: 26113742
+Info: read 42 bytes scenes/mountainside/entities/output.luac64 pos: 26113825
+Info: read 40 bytes scenes/mountainside/entities/output.xmlc pos: 26113913
+Info: read 27 bytes scenes/mountainside/map.spl pos: 26113999
+Info: read 33 bytes scenes/mountainside/output.luac64 pos: 26114072
+Info: read 31 bytes scenes/mountainside/output.xmlc pos: 26114151
+Info: read 33 bytes scenes/mountainside/positions.pnt pos: 26114228
+Info: read 41 bytes scenes/mountaintop/entities/output.luac64 pos: 26114307
+Info: read 39 bytes scenes/mountaintop/entities/output.xmlc pos: 26114394
+Info: read 26 bytes scenes/mountaintop/map.spl pos: 26114479
+Info: read 32 bytes scenes/mountaintop/output.luac64 pos: 26114551
+Info: read 30 bytes scenes/mountaintop/output.xmlc pos: 26114629
+Info: read 32 bytes scenes/mountaintop/positions.pnt pos: 26114705
+Info: read 40 bytes scenes/particletest/entities/output.xmlc pos: 26114783
+Info: read 33 bytes scenes/particletest/output.luac64 pos: 26114869
+Info: read 37 bytes scenes/pathdepth/entities/output.xmlc pos: 26114948
+Info: read 30 bytes scenes/pathdepth/output.luac64 pos: 26115031
+Info: read 28 bytes scenes/pathdepth/output.xmlc pos: 26115107
+Info: read 30 bytes scenes/pathdepth/positions.pnt pos: 26115181
+Info: read 31 bytes scenes/quickstart/output.luac64 pos: 26115257
+Info: read 52 bytes scenes/secret1_footofmountain/entities/output.luac64 pos: 26115334
+Info: read 50 bytes scenes/secret1_footofmountain/entities/output.xmlc pos: 26115432
+Info: read 37 bytes scenes/secret1_footofmountain/map.spl pos: 26115528
+Info: read 43 bytes scenes/secret1_footofmountain/output.luac64 pos: 26115611
+Info: read 41 bytes scenes/secret1_footofmountain/output.xmlc pos: 26115700
+Info: read 43 bytes scenes/secret1_footofmountain/positions.pnt pos: 26115787
+Info: read 56 bytes scenes/secret2_stoneshelter/entities/concertlights.xm88l pos: 26115876
+Info: read 50 bytes scenes/secret2_stoneshelter/entities/output.luac64 pos: 26115978
+Info: read 48 bytes scenes/secret2_stoneshelter/entities/output.xmlc pos: 26116074
+Info: read 35 bytes scenes/secret2_stoneshelter/map.spl pos: 26116168
+Info: read 41 bytes scenes/secret2_stoneshelter/output.luac64 pos: 26116249
+Info: read 39 bytes scenes/secret2_stoneshelter/output.xmlc pos: 26116336
+Info: read 41 bytes scenes/secret2_stoneshelter/positions.pnt pos: 26116421
+Info: read 48 bytes scenes/secret3_hollowtree/entities/output.luac64 pos: 26116508
+Info: read 46 bytes scenes/secret3_hollowtree/entities/output.xmlc pos: 26116602
+Info: read 33 bytes scenes/secret3_hollowtree/map.spl pos: 26116694
+Info: read 39 bytes scenes/secret3_hollowtree/output.luac64 pos: 26116773
+Info: read 37 bytes scenes/secret3_hollowtree/output.xmlc pos: 26116858
+Info: read 39 bytes scenes/secret3_hollowtree/positions.pnt pos: 26116941
+Info: read 40 bytes scenes/splashscreen/entities/output.xmlc pos: 26117026
+Info: read 33 bytes scenes/splashscreen/output.luac64 pos: 26117112
+Info: read 31 bytes scenes/splashscreen/output.xmlc pos: 26117191
+Info: read 33 bytes scenes/splashscreen/positions.pnt pos: 26117268
+Info: read 38 bytes scenes/spritetest/entities/output.xmlc pos: 26117347
+Info: read 31 bytes scenes/spritetest/output.luac64 pos: 26117431
+Info: read 29 bytes scenes/spritetest/output.xmlc pos: 26117508
+Info: read 38 bytes scenes/summithead/entities/output.xmlc pos: 26117583
+Info: read 25 bytes scenes/summithead/map.spl pos: 26117667
+Info: read 31 bytes scenes/summithead/output.luac64 pos: 26117738
+Info: read 29 bytes scenes/summithead/output.xmlc pos: 26117815
+Info: read 31 bytes scenes/summithead/positions.pnt pos: 26117890
+Info: read 43 bytes scenes/summitheadcaves/entities/output.xmlc pos: 26117967
+Info: read 30 bytes scenes/summitheadcaves/map.spl pos: 26118056
+Info: read 36 bytes scenes/summitheadcaves/output.luac64 pos: 26118132
+Info: read 36 bytes scenes/summitheadcaves/positions.pnt pos: 26118214
+Info: read 39 bytes scenes/summitridge/entities/output.xmlc pos: 26118296
+Info: read 26 bytes scenes/summitridge/map.spl pos: 26118381
+Info: read 32 bytes scenes/summitridge/output.luac64 pos: 26118453
+Info: read 32 bytes scenes/summitridge/positions.pnt pos: 26118531
+Info: read 43 bytes scenes/summitridgeback/entities/output.xmlc pos: 26118609
+Info: read 30 bytes scenes/summitridgeback/map.spl pos: 26118698
+Info: read 36 bytes scenes/summitridgeback/output.luac64 pos: 26118774
+Info: read 34 bytes scenes/summitridgeback/output.xmlc pos: 26118856
+Info: read 36 bytes scenes/summitridgeback/positions.pnt pos: 26118936
+Info: read 41 bytes scenes/summittemple1/entities/output.xmlc pos: 26119018
+Info: read 28 bytes scenes/summittemple1/map.spl pos: 26119105
+Info: read 34 bytes scenes/summittemple1/output.luac64 pos: 26119179
+Info: read 32 bytes scenes/summittemple1/output.xmlc pos: 26119259
+Info: read 34 bytes scenes/summittemple1/positions.pnt pos: 26119337
+Info: read 43 bytes scenes/summittemple2/entities/output.luac64 pos: 26119417
+Info: read 41 bytes scenes/summittemple2/entities/output.xmlc pos: 26119506
+Info: read 28 bytes scenes/summittemple2/map.spl pos: 26119593
+Info: read 34 bytes scenes/summittemple2/output.luac64 pos: 26119667
+Info: read 32 bytes scenes/summittemple2/output.xmlc pos: 26119747
+Info: read 34 bytes scenes/summittemple2/positions.pnt pos: 26119825
+Info: read 41 bytes scenes/summittemple3/entities/output.xmlc pos: 26119905
+Info: read 28 bytes scenes/summittemple3/map.spl pos: 26119992
+Info: read 34 bytes scenes/summittemple3/output.luac64 pos: 26120066
+Info: read 32 bytes scenes/summittemple3/output.xmlc pos: 26120146
+Info: read 34 bytes scenes/summittemple3/positions.pnt pos: 26120224
+Info: read 41 bytes scenes/summittemple4/entities/output.xmlc pos: 26120304
+Info: read 28 bytes scenes/summittemple4/map.spl pos: 26120391
+Info: read 34 bytes scenes/summittemple4/output.luac64 pos: 26120465
+Info: read 34 bytes scenes/summittemple4/positions.pnt pos: 26120545
+Info: read 41 bytes scenes/summittemple5/entities/output.xmlc pos: 26120625
+Info: read 28 bytes scenes/summittemple5/map.spl pos: 26120712
+Info: read 34 bytes scenes/summittemple5/output.luac64 pos: 26120786
+Info: read 32 bytes scenes/summittemple5/output.xmlc pos: 26120866
+Info: read 34 bytes scenes/summittemple5/positions.pnt pos: 26120944
+Info: read 41 bytes scenes/summittemple6/entities/output.xmlc pos: 26121024
+Info: read 28 bytes scenes/summittemple6/map.spl pos: 26121111
+Info: read 34 bytes scenes/summittemple6/output.luac64 pos: 26121185
+Info: read 32 bytes scenes/summittemple6/output.xmlc pos: 26121265
+Info: read 34 bytes scenes/summittemple6/positions.pnt pos: 26121343
+Info: read 43 bytes scenes/summittemple7/entities/output.luac64 pos: 26121423
+Info: read 41 bytes scenes/summittemple7/entities/output.xmlc pos: 26121512
+Info: read 28 bytes scenes/summittemple7/map.spl pos: 26121599
+Info: read 34 bytes scenes/summittemple7/output.luac64 pos: 26121673
+Info: read 32 bytes scenes/summittemple7/output.xmlc pos: 26121753
+Info: read 34 bytes scenes/summittemple7/positions.pnt pos: 26121831
+Info: read 41 bytes scenes/summittemple8/entities/output.xmlc pos: 26121911
+Info: read 28 bytes scenes/summittemple8/map.spl pos: 26121998
+Info: read 34 bytes scenes/summittemple8/output.luac64 pos: 26122072
+Info: read 34 bytes scenes/summittemple8/positions.pnt pos: 26122152
+Info: read 39 bytes scenes/summittower/entities/output.xmlc pos: 26122232
+Info: read 26 bytes scenes/summittower/map.spl pos: 26122317
+Info: read 32 bytes scenes/summittower/output.luac64 pos: 26122389
+Info: read 30 bytes scenes/summittower/output.xmlc pos: 26122467
+Info: read 32 bytes scenes/summittower/positions.pnt pos: 26122543
+Info: read 46 bytes scenes/summittowercaves/entities/output.luac64 pos: 26122621
+Info: read 44 bytes scenes/summittowercaves/entities/output.xmlc pos: 26122713
+Info: read 31 bytes scenes/summittowercaves/map.spl pos: 26122803
+Info: read 37 bytes scenes/summittowercaves/output.luac64 pos: 26122880
+Info: read 35 bytes scenes/summittowercaves/output.xmlc pos: 26122963
+Info: read 37 bytes scenes/summittowercaves/positions.pnt pos: 26123044
+Info: read 38 bytes scenes/switchback/entities/output.xmlc pos: 26123127
+Info: read 25 bytes scenes/switchback/map.spl pos: 26123211
+Info: read 31 bytes scenes/switchback/output.luac64 pos: 26123282
+Info: read 31 bytes scenes/switchback/positions.pnt pos: 26123359
+Info: read 39 bytes scenes/titlescreen/entities/output.xmlc pos: 26123436
+Info: read 32 bytes scenes/titlescreen/output.luac64 pos: 26123521
+Info: read 30 bytes scenes/titlescreen/output.xmlc pos: 26123599
+Info: read 43 bytes scenes/upslopewoods1/entities/output.luac64 pos: 26123675
+Info: read 41 bytes scenes/upslopewoods1/entities/output.xmlc pos: 26123764
+Info: read 28 bytes scenes/upslopewoods1/map.spl pos: 26123851
+Info: read 34 bytes scenes/upslopewoods1/output.luac64 pos: 26123925
+Info: read 32 bytes scenes/upslopewoods1/output.xmlc pos: 26124005
+Info: read 34 bytes scenes/upslopewoods1/positions.pnt pos: 26124083
+Info: read 43 bytes scenes/upslopewoods2/entities/output.luac64 pos: 26124163
+Info: read 41 bytes scenes/upslopewoods2/entities/output.xmlc pos: 26124252
+Info: read 28 bytes scenes/upslopewoods2/map.spl pos: 26124339
+Info: read 34 bytes scenes/upslopewoods2/output.luac64 pos: 26124413
+Info: read 32 bytes scenes/upslopewoods2/output.xmlc pos: 26124493
+Info: read 34 bytes scenes/upslopewoods2/positions.pnt pos: 26124571
+Info: read 43 bytes scenes/upslopewoods3/entities/output.luac64 pos: 26124651
+Info: read 41 bytes scenes/upslopewoods3/entities/output.xmlc pos: 26124740
+Info: read 28 bytes scenes/upslopewoods3/map.spl pos: 26124827
+Info: read 34 bytes scenes/upslopewoods3/output.luac64 pos: 26124901
+Info: read 32 bytes scenes/upslopewoods3/output.xmlc pos: 26124981
+Info: read 34 bytes scenes/upslopewoods3/positions.pnt pos: 26125059
+Info: read 43 bytes scenes/upslopewoods4/entities/output.luac64 pos: 26125139
+Info: read 41 bytes scenes/upslopewoods4/entities/output.xmlc pos: 26125228
+Info: read 28 bytes scenes/upslopewoods4/map.spl pos: 26125315
+Info: read 34 bytes scenes/upslopewoods4/output.luac64 pos: 26125389
+Info: read 32 bytes scenes/upslopewoods4/output.xmlc pos: 26125469
+Info: read 34 bytes scenes/upslopewoods4/positions.pnt pos: 26125547
+Info: read 45 bytes scenes/upslopewoods4back/entities/output.xmlc pos: 26125627
+Info: read 32 bytes scenes/upslopewoods4back/map.spl pos: 26125718
+Info: read 38 bytes scenes/upslopewoods4back/output.luac64 pos: 26125796
+Info: read 36 bytes scenes/upslopewoods4back/output.xmlc pos: 26125880
+Info: read 38 bytes scenes/upslopewoods4back/positions.pnt pos: 26125962
+Info: read 40 bytes scenes/waterfalls/entities/output.luac64 pos: 26126046
+Info: read 38 bytes scenes/waterfalls/entities/output.xmlc pos: 26126132
+Info: read 25 bytes scenes/waterfalls/map.spl pos: 26126216
+Info: read 31 bytes scenes/waterfalls/output.luac64 pos: 26126287
+Info: read 31 bytes scenes/waterfalls/positions.pnt pos: 26126364
+Info: read 22 bytes sprites/10hugetree.png pos: 26126441
+Info: read 23 bytes sprites/10hugetree.sdat pos: 26126509
+Info: read 24 bytes sprites/11forestpath.png pos: 26126578
+Info: read 25 bytes sprites/11forestpath.sdat pos: 26126648
+Info: read 19 bytes sprites/13cabin.png pos: 26126719
+Info: read 20 bytes sprites/13cabin.sdat pos: 26126784
+Info: read 24 bytes sprites/14homecoming.png pos: 26126850
+Info: read 25 bytes sprites/14homecoming.sdat pos: 26126920
+Info: read 22 bytes sprites/15godeeper.png pos: 26126991
+Info: read 23 bytes sprites/15godeeper.sdat pos: 26127059
+Info: read 24 bytes sprites/1mountaintop.png pos: 26127128
+Info: read 25 bytes sprites/1mountaintop.sdat pos: 26127198
+Info: read 25 bytes sprites/2mountainside.png pos: 26127269
+Info: read 26 bytes sprites/2mountainside.sdat pos: 26127340
+Info: read 30 bytes sprites/3mountainlakeshore.png pos: 26127412
+Info: read 31 bytes sprites/3mountainlakeshore.sdat pos: 26127488
+Info: read 28 bytes sprites/4lakeshorebridge.png pos: 26127565
+Info: read 29 bytes sprites/4lakeshorebridge.sdat pos: 26127639
+Info: read 39 bytes sprites/5lakeshorebunnystraightaway.png pos: 26127714
+Info: read 40 bytes sprites/5lakeshorebunnystraightaway.sdat pos: 26127799
+Info: read 26 bytes sprites/6lakeshorelake.png pos: 26127885
+Info: read 27 bytes sprites/6lakeshorelake.sdat pos: 26127957
+Info: read 30 bytes sprites/7lakecrosspedestal.png pos: 26128030
+Info: read 31 bytes sprites/7lakecrosspedestal.sdat pos: 26128106
+Info: read 27 bytes sprites/8brisklywalking.png pos: 26128183
+Info: read 28 bytes sprites/8brisklywalking.sdat pos: 26128256
+Info: read 23 bytes sprites/9waterfalls.png pos: 26128330
+Info: read 24 bytes sprites/9waterfalls.sdat pos: 26128399
+Info: read 23 bytes sprites/adventureui.png pos: 26128469
+Info: read 24 bytes sprites/adventureui.sdat pos: 26128538
+Info: read 28 bytes sprites/adventureui_ipad.png pos: 26128608
+Info: read 29 bytes sprites/adventureui_ipad.sdat pos: 26128682
+Info: read 22 bytes sprites/alpineleft.png pos: 26128757
+Info: read 23 bytes sprites/alpineleft.sdat pos: 26128825
+Info: read 23 bytes sprites/alpineridge.png pos: 26128894
+Info: read 24 bytes sprites/alpineridge.sdat pos: 26128963
+Info: read 23 bytes sprites/alpineright.png pos: 26129033
+Info: read 24 bytes sprites/alpineright.sdat pos: 26129102
+Info: read 23 bytes sprites/alpinestart.png pos: 26129172
+Info: read 24 bytes sprites/alpinestart.sdat pos: 26129241
+Info: read 24 bytes sprites/amphitheatre.png pos: 26129311
+Info: read 25 bytes sprites/amphitheatre.sdat pos: 26129381
+Info: read 21 bytes sprites/archetype.png pos: 26129452
+Info: read 22 bytes sprites/archetype.sdat pos: 26129519
+Info: read 20 bytes sprites/bitroles.png pos: 26129587
+Info: read 21 bytes sprites/bitroles.sdat pos: 26129653
+Info: read 29 bytes sprites/bonesantlershield.png pos: 26129720
+Info: read 30 bytes sprites/bonesantlershield.sdat pos: 26129795
+Info: read 16 bytes sprites/boor.png pos: 26129871
+Info: read 17 bytes sprites/boor.sdat pos: 26129933
+Info: read 22 bytes sprites/boorbattle.png pos: 26129996
+Info: read 23 bytes sprites/boorbattle.sdat pos: 26130064
+Info: read 18 bytes sprites/bootup.png pos: 26130133
+Info: read 19 bytes sprites/bootup.sdat pos: 26130197
+Info: read 19 bytes sprites/buttons.png pos: 26130262
+Info: read 20 bytes sprites/buttons.sdat pos: 26130327
+Info: read 24 bytes sprites/buttons_ipad.png pos: 26130393
+Info: read 25 bytes sprites/buttons_ipad.sdat pos: 26130463
+Info: read 17 bytes sprites/cabin.png pos: 26130534
+Info: read 18 bytes sprites/cabin.sdat pos: 26130597
+Info: read 25 bytes sprites/cabininterior.png pos: 26130661
+Info: read 26 bytes sprites/cabininterior.sdat pos: 26130732
+Info: read 29 bytes sprites/castlebanquethall.png pos: 26130804
+Info: read 30 bytes sprites/castlebanquethall.sdat pos: 26130879
+Info: read 25 bytes sprites/castlebedroom.png pos: 26130955
+Info: read 26 bytes sprites/castlebedroom.sdat pos: 26131026
+Info: read 24 bytes sprites/castlechapel.png pos: 26131098
+Info: read 25 bytes sprites/castlechapel.sdat pos: 26131168
+Info: read 25 bytes sprites/castlelibrary.png pos: 26131239
+Info: read 26 bytes sprites/castlelibrary.sdat pos: 26131310
+Info: read 28 bytes sprites/castlethroneroom.png pos: 26131382
+Info: read 29 bytes sprites/castlethroneroom.sdat pos: 26131456
+Info: read 24 bytes sprites/cinematheque.png pos: 26131531
+Info: read 25 bytes sprites/cinematheque.sdat pos: 26131601
+Info: read 22 bytes sprites/combatblue.png pos: 26131672
+Info: read 23 bytes sprites/combatblue.sdat pos: 26131740
+Info: read 23 bytes sprites/combatbones.png pos: 26131809
+Info: read 24 bytes sprites/combatbones.sdat pos: 26131878
+Info: read 22 bytes sprites/combatpink.png pos: 26131948
+Info: read 23 bytes sprites/combatpink.sdat pos: 26132016
+Info: read 30 bytes sprites/combatwolfmountain.png pos: 26132085
+Info: read 31 bytes sprites/combatwolfmountain.sdat pos: 26132161
+Info: read 29 bytes sprites/combatwolfupslope.png pos: 26132238
+Info: read 30 bytes sprites/combatwolfupslope.sdat pos: 26132313
+Info: read 24 bytes sprites/combatyellow.png pos: 26132389
+Info: read 25 bytes sprites/combatyellow.sdat pos: 26132459
+Info: read 19 bytes sprites/credits.png pos: 26132530
+Info: read 20 bytes sprites/credits.sdat pos: 26132595
+Info: read 30 bytes sprites/deepdarksidescroll.png pos: 26132661
+Info: read 31 bytes sprites/deepdarksidescroll.sdat pos: 26132737
+Info: read 25 bytes sprites/deepdarkwoods.png pos: 26132814
+Info: read 26 bytes sprites/deepdarkwoods.sdat pos: 26132885
+Info: read 15 bytes sprites/dog.png pos: 26132957
+Info: read 16 bytes sprites/dog.sdat pos: 26133018
+Info: read 27 bytes sprites/downslopewoods1.png pos: 26133080
+Info: read 28 bytes sprites/downslopewoods1.sdat pos: 26133153
+Info: read 27 bytes sprites/downslopewoods2.png pos: 26133227
+Info: read 28 bytes sprites/downslopewoods2.sdat pos: 26133300
+Info: read 27 bytes sprites/downslopewoods3.png pos: 26133374
+Info: read 28 bytes sprites/downslopewoods3.sdat pos: 26133447
+Info: read 15 bytes sprites/end.png pos: 26133521
+Info: read 16 bytes sprites/end.sdat pos: 26133582
+Info: read 18 bytes sprites/estate.png pos: 26133644
+Info: read 19 bytes sprites/estate.sdat pos: 26133708
+Info: read 23 bytes sprites/estate_ipad.png pos: 26133773
+Info: read 24 bytes sprites/estate_ipad.sdat pos: 26133842
+Info: read 28 bytes sprites/evilamphitheatre.png pos: 26133912
+Info: read 29 bytes sprites/evilamphitheatre.sdat pos: 26133986
+Info: read 15 bytes sprites/eye.png pos: 26134061
+Info: read 16 bytes sprites/eye.sdat pos: 26134122
+Info: read 14 bytes sprites/fx.png pos: 26134184
+Info: read 15 bytes sprites/fx.sdat pos: 26134244
+Info: read 17 bytes sprites/ghoul.png pos: 26134305
+Info: read 18 bytes sprites/ghoul.sdat pos: 26134368
+Info: read 17 bytes sprites/gourd.png pos: 26134432
+Info: read 18 bytes sprites/gourd.sdat pos: 26134495
+Info: read 22 bytes sprites/gourd_ipad.png pos: 26134559
+Info: read 23 bytes sprites/gourd_ipad.sdat pos: 26134627
+Info: read 24 bytes sprites/grovevisions.png pos: 26134696
+Info: read 25 bytes sprites/grovevisions.sdat pos: 26134766
+Info: read 24 bytes sprites/hilltopchasm.png pos: 26134837
+Info: read 25 bytes sprites/hilltopchasm.sdat pos: 26134907
+Info: read 17 bytes sprites/info1.png pos: 26134978
+Info: read 18 bytes sprites/info1.sdat pos: 26135041
+Info: read 17 bytes sprites/intro.png pos: 26135105
+Info: read 18 bytes sprites/intro.sdat pos: 26135168
+Info: read 22 bytes sprites/intro_ipad.png pos: 26135232
+Info: read 23 bytes sprites/intro_ipad.sdat pos: 26135300
+Info: read 22 bytes sprites/islandcave.png pos: 26135369
+Info: read 23 bytes sprites/islandcave.sdat pos: 26135437
+Info: read 17 bytes sprites/items.png pos: 26135506
+Info: read 18 bytes sprites/items.sdat pos: 26135569
+Info: read 21 bytes sprites/lightning.png pos: 26135633
+Info: read 22 bytes sprites/lightning.sdat pos: 26135700
+Info: read 16 bytes sprites/link.png pos: 26135768
+Info: read 17 bytes sprites/link.sdat pos: 26135830
+Info: read 21 bytes sprites/littledog.png pos: 26135893
+Info: read 22 bytes sprites/littledog.sdat pos: 26135960
+Info: read 19 bytes sprites/loading.png pos: 26136028
+Info: read 20 bytes sprites/loading.sdat pos: 26136093
+Info: read 20 bytes sprites/logfella.png pos: 26136159
+Info: read 21 bytes sprites/logfella.sdat pos: 26136225
+Info: read 17 bytes sprites/logos.png pos: 26136292
+Info: read 18 bytes sprites/logos.sdat pos: 26136355
+Info: read 22 bytes sprites/logos_ipad.png pos: 26136419
+Info: read 23 bytes sprites/logos_ipad.sdat pos: 26136487
+Info: read 20 bytes sprites/megatomb.png pos: 26136556
+Info: read 21 bytes sprites/megatomb.sdat pos: 26136622
+Info: read 31 bytes sprites/moar1seeyouinheaven.png pos: 26136689
+Info: read 32 bytes sprites/moar1seeyouinheaven.sdat pos: 26136766
+Info: read 18 bytes sprites/moon75.png pos: 26136844
+Info: read 19 bytes sprites/moon75.sdat pos: 26136908
+Info: read 22 bytes sprites/moonbright.png pos: 26136973
+Info: read 23 bytes sprites/moonbright.sdat pos: 26137041
+Info: read 24 bytes sprites/mooncrescent.png pos: 26137110
+Info: read 25 bytes sprites/mooncrescent.sdat pos: 26137180
+Info: read 20 bytes sprites/moonhalf.png pos: 26137251
+Info: read 21 bytes sprites/moonhalf.sdat pos: 26137317
+Info: read 31 bytes sprites/mountainlakedynamic.png pos: 26137384
+Info: read 32 bytes sprites/mountainlakedynamic.sdat pos: 26137461
+Info: read 37 bytes sprites/mountainlakedynamic_light.png pos: 26137539
+Info: read 38 bytes sprites/mountainlakedynamic_light.sdat pos: 26137622
+Info: read 26 bytes sprites/mountainmeadow.png pos: 26137706
+Info: read 27 bytes sprites/mountainmeadow.sdat pos: 26137778
+Info: read 31 bytes sprites/mountainmeadowcaves.png pos: 26137851
+Info: read 32 bytes sprites/mountainmeadowcaves.sdat pos: 26137928
+Info: read 31 bytes sprites/mountaintopbackside.png pos: 26138006
+Info: read 32 bytes sprites/mountaintopbackside.sdat pos: 26138083
+Info: read 19 bytes sprites/objects.png pos: 26138161
+Info: read 20 bytes sprites/objects.sdat pos: 26138226
+Info: read 20 bytes sprites/oldbones.png pos: 26138292
+Info: read 21 bytes sprites/oldbones.sdat pos: 26138358
+Info: read 28 bytes sprites/oldbonesmegatome.png pos: 26138425
+Info: read 29 bytes sprites/oldbonesmegatome.sdat pos: 26138499
+Info: read 18 bytes sprites/oldman.png pos: 26138574
+Info: read 19 bytes sprites/oldman.sdat pos: 26138638
+Info: read 18 bytes sprites/other1.png pos: 26138703
+Info: read 19 bytes sprites/other1.sdat pos: 26138767
+Info: read 29 bytes sprites/pathslowridgeline.png pos: 26138832
+Info: read 30 bytes sprites/pathslowridgeline.sdat pos: 26138907
+Info: read 34 bytes sprites/pathslowridgelinecaves.png pos: 26138983
+Info: read 35 bytes sprites/pathslowridgelinecaves.sdat pos: 26139063
+Info: read 29 bytes sprites/pathsmidridgeline.png pos: 26139144
+Info: read 30 bytes sprites/pathsmidridgeline.sdat pos: 26139219
+Info: read 34 bytes sprites/pathsmidridgelinecaves.png pos: 26139295
+Info: read 35 bytes sprites/pathsmidridgelinecaves.sdat pos: 26139375
+Info: read 29 bytes sprites/pathsmountainpass.png pos: 26139456
+Info: read 30 bytes sprites/pathsmountainpass.sdat pos: 26139531
+Info: read 34 bytes sprites/pathsmountainpasscaves.png pos: 26139607
+Info: read 35 bytes sprites/pathsmountainpasscaves.sdat pos: 26139687
+Info: read 27 bytes sprites/pathsswitchback.png pos: 26139768
+Info: read 28 bytes sprites/pathsswitchback.sdat pos: 26139841
+Info: read 31 bytes sprites/playerheartsoverlay.png pos: 26139915
+Info: read 32 bytes sprites/playerheartsoverlay.sdat pos: 26139992
+Info: read 19 bytes sprites/rainbow.png pos: 26140070
+Info: read 20 bytes sprites/rainbow.sdat pos: 26140135
+Info: read 25 bytes sprites/royalcampsite.png pos: 26140201
+Info: read 26 bytes sprites/royalcampsite.sdat pos: 26140272
+Info: read 28 bytes sprites/scythianinkblot1.png pos: 26140344
+Info: read 29 bytes sprites/scythianinkblot1.sdat pos: 26140418
+Info: read 28 bytes sprites/scythianinkblot2.png pos: 26140493
+Info: read 29 bytes sprites/scythianinkblot2.sdat pos: 26140567
+Info: read 28 bytes sprites/scythianinkblot3.png pos: 26140642
+Info: read 29 bytes sprites/scythianinkblot3.sdat pos: 26140716
+Info: read 34 bytes sprites/secret1_footofmountain.png pos: 26140791
+Info: read 35 bytes sprites/secret1_footofmountain.sdat pos: 26140871
+Info: read 32 bytes sprites/secret2_stoneshelter.png pos: 26140952
+Info: read 33 bytes sprites/secret2_stoneshelter.sdat pos: 26141030
+Info: read 30 bytes sprites/secret3_hollowtree.png pos: 26141109
+Info: read 31 bytes sprites/secret3_hollowtree.sdat pos: 26141185
+Info: read 20 bytes sprites/settings.png pos: 26141262
+Info: read 21 bytes sprites/settings.sdat pos: 26141328
+Info: read 25 bytes sprites/settings_ipad.png pos: 26141395
+Info: read 26 bytes sprites/settings_ipad.sdat pos: 26141466
+Info: read 18 bytes sprites/sheepa.png pos: 26141538
+Info: read 19 bytes sprites/sheepa.sdat pos: 26141602
+Info: read 17 bytes sprites/skies.png pos: 26141667
+Info: read 18 bytes sprites/skies.sdat pos: 26141730
+Info: read 23 bytes sprites/skygradient.png pos: 26141794
+Info: read 24 bytes sprites/skygradient.sdat pos: 26141863
+Info: read 21 bytes sprites/storygirl.png pos: 26141933
+Info: read 22 bytes sprites/storygirl.sdat pos: 26142000
+Info: read 22 bytes sprites/summithead.png pos: 26142068
+Info: read 23 bytes sprites/summithead.sdat pos: 26142136
+Info: read 23 bytes sprites/summitridge.png pos: 26142205
+Info: read 24 bytes sprites/summitridge.sdat pos: 26142274
+Info: read 28 bytes sprites/summitridgecaves.png pos: 26142344
+Info: read 29 bytes sprites/summitridgecaves.sdat pos: 26142418
+Info: read 27 bytes sprites/summittemple1up.png pos: 26142493
+Info: read 28 bytes sprites/summittemple1up.sdat pos: 26142566
+Info: read 30 bytes sprites/summittemple2along.png pos: 26142640
+Info: read 31 bytes sprites/summittemple2along.sdat pos: 26142716
+Info: read 29 bytes sprites/summittemple3down.png pos: 26142793
+Info: read 30 bytes sprites/summittemple3down.sdat pos: 26142868
+Info: read 30 bytes sprites/summittemple4heart.png pos: 26142944
+Info: read 31 bytes sprites/summittemple4heart.sdat pos: 26143020
+Info: read 32 bytes sprites/summittemple5alongup.png pos: 26143097
+Info: read 33 bytes sprites/summittemple5alongup.sdat pos: 26143175
+Info: read 27 bytes sprites/summittemple6up.png pos: 26143254
+Info: read 28 bytes sprites/summittemple6up.sdat pos: 26143327
+Info: read 27 bytes sprites/summittemple7up.png pos: 26143401
+Info: read 28 bytes sprites/summittemple7up.sdat pos: 26143474
+Info: read 29 bytes sprites/summittemple8door.png pos: 26143548
+Info: read 30 bytes sprites/summittemple8door.sdat pos: 26143623
+Info: read 35 bytes sprites/summittemple9dimensionx.png pos: 26143699
+Info: read 36 bytes sprites/summittemple9dimensionx.sdat pos: 26143780
+Info: read 23 bytes sprites/summittower.png pos: 26143862
+Info: read 24 bytes sprites/summittower.sdat pos: 26143931
+Info: read 22 bytes sprites/testcursor.png pos: 26144001
+Info: read 23 bytes sprites/testcursor.sdat pos: 26144069
+Info: read 22 bytes sprites/theendinfo.png pos: 26144138
+Info: read 23 bytes sprites/theendinfo.sdat pos: 26144206
+Info: read 18 bytes sprites/touch1.png pos: 26144275
+Info: read 19 bytes sprites/touch1.sdat pos: 26144339
+Info: read 19 bytes sprites/trentin.png pos: 26144404
+Info: read 20 bytes sprites/trentin.sdat pos: 26144469
+Info: read 20 bytes sprites/triangle.png pos: 26144535
+Info: read 21 bytes sprites/triangle.sdat pos: 26144601
+Info: read 25 bytes sprites/triangle_ipad.png pos: 26144668
+Info: read 26 bytes sprites/triangle_ipad.sdat pos: 26144739
+Info: read 25 bytes sprites/tutorialicons.png pos: 26144811
+Info: read 26 bytes sprites/tutorialicons.sdat pos: 26144882
+Info: read 14 bytes sprites/ui.png pos: 26144954
+Info: read 15 bytes sprites/ui.sdat pos: 26145014
+Info: read 19 bytes sprites/ui_ipad.png pos: 26145075
+Info: read 20 bytes sprites/ui_ipad.sdat pos: 26145140
+Info: read 25 bytes sprites/upslopeextra1.png pos: 26145206
+Info: read 26 bytes sprites/upslopeextra1.sdat pos: 26145277
+Info: read 25 bytes sprites/upslopewoods1.png pos: 26145349
+Info: read 26 bytes sprites/upslopewoods1.sdat pos: 26145420
+Info: read 25 bytes sprites/upslopewoods2.png pos: 26145492
+Info: read 26 bytes sprites/upslopewoods2.sdat pos: 26145563
+Info: read 30 bytes sprites/upslopewoods2caves.png pos: 26145635
+Info: read 31 bytes sprites/upslopewoods2caves.sdat pos: 26145711
+Info: read 25 bytes sprites/upslopewoods3.png pos: 26145788
+Info: read 26 bytes sprites/upslopewoods3.sdat pos: 26145859
+Info: read 30 bytes sprites/upslopewoods3caves.png pos: 26145931
+Info: read 31 bytes sprites/upslopewoods3caves.sdat pos: 26146007
+Info: read 18 bytes sprites/ursula.png pos: 26146084
+Info: read 19 bytes sprites/ursula.sdat pos: 26146148
+Info: read 24 bytes sprites/ursulacombat.png pos: 26146213
+Info: read 25 bytes sprites/ursulacombat.sdat pos: 26146283
+Info: read 24 bytes sprites/vixelsdotnet.png pos: 26146354
+Info: read 25 bytes sprites/vixelsdotnet.sdat pos: 26146424
+Info: read 22 bytes sprites/wolfmother.png pos: 26146495
+Info: read 23 bytes sprites/wolfmother.sdat pos: 26146563
+Info: read 15 bytes sprites/woz.png pos: 26146632
+Info: read 16 bytes sprites/woz.sdat pos: 26146693
+Info: read 19 bytes textures/circle.png pos: 26146755
+Info: read 24 bytes textures/circle_glow.png pos: 26146820
+Info: read 25 bytes textures/circle_glow2.png pos: 26146890
+Info: read 27 bytes textures/circle_pointer.png pos: 26146961
+Info: read 17 bytes textures/dirt.png pos: 26147034
+Info: read 20 bytes textures/pointer.png pos: 26147097
+Info: read 18 bytes textures/white.png pos: 26147163
+Info: openArchive OK!
+Info: EventManager::initialise()...
+Info: EventManager::initialise() OK!
+Info: Capy::DriverInput::initialise() OK!
+Info: setMediaPath(D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sounds/)
+Info: Capy::DriverAudio::initialise() OK!
+Info: FMOD Memory: current load:    2241410, max:    2241410
+Info: Capy::DriverGraphics::initScreen() OK!
+Info: Capy::DriverGraphics::initialise() OK!
+Info: Capy::DriverAchievement::initialise() OK!
+Info: Capy::DriverGraphics2d::initialise() OK!
+Info: SpriteManager::initialise() OK!
+Info: EntityManager::initialise() OK!
+Info: FontManager::initialise() OK!
+Info: ParticleManager::initialise() OK!
+Info: LuaManager::initialise() OK!
+Info: Successfully loaded cloud save!
+Info: CreateWindow 2560, 1440
+Info: CreateWindow end
+Info: OpenGL version: 4.6.0 - Build 30.0.101.1340
+Info: OpenGL vendor: Intel 
+Info: Renderer: Intel(R) UHD Graphics
+Info: OpenGL Texture: 2048 x 2048
+Info: Current Resolution: 2560 x 1440 (fullscreen)
+Info: Mipmapping: enabled
+Info: Loading default textures...
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/textures/white.png
+Info: reading...
+Info: finding... textures/white.png
+Info: found unzGoToFilePos
+Info: 26147163
+Info: findFileResult0
+Info: found!
+Info: Finished loading default textures
+Info: Available resolutions
+Info:   2560 x 1440
+Info:   2560 x 1440
+Info:   2048 x 1152
+Info:   2048 x 1152
+Info:   1920 x 1440
+Info:   1920 x 1440
+Info:   1920 x 1200
+Info:   1920 x 1200
+Info:   1920 x 1080
+Info:   1920 x 1080
+Info:   1856 x 1392
+Info:   1856 x 1392
+Info:   1792 x 1344
+Info:   1792 x 1344
+Info:   1680 x 1050
+Info:   1680 x 1050
+Info:   1600 x 1200
+Info:   1600 x 1200
+Info:   1600 x 900
+Info:   1600 x 900
+Info:   1440 x 900
+Info:   1440 x 900
+Info:   1400 x 1050
+Info:   1400 x 1050
+Info:   1366 x 768
+Info:   1366 x 768
+Info:   1360 x 768
+Info:   1360 x 768
+Info:   1280 x 1024
+Info:   1280 x 1024
+Info:   1280 x 960
+Info:   1280 x 960
+Info:   1280 x 800
+Info:   1280 x 800
+Info:   1280 x 768
+Info:   1280 x 768
+Info:   1280 x 720
+Info:   1280 x 720
+Info:   1280 x 600
+Info:   1280 x 600
+Info:   1152 x 864
+Info:   1152 x 864
+Info:   1024 x 768
+Info:   1024 x 768
+Info:   800 x 600
+Info:   800 x 600
+Info:   640 x 480
+Info:   640 x 480
+Info: Supported Resolutions
+Info:   2560 x 1440
+Info:   2048 x 1152
+Info:   1920 x 1440
+Info:   1920 x 1200
+Info:   1920 x 1080
+Info:   1856 x 1392
+Info:   1792 x 1344
+Info:   1680 x 1050
+Info:   1600 x 1200
+Info:   1600 x 900
+Info:   1440 x 900
+Info:   1400 x 1050
+Info:   1366 x 768
+Info:   1360 x 768
+Info:   1280 x 1024
+Info:   1280 x 960
+Info:   1280 x 800
+Info:   1280 x 768
+Info:   1280 x 720
+Info:   1280 x 600
+Info:   1152 x 864
+Info:   1024 x 768
+Info:   800 x 600
+Info:   640 x 480
+Info: initComponents() ok!
+Info: Engine::initialise() ok!
+Info: game date time: Fri Jul 11 12:16:39 2025
+Info: switchScene: titlescreen
+Info: Loading scene: D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/scenes/titlescreen
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/output.luac64 47271
+Info: SpriteManager::loadSprite adventureui
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/adventureui_ipad.png
+Info: reading...
+Info: finding... sprites/adventureui_ipad.png
+Info: found unzGoToFilePos
+Info: 26128608
+Info: findFileResult0
+Info: found!
+Info: SpriteManager::loadSprite buttons
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/buttons_ipad.png
+Info: reading...
+Info: finding... sprites/buttons_ipad.png
+Info: found unzGoToFilePos
+Info: 26130393
+Info: findFileResult0
+Info: found!
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/fonts/conduit_itc_ipad_0.png
+Info: reading...
+Info: finding... fonts/conduit_itc_ipad_0.png
+Info: found unzGoToFilePos
+Info: 26075528
+Info: findFileResult0
+Info: found!
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/messagebox/output.luac64 6340
+Info: loadScript done.
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/pagetransitions/output.luac64 2936
+Info: loadScript done.
+Info: loadScript done.
+Info: SpriteManager::loadSprite ui
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/ui_ipad.png
+Info: reading...
+Info: finding... sprites/ui_ipad.png
+Info: found unzGoToFilePos
+Info: 26145075
+Info: findFileResult0
+Info: found!
+Info: SpriteManager::loadSprite logos
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/logos_ipad.png
+Info: reading...
+Info: finding... sprites/logos_ipad.png
+Info: found unzGoToFilePos
+Info: 26136419
+Info: findFileResult0
+Info: found!
+Info: SpriteManager::loadSprite mooncrescent
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/mooncrescent.png
+Info: reading...
+Info: finding... sprites/mooncrescent.png
+Info: found unzGoToFilePos
+Info: 26137110
+Info: findFileResult0
+Info: found!
+Info: SpriteManager::loadSprite moonbright
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/moonbright.png
+Info: reading...
+Info: finding... sprites/moonbright.png
+Info: found unzGoToFilePos
+Info: 26136973
+Info: findFileResult0
+Info: found!
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/fonts/arial_narrow_ipad_0.png
+Info: reading...
+Info: finding... fonts/arial_narrow_ipad_0.png
+Info: found unzGoToFilePos
+Info: 26074790
+Info: findFileResult0
+Info: found!
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/titlescreen/output.luac64 25159
+Info: loadScript done.
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/fades/output.luac64 2162
+Info: loadScript done.
+Info: SpriteManager::loadSprite settings_ipad
+Info: readIntoBuffer D:/Games/SteamLibrary/steamapps/common/Superbrothers Sword & Sworcery EP/res/sprites/settings_ipad.png
+Info: reading...
+Info: finding... sprites/settings_ipad.png
+Info: found unzGoToFilePos
+Info: 26141395
+Info: findFileResult0
+Info: found!
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/screensettings/output.luac64 22164
+Info: loadScript done.
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/questmanager/output.luac64 100701
+Info: loadScript done.
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/touchshadow/output.luac64 7424
+Info: loadScript done.
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/sworcerymode/output.luac64 1926
+Info: loadScript done.
+Info: loadScript d:/games/steamlibrary/steamapps/common/superbrothers sword & sworcery ep/res/scenes/common/particleemitters/output.luac64 236176
+Info: loadScript done.

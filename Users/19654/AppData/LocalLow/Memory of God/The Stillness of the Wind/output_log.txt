@@ -1,0 +1,249 @@
+Initialize engine version: 2017.4.4f1 (645c9050ba4d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   32.0.15.8088
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.988 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.744600 ms
+assignging Overlay Callback
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+steam manager is intiialised
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CLOUD
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No platform binding for runtime platform WindowsPlayer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Baby Goat') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Baby Goat') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Potted Plant') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Goat') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.446800 ms
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 642)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+IndexOutOfRangeException: Array index is out of range.
+  at OptionsScreen.SetResolution (Int32 resolutionIndex) [0x00000] in <filename unknown>:0 
+  at OptionsScreen.LoadPlayersPrefs () [0x00000] in <filename unknown>:0 
+  at OptionsScreen.InitialiseOptionsFromSave () [0x00000] in <filename unknown>:0 
+  at OptionsScreen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 86963.
+Total: 20.588200 ms (FindLiveObjects: 1.836600 ms CreateObjectMapping: 3.456500 ms MarkObjects: 15.218400 ms  DeleteObjects: 0.076400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 87207.
+Total: 22.663200 ms (FindLiveObjects: 1.603000 ms CreateObjectMapping: 2.788800 ms MarkObjects: 18.217900 ms  DeleteObjects: 0.053200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 87345.
+Total: 24.837100 ms (FindLiveObjects: 2.635800 ms CreateObjectMapping: 3.895000 ms MarkObjects: 18.255000 ms  DeleteObjects: 0.051000 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 6aac -> priority: 1 
+  Thread -> id: 60e0 -> priority: 1 
+  Thread -> id: 7484 -> priority: 1 
+  Thread -> id: 6f04 -> priority: 1 
+  Thread -> id: 320c -> priority: 1 
+  Thread -> id: 1854 -> priority: 1 
+  Thread -> id: 55b8 -> priority: 1 
+  Thread -> id: 7138 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at GameManager.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GoatSpawner.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CheeseSpawner.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LightControl.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DailyEventHandler.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Goat.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

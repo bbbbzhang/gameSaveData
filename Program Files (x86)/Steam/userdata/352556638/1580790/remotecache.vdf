@@ -1,0 +1,29 @@
+"1580790"
+{
+	"ChangeNumber"		"1"
+	"ostype"		"0"
+	"KoeiTecmo/NINJAGAIDENSIGMA2/76561198312822366/STORYSAV/STORYSAV0.DAT"
+	{
+		"root"		"2"
+		"size"		"35968"
+		"localtime"		"1755749445"
+		"time"		"1755749451"
+		"remotetime"		"1755749451"
+		"sha"		"783ed1fc58ab737545c09d7e845c725093de522d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"KoeiTecmo/NINJAGAIDENSIGMA2/76561198312822366/SYSTEMSAVE/SYSTEMSAVE.DAT"
+	{
+		"root"		"2"
+		"size"		"10208"
+		"localtime"		"1755749445"
+		"time"		"1755749451"
+		"remotetime"		"1755749451"
+		"sha"		"09780408aff3f7cfb4e3e0310d0b6333f439ee29"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,53 @@
+"236730"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"20"
+	"progress"
+	{
+		"root"		"0"
+		"size"		"76"
+		"localtime"		"1661946784"
+		"time"		"1661946787"
+		"remotetime"		"1661946784"
+		"sha"		"d689d1a0963a5363da0314ac86b7c3dea7610224"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"progress.alt"
+	{
+		"root"		"0"
+		"size"		"76"
+		"localtime"		"1662782499"
+		"time"		"1662782502"
+		"remotetime"		"1662782499"
+		"sha"		"2478a96234510510397b66e874dfec603145d3bc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"results"
+	{
+		"root"		"0"
+		"size"		"920"
+		"localtime"		"1661946785"
+		"time"		"1661946788"
+		"remotetime"		"1661946784"
+		"sha"		"a1cf42f984ab05532c67ae78db8437169fd8884f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"results.alt"
+	{
+		"root"		"0"
+		"size"		"920"
+		"localtime"		"1662782500"
+		"time"		"1662782503"
+		"remotetime"		"1662782499"
+		"sha"		"75396542793a5605b4203cb8159e47af683273ab"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

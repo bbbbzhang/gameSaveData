@@ -1,0 +1,42 @@
+Initialize engine version: 2017.4.9f1 (6d84dfc57ccf)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     8020 MB
+    Driver:   32.0.15.7652
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.037 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.015200 ms
+Fallback handler could not load library D:/Games/SteamLibrary/steamapps/common/Cuphead/Cuphead_Data/Mono/data-0000016435A0B7D0.dll
+Fallback handler could not load library D:/Games/SteamLibrary/steamapps/common/Cuphead/Cuphead_Data/Mono/data-00000164359E8010.dll
+Fallback handler could not load library D:/Games/SteamLibrary/steamapps/common/Cuphead/Cuphead_Data/Mono/data-000001646803F040.dll
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_4.dll.
+[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 71)
+UnloadTime: 0.829600 ms
+Build version 1.3.4
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 308 unused Assets to reduce memory usage. Loaded Objects now: 8862.
+Total: 10.593000 ms (FindLiveObjects: 0.302000 ms CreateObjectMapping: 0.258400 ms MarkObjects: 9.879900 ms  DeleteObjects: 0.152500 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 243c -> priority: 1 
+  Thread -> id: 81fc -> priority: 1 
+  Thread -> id: 45f0 -> priority: 1 
+  Thread -> id: 3298 -> priority: 1 
+  Thread -> id: 566c -> priority: 1 
+  Thread -> id: 843c -> priority: 1 
+  Thread -> id: 1ba4 -> priority: 1 
+  Thread -> id: 4928 -> priority: 1 

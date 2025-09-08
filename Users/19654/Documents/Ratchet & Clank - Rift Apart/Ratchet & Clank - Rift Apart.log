@@ -1,0 +1,298 @@
+23:38:25:841 (00012940) > [Startup] Ratchet & Clank: Rift Apart
+23:38:25:841 (00012940) > [Startup] ==============
+23:38:25:841 (00012940) > [Startup] 
+23:38:25:841 (00012940) > [Startup] Build: v1.922.0.0
+23:38:25:841 (00012940) > [Startup] Windows 11.0 (build 22631)
+23:38:25:841 (00012940) > [Startup] Distribution platform: Steam
+23:38:25:841 (00012940) > [Startup] Game directory: C:\Users\<username>\Documents\Ratchet & Clank - Rift Apart\
+23:38:25:841 (00012940) > [Startup] Working directory: D:\Games\Cracks\Ratchet & Clank - Rift Apart
+23:38:25:841 (00012940) > [Startup] Run ID: 0CE0-C9D4-F473-0199
+23:38:25:841 (00012940) > [Startup] 
+23:38:25:841 (00012940) > [Startup] Memory statistics:
+23:38:25:841 (00012940) > [Startup]   Total RAM = 15.8 GB (16153 MB)
+23:38:25:841 (00012940) > [Startup]   Avail RAM = 9.4 GB (9614 MB)
+23:38:25:841 (00012940) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+23:38:25:841 (00012940) > [Startup]   Avail virtual memory = 131067.7 GB (134213346 MB)
+23:38:25:841 (00012940) > [Startup]   Total page file = 25.8 GB (26393 MB)
+23:38:25:841 (00012940) > [Startup]   Avail page file = 13.7 GB (14054 MB)
+23:38:25:841 (00012940) > [Startup] 
+23:38:25:961 (00012940) > [Steam] Initializing.
+23:38:25:964 (00012940) > [Steam] Successfully initialized.
+23:38:25:964 (00012940) > [Steam] Currently connected to 0 remote sessions
+23:38:26:601 (00012940) > [NxApp] PreInit
+23:38:26:601 (00012940) > [SwapChain] Initializing...
+23:38:26:601 (00012940) > [DXGI] Initializing...
+23:38:27:943 (00012940) > [NxApp] Streamline was successfully initialized.
+23:38:27:944 (00012940) > [DXGI] Successfully initialized.
+23:38:27:944 (00012940) > [Render] Enumerating adapters:
+23:38:27:944 (00012940) > [Render] 	Adapter 0:
+23:38:27:944 (00012940) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Laptop GPU
+23:38:27:944 (00012940) > [Monitor] 		Vendor                  : nVidia (10de)
+23:38:27:944 (00012940) > [Monitor] 		Device                  : 249d
+23:38:27:944 (00012940) > [Monitor] 		Sub system              : 12fb1462
+23:38:27:944 (00012940) > [Monitor] 		Revision                : 161
+23:38:27:944 (00012940) > [Monitor] 		Dedicated Video Memory  : 8020 MB
+23:38:27:944 (00012940) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:38:27:944 (00012940) > [Monitor] 		Shared System Memory    : 8076 MB
+23:38:27:944 (00012940) > [Monitor] 
+23:38:27:944 (00012940) > [Render] Loading NVAPI...
+23:38:27:946 (00012940) > [Render] Done loading NVAPI
+23:38:27:946 (00012940) > [Render] 	Adapter 1:
+23:38:27:946 (00012940) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070 Laptop GPU
+23:38:27:946 (00012940) > [Monitor] 		Vendor                  : nVidia (10de)
+23:38:27:946 (00012940) > [Monitor] 		Device                  : 249d
+23:38:27:946 (00012940) > [Monitor] 		Sub system              : 12fb1462
+23:38:27:946 (00012940) > [Monitor] 		Revision                : 161
+23:38:27:946 (00012940) > [Monitor] 		Dedicated Video Memory  : 8020 MB
+23:38:27:946 (00012940) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:38:27:946 (00012940) > [Monitor] 		Shared System Memory    : 8076 MB
+23:38:27:946 (00012940) > [Monitor] 
+23:38:27:946 (00012940) > [Render] 	Adapter 2:
+23:38:27:946 (00012940) > [Monitor] 		Description             : Microsoft Basic Render Driver
+23:38:27:946 (00012940) > [Monitor] 		Vendor                  : Unknown (1414)
+23:38:27:946 (00012940) > [Monitor] 		Device                  : 8c
+23:38:27:946 (00012940) > [Monitor] 		Sub system              : 0
+23:38:27:946 (00012940) > [Monitor] 		Revision                : 0
+23:38:27:946 (00012940) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+23:38:27:946 (00012940) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:38:27:946 (00012940) > [Monitor] 		Shared System Memory    : 8076 MB
+23:38:27:946 (00012940) > [Monitor] 
+23:38:27:946 (00012940) > [Render] Enumerating monitors:
+23:38:27:946 (00012940) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+23:38:27:946 (00012940) > [Render] 
+23:38:27:946 (00012940) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+23:38:27:946 (00012940) > [SwapChain] Successfully initialized.
+23:38:27:946 (00012940) > [Render] Enumerating Display Modes:
+23:38:27:948 (00012940) > [Render] Querying NVAPI for Surround modes
+23:38:27:989 (00012940) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+23:38:27:989 (00012940) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3070 Laptop GPU(1))' (0000000000010001): rect(0 2560 0 1440)
+23:38:27:989 (00012940) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  2 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  3 :  800 x  600 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  6 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  7 : 1024 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 10 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 11 : 1152 x  864 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 12 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 13 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 14 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 15 : 1280 x  720 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 16 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 17 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 18 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 19 : 1280 x  800 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 20 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 21 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 22 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 23 : 1280 x  960 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 24 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 25 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 26 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 27 : 1280 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 28 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 29 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 30 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 31 : 1366 x  768 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 32 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 33 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 34 : 1440 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 35 : 1440 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 36 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 37 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 38 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 39 : 1600 x 1024 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 40 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 41 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 42 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 43 : 1600 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 44 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 45 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 46 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 47 : 1680 x 1050 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 48 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 49 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 50 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 51 : 1920 x 1080 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 52 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 53 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 54 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 55 : 1920 x 1200 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 56 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 57 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 58 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 59 : 1920 x 1440 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 60 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] 		- Mode 61 : 2560 x 1440 @ 165 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:38:27:989 (00012940) > [Render] ***** Additional Monitor Output Info *****
+23:38:27:989 (00012940) > [Render] 		BitsPerColor: 8
+23:38:27:989 (00012940) > [Render] 		Primaries: R=0.6797;0.3203  G=0.2646;0.6904  B=0.1504;0.0596  White-Point=0.3135;0.3291
+23:38:27:989 (00012940) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+23:38:27:989 (00012940) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+23:38:27:989 (00012940) > [Render] ******************************************
+23:38:27:989 (00012940) > [Render] 
+23:38:28:182 (00012940) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+23:38:28:230 (00012940) > [NxReflex] Reflex support result:Result::eOk
+23:38:28:231 (00012940) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:38:28:231 (00012940) > [NxApp] Querying GPU Driver Info...
+23:38:28:231 (00012940) > [NxApp] Enumerating available display adapters:
+23:38:28:238 (00012940) > [NxApp] 		NVIDIA GeForce RTX 3070 Laptop GPU (active)
+23:38:28:238 (00012940) > [NxApp] 		Intel(R) UHD Graphics
+23:38:28:238 (00012940) > [NxApp] Successfully found GPU Driver Info
+23:38:28:305 (00012940) > [D3D] Max supported feature level: 11.0
+23:38:28:305 (00012940) > [Render] Disabled D3D12 experimentals
+23:38:28:406 (00012940) > [Render] VMEM Budget: 7252 MB
+23:38:28:406 (00012940) > [Render] VMEM Avaialbe: 7245 MB
+23:38:29:198 (00012940) > [Render] GPU node count: 1
+23:38:29:230 (00012940) > [NxApp] PreInit successful.
+23:38:29:230 (00012940) > [NxUpscaler] SL DLSS support: Result::eOk
+23:38:29:337 (00012940) > [NxUpscaler] XeSS init, code = 0
+23:38:29:379 (00012940) > [NxReflex] Reflex support result:Result::eOk
+23:38:29:379 (00012940) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:38:29:379 (00012940) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3070 Laptop GPU
+23:38:29:379 (00012940) > [NxApp] Driver Version: 581.15
+23:38:29:379 (00012940) > [**************************************************Display + Graphics Settings**************************************************] 
+23:38:29:379 (00012940) > [Settings] DirectX Version: 12
+23:38:29:379 (00012940) > [Settings] Window mode: Fullscreen
+23:38:29:379 (00012940) > [Settings] Fullscreen display mode:
+23:38:29:379 (00012940) > [Settings] 	Displaying on monitor: 0
+23:38:29:379 (00012940) > [Settings] 	Resolution: 2560x1440
+23:38:29:379 (00012940) > [Settings] 	HDR: Off
+23:38:29:379 (00012940) > [Settings] 	OS reported Refresh rate: 165
+23:38:29:379 (00012940) > [Settings] 	VSync: On
+23:38:29:379 (00012940) > [Settings] 	Reflex: Low Latency
+23:38:29:379 (00012940) > [Settings] 	DLSSG: False
+23:38:29:379 (00012940) > [Settings] 	Resolution modifier 1.000000
+23:38:29:379 (00012940) > [Settings] 	Dynamic resolution FPS target: 165
+23:38:29:379 (00012940) > [Settings] Anti aliasing: DLAA
+
+23:38:29:379 (00012940) > [Settings] Upscale method: DLSS
+
+23:38:29:379 (00012940) > [Settings] Upscale quality: Balanced
+
+23:38:29:379 (00012940) > [Settings] Upscale sharpen value: 0.500000
+
+23:38:29:379 (00012940) > [Settings] Graphics Options:
+23:38:29:379 (00012940) > [Settings] 	RT Reflections: Off
+23:38:29:379 (00012940) > [Settings] 	RT Shadows: Off
+23:38:29:379 (00012940) > [Settings] 	RT Ambient Occlusion: Off
+23:38:29:379 (00012940) > [Settings] 		RT Object Scale: 1.000000
+23:38:29:379 (00012940) > [Settings] 	Texture Quality: Ultra
+23:38:29:379 (00012940) > [Settings] 	Texture Filtering: Anisotropic16x
+23:38:29:379 (00012940) > [Settings] 	Shadow Quality: Ultra
+23:38:29:379 (00012940) > [Settings] 	Depth of Field: High
+23:38:29:379 (00012940) > [Settings] 	Level of Detail: VeryHigh
+23:38:29:379 (00012940) > [Settings] 	Vehicle Detail: VeryHigh
+23:38:29:379 (00012940) > [Settings] 	Hair Quality: 
+23:38:29:379 (00012940) > [Settings] 	Ambient Occlusion: XeGTAO
+23:38:29:379 (00012940) > [Settings] 	Screen Space Reflections: Normal
+23:38:29:379 (00012940) > [Settings] 	Particle Lighting: Very High
+
+23:38:29:379 (00012940) > [Settings] 	Bloom: On
+23:38:29:379 (00012940) > [Settings] 	Vignette: On
+23:38:29:379 (00012940) > [Settings] 	Chromatic Aberration: On
+23:38:29:379 (00012940) > [Settings] 	Motion Blur: 1.000000
+23:38:29:379 (00012940) > [Settings] 	FOV Correction: 1.000000
+23:38:29:379 (00012940) > [Settings] 	Film Grain Strength: 1.000000
+23:38:29:379 (00012940) > [Settings] 	Sharpness: 0.001000
+23:38:29:380 (00012940) > [Settings] 	Lens Flares: On
+23:38:29:380 (00012940) > [Settings] 	Screen Effects: On
+23:38:29:380 (00012940) > [Settings] 	Screen Shake: On
+23:38:29:380 (00012940) > [Settings] 	Phantom Dash Effect: On
+23:38:29:380 (00012940) > [**************************************************Display + Graphics Settings**************************************************] 
+23:38:29:380 (00012940) > [NxApp] Creating window...
+23:38:29:419 (00012376) > [GameWindow] UpdateState bVisible true
+23:38:29:428 (00012376) > [Input] Keyboard language: "中文(简体，中国)" (id: 2052)
+23:38:29:428 (00012376) > [Input] Keyboard physical layout: "Chinese (Simplified) - US Keyboard" (id: 00000804)
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 4 usagePage 65280 xinput no
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 2 usagePage 65280 xinput no
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 1 usagePage 65280 xinput no
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 136 usagePage 65468 xinput no
+23:38:29:429 (00012376) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
+23:38:29:429 (00012376) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 173
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 50495 vendor 1133 version 17409 usage 1 usagePage 12 xinput no
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 8246 vendor 4152 version 256 usage 1 usagePage 12 xinput no
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 8246 vendor 4152 version 256 usage 1 usagePage 65472 xinput no
+23:38:29:429 (00012376) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:38:29:429 (00012376) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+23:38:29:429 (00012376) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+23:38:29:429 (00012376) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 0 vendor 0 version 0 usage 12 usagePage 1
+23:38:29:429 (00012376) > [Input] Human Input Device  "HID-compliant touch pad"   product 32382 vendor 1739 version 1 usage 5 usagePage 13
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 4386 vendor 4152 version 576 usage 1 usagePage 12 xinput no
+23:38:29:429 (00012376) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 32382 vendor 1739 version 1 usage 1 usagePage 65280
+23:38:29:429 (00012376) > [Input] Joystick            ""   product 4386 vendor 4152 version 576 usage 1 usagePage 65472 xinput no
+23:38:29:429 (00012376) > [Input] Mouse               "HID-compliant mouse"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+23:38:29:429 (00012376) > [Input] Mouse               "Feizhi Pointing Device"   id 128 buttons 5 sampleRate 1000 horizontalWheel no
+23:38:29:429 (00012376) > [Input] Mouse               "PS/2 Compatible Mouse"   id 2 buttons 2 sampleRate 100 horizontalWheel no
+23:38:29:429 (00012376) > [Input] Keyboard            "Feizhi Virtual Keyboard"   type 2 subType 0 mode 2 function 0 indicators 0 total 101
+23:38:29:429 (00012376) > [Input] Keyboard            "SteelSeries PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+23:38:29:437 (00012376) > [Input] Using LibScePad
+23:38:29:438 (00012376) > [XInput] Enumerating available xusb hid devices:
+
+23:38:29:441 (00012940) > [NxApp] Window created.
+23:38:29:441 (00012940) > [NxApp] Initializing swapchain...
+23:38:29:441 (00014544) > [SwapChain] Creating...
+23:38:29:441 (00014544) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+23:38:29:446 (00014544) > [DXGI] Created swapchain.
+23:38:29:491 (00014544) > [SwapChain] Gamma correction is enabled.
+23:38:29:491 (00014544) > [SwapChain] Successfully created.
+23:38:29:491 (00014544) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1440
+23:38:29:491 (00012940) > [NxApp] Swapchain initialized
+23:38:29:491 (00012940) > [NxApp] Initializing renderer...
+23:38:29:492 (00012940) > [NxApp] Renderer initialized
+23:38:29:492 (00012940) > [NxProcessorInfo] Processor info:
+23:38:29:492 (00012940) > [NxProcessorInfo] 	Description:             	11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+23:38:29:492 (00012940) > [NxProcessorInfo] 	Physical Core Count:     	8
+23:38:29:492 (00012940) > [NxProcessorInfo] 	Logical  Core Count:     	16
+23:38:29:492 (00012940) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
+23:38:29:492 (00012940) > [NxProcessorInfo] Custom affinity 0 selected.
+23:38:29:492 (00012940) > [NxStorage] Detected device at 'D:\Games\Cracks\Ratchet & Clank - Rift Apart', name 'Predator SSD GM7 M.2 4TB', SSD: Yes, NVMe: Yes
+23:38:29:492 (00012940) > [NxStorage] Graphics device supports GPU decompression
+23:38:29:905 (00012940) > [NxStorage] DirectStorage initialization succeeded
+23:38:29:973 (00012940) > [Render] File cache.pso contains 19662 pipelines and 0 duplicates
+23:38:29:983 (00012940) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Ratchet & Clank - Rift Apart\\cache.pso contains 1525 pipelines and 1387 duplicates
+23:38:29:983 (00012940) > [Render] Support for Shader Model 6.6: Yes
+23:38:29:983 (00012940) > [Render] Is UMA: No Is Cache Coherent: No
+23:38:29:983 (00012940) > [Render] Using Cpu Buffer Optimize: Yes
+23:38:31:677 (00002624) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:38:31:706 (00002624) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:38:31:733 (00002624) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:38:31:743 (00002624) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:38:32:372 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:33:352 (00023316) > [PSN] AuthenticationRequest: 400
+23:38:33:860 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:46:736 (00024380) > [Audio] 
+23:38:46:756 (00024380) > [Audio] Device removed 0x0
+23:38:46:824 (00024380) > [Audio] 
+23:38:52:886 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:886 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:892 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:897 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:903 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:910 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:915 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:922 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:928 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:934 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:940 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:947 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:952 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:38:52:958 (00001056) > [Save] Request type 3 failed with code 0x00000002
+23:38:52:964 (00012940) > [Save] Request load save type 0, control 128, target -1
+23:39:21:396 (00012940) > [Save] Request save type 0, control 0
+23:39:32:362 (00024340) > [Render] Working set: 6341MB Page file: 15921MB Video Budget: 7178MB Video Usage: 6628MB Sys Budget: 7416MB Sys Usage: 2770MB Tex Usage: 1687MB Tex Budget: 3410MB BVH heaps: 140MB BVH size: 112MB Demoted: 0MB fps: 116.250008
+23:39:38:862 (00012940) > [App] Quit requested from Profile Select Menu
+23:39:38:959 (00024380) > [Audio] Device removed 0xe38c5c61
+23:39:41:081 (00012940) > [NxApp] Destroying
+23:39:41:118 (00012940) > [DXGI] Destroyed swapchain.
+23:39:41:118 (00012940) > [SwapChain] Destroyed.
+23:39:41:118 (00012940) > [SwapChain] Released.
+23:39:41:118 (00012940) > [Render] Unloading NVAPI
+23:39:41:119 (00012940) > [Render] Done unloading NVAPI
+23:39:41:120 (00012940) > [DXGI] Destroyed swapchain.
+23:39:41:120 (00012940) > [DXGI] Released.
+--- NIXXES log closed ---

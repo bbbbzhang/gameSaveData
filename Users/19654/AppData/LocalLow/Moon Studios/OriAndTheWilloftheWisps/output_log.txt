@@ -1,0 +1,683 @@
+Initialize engine version: 2018.4.24f1 (5ebab45375c4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.7652
+Default GameObject BitMask: worldMap already registered
+ 
+(Filename:  Line: 126)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.119200 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 581)
+
+D:/Games/SteamLibrary/steamapps/common/Ori and the Will of the Wisps/oriwotw_Data\output
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+LoadingBootstrap:CheckForContentPackage()
+<Start>d__25:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+UberShaderPrewarmer:Awake()
+
+[ line 581] 
+(Filename:  Line: 581)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 581)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 581)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'live') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'switch') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'live') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'switch') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'mn') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'o') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'introLogos') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'studios') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'orbit') is missing!
+ 
+(Filename:  Line: 294)
+
+Shader 'Hidden/Internal-GUIRoundedRect': fallback shader 'Hidden/Internal-GUITextureClip' not found
+Build Information:
+====
+Project Revision: 147855
+Core Revision: 147778
+Revision Time: 2020-11-18 06:35:46
+Build Id: 8978
+TC Build Configuration: PC.PC
+Cheats Enabled: False
+Final Build: True
+Development Build: False
+Script Debugging: False
+IL2CPP: True
+Scene Settings: production
+TLC Enabled: True
+WWise Enabled: True
+Atlas Platform: FourK
+Strip Prefabs: True
+Rebind Prefabs: True
+BuildNumber: 8978
+TeamCityProjectName: PC
+TeamCityBuildConfName: PC
+Engine Version: Unity_2018.4.24_upd795-master
+Graphics API: Direct3D11
+Moon Profiling Tools: False
+Experimental Build: False
+====
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+Wwise(R) SDK Version 2019.1.7 Build 7135.Copyright(c) 2006-2019 Audiokinetic Inc.
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+AkWwiseInitializationSettings:InitializeSoundEngine(AkWwiseInitializationSettings, WwiseBootstrapConfiguration)
+Moon.Wwise.WwiseIntegration:Initialize(AkWwiseInitializationSettings, WwiseBootstrapConfiguration)
+Moon.Wwise.WwiseBootstrap:Initialize()
+Moon.Wwise.WwiseBootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+GameController:WarmUpResources()
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+LoadingBootstrap:OnGameControllerInitialize()
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 581] 
+(Filename:  Line: 581)
+
+Profiler is not supported in this build
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 85] 
+(Filename:  Line: 85)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'switch') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'switch') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'switch') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'switch') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'live') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'live') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'live') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'live') is missing!
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GameController:Initialize()
+StartupState:OnEnterState()
+Bootstrap:Awake()
+UnityEngine.Object:Instantiate(T)
+Object:Instantiate(TObject)
+GamePlaceholder:Awake()
+
+[ line 294] 
+(Filename:  Line: 294)
+
+: FX Limit quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+MoonDataPlatform.QualityModeTweakAsset:Apply()
+Moon.Rendering.QualityProfile:Apply()
+Moon.Rendering.MoonRenderPipelineDebugUI:setQuality(Quality)
+CameraSystem:Start()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Water Sim quality tweak not yet implemented : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Rendering.QualityProfile:Apply()
+Moon.Rendering.MoonRenderPipelineDebugUI:setQuality(Quality)
+CameraSystem:Start()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script on this Behaviour (Game Object 'stats') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'wotwTitleScreen') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueMaster') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script (GizmoZonesRenderManager) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object 'Feather_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'FeatherWingStraps_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'eyes_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'sharedWaterDuckweedA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDLTrail') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'sharedWaterDuckweedA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Feather_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'trail') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Eye_R') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Eye_L') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway_shadowplane_left') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gills_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'eyes_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'FeatherWingStraps_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'teethlower') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gumo') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gumogills') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'upperteeth') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconyLeavesB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'Naru_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gills_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway_shadowplane_body') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDLTrail') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconySupportD') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'radialGlow') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'prologueBalconyLeavesB') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'kuFlyAway_shadowplane_right') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'body_MDL') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'sharedWaterDuckweedA') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'gizmoZonesRenderManager_') is missing!
+ 
+(Filename:  Line: 294)
+
+: Sign in flow failed: -1994174200 : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+SystemIntegration.XalSignInProvider:GetGamerPicture(Task`1)
+System.Diagnostics.Tracing.Getter:Invoke(ContainerType)
+System.Threading.Tasks.ContinuationResultTaskFromResultTask`2:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+PlayFab.Events.PlayFabRequestEvent`1:Invoke(TRequest)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Either couldn't resolve, or the specified trail is null. : 
+ h: swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.MoonTimeline:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.MoonTimeline:OnEnable()
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(T, Vector3, Quaternion)
+UberPoolGroup:GetNewObject(GameObject, Vector3, Quaternion)
+UberPoolGroupWarmer:PrewarmNextPrefab()
+UberPoolGroupWarmer:DoUpdate(Single)
+UberPoolTimeslicedPrewarmer:Update()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Either couldn't resolve, or the specified trail is null. : 
+ h: uberPoolFor swordAttackGroundCEffect/swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StopPlayback()
+Moon.Timeline.TimelineEntityRecord:Stop()
+Moon.Timeline.MoonTimeline:OnStopPlaybackInternal()
+Moon.Timeline.MoonTimeline:OnStopPlayback()
+Moon.Timeline.TimelineEntity:StopPlayback()
+Moon.Timeline.MoonTimeline:OnDisable()
+UberPoolGroup:PrewarmExistingInstance(GameObject, Dictionary`2)
+UberPoolGroupWarmer:PrewarmNextPrefab()
+UberPoolGroupWarmer:DoUpdate(Single)
+UberPoolTimeslicedPrewarmer:Update()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Either couldn't resolve, or the specified trail is null. : 
+ h: swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.MoonTimeline:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.MoonTimeline:OnEnable()
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(T, Vector3, Quaternion)
+UberPoolGroup:GetNewObject(GameObject, Vector3, Quaternion)
+UberPoolGroupWarmer:PrewarmNextPrefab()
+UberPoolGroupWarmer:DoUpdate(Single)
+UberPoolTimeslicedPrewarmer:Update()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: Either couldn't resolve, or the specified trail is null. : 
+ h: uberPoolFor swordAttackGroundCEffect/swordAttackGroundCEffect(Clone)/timlineV2/trailAnimator
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+Moon.Timeline.TimelineEntity:StopPlayback()
+Moon.Timeline.TimelineEntityRecord:Stop()
+Moon.Timeline.MoonTimeline:OnStopPlaybackInternal()
+Moon.Timeline.MoonTimeline:OnStopPlayback()
+Moon.Timeline.TimelineEntity:StopPlayback()
+Moon.Timeline.MoonTimeline:OnDisable()
+UberPoolGroup:PrewarmExistingInstance(GameObject, Dictionary`2)
+UberPoolGroupWarmer:PrewarmNextPrefab()
+UberPoolGroupWarmer:DoUpdate(Single)
+UberPoolTimeslicedPrewarmer:Update()
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+: [Loading Bootstrap] Disabled Bootstrap : 
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogError(Object, Object)
+LoadingBootstrap:OnDisable()
+<Start>d__25:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 259 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2035 unused Assets to reduce memory usage. Loaded Objects now: 184252.
+Total: 310.839800 ms (FindLiveObjects: 16.381900 ms CreateObjectMapping: 12.714000 ms MarkObjects: 279.933500 ms  DeleteObjects: 1.808400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 184252.
+Total: 310.793500 ms (FindLiveObjects: 17.559100 ms CreateObjectMapping: 10.765900 ms MarkObjects: 281.936100 ms  DeleteObjects: 0.530200 ms)
+
+[TimelineSystem : SceneManagementSystem ] Created
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Moon.Timeline.TimelineSystem`1:get_Instance()
+Moon.Timeline.KeepSceneLoadedEntity:OnLoadedScene(IContext)
+Moon.Timeline.KeepSceneLoadedEntity:OnStartPlayback(IContext)
+Moon.Timeline.TimelineEntity:StartPlayback(IContext)
+Moon.Timeline.TimelineEntityRecord:Play(IContext, Boolean)
+Moon.Timeline.MoonTimeline:ProcessReactions()
+Moon.Timeline.MoonTimeline:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+[TimelineSystem : GameplayUISystem ] Created
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Moon.Timeline.TimelineSystem`1:get_Instance()
+Moon.Timeline.SeinUIEntity:OnUpdateEntity(Single)
+Moon.Timeline.TimelineEntity:OnUpdate(Single)
+Moon.Driver.UpdateManager:UpdateHandlerEntry(Entry, Single)
+Moon.Driver.UpdateManager:Update(Single)
+ 
+(Filename: C:\mba\ba3\w\b4d4788e024a0db9\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script on this Behaviour (Game Object 'questMapScene') is missing!
+ 
+(Filename:  Line: 294)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 48c8 -> priority: 1 
+  Thread -> id: 5568 -> priority: 1 
+  Thread -> id: 1f08 -> priority: 1 
+  Thread -> id: 4b20 -> priority: 1 
+  Thread -> id: 18c8 -> priority: 1 
+  Thread -> id: 4c28 -> priority: 1 
+  Thread -> id: 29a0 -> priority: 1 
+  Thread -> id: 3940 -> priority: 1 
+PlayableGraph being evaluated with no outputs. Playables will not be updated
+ 
+(Filename:  Line: 221)
+

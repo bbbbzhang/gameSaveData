@@ -1,0 +1,5 @@
+{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1753710420403,"scene_name":"start","scene_index":0,"background_time":274570800,"integrate_time":2124896484,"ts_integrate_time":14852600,"total_time":2430349121}}
+{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1753710421074,"scene_name":"splash","scene_index":1,"background_time":12232399,"integrate_time":14443799,"ts_integrate_time":12299,"total_time":114831100}}
+{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1753710426087,"scene_name":"menu","scene_index":2,"background_time":24091400,"integrate_time":15487499,"ts_integrate_time":445999,"total_time":81214706}}
+{"type":"analytics.appRunning.v1","msg":{"ts":1753710436076,"duration":17,"local_time_offset":-28800000}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1753710436076}}

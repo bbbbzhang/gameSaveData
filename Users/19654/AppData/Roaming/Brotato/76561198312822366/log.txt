@@ -1,0 +1,4 @@
+Loaded DLC package: BrotatoAbyssalTerrors.pck
+res://dlcs/ exists: True
+Open res://dlcs/
+Found dlc file, loading resources from: abyssal_terrors

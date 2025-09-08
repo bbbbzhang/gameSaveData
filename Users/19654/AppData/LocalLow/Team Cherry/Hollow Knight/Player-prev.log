@@ -1,0 +1,305 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Hollow Knight/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.8115
+Begin MonoManager ReloadAssembly
+- Completed reload, in 10.082 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The class named 'ConfigManager' is abstract. The script class can't be abstract!
+
+UnloadTime: 6.019700 ms
+Graphics tier changed to High
+
+Steam initializing
+
+Steam logged in as CLOUD
+
+Selected online subsystem SteamOnlineSubsystem
+
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'ZH'
+
+Restored language code 'ZH'
+
+
+Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
+Total: 8.182400 ms (FindLiveObjects: 0.339100 ms CreateObjectMapping: 0.239500 ms MarkObjects: 7.245400 ms  DeleteObjects: 0.357200 ms)
+
+Steam stats received.
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+<RI.Hid> Failed to get preparsed data: 操作成功完成。
+
+Didn't need to wait for PlayerPrefs load.
+
+UnloadTime: 11.895400 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to None.
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+Joystick connected ("Controller (XBOX 360 For Windows)").
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46215.
+Total: 215.623200 ms (FindLiveObjects: 5.503800 ms CreateObjectMapping: 2.805700 ms MarkObjects: 207.056800 ms  DeleteObjects: 0.255900 ms)
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 46655.
+Total: 277.520900 ms (FindLiveObjects: 5.119400 ms CreateObjectMapping: 2.465900 ms MarkObjects: 267.685400 ms  DeleteObjects: 2.249500 ms)
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool could not find a copy of Plat Grass, Instantiating a new one.
+
+Object Pool attached to GlobalPool has run out of Plat Grass prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+nailDamage: 9, multiplied: 22.5
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+nailDamage: 9, multiplied: 22.5
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.570200 ms
+Deferring level start (marked as manual).
+
+
+Unloading 1695 unused Assets to reduce memory usage. Loaded Objects now: 52877.
+Total: 263.629400 ms (FindLiveObjects: 3.672800 ms CreateObjectMapping: 1.710500 ms MarkObjects: 253.938400 ms  DeleteObjects: 4.306900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579400 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+pd.maxHealth: 5 pd.maxHealthBase: 5
+
+
+Unloading 411 unused Assets to reduce memory usage. Loaded Objects now: 47554.
+Total: 199.533900 ms (FindLiveObjects: 2.839500 ms CreateObjectMapping: 1.523700 ms MarkObjects: 193.231600 ms  DeleteObjects: 1.938200 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 2e9c -> priority: 1 
+  Thread -> id: 4aa0 -> priority: 1 
+  Thread -> id: 32a0 -> priority: 1 
+  Thread -> id: 35f4 -> priority: 1 
+  Thread -> id: 326c -> priority: 1 
+  Thread -> id: 4edc -> priority: 1 
+  Thread -> id: 4d3c -> priority: 1 
+  Thread -> id: 16a8 -> priority: 1 
+Shutting down Steam API.
+

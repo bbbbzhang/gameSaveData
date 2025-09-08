@@ -1,0 +1,2 @@
+<0x1>{"type":"appStart","ts":1665795798324}
+<0x2>{"type":"deviceInfo","ts":1665795798327,"make":"WindowsPlayer","model":"11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz (16154 MB)","processor_type":"11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz","system_memory_size":"16154","engine_ver":"5.0.4f1","os_ver":"Windows 8.1  (6.3.22621) 64bit","timezone":"GMT+8","deviceid":"d2d2cf939fd39b0207a92541c99de7e72f835568","changed":["os_ver","timezone","sdk_ver"]}

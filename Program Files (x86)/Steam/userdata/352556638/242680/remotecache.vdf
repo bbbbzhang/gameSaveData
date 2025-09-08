@@ -1,0 +1,29 @@
+"242680"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"nuclearthrone/NuclearThrone.sav"
+	{
+		"root"		"3"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"nuclearthrone/nuclearthrone961.sav"
+	{
+		"root"		"3"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,41 @@
+"421120"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"Amanita-Design.Samorost3/Local Store/save_00.S3S"
+	{
+		"root"		"4"
+		"size"		"1732"
+		"localtime"		"1623587304"
+		"time"		"1623587303"
+		"remotetime"		"1623587303"
+		"sha"		"cde0525d50129702a4f74eea822f9fba706a1afb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Amanita-Design.Samorost3/Local Store/save_18.S3S"
+	{
+		"root"		"4"
+		"size"		"1745"
+		"localtime"		"1623587332"
+		"time"		"1623587331"
+		"remotetime"		"1623587331"
+		"sha"		"e2adbf511e8f0e2eea73d7a69b8f00a549e62d3f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Amanita-Design.Samorost3/Local Store/save_20.S3S"
+	{
+		"root"		"4"
+		"size"		"1745"
+		"localtime"		"1623587320"
+		"time"		"1623587319"
+		"remotetime"		"1623587319"
+		"sha"		"e2adbf511e8f0e2eea73d7a69b8f00a549e62d3f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

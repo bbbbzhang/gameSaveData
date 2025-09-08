@@ -1,0 +1,92 @@
+[General]
+alwaysShowChangelog = false
+autoUpdate = false
+BGMvolume = 50
+checkCompatibilityOnStartup = false
+chooseHomeTab = "General"
+compatibilityEnabled = false
+enableDiscordRPC = false
+isDevKit = false
+isPS4Pro = false
+isPSNSignedIn = false
+isTrophyPopupDisabled = false
+logFilter = ""
+logType = "sync"
+playBGM = false
+separateUpdateEnabled = false
+showSplash = false
+sideTrophy = "right"
+trophyNotificationDuration = 6.0
+updateChannel = "Release"
+userName = "shadPS4"
+
+[Input]
+backButtonBehavior = "left"
+cursorHideTimeout = 5
+cursorState = 1
+isMotionControlsEnabled = true
+specialPadClass = 1
+useSpecialPad = false
+useUnifiedInputConfig = true
+
+[GPU]
+allowHDR = false
+copyGPUBuffers = false
+directMemoryAccess = false
+dumpShaders = false
+Fullscreen = false
+FullscreenMode = "Windowed"
+nullGpu = false
+patchShaders = true
+readbacks = false
+screenHeight = 720
+screenWidth = 1280
+vblankDivider = 1
+
+[Vulkan]
+crashDiagnostic = false
+gpuId = -1
+guestMarkers = false
+hostMarkers = false
+rdocEnable = false
+validation = false
+validation_gpu = false
+validation_sync = false
+
+[Debug]
+CollectShader = false
+DebugDump = false
+FPSColor = true
+isSeparateLogFilesEnabled = false
+
+[Keys]
+TrophyKey = ""
+
+[GUI]
+addonInstallDir = "C:\\Users\\19654\\Documents\\Tools\\Emulators\\shadPS4\\addcont"
+backgroundImageOpacity = 50
+elfDirs = []
+emulatorLanguage = "en_US"
+gameTableMode = 0
+geometry_h = 720
+geometry_w = 1280
+geometry_x = 370
+geometry_y = 164
+iconSize = 36
+iconSizeGrid = 69
+installDirs = ["C:\\Users\\19654\\Documents\\Tools\\Emulators\\shadPS4\\games", "D:\\Tools\\Emulators\\shadPS4\\games"]
+installDirsEnabled = [false, true]
+loadGameSizeEnabled = true
+mw_height = 720
+mw_width = 1280
+pkgDirs = []
+recentFiles = []
+saveDataPath = "D:/Tools/Emulators/shadPS4/savedata"
+showBackgroundImage = true
+sliderPos = 0
+sliderPosGrid = 0
+theme = 0
+
+[Settings]
+consoleLanguage = 11
+

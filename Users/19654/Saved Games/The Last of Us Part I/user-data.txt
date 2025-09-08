@@ -1,0 +1,68 @@
+built: Jun  9 2023 at 15:45:15
+changelist: 3613846
+machine-name: DESKTOP-JEFJFF4
+active-menu: (none)
+service-display-name: bbbbzhang
+service-account-id: 352556638
+service-type: Steam
+username: 
+gamename: t1x
+branchname: t1xfinal-pc-1.1.0
+build-config: t1xfinal-pc-1.1.0-t1x-x64-rtm
+assert-msg: Unhandled filesystem error SCE_FIOS_ERROR_UNKNOWN on FileSystem::DeleteSync('D:/Games/Cracks/The Last of Us Part I/psolibs/main/cache\10-01.tbl' resolved to 'D:/Games/Cracks/The Last of Us Part I/psolibs/main/cache\10-01.tbl') (0x80820022 = -2138963934). Ever had an http GET timeout ? false
+assert-expr: HALT
+assert-func: ErrFromFios
+assert-file: ndlib/io/file-system-fios2.cpp
+assert-line: 794
+debug-feature-used: 0
+command-line: c
+active-jobs: Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle
+active-tasks: 
+script-call-stacks: <empty-array>
+dynamic-encounters: <empty-array>
+time-since-game-start-seconds: 5.827231
+time-since-game-start-hours: 0
+time-since-game-start-bucket: startup
+gpu-name: NVIDIA GeForce RTX 3070 Laptop GPU
+gpu-driver-version: 576.80
+cpu-info: GenuineIntel 11th Intel(R)
+cpu-cores: 16
+display-resolution-width: 1920
+display-resolution-height: 1080
+os-version: Windows 10.0.22631
+windows-version: Win11
+pso-percent: -1
+last-gpu-crash-hresult-code: 0x0
+last-gpu-crash-hresult-string: S_OK
+memory-used-percent: 76
+memory-physical-total-bytes: 16938061824
+memory-physical-available-bytes: 3951603712
+memory-virtual-total-bytes: 140737488224256
+memory-virtual-available-bytes: 140147866718208
+memory-page-file-total-bytes: 44757360640
+memory-page-file-available-bytes: 5351497728
+memory-commit-total-bytes: 39405862912
+memory-commit-limit-bytes: 44757360640
+memory-page-size-bytes: 4096
+vram-free-bytes: 2082775040
+vram-used-bytes: 30916608
+vram-budget-bytes: 7604273152
+vram-over-budget: false
+vram-buffers-used-bytes: 0
+vram-buffers-budget-bytes: 0
+vram-shaders-used-bytes: 0
+vram-shaders-budget-bytes: 553648128
+vram-ndgi-used-bytes: 1645408
+vram-ndgi-budget-bytes: 93323264
+vram-ndgi-over-budget: false
+vram-ndrg-used-bytes: 32
+vram-ndrg-budget-bytes: 15728640
+vram-render-pool-used-bytes: 32
+vram-render-pool-budget-bytes: 123731968
+vram-render-globals-used-bytes: 32
+vram-render-globals-budget-bytes: 16777216
+drive-c-total-bytes: 499475054592
+drive-c-free-bytes: 338225205248
+drive-d-total-bytes: 2048407179264
+drive-d-free-bytes: 43028959232
+gpu-diagnostics: None

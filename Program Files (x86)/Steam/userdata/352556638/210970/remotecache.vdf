@@ -1,0 +1,53 @@
+"210970"
+{
+	"ChangeNumber"		"10"
+	"ostype"		"0"
+	"The Witness/2021.06.22__time_23.36.16.png"
+	{
+		"root"		"7"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"2"
+	}
+	"The Witness/2021.06.22__time_23.36.16.witness_campaign"
+	{
+		"root"		"7"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"2"
+	}
+	"The Witness/2020.03.05__time_12.22.26.png"
+	{
+		"root"		"4"
+		"size"		"135667"
+		"localtime"		"1757146550"
+		"time"		"1757146563"
+		"remotetime"		"1757146563"
+		"sha"		"6f33145bff4dd35ac8ad2953144fccb2bb039189"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"The Witness/2020.03.05__time_12.22.26.witness_campaign"
+	{
+		"root"		"4"
+		"size"		"50855"
+		"localtime"		"1757146550"
+		"time"		"1757146563"
+		"remotetime"		"1757146563"
+		"sha"		"cbd2c4a1f347748349bf123d22bde0fc12862bb7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,37 @@
+Godot Engine v3.5.3.stable.custom_build.4e8840baa - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2
+Async. shader compilation: OFF
+ 
+Brotato v1.1.7.1
+Did Steam initialize?: {status:1, verbal:Steamworks active.}
+steam_is_online: False
+steam_id: 76561198312822366
+steam_is_owned: True
+INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+INFO ModLoader:Store: Applying options override with feature tag "steam".
+INFO ModLoader: game_install_directory: D:/Games/Cracks/Brotato/Brotato/common/Brotato/
+INFO ModLoader: Mods are currently disabled
+INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+LOG_PATH: user://76561198312822366/log.txt
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Loading user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: No v2 save found
+ProgressDataLoaderV1: Save path: user://76561198312822366/save.json
+ProgressDataLoaderV1: Loading user://76561198312822366/save.json
+Migrating v1 save to v2
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561198312822366/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561198312822366/save_v2.json
+ERROR: getaddrinfo failed! Cannot resolve hostname.
+   at: IP_Unix::_resolve_hostname (drivers\unix\ip_unix.cpp:98) - getaddrinfo failed! Cannot resolve hostname.
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561198312822366/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Save path: user://76561198312822366/save_v2.json
+ProgressDataLoaderV2: Writing save to main save path user://76561198312822366/save_v2.json
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: ObjectDB::cleanup (core\object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: ResourceCache::clear (core\resource.cpp:417) - Resources still in use at exit (run with --verbose for details).

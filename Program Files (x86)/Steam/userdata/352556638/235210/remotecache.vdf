@@ -1,0 +1,17 @@
+"235210"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"0StriderSaveGame"
+	{
+		"root"		"0"
+		"size"		"1048576"
+		"localtime"		"1756986670"
+		"time"		"1756986679"
+		"remotetime"		"1671682197"
+		"sha"		"e7e441b647e247d51544bc10a254530b72f0118d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

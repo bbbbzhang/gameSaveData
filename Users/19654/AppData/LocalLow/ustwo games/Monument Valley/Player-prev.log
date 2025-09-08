@@ -1,0 +1,80 @@
+Mono path[0] = 'D:/Games/Cracks/Monument Valley/Monument Valley_Data/Managed'
+Mono config path = 'D:/Games/Cracks/Monument Valley/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path D:/Games/Cracks/Monument Valley/Monument Valley_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.7680
+Begin MonoManager ReloadAssembly
+- Completed reload, in  7.171 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.013800 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.941600 ms
+
+Unloading 1819 unused Assets to reduce memory usage. Loaded Objects now: 11195.
+Total: 67.835500 ms (FindLiveObjects: 1.637900 ms CreateObjectMapping: 0.478700 ms MarkObjects: 64.244100 ms  DeleteObjects: 1.474000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 11196.
+Total: 68.854500 ms (FindLiveObjects: 1.863100 ms CreateObjectMapping: 0.297000 ms MarkObjects: 66.617800 ms  DeleteObjects: 0.075400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734500 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 16985.
+Total: 52.049200 ms (FindLiveObjects: 1.968800 ms CreateObjectMapping: 0.292200 ms MarkObjects: 49.723800 ms  DeleteObjects: 0.063400 ms)
+
+640 x 480 @ 60Hz
+640 x 480 @ 165Hz
+720 x 480 @ 60Hz
+720 x 480 @ 165Hz
+800 x 600 @ 60Hz
+800 x 600 @ 165Hz
+1024 x 768 @ 60Hz
+1024 x 768 @ 165Hz
+1152 x 864 @ 60Hz
+1152 x 864 @ 165Hz
+1280 x 720 @ 60Hz
+1280 x 720 @ 165Hz
+1280 x 800 @ 60Hz
+1280 x 800 @ 165Hz
+1280 x 960 @ 60Hz
+1280 x 960 @ 165Hz
+1280 x 1024 @ 60Hz
+1280 x 1024 @ 165Hz
+1366 x 768 @ 60Hz
+1366 x 768 @ 165Hz
+1440 x 1080 @ 60Hz
+1440 x 1080 @ 165Hz
+1600 x 1024 @ 60Hz
+1600 x 1024 @ 165Hz
+1600 x 1200 @ 60Hz
+1600 x 1200 @ 165Hz
+1680 x 1050 @ 60Hz
+1680 x 1050 @ 165Hz
+1920 x 1080 @ 60Hz
+1920 x 1080 @ 165Hz
+1920 x 1200 @ 60Hz
+1920 x 1200 @ 165Hz
+1920 x 1440 @ 60Hz
+1920 x 1440 @ 165Hz
+2560 x 1440 @ 60Hz
+2560 x 1440 @ 165Hz
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 5954 -> priority: 1 
+  Thread -> id: 7928 -> priority: 1 
+  Thread -> id: 7448 -> priority: 1 
+  Thread -> id: 6644 -> priority: 1 
+  Thread -> id: 4b2c -> priority: 1 
+  Thread -> id: 73d4 -> priority: 1 
+  Thread -> id: 7d40 -> priority: 1 
+  Thread -> id: 66cc -> priority: 1 
+Curl error 42: Callback aborted

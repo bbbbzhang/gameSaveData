@@ -1,0 +1,18 @@
+"config"
+{
+	"convars"
+	{
+		"dota_active_play_section_new"		"0"
+		"dota_client_first_session"		"false"
+		"dota_dashboard_launch_count"		"14"
+		"dota_enable_range_finder"		"true"
+		"dota_featured_game_mode_splash_time"		"1665837074"
+		"dota_highest_seen_item_id"		"26817072030"
+		"dota_hud_flip"		"false"
+		"dota_minimap_show_hero_icon"		"false"
+		"dota_new_player"		"true"
+		"dota_new_player_seen_learn_tab"		"true"
+		"dota_splash_ad_acknowledged_id"		"129"
+		"name"		"CLOUD"
+	}
+}

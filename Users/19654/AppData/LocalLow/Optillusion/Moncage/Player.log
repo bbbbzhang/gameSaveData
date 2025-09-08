@@ -1,0 +1,92 @@
+Mono path[0] = 'D:/Games/Cracks/Moncage/Moncage_Data/Managed'
+Mono config path = 'D:/Games/Cracks/Moncage/MonoBleedingEdge/etc'
+Initialize engine version: 2021.1.14f1 (e9ada7b7f1b7)
+[Subsystems] Discovering subsystems at path D:/Games/Cracks/Moncage/Moncage_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     8020 MB
+    Driver:   32.0.15.7680
+Begin MonoManager ReloadAssembly
+- Completed reload, in 10.491 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.006800 ms
+LoadBanks() in RuntimeManager.cs
+
+[FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds.
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.115800 ms
+SAVING_IS_BLOCKED is set to true
+
+Change To Bgm0
+
+InputSource Changed : Keyboard
+
+
+Unloading 382 unused Assets to reduce memory usage. Loaded Objects now: 29552.
+Total: 93.869000 ms (FindLiveObjects: 3.818400 ms CreateObjectMapping: 1.757000 ms MarkObjects: 85.608500 ms  DeleteObjects: 2.684000 ms)
+
+No MoncageMedalData.es3, Checking MoncageMedalData_Backup_0.es3
+
+No MoncageMedalData_Backup_0.es3
+
+No MoncageSaveData.es3, Checking MoncageSaveData_Backup_0.es3
+
+No MoncageSaveData_Backup_0.es3
+
+Change To Hint Mode 0
+
+ChineseSimplified
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 29864.
+Total: 77.076300 ms (FindLiveObjects: 4.078900 ms CreateObjectMapping: 1.845100 ms MarkObjects: 71.055800 ms  DeleteObjects: 0.095600 ms)
+
+Load Complete
+
+ResolutionChanged
+
+resolution changed!
+
+ResolutionChanged
+
+resolution changed!
+
+ResolutionChanged
+
+resolution changed!
+
+ResolutionChanged
+
+resolution changed!
+
+ResolutionChanged
+
+resolution changed!
+
+ResolutionChanged
+
+resolution changed!
+
+ResolutionChanged
+
+resolution changed!
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 5594 -> priority: 1 
+  Thread -> id: 7c88 -> priority: 1 
+  Thread -> id: 7054 -> priority: 1 
+  Thread -> id: 71a4 -> priority: 1 
+  Thread -> id: 64f8 -> priority: 1 
+  Thread -> id: 5488 -> priority: 1 
+  Thread -> id: 662c -> priority: 1 
+  Thread -> id: 4f58 -> priority: 1 
+Curl error 42: Callback aborted

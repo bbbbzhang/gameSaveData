@@ -1,0 +1,41 @@
+"952060"
+{
+	"ChangeNumber"		"6"
+	"ostype"		"0"
+	"win64_save/data00-1.bin"
+	{
+		"root"		"0"
+		"size"		"4892"
+		"localtime"		"1756985911"
+		"time"		"1756985920"
+		"remotetime"		"1756985920"
+		"sha"		"e08be5caa6f1a02450b881bd84e2625e2cba7dd4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/data000.bin"
+	{
+		"root"		"0"
+		"size"		"3365992"
+		"localtime"		"1663469071"
+		"time"		"1663469071"
+		"remotetime"		"1663469075"
+		"sha"		"6a92fbcbcefc3cf989ff2e602276edd6bd3e3277"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/data001Slot.bin"
+	{
+		"root"		"0"
+		"size"		"3264452"
+		"localtime"		"1663468986"
+		"time"		"1663468986"
+		"remotetime"		"1663468990"
+		"sha"		"f6ffcc3575ba5ccd6b25037b6986b2c6ca634750"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

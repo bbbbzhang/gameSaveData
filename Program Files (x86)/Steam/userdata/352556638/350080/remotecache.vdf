@@ -1,0 +1,77 @@
+"350080"
+{
+	"ChangeNumber"		"3"
+	"ostype"		"0"
+	"MachineGames/Wolfenstein The Old Blood/base/savegame/profile.bin"
+	{
+		"root"		"9"
+		"size"		"535"
+		"localtime"		"1756987212"
+		"time"		"1756987222"
+		"remotetime"		"1756987222"
+		"sha"		"0e27458df4e6362a4b59346710c2386f3996b2a7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"MachineGames/Wolfenstein The Old Blood/base/savegame/SLOT1/checkpoint0.dat"
+	{
+		"root"		"9"
+		"size"		"67755"
+		"localtime"		"1755588315"
+		"time"		"1755588320"
+		"remotetime"		"1755588320"
+		"sha"		"ec8213227f2db155150ee2e3ea7316d5f2e9195a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"MachineGames/Wolfenstein The Old Blood/base/savegame/SLOT1/game.details"
+	{
+		"root"		"9"
+		"size"		"219"
+		"localtime"		"1755588314"
+		"time"		"1755588320"
+		"remotetime"		"1755588320"
+		"sha"		"19ee1fcd399b2356e7f75623ec88e846c7ffdcf5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"MachineGames/Wolfenstein The Old Blood/base/savegame/SLOT1/mapstart0.dat"
+	{
+		"root"		"9"
+		"size"		"33393"
+		"localtime"		"1643005705"
+		"time"		"1643005713"
+		"remotetime"		"1643005713"
+		"sha"		"63eb1e9e90d3be701694c8c05c6de15b807abcc5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"MachineGames/Wolfenstein The Old Blood/base/savegame/SLOT1/profile.bin"
+	{
+		"root"		"9"
+		"size"		"3932"
+		"localtime"		"1756987212"
+		"time"		"1756987222"
+		"remotetime"		"1756987222"
+		"sha"		"bb28a6d3ba5d1aa7e6e304f4ae06d784a579175c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"MachineGames/Wolfenstein The Old Blood/base/savegame/SLOT2/profile.bin"
+	{
+		"root"		"9"
+		"size"		"3932"
+		"localtime"		"1740834604"
+		"time"		"1740834612"
+		"remotetime"		"1740834612"
+		"sha"		"3b1417e9422ae824b7a5b44dc6612480f52c5523"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

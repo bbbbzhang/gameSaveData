@@ -1,0 +1,130 @@
+{
+  "ACH_BONUS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BUBBLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CLASSICS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CLEAR_ARCADE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CLEAR_DORACO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CLEAR_EASY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CLEAR_NORMAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CLEAR_WITHOUT_DOWN_JUMP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COIN_RUSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLECTOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRT_BOY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DANCING_WITH_GHISTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXPERT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GREEN_POTION": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_HAT_TRICK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_INTRO": {
+    "earned": true,
+    "earned_time": 1748961852
+  },
+  "ACH_MASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MONSTER_COUNTERATTACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MONSTER_MANIA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PATIENCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PURPLE_POTION": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_RECORD_HOLDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RESOURCEFUL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SELF_SACRIFICE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_SPEED_RUNNER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TEN": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "ACH_TOMBOY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TWO_PLAYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNBELIEVABLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WARRIOR": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

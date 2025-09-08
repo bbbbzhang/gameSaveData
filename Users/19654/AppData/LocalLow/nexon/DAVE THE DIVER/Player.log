@@ -1,0 +1,297 @@
+Initialize engine version: 2020.3.48f1 (b805b124c6b7)
+[Subsystems] Discovering subsystems at path D:/Downloads/Dave The Diver/DaveTheDiver_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8020 MB
+    Driver:   32.0.15.6636
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.393100 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sirenix.Serialization.UnitySerializationInitializer:Initialize()
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sirenix.Serialization.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
+Sirenix.Serialization.UnitySerializationInitializer:Initialize()
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 12)
+UnloadTime: 1.780300 ms
+Build Version : v1.0.3.1551.steam
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+LogoManager:Awake()
+
+Do ValidateBundleFile : LastVersion=
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+LogoManager:ValidateBundleFile()
+LogoManager:Awake()
+
+ondestroy called singleton CameraResolution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 11624.
+Total: 20.293700 ms (FindLiveObjects: 0.423000 ms CreateObjectMapping: 0.428100 ms MarkObjects: 19.353800 ms  DeleteObjects: 0.088600 ms)
+
+[5.39944][SingletonAddrScriptableObject] LoadAssetAsync: obj:SoundConfigManager
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+SingletonAddrScriptableObject`1:LoadBundle(Action)
+<Init>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[5.843499][SingletonAddrScriptableObject] COMPLETE LoadAssetAsync: obj:SoundConfigManager
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+<>c__DisplayClass5_0:<LoadBundle>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.PCMReaderCallback:Invoke(Single[])
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+start singleton instanc : DataManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+<Start>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start singleton instanc : ResourceManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+<Init>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+InGameResource : preload ingame common resource
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ResourceManager:LoadInGameAddressable()
+<Init>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start singleton instanc : GlobalPPManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+<Init>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start singleton instanc : SaveSystem
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+GameBase:LoadSavedData()
+UnityEngine.Events.UnityAction:Invoke()
+<LoadGameData>d__45:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[16.20123][SingletonAddrScriptableObject] LoadAssetAsync: obj:CursorManager
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+SingletonAddrScriptableObject`1:LoadBundle(Action)
+<InitAfterSaveSystem>d__34:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[DLC localcheck] bundleAppId:2677020, isDlcInstalled:True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ItemIntegrityCheck:PreCheckLocalDLC(UInt32)
+<CheckDlcOwnership>d__9:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<AgeGradeEvent>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[DLC localcheck] bundleAppId:2841140, isDlcInstalled:True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ItemIntegrityCheck:PreCheckLocalDLC(UInt32)
+<CheckDlcOwnership>d__9:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<AgeGradeEvent>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[16.24222][SingletonAddrScriptableObject] COMPLETE LoadAssetAsync: obj:CursorManager
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+<>c__DisplayClass5_0:<LoadBundle>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.PCMReaderCallback:Invoke(Single[])
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+httpCode=OK, Rescode=2001
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Steamworks.APIDispatchDelegate:Invoke(T, Boolean)
+Steamworks.CallResult`1:OnRunCallResult(IntPtr, Boolean, UInt64)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+httpCode=OK, Rescode=2001
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Steamworks.APIDispatchDelegate:Invoke(T, Boolean)
+Steamworks.CallResult`1:OnRunCallResult(IntPtr, Boolean, UInt64)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+httpCode=OK, Rescode=2001
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Steamworks.APIDispatchDelegate:Invoke(T, Boolean)
+Steamworks.CallResult`1:OnRunCallResult(IntPtr, Boolean, UInt64)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 433)
+UnloadTime: 1.433500 ms
+
+Unloading 655 unused Assets to reduce memory usage. Loaded Objects now: 61476.
+Total: 92.124000 ms (FindLiveObjects: 2.825700 ms CreateObjectMapping: 2.476300 ms MarkObjects: 86.252000 ms  DeleteObjects: 0.569700 ms)
+
+---hasPrevData:False---loadFailed:False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DR.Title.<Start>d__23:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+start singleton instanc : SoundManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Singleton`1:get_Instance()
+SoundPlayInfoExtension:PlayMusic(SoundPlayInfo, Action`1)
+DR.Title.<Start>d__23:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 42: Callback aborted
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 26c8 -> priority: 1 
+  Thread -> id: 85c -> priority: 1 
+  Thread -> id: 23a0 -> priority: 1 
+  Thread -> id: 4e8 -> priority: 1 
+  Thread -> id: 2498 -> priority: 1 
+  Thread -> id: 3a88 -> priority: 1 
+  Thread -> id: 3c28 -> priority: 1 
+  Thread -> id: 5014 -> priority: 1 
+ondestroy called singleton SaveSystem(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton GlobalUI(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DlcManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton CameraResolution(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton RewardCanvas(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton UtilManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DRInputVibController(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton CrashReportManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton MissionCanvas(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton ContentsUnlockCanvas(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton GlobalSceneLoader(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton FontManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton ChapterManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton SoundManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton ResourceManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton ScenarioDataManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton GlobalPPManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DRNetworkManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DataManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton GameFormulaManager(Clone)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton ApplicationManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton AchievementManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton GameBase
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DR.IntermissionConditionChecker
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DLCVerify
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+ondestroy called singleton DLCVerify
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+

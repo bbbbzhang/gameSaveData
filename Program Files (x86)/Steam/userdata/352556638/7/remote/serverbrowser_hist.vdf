@@ -1,0 +1,33 @@
+"Filters"
+{
+	"favorites"
+	{
+	}
+	"history"
+	{
+		"1"
+		{
+			"name"		"192.168.0.44:27015"
+			"address"		"192.168.0.44:27015"
+			"LastPlayed"		"1593659912"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"2"
+		{
+			"name"		"0.0.0.1:27015"
+			"address"		"0.0.0.1:27015"
+			"LastPlayed"		"1593660553"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"3"
+		{
+			"name"		"192.168.0.106:27015"
+			"address"		"192.168.0.106:27015"
+			"LastPlayed"		"1661666770"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+}

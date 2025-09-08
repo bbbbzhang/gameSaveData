@@ -1,0 +1,660 @@
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.45f1 (a13dfa44d684)
+[Subsystems] Discovering subsystems at path D:/Games/Cracks/Snow Bros 2 Special/Snow Bros. 2 Special_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     8020 MB
+    Driver:   32.0.15.7652
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Initialized touch support.
+Shader 'Custom/ColorFilter': fallback shader 'Regacy Shaders/Transparent/Vertexlit' not found
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 4.082600 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+Spine.Unity.SkeletonVertexHaver:Awake()
+
+[ line 458614552]
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+SteamManager:Awake()
+
+[ line 458614536]
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+LOAD_SCENE::1::True
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+<LoadScene>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+SceneChangeManager:ChangeScene(Int32, LoadSceneMode, Boolean)
+<ManagerChecker>d__1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+LOAD_SCENE_COMPLETED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadScene>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Material is missing texture: MONSTER_Greenmon_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Bullhorn_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Evilquality_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Paratroopers1_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Bluemon_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Phantombomb_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Flymon_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Commander_Player_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Soldiermon_1_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Cannon_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Caskrobot_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Flameslime_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Parrotmon_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Lovon_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Propellers_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Soldiermon_2_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Ouch_Wall_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Solar_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Material is missing texture: MONSTER_Domimo_Material
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+Spine.Unity.MaterialsTextureLoader:Load(AtlasPage, String)
+Spine.Atlas:.ctor(TextReader, String, TextureLoader)
+Spine.Unity.SpineAtlasAsset:GetAtlas(Boolean)
+Spine.Unity.SkeletonDataAsset:GetSkeletonData(Boolean, Boolean)
+<>c__DisplayClass0_0:<LoadAsset>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+[onDeviceChange] Keyboard:/Keyboard, HardReset
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c:<Awake>b__0_0(InputDevice, InputDeviceChange)
+UnityEngine.InputSystem.Utilities.DelegateHelpers:InvokeCallbacksSafe(CallbackArray`1&, TValue1, TValue2, String, Object)
+UnityEngine.InputSystem.InputManager:ResetDevice(InputDevice, Boolean, Nullable`1)
+UnityEngine.InputSystem.InputManager:OnFocusChanged(Boolean)
+
+[onDeviceChange] Keyboard:/Keyboard, Disabled
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c:<Awake>b__0_0(InputDevice, InputDeviceChange)
+UnityEngine.InputSystem.Utilities.DelegateHelpers:InvokeCallbacksSafe(CallbackArray`1&, TValue1, TValue2, String, Object)
+UnityEngine.InputSystem.InputManager:OnFocusChanged(Boolean)
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at SelectHost.QuitRoom () [0x00000] in <00000000000000000000000000000000>:0 
+
+CameraPrefab Disable
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 1756 frames, [4.0 KB-8.0 KB]: 2 frames, [8.0 KB-16.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 2 frames, [4.0 MB-8.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.8 MB
+      Peak Allocated Bytes 4.2 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 126.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 305.5 KB
+      Overflow Count 53
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 1.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 40.0 KB
+      Peak Allocated Bytes 38.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 410 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 34.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 350 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 364 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 410 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 442 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 442 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 190
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 9 Subsections = 9216 buckets. Failed count: 60248
+        32B: 43 Subsections = 22016 buckets. Failed count: 16664
+        48B: 44 Subsections = 15018 buckets. Failed count: 13338
+        64B: 39 Subsections = 9984 buckets. Failed count: 6498
+        80B: 34 Subsections = 6963 buckets. Failed count: 0
+        96B: 14 Subsections = 2389 buckets. Failed count: 1791
+        112B: 4 Subsections = 585 buckets. Failed count: 1239
+        128B: 69 Subsections = 8832 buckets. Failed count: 16444
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 1765 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 5
+      Peak Allocated memory 70.4 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 405 frames, [128.0 MB-256.0 MB]: 1360 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 8
+      Peak Allocated memory 137.4 MB
+      Peak Large allocation bytes 24.9 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 9 Subsections = 9216 buckets. Failed count: 60248
+        32B: 43 Subsections = 22016 buckets. Failed count: 16664
+        48B: 44 Subsections = 15018 buckets. Failed count: 13338
+        64B: 39 Subsections = 9984 buckets. Failed count: 6498
+        80B: 34 Subsections = 6963 buckets. Failed count: 0
+        96B: 14 Subsections = 2389 buckets. Failed count: 1791
+        112B: 4 Subsections = 585 buckets. Failed count: 1239
+        128B: 69 Subsections = 8832 buckets. Failed count: 16444
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 207 frames, [128.0 KB-256.0 KB]: 1 frames, [1.0 MB-2.0 MB]: 1557 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.8 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 1765 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 4
+      Peak Allocated memory 54.2 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 380
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 9 Subsections = 9216 buckets. Failed count: 60248
+        32B: 43 Subsections = 22016 buckets. Failed count: 16664
+        48B: 44 Subsections = 15018 buckets. Failed count: 13338
+        64B: 39 Subsections = 9984 buckets. Failed count: 6498
+        80B: 34 Subsections = 6963 buckets. Failed count: 0
+        96B: 14 Subsections = 2389 buckets. Failed count: 1791
+        112B: 4 Subsections = 585 buckets. Failed count: 1239
+        128B: 69 Subsections = 8832 buckets. Failed count: 16444
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 1700 frames, [4.0 MB-8.0 MB]: 65 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 3
+      Peak Allocated memory 7.8 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 1765 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 9
+      Peak Allocated memory 87.2 MB
+      Peak Large allocation bytes 55.8 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 9 Subsections = 9216 buckets. Failed count: 60248
+        32B: 43 Subsections = 22016 buckets. Failed count: 16664
+        48B: 44 Subsections = 15018 buckets. Failed count: 13338
+        64B: 39 Subsections = 9984 buckets. Failed count: 6498
+        80B: 34 Subsections = 6963 buckets. Failed count: 0
+        96B: 14 Subsections = 2389 buckets. Failed count: 1791
+        112B: 4 Subsections = 585 buckets. Failed count: 1239
+        128B: 69 Subsections = 8832 buckets. Failed count: 16444
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 1688 frames, [16.0 KB-32.0 KB]: 77 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 19.2 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 229 frames, [128.0 KB-256.0 KB]: 2 frames, [256.0 KB-0.5 MB]: 4 frames, [0.5 MB-1.0 MB]: 48 frames, [1.0 MB-2.0 MB]: 1481 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.5 MB
+      Peak Large allocation bytes 0 B

@@ -1,0 +1,7 @@
+2025-06-01 Created log
+23:49:42   INFO ModLoader: game_install_directory: D:/Games/Cracks/Brotato/Brotato/common/Brotato/
+23:49:42   INFO ModLoader: Mods are currently disabled
+23:49:44   INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+22:43:48   INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+22:43:48   INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+22:43:48   INFO ModLoader:Store: Applying options override with feature tag "steam".

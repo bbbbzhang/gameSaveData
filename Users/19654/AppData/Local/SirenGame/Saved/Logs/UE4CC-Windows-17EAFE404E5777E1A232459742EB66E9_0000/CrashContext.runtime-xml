@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-17EAFE404E5777E1A232459742EB66E9_0000</CrashGUID>
+<ProcessId>19108</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<IsEnsure>0</IsEnsure>
+<SecondsSinceStart>0</SecondsSinceStart>
+<GameName>UE4-SirenGame</GameName>
+<ExecutableName>RiME</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.12.5-0+UE4</EngineVersion>
+<CommandLine>-NOSPLASH</CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<AppDefaultLocale>zh_CN</AppDefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>D:/SteamLibrary/steamapps/common/RiME/SirenGame/Binaries/Win64/</BaseDir>
+<RootDir>D:/SteamLibrary/steamapps/common/RiME/</RootDir>
+<MachineId>1F12FD3C427FD2011479B7A24FF00696</MachineId>
+<EpicAccountId>15f3787c5399402cacd56a6ef04e1550</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<ErrorMessage>LowLevelFatalError [File:D:\noAV\PC\SIREN\main\UE4\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp] [Line: 979] &nl;Async loading can only be suspended from the main thread&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>8</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 3070 Laptop GPU</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16938074112</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>4822949888</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140731213701120</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>903299072</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>911503360</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>1433706496</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>1433706496</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<BuildIntegrityStatus>0</BuildIntegrityStatus>
+</PlatformProperties>
+</FGenericCrashContext>

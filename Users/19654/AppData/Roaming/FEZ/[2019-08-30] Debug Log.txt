@@ -1,0 +1,26 @@
+(10:58:49.265) [FNA] INFORMATION : Controller 0: XInput Controller
+(10:58:50.798) [Version] INFORMATION : 1.12, Build Date : 2016-11-16 21:23:26
+(10:58:50.916) [FNA] INFORMATION : IGLDevice: OpenGLDevice
+(10:58:50.916) [FNA] INFORMATION : OpenGL Device: GeForce GTX 1050 Ti/PCIe/SSE2
+(10:58:50.917) [FNA] INFORMATION : OpenGL Driver: 4.6.0 NVIDIA 436.15
+(10:58:50.917) [FNA] INFORMATION : OpenGL Vendor: NVIDIA Corporation
+(10:58:50.918) [FNA] INFORMATION : MojoShader Profile: glsl120
+(10:58:50.924) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(10:58:50.955) [Instancing] INFORMATION : Hardware instancing is enabled
+(10:58:51.010) [FNA] INFORMATION : Using EXT_swap_control_tear VSync!
+(10:58:51.012) [SettingsManager] INFORMATION : Screen set to {{Width:1920 Height:1080 Format:Color}}
+(10:58:51.013) [SettingsManager] INFORMATION : Screen mode is : Fullscreen
+(10:58:51.013) [SettingsManager] INFORMATION : Backbuffer is 1920x1080
+(10:58:51.014) [SettingsManager] INFORMATION : VSync is on
+(10:58:51.014) [SettingsManager] INFORMATION : Multisample count is 0
+(10:58:51.837) [Threading] INFORMATION : Multithreading is enabled
+(10:58:52.394) [Intro] INFORMATION : First draw done!
+(10:58:57.526) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(10:59:01.688) [StaticPreloader] INFORMATION : Music library initialized.
+(10:59:01.780) [StaticPreloader] INFORMATION : Volume levels loaded.
+(10:59:01.846) [StaticPreloader] INFORMATION : Animations filled.
+(10:59:01.847) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(10:59:01.847) [StaticPreloader] INFORMATION : World map pre-initialized.
+(10:59:01.848) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(10:59:02.209) [Intro] INFORMATION : Preloading complete.
+(10:59:21.908) [FEZ] INFORMATION : Exiting.
