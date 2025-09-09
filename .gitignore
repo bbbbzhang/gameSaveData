@@ -1,0 +1,716 @@
+/*
+!ProgramData
+!Program Files (x86)
+!Users
+!.gitignore
+
+
+# --------------
+# 植物大战僵尸
+ProgramData/**
+!ProgramData/PopCap Games/
+!ProgramData/PopCap Games/**
+
+# bbbbzhang的Steam正版游戏存档
+Program Files (x86)/**
+!Program Files (x86)/Steam/
+!Program Files (x86)/Steam/**
+Program Files (x86)/Steam/**
+!Program Files (x86)/Steam/userdata/
+!Program Files (x86)/Steam/userdata/**
+
+Users/**
+
+# 公共文件夹
+!Users/Public/
+!Users/Public/**
+Users/Public/**
+!Users/Public/Documents/
+!Users/Public/Documents/**
+Users/Public/Documents/**
+!Users/Public/Documents/EMPRESS/
+!Users/Public/Documents/EMPRESS/**
+!Users/Public/Documents/Epic/
+!Users/Public/Documents/Epic/**
+!Users/Public/Documents/Steam/
+!Users/Public/Documents/Steam/**
+
+# 用户19654的文件夹
+!Users/19654/
+!Users/19654/**
+Users/19654/**
+
+!Users/19654/Saved Games/
+!Users/19654/Saved Games/**
+!Users/19654/Documents/
+!Users/19654/Documents/**
+Users/19654/Documents/**
+!Users/19654/AppData/
+!Users/19654/AppData/**
+Users/19654/AppData/**
+!Users/19654/AppData/Local/
+!Users/19654/AppData/Local/**
+Users/19654/AppData/Local/**
+
+!Users/19654/AppData/LocalLow/
+!Users/19654/AppData/LocalLow/**
+Users/19654/AppData/LocalLow/**
+
+!Users/19654/AppData/Roaming/
+!Users/19654/AppData/Roaming/**
+Users/19654/AppData/Roaming/**
+
+# Documents
+!Users/19654/Documents/bbbbzhang/
+!Users/19654/Documents/bbbbzhang/**
+# 生化奇兵1、2HD
+!Users/19654/Documents/BioshockHD/
+!Users/19654/Documents/BioshockHD/**
+# 植物精灵
+!Users/19654/Documents/BotaniculaSaves/
+!Users/19654/Documents/BotaniculaSaves/**
+# 恶霸鲁尼
+!Users/19654/Documents/Bully Scholarship Edition/
+!Users/19654/Documents/Bully Scholarship Edition/**
+
+
+!Users/19654/Documents/CAPCOM/
+!Users/19654/Documents/CAPCOM/**
+Users/19654/Documents/CAPCOM/**
+# 鬼泣4 特别版
+!Users/19654/Documents/CAPCOM/DEVILMAYCRY4SPECIALEDITION/
+!Users/19654/Documents/CAPCOM/DEVILMAYCRY4SPECIALEDITION/**
+# 生化危机5
+!Users/19654/Documents/CAPCOM/RESIDENT EVIL 5/
+!Users/19654/Documents/CAPCOM/RESIDENT EVIL 5/**
+# 生化危机6
+!Users/19654/Documents/CAPCOM/RESIDENT EVIL 6/
+!Users/19654/Documents/CAPCOM/RESIDENT EVIL 6/**
+# 街头霸王4 终极版
+!Users/19654/Documents/CAPCOM/SUPERSTREETFIGHTERIV/
+!Users/19654/Documents/CAPCOM/SUPERSTREETFIGHTERIV/**
+
+!Users/19654/Documents/My Games/
+!Users/19654/Documents/My Games/**
+Users/19654/Documents/My Games/**
+
+!Users/19654/Documents/Flower/
+!Users/19654/Documents/FromSoftware/
+!Users/19654/Documents/Ghost of Tsushima DIRECTOR'S CUT/
+!Users/19654/Documents/Horizon Forbidden West Complete Edition/
+!Users/19654/Documents/Horizon Zero Dawn Remastered/
+!Users/19654/Documents/Klei/
+!Users/19654/Documents/KoeiTecmo/
+!Users/19654/Documents/Max Payne 2 Savegames/
+!Users/19654/Documents/Max Payne Savegames/
+!Users/19654/Documents/MGR/
+
+
+!Users/19654/Documents/NBGI/
+!Users/19654/Documents/Player/
+!Users/19654/Documents/Ratchet & Clank - Rift Apart/
+!Users/19654/Documents/Remedy/
+!Users/19654/Documents/Rockstar Games/
+!Users/19654/Documents/SavedGames/
+!Users/19654/Documents/SQUARE ENIX/
+!Users/19654/Documents/Streets of Rage 4 Save and Config/
+!Users/19654/Documents/The Last of Us Part II/
+!Users/19654/Documents/The Witcher 3/
+!Users/19654/Documents/Tribute Games/
+
+
+!Users/19654/Documents/Flower/**
+!Users/19654/Documents/FromSoftware/**
+!Users/19654/Documents/Ghost of Tsushima DIRECTOR'S CUT/**
+!Users/19654/Documents/Horizon Forbidden West Complete Edition/**
+!Users/19654/Documents/Horizon Zero Dawn Remastered/**
+!Users/19654/Documents/Klei/**
+!Users/19654/Documents/KoeiTecmo/**
+!Users/19654/Documents/Max Payne 2 Savegames/**
+!Users/19654/Documents/Max Payne Savegames/**
+!Users/19654/Documents/MGR/**
+!Users/19654/Documents/NBGI/**
+!Users/19654/Documents/Player/**
+!Users/19654/Documents/Ratchet & Clank - Rift Apart/**
+!Users/19654/Documents/Remedy/**
+!Users/19654/Documents/Rockstar Games/**
+!Users/19654/Documents/SavedGames/**
+!Users/19654/Documents/SQUARE ENIX/**
+!Users/19654/Documents/Streets of Rage 4 Save and Config/**
+!Users/19654/Documents/The Last of Us Part II/**
+!Users/19654/Documents/The Witcher 3/**
+!Users/19654/Documents/Tribute Games/**
+# Local
+!Users/19654/AppData/Local/AbzuGame/
+!Users/19654/AppData/Local/AbzuGame/**
+!Users/19654/AppData/Local/Amanita-Design.Machinarium/
+!Users/19654/AppData/Local/Amanita-Design.Machinarium/**
+!Users/19654/AppData/Local/Annapurna Interactive/
+!Users/19654/AppData/Local/Annapurna Interactive/**
+!Users/19654/AppData/Local/Arkane Studios/
+!Users/19654/AppData/Local/Arkane Studios/**
+# 黑神话-悟空
+# !Users/19654/AppData/Local/b1/
+# !Users/19654/AppData/Local/b1/**
+# Users/19654/AppData/Local/b1/**
+!Users/19654/AppData/Local/BendGame/
+!Users/19654/AppData/Local/BendGame/**
+!Users/19654/AppData/Local/blastem/
+!Users/19654/AppData/Local/blastem/**
+!Users/19654/AppData/Local/BloodstainedRotN/
+!Users/19654/AppData/Local/BloodstainedRotN/**
+!Users/19654/AppData/Local/Bravely_Default_II/
+!Users/19654/AppData/Local/Bravely_Default_II/**
+!Users/19654/AppData/Local/CAPCOM/
+!Users/19654/AppData/Local/CAPCOM/**
+!Users/19654/AppData/Local/CCFF7R/
+!Users/19654/AppData/Local/CCFF7R/**
+!Users/19654/AppData/Local/CrashBandicoot4/
+!Users/19654/AppData/Local/CrashBandicoot4/**
+!Users/19654/AppData/Local/Crashlands/
+!Users/19654/AppData/Local/Crashlands/**
+!Users/19654/AppData/Local/Crashlands2/
+!Users/19654/AppData/Local/Crashlands2/**
+!Users/19654/AppData/Local/DaysGone/
+!Users/19654/AppData/Local/DaysGone/**
+!Users/19654/AppData/Local/FinchGame/
+!Users/19654/AppData/Local/FinchGame/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/FromSoftware/
+!Users/19654/AppData/Local/FromSoftware/**
+!Users/19654/AppData/Local/GetsuFumaDen/
+!Users/19654/AppData/Local/GetsuFumaDen/**
+!Users/19654/AppData/Local/Helios/
+!Users/19654/AppData/Local/Helios/**
+!Users/19654/AppData/Local/HyperLightDrifter/
+!Users/19654/AppData/Local/HyperLightDrifter/**
+!Users/19654/AppData/Local/id Software/
+!Users/19654/AppData/Local/id Software/**
+!Users/19654/AppData/Local/ItTakesTwo/
+!Users/19654/AppData/Local/ItTakesTwo/**
+!Users/19654/AppData/Local/Katana_ZERO/
+!Users/19654/AppData/Local/Katana_ZERO/**
+!Users/19654/AppData/Local/LOTF2/
+!Users/19654/AppData/Local/LOTF2/**
+Users/19654/AppData/Local/LOTF2/Saved/**
+!Users/19654/AppData/Local/LOTF2/Saved/
+!Users/19654/AppData/Local/LOTF2/Saved/**
+Users/19654/AppData/Local/LOTF2/Saved/**
+!Users/19654/AppData/Local/LOTF2/Saved/SaveGames/
+!Users/19654/AppData/Local/LOTF2/Saved/SaveGames/**
+
+!Users/19654/AppData/Local/nuclearthrone/
+!Users/19654/AppData/Local/nuclearthrone/**
+!Users/19654/AppData/Local/Octopath_Traveler2/
+!Users/19654/AppData/Local/Octopath_Traveler2/**
+!Users/19654/AppData/Local/Ori and the Blind Forest DE/
+!Users/19654/AppData/Local/Ori and the Blind Forest DE/**
+!Users/19654/AppData/Local/Ori and the Will of The Wisps/
+!Users/19654/AppData/Local/Ori and the Will of The Wisps/**
+!Users/19654/AppData/Local/Remedy/
+!Users/19654/AppData/Local/Remedy/**
+!Users/19654/AppData/Local/Sifu/
+!Users/19654/AppData/Local/Sifu/**
+!Users/19654/AppData/Local/SilentHill2/
+!Users/19654/AppData/Local/SilentHill2/**
+!Users/19654/AppData/Local/SirenGame/
+!Users/19654/AppData/Local/SirenGame/**
+!Users/19654/AppData/Local/Skyrim Special Edition/
+!Users/19654/AppData/Local/Skyrim Special Edition/**
+!Users/19654/AppData/Local/SplitFiction/
+!Users/19654/AppData/Local/SplitFiction/**
+!Users/19654/AppData/Local/SquareEnix/
+!Users/19654/AppData/Local/SquareEnix/**
+!Users/19654/AppData/Local/StreetFighterV/
+!Users/19654/AppData/Local/StreetFighterV/**
+!Users/19654/AppData/Local/techland/
+!Users/19654/AppData/Local/techland/**
+!Users/19654/AppData/Local/The Last of Us Part II/
+!Users/19654/AppData/Local/The Last of Us Part II/**
+!Users/19654/AppData/Local/TypeRider/
+!Users/19654/AppData/Local/TypeRider/**
+!Users/19654/AppData/Local/UNDERTALE/
+!Users/19654/AppData/Local/UNDERTALE/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+!Users/19654/AppData/Local/Forager/
+!Users/19654/AppData/Local/Forager/**
+
+# LocalLow
+!Users/19654/AppData/LocalLow/11BitStudios/
+!Users/19654/AppData/LocalLow/3909/
+!Users/19654/AppData/LocalLow/AkabaStudio/
+!Users/19654/AppData/LocalLow/Amanita Design/
+!Users/19654/AppData/LocalLow/Annapurna/
+!Users/19654/AppData/LocalLow/Billy Basso/
+!Users/19654/AppData/LocalLow/Brainseed Factory/
+!Users/19654/AppData/LocalLow/Broken Rules/
+!Users/19654/AppData/LocalLow/CampoSanto/
+!Users/19654/AppData/LocalLow/Candleman Games/
+!Users/19654/AppData/LocalLow/CAPCOM/
+!Users/19654/AppData/LocalLow/CRT Games/
+!Users/19654/AppData/LocalLow/David OReilly/
+!Users/19654/AppData/LocalLow/DefaultCompany/
+!Users/19654/AppData/LocalLow/Dodge Roll/
+!Users/19654/AppData/LocalLow/Fictiorama Studios/
+!Users/19654/AppData/LocalLow/Free Lives/
+!Users/19654/AppData/LocalLow/Gabe Cuzzillo/
+!Users/19654/AppData/LocalLow/Infinite Fall/
+# !Users/19654/AppData/LocalLow/Intel/
+!Users/19654/AppData/LocalLow/Juggler Games/
+!Users/19654/AppData/LocalLow/LoopyMood/
+!Users/19654/AppData/LocalLow/Massive Monster/
+!Users/19654/AppData/LocalLow/MegaPixel Studio SA/
+!Users/19654/AppData/LocalLow/Memory of God/
+!Users/19654/AppData/LocalLow/Moon Studios/
+!Users/19654/AppData/LocalLow/Mountains/
+!Users/19654/AppData/LocalLow/NatsumeAtari/
+!Users/19654/AppData/LocalLow/nexon/
+!Users/19654/AppData/LocalLow/Nicalis/
+!Users/19654/AppData/LocalLow/nomada studio/
+# !Users/19654/AppData/LocalLow/NVIDIA/
+!Users/19654/AppData/LocalLow/Optillusion/
+!Users/19654/AppData/LocalLow/Ovosonico/
+!Users/19654/AppData/LocalLow/Pixel Crow/
+!Users/19654/AppData/LocalLow/Plausible Concept/
+!Users/19654/AppData/LocalLow/Playdead/
+!Users/19654/AppData/LocalLow/PLAYISM/
+!Users/19654/AppData/LocalLow/RedCandleGames/
+!Users/19654/AppData/LocalLow/SavesDir/
+!Users/19654/AppData/LocalLow/Serenity Forge/
+!Users/19654/AppData/LocalLow/SQUARE ENIX, Inc_/
+!Users/19654/AppData/LocalLow/SquareEnix/
+!Users/19654/AppData/LocalLow/Studio MDHR/
+!Users/19654/AppData/LocalLow/Team Alto/
+!Users/19654/AppData/LocalLow/Team Cherry/
+# !Users/19654/AppData/LocalLow/TENCENT/
+!Users/19654/AppData/LocalLow/The Voxel Agents/
+# !Users/19654/AppData/LocalLow/Thunder Network/
+# !Users/19654/AppData/LocalLow/Unity/
+!Users/19654/AppData/LocalLow/ustwo games/
+!Users/19654/AppData/LocalLow/WayForward Technologies/
+# !Users/19654/AppData/LocalLow/webviewdata/
+!Users/19654/AppData/LocalLow/Yacht Club Games/
+
+!Users/19654/AppData/LocalLow/11BitStudios/**
+!Users/19654/AppData/LocalLow/3909/**
+!Users/19654/AppData/LocalLow/AkabaStudio/**
+!Users/19654/AppData/LocalLow/Amanita Design/**
+!Users/19654/AppData/LocalLow/Annapurna/**
+!Users/19654/AppData/LocalLow/Billy Basso/**
+!Users/19654/AppData/LocalLow/Brainseed Factory/**
+!Users/19654/AppData/LocalLow/Broken Rules/**
+!Users/19654/AppData/LocalLow/CampoSanto/**
+!Users/19654/AppData/LocalLow/Candleman Games/**
+!Users/19654/AppData/LocalLow/CAPCOM/**
+!Users/19654/AppData/LocalLow/CRT Games/**
+!Users/19654/AppData/LocalLow/David OReilly/**
+!Users/19654/AppData/LocalLow/DefaultCompany/**
+!Users/19654/AppData/LocalLow/Dodge Roll/**
+!Users/19654/AppData/LocalLow/Fictiorama Studios/**
+!Users/19654/AppData/LocalLow/Free Lives/**
+!Users/19654/AppData/LocalLow/Gabe Cuzzillo/**
+!Users/19654/AppData/LocalLow/Infinite Fall/**
+# !Users/19654/AppData/LocalLow/Intel/**
+!Users/19654/AppData/LocalLow/Juggler Games/**
+!Users/19654/AppData/LocalLow/LoopyMood/**
+!Users/19654/AppData/LocalLow/Massive Monster/**
+!Users/19654/AppData/LocalLow/MegaPixel Studio SA/**
+!Users/19654/AppData/LocalLow/Memory of God/**
+!Users/19654/AppData/LocalLow/Moon Studios/**
+!Users/19654/AppData/LocalLow/Mountains/**
+!Users/19654/AppData/LocalLow/NatsumeAtari/**
+!Users/19654/AppData/LocalLow/nexon/**
+!Users/19654/AppData/LocalLow/Nicalis/**
+!Users/19654/AppData/LocalLow/nomada studio/**
+# !Users/19654/AppData/LocalLow/NVIDIA/**
+!Users/19654/AppData/LocalLow/Optillusion/**
+!Users/19654/AppData/LocalLow/Ovosonico/**
+!Users/19654/AppData/LocalLow/Pixel Crow/**
+!Users/19654/AppData/LocalLow/Plausible Concept/**
+!Users/19654/AppData/LocalLow/Playdead/**
+!Users/19654/AppData/LocalLow/PLAYISM/**
+!Users/19654/AppData/LocalLow/RedCandleGames/**
+!Users/19654/AppData/LocalLow/SavesDir/**
+!Users/19654/AppData/LocalLow/Serenity Forge/**
+!Users/19654/AppData/LocalLow/SQUARE ENIX, Inc_/**
+!Users/19654/AppData/LocalLow/SquareEnix/**
+!Users/19654/AppData/LocalLow/Studio MDHR/**
+!Users/19654/AppData/LocalLow/Team Alto/**
+!Users/19654/AppData/LocalLow/Team Cherry/**
+# !Users/19654/AppData/LocalLow/TENCENT/**
+!Users/19654/AppData/LocalLow/The Voxel Agents/**
+# !Users/19654/AppData/LocalLow/Thunder Network/**
+# !Users/19654/AppData/LocalLow/Unity/**
+!Users/19654/AppData/LocalLow/ustwo games/**
+!Users/19654/AppData/LocalLow/WayForward Technologies/**
+# !Users/19654/AppData/LocalLow/webviewdata/**
+!Users/19654/AppData/LocalLow/Yacht Club Games/**
+
+# Roaming
+!Users/19654/AppData/Roaming/.1911/
+!Users/19654/AppData/Roaming/.madgarden/
+!Users/19654/AppData/Roaming/3909/
+!Users/19654/AppData/Roaming/7 Billion Humans/
+# !Users/19654/AppData/Roaming/Adobe/
+# !Users/19654/AppData/Roaming/aDrive/
+!Users/19654/AppData/Roaming/Amanita-Design.CHUCHEL/
+!Users/19654/AppData/Roaming/Amanita-Design.Machinarium/
+!Users/19654/AppData/Roaming/Amanita-Design.Samorost3/
+!Users/19654/AppData/Roaming/amanitadesign.samorost1/
+!Users/19654/AppData/Roaming/amanitadesign.samorost3/
+# !Users/19654/AppData/Roaming/AweSun/
+!Users/19654/AppData/Roaming/Baba_Is_You/
+# !Users/19654/AppData/Roaming/baidu/
+# !Users/19654/AppData/Roaming/baidunetdisk/
+# !Users/19654/AppData/Roaming/BaiduYunGuanjia/
+# !Users/19654/AppData/Roaming/BaiduYunKernel/
+!Users/19654/AppData/Roaming/Balatro/
+# !Users/19654/AppData/Roaming/bilibili/
+!Users/19654/AppData/Roaming/BioshockHD/
+# !Users/19654/AppData/Roaming/BitComet/
+!Users/19654/AppData/Roaming/Blazing_Chrome/
+!Users/19654/AppData/Roaming/Brotato/
+# !Users/19654/AppData/Roaming/BtLog/
+!Users/19654/AppData/Roaming/Castlevania Advance Collection/
+!Users/19654/AppData/Roaming/Castlevania Anniversary Collection/
+# !Users/19654/AppData/Roaming/clash_win/
+# !Users/19654/AppData/Roaming/Code/
+# !Users/19654/AppData/Roaming/ColorStreamLib/
+!Users/19654/AppData/Roaming/com.stateofplaygames.LuminoCity/
+!Users/19654/AppData/Roaming/Contra Anniversary Collection/
+# !Users/19654/AppData/Roaming/create-next-app-nodejs/
+!Users/19654/AppData/Roaming/Cuphead/
+!Users/19654/AppData/Roaming/DarkSoulsII/
+!Users/19654/AppData/Roaming/DarkSoulsIII/
+# !Users/19654/AppData/Roaming/Daum/
+# !Users/19654/AppData/Roaming/DingTalk/
+# !Users/19654/AppData/Roaming/douyin/
+# !Users/19654/AppData/Roaming/douyin_widget/
+# !Users/19654/AppData/Roaming/EasyAntiCheat/
+!Users/19654/AppData/Roaming/EldenRing/
+# !Users/19654/AppData/Roaming/Electron/
+!Users/19654/AppData/Roaming/Electronic Arts/
+!Users/19654/AppData/Roaming/emp.bin/
+!Users/19654/AppData/Roaming/FEZ/
+# !Users/19654/AppData/Roaming/FFNSGManager/
+!Users/19654/AppData/Roaming/Finding Paradise - Freebird Games/
+!Users/19654/AppData/Roaming/FLT/
+!Users/19654/AppData/Roaming/freebirdgames/
+!Users/19654/AppData/Roaming/Game/
+!Users/19654/AppData/Roaming/Goldberg SocialClub Emu Saves/
+!Users/19654/AppData/Roaming/Goldberg SteamEmu Saves/
+!Users/19654/AppData/Roaming/Gravity Circuit/
+!Users/19654/AppData/Roaming/GSE Saves/
+!Users/19654/AppData/Roaming/Guerrilla Games/
+!Users/19654/AppData/Roaming/Human Resource Machine/
+!Users/19654/AppData/Roaming/Insomniac Games/
+# !Users/19654/AppData/Roaming/JetBrains/
+!Users/19654/AppData/Roaming/Joymasher/
+# !Users/19654/AppData/Roaming/kingsoft/
+# !Users/19654/AppData/Roaming/Macromedia/
+!Users/19654/AppData/Roaming/MegaMan/
+!Users/19654/AppData/Roaming/MegaMan2/
+# !Users/19654/AppData/Roaming/mkxp/
+# !Users/19654/AppData/Roaming/MMFApplications/
+# !Users/19654/AppData/Roaming/mssdk/
+# !Users/19654/AppData/Roaming/mutekicorp/
+!Users/19654/AppData/Roaming/Naughty Dog/
+# !Users/19654/AppData/Roaming/Netease/
+# !Users/19654/AppData/Roaming/Notepad++/
+# !Users/19654/AppData/Roaming/npm/
+# !Users/19654/AppData/Roaming/NVIDIA/
+!Users/19654/AppData/Roaming/OKAMI HD/
+!Users/19654/AppData/Roaming/Oniken/
+# !Users/19654/AppData/Roaming/Oray/
+!Users/19654/AppData/Roaming/PlatinumGames/
+# !Users/19654/AppData/Roaming/PLogs/
+# !Users/19654/AppData/Roaming/PotPlayerMini64/
+# !Users/19654/AppData/Roaming/QQ/
+# !Users/19654/AppData/Roaming/qqgameshare/
+# !Users/19654/AppData/Roaming/RapidCRC/
+!Users/19654/AppData/Roaming/Red Dead Redemption/
+!Users/19654/AppData/Roaming/savedata/
+!Users/19654/AppData/Roaming/SEGA/
+!Users/19654/AppData/Roaming/Sekiro/
+# !Users/19654/AppData/Roaming/setting.json
+!Users/19654/AppData/Roaming/shadPS4/
+!Users/19654/AppData/Roaming/SquareEnix/
+!Users/19654/AppData/Roaming/StardewValley/
+!Users/19654/AppData/Roaming/Steam/
+# !Users/19654/AppData/Roaming/steelseries-gg-client/
+!Users/19654/AppData/Roaming/Street Fighter 30th Anniversary Collection International/
+!Users/19654/AppData/Roaming/Sucker Punch Productions/
+# !Users/19654/AppData/Roaming/Tencent/
+!Users/19654/AppData/Roaming/The Witcher 3/
+!Users/19654/AppData/Roaming/The Witness/
+# !Users/19654/AppData/Roaming/third_wpsdc/
+# !Users/19654/AppData/Roaming/thunder/
+# !Users/19654/AppData/Roaming/Thunder Network/
+!Users/19654/AppData/Roaming/To the Moon - Freebird Games/
+# !Users/19654/AppData/Roaming/TPDownloadProxy/
+# !Users/19654/AppData/Roaming/Typora/
+# !Users/19654/AppData/Roaming/utForpc/
+# !Users/19654/AppData/Roaming/Valve Corporation/
+# !Users/19654/AppData/Roaming/VoipNNModel/
+# !Users/19654/AppData/Roaming/wemeetapp/
+# !Users/19654/AppData/Roaming/WinRAR/
+# !Users/19654/AppData/Roaming/WXDrive/
+# !Users/19654/AppData/Roaming/xlgame/
+!Users/19654/AppData/Roaming/Yacht Club Games/
+# !Users/19654/AppData/Roaming/~SiMPLEX.ini
+
+!Users/19654/AppData/Roaming/.1911/**
+!Users/19654/AppData/Roaming/.madgarden/**
+!Users/19654/AppData/Roaming/3909/**
+!Users/19654/AppData/Roaming/7 Billion Humans/**
+# !Users/19654/AppData/Roaming/Adobe/**
+# !Users/19654/AppData/Roaming/aDrive/**
+!Users/19654/AppData/Roaming/Amanita-Design.CHUCHEL/**
+!Users/19654/AppData/Roaming/Amanita-Design.Machinarium/**
+!Users/19654/AppData/Roaming/Amanita-Design.Samorost3/**
+!Users/19654/AppData/Roaming/amanitadesign.samorost1/**
+!Users/19654/AppData/Roaming/amanitadesign.samorost3/**
+# !Users/19654/AppData/Roaming/AweSun/**
+!Users/19654/AppData/Roaming/Baba_Is_You/**
+# !Users/19654/AppData/Roaming/baidu/**
+# !Users/19654/AppData/Roaming/baidunetdisk/**
+# !Users/19654/AppData/Roaming/BaiduYunGuanjia/**
+# !Users/19654/AppData/Roaming/BaiduYunKernel/**
+!Users/19654/AppData/Roaming/Balatro/**
+# !Users/19654/AppData/Roaming/bilibili/**
+!Users/19654/AppData/Roaming/BioshockHD/**
+# !Users/19654/AppData/Roaming/BitComet/**
+!Users/19654/AppData/Roaming/Blazing_Chrome/**
+!Users/19654/AppData/Roaming/Brotato/**
+# !Users/19654/AppData/Roaming/BtLog/**
+!Users/19654/AppData/Roaming/Castlevania Advance Collection/**
+!Users/19654/AppData/Roaming/Castlevania Anniversary Collection/**
+# !Users/19654/AppData/Roaming/clash_win/**
+# !Users/19654/AppData/Roaming/Code/**
+# !Users/19654/AppData/Roaming/ColorStreamLib/**
+!Users/19654/AppData/Roaming/com.stateofplaygames.LuminoCity/**
+!Users/19654/AppData/Roaming/Contra Anniversary Collection/**
+# !Users/19654/AppData/Roaming/create-next-app-nodejs/**
+!Users/19654/AppData/Roaming/Cuphead/**
+!Users/19654/AppData/Roaming/DarkSoulsII/**
+!Users/19654/AppData/Roaming/DarkSoulsIII/**
+# !Users/19654/AppData/Roaming/Daum/**
+# !Users/19654/AppData/Roaming/DingTalk/**
+# !Users/19654/AppData/Roaming/douyin/**
+# !Users/19654/AppData/Roaming/douyin_widget/**
+# !Users/19654/AppData/Roaming/EasyAntiCheat/**
+!Users/19654/AppData/Roaming/EldenRing/**
+# !Users/19654/AppData/Roaming/Electron/**
+!Users/19654/AppData/Roaming/Electronic Arts/**
+!Users/19654/AppData/Roaming/emp.bin/**
+!Users/19654/AppData/Roaming/FEZ/**
+# !Users/19654/AppData/Roaming/FFNSGManager/**
+!Users/19654/AppData/Roaming/Finding Paradise - Freebird Games/**
+!Users/19654/AppData/Roaming/FLT/**
+!Users/19654/AppData/Roaming/freebirdgames/**
+!Users/19654/AppData/Roaming/Game/**
+!Users/19654/AppData/Roaming/Goldberg SocialClub Emu Saves/**
+!Users/19654/AppData/Roaming/Goldberg SteamEmu Saves/**
+!Users/19654/AppData/Roaming/Gravity Circuit/**
+!Users/19654/AppData/Roaming/GSE Saves/**
+!Users/19654/AppData/Roaming/Guerrilla Games/**
+!Users/19654/AppData/Roaming/Human Resource Machine/**
+!Users/19654/AppData/Roaming/Insomniac Games/**
+# !Users/19654/AppData/Roaming/JetBrains/**
+!Users/19654/AppData/Roaming/Joymasher/**
+# !Users/19654/AppData/Roaming/kingsoft/**
+# !Users/19654/AppData/Roaming/Macromedia/**
+!Users/19654/AppData/Roaming/MegaMan/**
+!Users/19654/AppData/Roaming/MegaMan2/**
+# !Users/19654/AppData/Roaming/mkxp/**
+# !Users/19654/AppData/Roaming/MMFApplications/**
+# !Users/19654/AppData/Roaming/mssdk/**
+# !Users/19654/AppData/Roaming/mutekicorp/**
+!Users/19654/AppData/Roaming/Naughty Dog/**
+# !Users/19654/AppData/Roaming/Netease/**
+# !Users/19654/AppData/Roaming/Notepad++/**
+# !Users/19654/AppData/Roaming/npm/**
+# !Users/19654/AppData/Roaming/NVIDIA/**
+!Users/19654/AppData/Roaming/OKAMI HD/**
+!Users/19654/AppData/Roaming/Oniken/**
+# !Users/19654/AppData/Roaming/Oray/**
+!Users/19654/AppData/Roaming/PlatinumGames/**
+# !Users/19654/AppData/Roaming/PLogs/**
+# !Users/19654/AppData/Roaming/PotPlayerMini64/**
+# !Users/19654/AppData/Roaming/QQ/**
+# !Users/19654/AppData/Roaming/qqgameshare/**
+# !Users/19654/AppData/Roaming/RapidCRC/**
+!Users/19654/AppData/Roaming/Red Dead Redemption/**
+!Users/19654/AppData/Roaming/savedata/**
+!Users/19654/AppData/Roaming/SEGA/**
+!Users/19654/AppData/Roaming/Sekiro/**
+# !Users/19654/AppData/Roaming/setting.json
+!Users/19654/AppData/Roaming/shadPS4/**
+!Users/19654/AppData/Roaming/SquareEnix/**
+!Users/19654/AppData/Roaming/StardewValley/**
+!Users/19654/AppData/Roaming/Steam/**
+# !Users/19654/AppData/Roaming/steelseries-gg-client/**
+!Users/19654/AppData/Roaming/Street Fighter 30th Anniversary Collection International/**
+!Users/19654/AppData/Roaming/Sucker Punch Productions/**
+# !Users/19654/AppData/Roaming/Tencent/**
+!Users/19654/AppData/Roaming/The Witcher 3/**
+!Users/19654/AppData/Roaming/The Witness/**
+# !Users/19654/AppData/Roaming/third_wpsdc/**
+# !Users/19654/AppData/Roaming/thunder/**
+# !Users/19654/AppData/Roaming/Thunder Network/**
+!Users/19654/AppData/Roaming/To the Moon - Freebird Games/**
+# !Users/19654/AppData/Roaming/TPDownloadProxy/**
+# !Users/19654/AppData/Roaming/Typora/**
+# !Users/19654/AppData/Roaming/utForpc/**
+# !Users/19654/AppData/Roaming/Valve Corporation/**
+# !Users/19654/AppData/Roaming/VoipNNModel/**
+# !Users/19654/AppData/Roaming/wemeetapp/**
+# !Users/19654/AppData/Roaming/WinRAR/**
+# !Users/19654/AppData/Roaming/WXDrive/**
+# !Users/19654/AppData/Roaming/xlgame/**
+!Users/19654/AppData/Roaming/Yacht Club Games/**
+# !Users/19654/AppData/Roaming/~SiMPLEX.ini
+
+
+# settings
+settings.txt
+settings.dat
+settings.ini
+settings.jkr
+settings.xml
+settings.sav
+settings.bin
+Settings.cfg
+Settings
+settings
+settings.json
+settings.1.json
+settings.2.json
+settings.3.json
+Settings.Nuts
+settings_v5.data
+settingssave.sav
+user.settings
+SettingsC.txt
+SettingsC.txt.tmp
+SystemData.sav
+GameUserSettings.ini
+pc_settings.bin
+dx12user.settings
+graphics-settings.txt
+input.settings
+profile.settings
+drawing_settings.ini
+ProfileSettings
+UserSettings.dat
+LocalSettings.Nuts
+CustomSettings.ini
+GFXSettingsConfig.ini
+EngineConsoleSettings.dat
+TengamiSettingData.bin
+settings.data
+LocalSettings.Split
+Settings.Split
+LavaPlayerSettings.ini
+DevilEditor.ini
+DevilEditorUserSettings.ini
+
+
+
+# config 
+config
+Config
+config.ini
+config.txt
+config.dat
+confighive.hive
+DOOMConfig.local
+DOOMEternalConfig.local
+DOOMConfig.cfg
+DOOMEternalConfig.cfg\
+Wolfenstein YoungbloodConfig.local
+Wolfenstein YoungbloodConfig.cfg
+wolftobConfig.cfg
+wolfConfig.cfg
+Wolfenstein II The New ColossusConfig.local
+Options.qdsav
+GraphicsConfig.xml
+GraphicsConfig.ini
+GraphicsConfig_SOFS.xml
+TPP_GRAPHICS_CONFIG
+MGSV_GZ_Local_Config_GL_EN0
+MGSV_GZ_Local_Config_GL_EN1
+QlocConfig.ini
+TPP_CONFIG_DATA
+TPP_CONFIG_DATA0
+TPP_CONFIG_DATA1
+localconfig.vdf
+pcconfig.dat
+live_config_data.save
+
+# options
+options.ini
+Options.qdsav
+options.sav
+options.xml
+Options.txt
+Options2.sav
+Options.rxdata
+SlotA.options
+GraphicsOptions.sav
+graphicsOptions.xml
+LocalOptions.txt
+ALCHEMYXSAVE_OPTIONS.sav
+
+
+Bioshock.ini
+
+# 最终幻想16着色器缓存
+ffxvi_b96bc3fb.psol
+
+# 最终幻想7-重生缓存
+D3DDriverByteCodeBlob_V4318_D9373_S318444642_R161.ushaderprecache
