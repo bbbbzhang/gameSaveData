@@ -2,12 +2,14 @@
 {
 	"Software"
 	{
-		"Valve"
+		"valve"
 		{
 			"Steam"
 			{
 				"CloudEnabled"		"0"
 				"SteamDefaultDialog"		"#app_games"
+				"StartMenuShortcutCheck"		"0"
+				"DesktopShortcutCheck"		"0"
 			}
 		}
 	}

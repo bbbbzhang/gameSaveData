@@ -1,130 +1,130 @@
-[2025-09-04 21:47:15.653] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\Launcher.exe
-[2025-09-04 21:47:15.693] [DISPLAY] [Main ] [dx12] Retrieving D3D12 graphics info
-[2025-09-04 21:47:16.179] [DISPLAY] [dkspa] [libutil_sysinfo] Drive C:\ has 305.37 GB free, 465.17 GB total
-[2025-09-04 21:47:16.179] [DISPLAY] [dkspa] [libutil_sysinfo] Drive D:\ has 86.46 GB free, 3.73 TB total
-[2025-09-04 21:47:16.179] [DISPLAY] [Main ] [launcher] Opening log file.
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -steamAppId=3240220 -steamLocation "D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced" @args.txt
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo] P4 Version: 
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo] RGL Branch: release_03
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo] Version:    1.0.103.2534
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo] Parameters:
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo]     -skipPatcherCheck
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo]     -steamAppId=3240220
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo]     -steamLocation
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo]     D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startupinfo]     @args.txt
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startup] Initial Working Directory: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced
-[2025-09-04 21:47:16.182] [DISPLAY] [Main ] [startup] Working directory: C:\Program Files\Rockstar Games\Launcher
-[2025-09-04 21:47:16.191] [DISPLAY] [Main ] [packfile] Initialize 'Launcher.rpf' - succeeded
-[2025-09-04 21:47:16.191] [DISPLAY] [Main ] [localisation] Language updated to: 12
-[2025-09-04 21:47:16.221] [DISPLAY] [Main ] [external] Creating Steam min mode launch
-[2025-09-04 21:47:16.223] [DISPLAY] [Main ] [external] Steam App Id: 3240220
-[2025-09-04 21:47:16.223] [DISPLAY] [Main ] [external] Steam Location: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced
-[2025-09-04 21:47:16.224] [DISPLAY] [Main ] [metadatamanager] Read external Steam metadata: gta5_gen9
-[2025-09-04 21:47:16.224] [DISPLAY] [Main ] [external] App: gta5_gen9
-[2025-09-04 21:47:16.231] [DISPLAY] [Main ] [environment] SetEnvironment: prod
-[2025-09-04 21:47:16.236] [DISPLAY] [Main ] [subsystem] Init phase 1
-[2025-09-04 21:47:16.237] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\RockstarService.exe
-[2025-09-04 21:47:16.363] [DISPLAY] [Main ] [svc] Service version: 1.0.103.2534 (1.0.103.2534)
-[2025-09-04 21:47:16.363] [DISPLAY] [Main ] [svc] Starting service (attempt 1 / 3)...
-[2025-09-04 21:47:16.373] [DISPLAY] [Main ] [titlestorage] Installed titles:
-[2025-09-04 21:47:16.373] [DISPLAY] [Main ] [titlestorage]  Title                             Progress               Version              Location                                                    
-[2025-09-04 21:47:16.386] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
-[2025-09-04 21:47:16.457] [DISPLAY] [Main ] [subsystem] Initializing group 0...
-[2025-09-04 21:47:16.457] [DISPLAY] [Main ] [subsystem] Init phase 2
-[2025-09-04 21:47:16.457] [DISPLAY] [Main ] [subsystem] Starting systems...
-[2025-09-04 21:47:16.518] [DISPLAY] [Main ] [steam_api] SetSteamLanguage(schinese) = 12
-[2025-09-04 21:47:16.518] [DISPLAY] [Main ] [minmode] Overriding language from external game launch: zh-CHS
-[2025-09-04 21:47:16.518] [DISPLAY] [Main ] [localisation] Language updated to: 12
-[2025-09-04 21:47:16.518] [DISPLAY] [Main ] [subsystem] Starting diag...
-[2025-09-04 21:47:16.518] [DISPLAY] [Main ] [fileutils] Checking local versions...
-[2025-09-04 21:47:16.518] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
-[2025-09-04 21:47:16.519] [DISPLAY] [Main ] [fileutils] Checking RGL version...
-[2025-09-04 21:47:16.519] [DISPLAY] [Main ] [fileutils] Version: 2.4.0.101 | 1.0.103.2534 | FFP
-[2025-09-04 21:47:16.519] [DISPLAY] [Main ] [subsystem] Starting net...
-[2025-09-04 21:47:16.528] [DISPLAY] [Main ] [subsystem] Assigning pools...
-[2025-09-04 21:47:16.528] [DISPLAY] [Main ] [subsystem] Initializing engine...
-[2025-09-04 21:47:16.529] [DISPLAY] [Main ] [subsystem] Initializing group 1...
-[2025-09-04 21:47:16.547] [DISPLAY] [Workr] [selfupdate] Up-to-date.
-[2025-09-04 21:47:16.722] [DISPLAY] [Main ] [systemtray] System tray: enabled
-[2025-09-04 21:47:16.736] [DISPLAY] [Main ] [launcher] Passed check: majorVersion(10.0.22631) >= 10
-[2025-09-04 21:47:17.113] [DISPLAY] [bgsvc] [svc] Received response from service.
-[2025-09-04 21:47:17.145] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
-[2025-09-04 21:47:18.184] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
-[2025-09-04 21:47:18.184] [DISPLAY] [Workr] [startup] Skipping DLL preload.
-[2025-09-04 21:47:18.184] [DISPLAY] [Workr] [titlemanager] Downloading title list...
-[2025-09-04 21:47:18.184] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
-[2025-09-04 21:47:18.184] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [services] Obtained NA-BAT
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [services] Parsed response from GetDefaultApps: 1 title(s), 1 branch(es)
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [titlemanager] Retrieved default title: launcher
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [titlemanager] Launcher tokens: BAT: false, NA-BAT: true
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [titlemanager] Title list updated.
-[2025-09-04 21:47:19.700] [DISPLAY] [Workr] [launcher] Checking for self-update...
-[2025-09-04 21:47:19.705] [DISPLAY] [Workr] [titleupdater] Doing chunk checks for launcher...
-[2025-09-04 21:47:19.956] [DISPLAY] [Workr] [titleupdater] Checked 61 chunk(s), 0 were empty, skipped 0 chunk(s) and 0 file(s)
-[2025-09-04 21:47:19.956] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
-[2025-09-04 21:47:19.960] [DISPLAY] [Workr] [launcher] No self-update, continuing.
-[2025-09-04 21:47:19.960] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
-[2025-09-04 21:47:19.960] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
-[2025-09-04 21:47:19.961] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\Redistributables\SocialClub\Social-Club-Setup.exe
-[2025-09-04 21:47:19.961] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.4.0.101)
-[2025-09-04 21:47:19.961] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
-[2025-09-04 21:47:19.961] [DISPLAY] [Workr] [launcher] Checking minimum SDK requirement
-[2025-09-04 21:47:19.961] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
-[2025-09-04 21:47:20.093] [DISPLAY] [Workr] [launcher] Completed Pre-initialization tasks
-[2025-09-04 21:47:20.095] [DISPLAY] [Main ] [subsystem] Init phase 3
-[2025-09-04 21:47:20.095] [DISPLAY] [Main ] [subsystem] RGL Offline Assets path: C:\Program Files\Rockstar Games\Launcher\offline.pak
-[2025-09-04 21:47:20.095] [DISPLAY] [Main ] [subsystem] Intializing connection manager.
-[2025-09-04 21:47:20.095] [DISPLAY] [Main ] [subsystem] Initializing RAGE networking.
-[2025-09-04 21:47:20.233] [DISPLAY] [Main ] [rline_pc] Thu Sep  4 21:47:20 2025
-[2025-09-04 21:47:20.233] [DISPLAY] [Main ] [rline_pc] File System Initialized
-[2025-09-04 21:47:20.234] [DISPLAY] [Main ] [rline_pc] Version Info: 2.4.0.101
-[2025-09-04 21:47:20.234] [DISPLAY] [Main ] [rline_pc] JSON Interface initialized
-[2025-09-04 21:47:20.234] [DISPLAY] [Main ] [rline_pc] Internet manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Social Club Data initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Metadata initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Achievement Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Player Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Gamer Pic Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Profile Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Presence Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Commerce Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Task Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Telemetry Manager initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Network interface initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Cloud Saves interface initialized
-[2025-09-04 21:47:20.242] [DISPLAY] [Main ] [rline_pc] Multi-Factor Authentication initialized
-[2025-09-04 21:47:20.243] [DISPLAY] [Main ] [rline_pc] Profanity filter initialized
-[2025-09-04 21:47:20.243] [DISPLAY] [Main ] [rline_pc] Game Intent Manager initialized
-[2025-09-04 21:47:20.243] [DISPLAY] [Main ] [rline_pc] Launcher interface initialized
-[2025-09-04 21:47:20.244] [DISPLAY] [Main ] [rline_pc] Game/Launcher IPC initialized: 0
-[2025-09-04 21:47:20.244] [DISPLAY] [Main ] [rline_pc] Validating CEF directory: C:\Program Files\Rockstar Games\Social Club\
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc] Validating Social Club dependency versions: 
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc]  Social Club DLL (C:\Program Files\Rockstar Games\Social Club\socialclub.dll) - 2.4.0.101
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc]  Social Club Helper (C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe) - 2.4.0.101
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc]  Vulkan Renderer Layer (C:\Program Files\Rockstar Games\Social Club\SocialClubVulkanLayer.dll) - 2.4.0.101
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc]  D3D12 Renderer DLL (C:\Program Files\Rockstar Games\Social Club\SocialClubD3D12Renderer.dll) - 2.4.0.101
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc]  Chromium Embedded Framework (C:\Program Files\Rockstar Games\Social Club\libcef.dll) - 109.1.18.0
-[2025-09-04 21:47:20.363] [DISPLAY] [Main ] [rline_pc]  RGSC-Query Version: 0.0.0-development
-[2025-09-04 21:47:20.367] [DISPLAY] [Main ] [rline_pc] SDK fully initialized
-[2025-09-04 21:47:20.368] [DISPLAY] [Main ] [rline_pc] Setting Social Club UI scaling to 1.00
-[2025-09-04 21:47:20.368] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAIT_BROWSER_WINDOW'
-[2025-09-04 21:47:20.369] [DISPLAY] [Main ] [subsystem] Initializing group 2...
-[2025-09-04 21:47:20.377] [DISPLAY] [Workr] [libutil_sysinfo] Drive C:\ has 305.37 GB free, 465.17 GB total
-[2025-09-04 21:47:20.377] [DISPLAY] [Workr] [libutil_sysinfo] Drive D:\ has 86.46 GB free, 3.73 TB total
-[2025-09-04 21:47:20.381] [DISPLAY] [Main ] [rline_pc] UpdateConnectionState :: Connection state changed from offline to online
-[2025-09-04 21:47:20.381] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_launcher_0
-[2025-09-04 21:47:20.429] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_5d74_channel_0 (remoteProcessId 3364)
-[2025-09-04 21:47:20.430] [DISPLAY] [Main ] [rline_pc] Browser subprocess running and connected
-[2025-09-04 21:47:20.601] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'LOADING'
-[2025-09-04 21:47:20.601] [DISPLAY] [Main ] [rline_pc] RgscUi::LoadUrl() called with url 'https://rgl.rockstargames.com/launcher'
-[2025-09-04 21:47:20.601] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_5d74_channel_1
-[2025-09-04 21:47:20.601] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAITING_FOR_PAGE_LOAD'
-[2025-09-04 21:47:20.984] [DISPLAY] [Workr] [dx12] Retrieving D3D12 graphics info
-[2025-09-04 21:47:21.082] [DISPLAY] [Workr] [sysinfo] System Configuration: 
+[2025-09-04 21:54:02.176] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2025-09-04 21:54:02.180] [DISPLAY] [Main ] [dx12] Retrieving D3D12 graphics info
+[2025-09-04 21:54:02.503] [DISPLAY] [dkspa] [libutil_sysinfo] Drive C:\ has 306.86 GB free, 465.17 GB total
+[2025-09-04 21:54:02.504] [DISPLAY] [dkspa] [libutil_sysinfo] Drive D:\ has 83.24 GB free, 3.73 TB total
+[2025-09-04 21:54:02.504] [DISPLAY] [Main ] [launcher] Opening log file.
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -steamAppId=110800 -steamLocation "D:\Games\StemLibrary\steamapps\common\L.A.Noire"  @args.txt
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo] P4 Version: 
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo] RGL Branch: release_03
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo] Version:    1.0.103.2534
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo] Parameters:
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo]     -skipPatcherCheck
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo]     -steamAppId=110800
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo]     -steamLocation
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo]     D:\Games\StemLibrary\steamapps\common\L.A.Noire
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startupinfo]     @args.txt
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startup] Initial Working Directory: D:\Games\StemLibrary\steamapps\common\L.A.Noire
+[2025-09-04 21:54:02.506] [DISPLAY] [Main ] [startup] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2025-09-04 21:54:02.510] [DISPLAY] [Main ] [packfile] Initialize 'Launcher.rpf' - succeeded
+[2025-09-04 21:54:02.510] [DISPLAY] [Main ] [localisation] Language updated to: 12
+[2025-09-04 21:54:02.543] [DISPLAY] [Main ] [external] Creating Steam min mode launch
+[2025-09-04 21:54:02.543] [DISPLAY] [Main ] [external] Steam App Id: 110800
+[2025-09-04 21:54:02.543] [DISPLAY] [Main ] [external] Steam Location: D:\Games\StemLibrary\steamapps\common\L.A.Noire
+[2025-09-04 21:54:02.543] [DISPLAY] [Main ] [metadatamanager] Read external Steam metadata: lanoire
+[2025-09-04 21:54:02.543] [DISPLAY] [Main ] [external] App: lanoire
+[2025-09-04 21:54:02.551] [DISPLAY] [Main ] [environment] SetEnvironment: prod
+[2025-09-04 21:54:02.560] [DISPLAY] [Main ] [subsystem] Init phase 1
+[2025-09-04 21:54:02.560] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\RockstarService.exe
+[2025-09-04 21:54:02.560] [DISPLAY] [Main ] [svc] Service version: 1.0.103.2534 (1.0.103.2534)
+[2025-09-04 21:54:02.560] [DISPLAY] [Main ] [svc] Starting service (attempt 1 / 3)...
+[2025-09-04 21:54:02.564] [DISPLAY] [Main ] [titlestorage] Installed titles:
+[2025-09-04 21:54:02.564] [DISPLAY] [Main ] [titlestorage]  Title                             Progress               Version              Location                                                    
+[2025-09-04 21:54:02.573] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-09-04 21:54:02.575] [DISPLAY] [Main ] [subsystem] Initializing group 0...
+[2025-09-04 21:54:02.575] [DISPLAY] [Main ] [subsystem] Init phase 2
+[2025-09-04 21:54:02.575] [DISPLAY] [Main ] [subsystem] Starting systems...
+[2025-09-04 21:54:02.660] [DISPLAY] [Main ] [steam_api] SetSteamLanguage(schinese) = 12
+[2025-09-04 21:54:02.660] [DISPLAY] [Main ] [minmode] Overriding language from external game launch: zh-CHS
+[2025-09-04 21:54:02.660] [DISPLAY] [Main ] [localisation] Language updated to: 12
+[2025-09-04 21:54:02.660] [DISPLAY] [Main ] [subsystem] Starting diag...
+[2025-09-04 21:54:02.660] [DISPLAY] [Main ] [fileutils] Checking local versions...
+[2025-09-04 21:54:02.660] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-09-04 21:54:02.661] [DISPLAY] [Main ] [fileutils] Checking RGL version...
+[2025-09-04 21:54:02.661] [DISPLAY] [Main ] [fileutils] Version: 2.4.0.101 | 1.0.103.2534 | FFP
+[2025-09-04 21:54:02.661] [DISPLAY] [Main ] [subsystem] Starting net...
+[2025-09-04 21:54:02.668] [DISPLAY] [Main ] [subsystem] Assigning pools...
+[2025-09-04 21:54:02.668] [DISPLAY] [Main ] [subsystem] Initializing engine...
+[2025-09-04 21:54:02.669] [DISPLAY] [Main ] [subsystem] Initializing group 1...
+[2025-09-04 21:54:02.679] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2025-09-04 21:54:02.851] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2025-09-04 21:54:02.859] [DISPLAY] [Main ] [launcher] Passed check: majorVersion(10.0.22631) >= 10
+[2025-09-04 21:54:03.003] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2025-09-04 21:54:03.049] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2025-09-04 21:54:04.305] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2025-09-04 21:54:04.305] [DISPLAY] [Workr] [startup] Skipping DLL preload.
+[2025-09-04 21:54:04.305] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2025-09-04 21:54:04.305] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2025-09-04 21:54:04.306] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [services] Obtained NA-BAT
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [services] Parsed response from GetDefaultApps: 1 title(s), 1 branch(es)
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [titlemanager] Retrieved default title: launcher
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [titlemanager] Launcher tokens: BAT: false, NA-BAT: true
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2025-09-04 21:54:13.071] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2025-09-04 21:54:13.079] [DISPLAY] [Workr] [titleupdater] Doing chunk checks for launcher...
+[2025-09-04 21:54:13.096] [DISPLAY] [Workr] [titleupdater] Checked 61 chunk(s), 0 were empty, skipped 0 chunk(s) and 0 file(s)
+[2025-09-04 21:54:13.099] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2025-09-04 21:54:13.103] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2025-09-04 21:54:13.103] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2025-09-04 21:54:13.103] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-09-04 21:54:13.104] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Launcher\Redistributables\SocialClub\Social-Club-Setup.exe
+[2025-09-04 21:54:13.106] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.4.0.101)
+[2025-09-04 21:54:13.106] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2025-09-04 21:54:13.106] [DISPLAY] [Workr] [launcher] Checking minimum SDK requirement
+[2025-09-04 21:54:13.106] [DISPLAY] [Workr] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-09-04 21:54:13.108] [DISPLAY] [Workr] [launcher] Completed Pre-initialization tasks
+[2025-09-04 21:54:13.121] [DISPLAY] [Main ] [subsystem] Init phase 3
+[2025-09-04 21:54:13.121] [DISPLAY] [Main ] [subsystem] RGL Offline Assets path: C:\Program Files\Rockstar Games\Launcher\offline.pak
+[2025-09-04 21:54:13.121] [DISPLAY] [Main ] [subsystem] Intializing connection manager.
+[2025-09-04 21:54:13.121] [DISPLAY] [Main ] [subsystem] Initializing RAGE networking.
+[2025-09-04 21:54:13.179] [DISPLAY] [Main ] [rline_pc] Thu Sep  4 21:54:13 2025
+[2025-09-04 21:54:13.179] [DISPLAY] [Main ] [rline_pc] File System Initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Version Info: 2.4.0.101
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] JSON Interface initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Internet manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Social Club Data initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Metadata initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Achievement Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Player Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Gamer Pic Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Profile Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Presence Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Commerce Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Task Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Telemetry Manager initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Network interface initialized
+[2025-09-04 21:54:13.180] [DISPLAY] [Main ] [rline_pc] Cloud Saves interface initialized
+[2025-09-04 21:54:13.181] [DISPLAY] [Main ] [rline_pc] Multi-Factor Authentication initialized
+[2025-09-04 21:54:13.181] [DISPLAY] [Main ] [rline_pc] Profanity filter initialized
+[2025-09-04 21:54:13.181] [DISPLAY] [Main ] [rline_pc] Game Intent Manager initialized
+[2025-09-04 21:54:13.181] [DISPLAY] [Main ] [rline_pc] Launcher interface initialized
+[2025-09-04 21:54:13.182] [DISPLAY] [Main ] [rline_pc] Game/Launcher IPC initialized: 0
+[2025-09-04 21:54:13.182] [DISPLAY] [Main ] [rline_pc] Validating CEF directory: C:\Program Files\Rockstar Games\Social Club\
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc] Validating Social Club dependency versions: 
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc]  Social Club DLL (C:\Program Files\Rockstar Games\Social Club\socialclub.dll) - 2.4.0.101
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc]  Social Club Helper (C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe) - 2.4.0.101
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc]  Vulkan Renderer Layer (C:\Program Files\Rockstar Games\Social Club\SocialClubVulkanLayer.dll) - 2.4.0.101
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc]  D3D12 Renderer DLL (C:\Program Files\Rockstar Games\Social Club\SocialClubD3D12Renderer.dll) - 2.4.0.101
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc]  Chromium Embedded Framework (C:\Program Files\Rockstar Games\Social Club\libcef.dll) - 109.1.18.0
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc]  RGSC-Query Version: 0.0.0-development
+[2025-09-04 21:54:13.186] [DISPLAY] [Main ] [rline_pc] SDK fully initialized
+[2025-09-04 21:54:13.187] [DISPLAY] [Main ] [rline_pc] Setting Social Club UI scaling to 1.00
+[2025-09-04 21:54:13.187] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAIT_BROWSER_WINDOW'
+[2025-09-04 21:54:13.187] [DISPLAY] [Main ] [subsystem] Initializing group 2...
+[2025-09-04 21:54:13.195] [DISPLAY] [Workr] [libutil_sysinfo] Drive C:\ has 306.86 GB free, 465.17 GB total
+[2025-09-04 21:54:13.195] [DISPLAY] [Workr] [libutil_sysinfo] Drive D:\ has 83.24 GB free, 3.73 TB total
+[2025-09-04 21:54:13.199] [DISPLAY] [Main ] [rline_pc] UpdateConnectionState :: Connection state changed from offline to online
+[2025-09-04 21:54:13.199] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_launcher_0
+[2025-09-04 21:54:13.226] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_0 (remoteProcessId 22688)
+[2025-09-04 21:54:13.227] [DISPLAY] [Main ] [rline_pc] Browser subprocess running and connected
+[2025-09-04 21:54:13.288] [DISPLAY] [Workr] [dx12] Retrieving D3D12 graphics info
+[2025-09-04 21:54:13.380] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'LOADING'
+[2025-09-04 21:54:13.380] [DISPLAY] [Main ] [rline_pc] RgscUi::LoadUrl() called with url 'https://rgl.rockstargames.com/launcher'
+[2025-09-04 21:54:13.380] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_2bcc_channel_1
+[2025-09-04 21:54:13.380] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAITING_FOR_PAGE_LOAD'
+[2025-09-04 21:54:13.438] [DISPLAY] [Workr] [sysinfo] System Configuration: 
  CPU Info:
   ID: Intel64 Family 6 Model 141 Stepping 1
   Name: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
@@ -136,12 +136,12 @@
 
  Disk 0 (C:\)
   Disk Type: NVMe
-  Bytes Free: 327893479424
+  Bytes Free: 329489833984
   Bytes Total: 499475054592
 
  Disk 1 (D:\)
   Disk Type: NVMe
-  Bytes Free: 92836368384
+  Bytes Free: 89380237312
   Bytes Total: 4096797061120
 
 Memory Info:
@@ -152,221 +152,124 @@ Memory Info:
   Description: NVIDIA GeForce RTX 3070 Laptop GPU
   Capacity (Bytes): 8409579520
   Display Capacity: 8.0 GB
-[2025-09-04 21:47:22.843] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_5d74_channel_1 (remoteProcessId 4892)
-[2025-09-04 21:47:22.945] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAITING_FOR_PAGE_READY'
-[2025-09-04 21:47:22.945] [DISPLAY] [Main ] [launcher] Social Club UI has started.
-[2025-09-04 21:47:22.945] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
-[2025-09-04 21:47:22.945] [DISPLAY] [Admin] [external] Setting up steam title: gta5_gen9
-[2025-09-04 21:47:22.946] [DISPLAY] [Admin] [external] Successfully setup title
-[2025-09-04 21:47:22.961] [DISPLAY] [Main ] [rline_pc] Handling action 'ScuiVersion' [EventId: 4]
-[2025-09-04 21:47:22.961] [DISPLAY] [Main ] [external] Client is ready to attempt a launch.
-[2025-09-04 21:47:22.961] [DISPLAY] [Main ] [external] Frontend is ready to launch the title
-[2025-09-04 21:47:23.029] [DISPLAY] [Main ] [rline_pc] Handling action 'Geo' [EventId: 4]
-[2025-09-04 21:47:23.029] [DISPLAY] [Main ] [rline_pc] Handling action 'ExternIP' [EventId: 4]
-[2025-09-04 21:47:23.063] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'PAGE_READY'
-[2025-09-04 21:47:23.063] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'START_SIGN_IN'
-[2025-09-04 21:47:23.080] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'FINISHED'
-[2025-09-04 21:47:23.080] [DISPLAY] [Main ] [rline_pc] Finished loading Social Club UI
-[2025-09-04 21:47:23.080] [DISPLAY] [Main ] [launcher] Time to start up: 7464 ms
-[2025-09-04 21:47:23.085] [DISPLAY] [Main ] [systemtray] System tray: enabled
-[2025-09-04 21:47:23.119] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetContext: Invalid -> Auth
-[2025-09-04 21:47:23.119] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Invalid -> WaitForBrowser
-[2025-09-04 21:47:23.149] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
-[2025-09-04 21:47:25.399] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_5d74_channel_2
-[2025-09-04 21:47:25.415] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_5d74_channel_2 (remoteProcessId 12596)
-[2025-09-04 21:47:43.164] [DISPLAY] [Main ] [ui_window_controller] OnScAuthError with fatal error invoked
-[2025-09-04 21:47:43.164] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> FatalError
-[2025-09-04 21:47:43.164] [ ERROR ] [Main ] [ui_window_controller] Handling error in window controller
-[2025-09-04 21:47:43.164] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: FatalError -> HandlingFatalError
-[2025-09-04 21:47:43.222] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_5d74_channel_2
-[2025-09-04 21:48:04.169] [DISPLAY] [Main ] [ui_window_controller] User selected retry - reloading window
-[2025-09-04 21:48:04.169] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: HandlingFatalError -> WaitForBrowser
-[2025-09-04 21:48:04.186] [DISPLAY] [Main ] [ui_window_controller] OnScAuthError with fatal error invoked
-[2025-09-04 21:48:04.186] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> FatalError
-[2025-09-04 21:48:04.186] [ ERROR ] [Main ] [ui_window_controller] Handling error in window controller
-[2025-09-04 21:48:04.186] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: FatalError -> HandlingFatalError
-[2025-09-04 21:48:04.597] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_5d74_channel_3
-[2025-09-04 21:48:04.614] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_5d74_channel_3 (remoteProcessId 20760)
-[2025-09-04 21:48:05.210] [DISPLAY] [Main ] [ui_window_controller] User selected retry - reloading window
-[2025-09-04 21:48:05.210] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: HandlingFatalError -> WaitForBrowser
-[2025-09-04 21:48:05.227] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
-[2025-09-04 21:48:24.209] [DISPLAY] [Main ] [ui_window_controller] OnScAuthError with fatal error invoked
-[2025-09-04 21:48:24.209] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> FatalError
-[2025-09-04 21:48:24.209] [ ERROR ] [Main ] [ui_window_controller] Handling error in window controller
-[2025-09-04 21:48:24.234] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: FatalError -> HandlingFatalError
-[2025-09-04 21:48:24.261] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_5d74_channel_3
-[2025-09-04 21:48:26.652] [DISPLAY] [Main ] [ui_window_controller] User selected retry - reloading window
-[2025-09-04 21:48:26.652] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: HandlingFatalError -> WaitForBrowser
-[2025-09-04 21:48:26.669] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
-[2025-09-04 21:48:27.733] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_5d74_channel_4
-[2025-09-04 21:48:27.750] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_5d74_channel_4 (remoteProcessId 7256)
-[2025-09-04 21:48:28.544] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
-[2025-09-04 21:48:29.163] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_5d74_channel_5
-[2025-09-04 21:48:29.180] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_5d74_channel_5 (remoteProcessId 7256)
-[2025-09-04 21:48:29.180] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_5d74_channel_4
-[2025-09-04 21:48:29.855] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Active -> WaitForBrowser
-[2025-09-04 21:48:29.855] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
-[2025-09-04 21:48:33.123] [DISPLAY] [Main ] [rline_pc] Queue download of profile avatar
-[2025-09-04 21:48:33.166] [DISPLAY] [Main ] [rline_pc] Saved profile for BBBBZHANG
-[2025-09-04 21:48:33.166] [DISPLAY] [Main ] [rline_pc] Syncing friends.
-[2025-09-04 21:48:33.166] [DISPLAY] [Main ] [rline_pc] Syncing privacy settings.
-[2025-09-04 21:48:35.481] [DISPLAY] [Main ] [rline_pc] Signed in online to profile: BBBBZHANG
-[2025-09-04 21:48:35.481] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetContext: Auth -> MainWindow
-[2025-09-04 21:48:35.481] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> WaitForBrowser
-[2025-09-04 21:48:35.499] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 144,144
-[2025-09-04 21:48:35.499] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.50
-[2025-09-04 21:48:35.500] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 860,215 (1536 x 900)
-[2025-09-04 21:48:35.564] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
-[2025-09-04 21:48:35.564] [DISPLAY] [Main ] [launcher] User 'BBBBZHANG' is now signed in
-[2025-09-04 21:48:35.589] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
-[2025-09-04 21:48:35.589] [DISPLAY] [Admin] [titlemanager] Downloading title list...
-[2025-09-04 21:48:35.591] [DISPLAY] [Main ] [rline_pc] Handling action 'EnableDownloading' [EventId: 2]
-[2025-09-04 21:48:35.591] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
-[2025-09-04 21:48:35.592] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
-[2025-09-04 21:48:35.592] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
-[2025-09-04 21:48:35.599] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
-[2025-09-04 21:48:35.885] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [rline_pc] Handling action 'UpdateSetting' [EventId: 2]
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [scuicallbacks] Setting updated by frontend
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [rline_pc] Handling action 'Launch' [EventId: 2]
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [scuicallbacks] Launch requested: gta5_gen9, , 
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: gta5_gen9, default
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [external] Frontend is ready to launch the title
-[2025-09-04 21:48:36.004] [DISPLAY] [Main ] [external] Attempting external title launch...
-[2025-09-04 21:48:38.852] [DISPLAY] [Main ] [services] Parsed response from GetApps: 22 title(s), 4 branch(es)
-[2025-09-04 21:48:38.860] [DISPLAY] [Admin] [titlemanager] Title list updated.
-[2025-09-04 21:48:38.861] [DISPLAY] [Admin] [external] Attempting Steam launch. User is 'CLOUD'
-[2025-09-04 21:48:38.877] [DISPLAY] [Main ] [gamelaunch] Begin game launch: gta5_gen9
-[2025-09-04 21:48:38.877] [DISPLAY] [Main ] [gamelaunch] Flags: 11
-[2025-09-04 21:48:38.877] [DISPLAY] [Main ] [gamelaunch] Path: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced
-[2025-09-04 21:48:38.882] [DISPLAY] [Main ] [telemetrymanager] Secondary platform is set to: 2
-[2025-09-04 21:48:38.882] [DISPLAY] [22304] [gamelaunch] Launch Folder: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced
-[2025-09-04 21:48:38.882] [DISPLAY] [22304] [gamelaunch] Launch Path: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced\GTA5_Enhanced.exe
-[2025-09-04 21:48:38.937] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_5d74_channel_5
-[2025-09-04 21:48:39.027] [DISPLAY] [22304] [fileutils] Checking version: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced\GTA5_Enhanced.exe
-[2025-09-04 21:48:39.032] [DISPLAY] [22304] [gamelaunch] RGL is up to date (current: 1.0.103.2534, minimum: 1.0.101.2370)
-[2025-09-04 21:48:39.032] [DISPLAY] [22304] [fileutils] Checking version: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced\GTA5_Enhanced.exe
-[2025-09-04 21:48:39.033] [DISPLAY] [22304] [gamelaunch] Grand Theft Auto V Enhanced is up to date (current: 1.0.889.22, minimum: 1.0.812.5)
-[2025-09-04 21:48:39.033] [DISPLAY] [22304] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
-[2025-09-04 21:48:43.331] [DISPLAY] [Admin] [titlemanager] Downloading title list...
-[2025-09-04 21:48:43.331] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
-[2025-09-04 21:48:45.750] [DISPLAY] [Main ] [services] Parsed response from GetApps: 22 title(s), 4 branch(es)
-[2025-09-04 21:48:45.774] [DISPLAY] [Admin] [titlemanager] Title list updated.
-[2025-09-04 21:48:49.925] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for app 'gta5_gen9'
-[2025-09-04 21:48:49.942] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for app 'gta5_gen9'
-[2025-09-04 21:48:49.950] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for app 'gta5_gen9' = enabled
-[2025-09-04 21:48:49.950] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for app 'gta5_gen9'
-[2025-09-04 21:48:49.951] [DISPLAY] [Main ] [rline_pc] Identifying conflicts
-[2025-09-04 21:48:51.498] [DISPLAY] [Main ] [rline_pc] Handling action 'Minimize' [EventId: 1]
-[2025-09-04 21:48:51.498] [DISPLAY] [Main ] [rline_pc] Minimize requested via the scui
-[2025-09-04 21:48:51.498] [DISPLAY] [Main ] [scuicallbacks] Minimize requested
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SGTA50000'
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1742883392) matches the results from the server's (1742883392)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1742883392) matches the results from the server (1742883392)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's file version (0) matches the file version of the server (0)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's file size (562088) matches the file size of the server (562088)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SGTA50000' - Conflict State: 0
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SGTA50015'
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1751874329) matches the results from the server's (1751874329)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1751874329) matches the results from the server (1751874329)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's file version (7) matches the file version of the server (7)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] The local file's file size (567304) matches the file size of the server (567304)
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SGTA50015' - Conflict State: 0
-[2025-09-04 21:48:53.578] [DISPLAY] [Main ] [rline_pc] Identifying conflicts completed with success (0 total conflicts) (code: 0)
-[2025-09-04 21:48:53.594] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'gta5_gen9'
-[2025-09-04 21:48:53.594] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for app 'gta5_gen9'
-[2025-09-04 21:48:53.611] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for app 'gta5_gen9'
-[2025-09-04 21:48:53.611] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for app 'gta5_gen9'
-[2025-09-04 21:48:53.611] [DISPLAY] [Main ] [rline_pc] Uploading files to the cloud.
-[2025-09-04 21:48:53.611] [DISPLAY] [Main ] [rline_pc] Uploading files completed with success (0 files uploaded) (code: 0)
-[2025-09-04 21:48:53.628] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for app 'gta5_gen9'
-[2025-09-04 21:48:53.628] [DISPLAY] [Main ] [cloudsaveop] Getting update files for app 'gta5_gen9'
-[2025-09-04 21:48:53.628] [DISPLAY] [Main ] [rline_pc] Downloading files from the cloud.
-[2025-09-04 21:48:53.628] [DISPLAY] [Main ] [rline_pc] Downloading files completed with success (0 files downloaded) (code: 0)
-[2025-09-04 21:48:53.645] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for app 'gta5_gen9'
-[2025-09-04 21:48:53.645] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for app 'gta5_gen9'
-[2025-09-04 21:48:53.645] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files
-[2025-09-04 21:48:53.645] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files completed with success (0 files deleted) (code: 0)
-[2025-09-04 21:48:53.662] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for app 'gta5_gen9'
-[2025-09-04 21:48:53.662] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for app 'gta5_gen9'
-[2025-09-04 21:48:53.662] [DISPLAY] [Main ] [rline_pc] Merging cloud files on disk.
-[2025-09-04 21:48:53.662] [DISPLAY] [Main ] [rline_pc] Merging cloud files completed with success (0 files merged) (code: 0)
-[2025-09-04 21:48:53.679] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for app 'gta5_gen9'
-[2025-09-04 21:48:54.070] [DISPLAY] [net3 ] [audio] Valid Audio Device: true
-[2025-09-04 21:48:57.371] [DISPLAY] [22304] [gamelaunch] Launching game...
-[2025-09-04 21:48:57.371] [DISPLAY] [22304] [gamelaunch]  Path: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced\GTA5_Enhanced_BE.exe
-[2025-09-04 21:48:57.371] [DISPLAY] [22304] [gamelaunch]  Command Line: "D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced\GTA5_Enhanced_BE.exe" -skipPatcherCheck -steamLocation "D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced" @args.txt -enableCrashpad -useSteam -steamAppId=3240220 -scCommerceProvider=4 @commandline.txt -fromRGL -scDiscordClientId=1329870933695135785 -rglLanguage=zh-CHS
-[2025-09-04 21:48:57.371] [DISPLAY] [22304] [gamelaunch]  Working Directory: D:\Games\StemLibrary\steamapps\common\Grand Theft Auto V Enhanced
-[2025-09-04 21:49:57.927] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_gameinst_0 (remoteProcessId 1348)
-[2025-09-04 21:50:52.871] [DISPLAY] [Main ] [rline_pc] Handling action 'Minimize' [EventId: 1]
-[2025-09-04 21:50:52.871] [DISPLAY] [Main ] [rline_pc] Minimize requested via the scui
-[2025-09-04 21:50:52.871] [DISPLAY] [Main ] [scuicallbacks] Minimize requested
-[2025-09-04 21:51:02.943] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: 正在游玩故事模式
-[2025-09-04 21:53:31.747] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_gameinst_0
-[2025-09-04 21:53:31.764] [DISPLAY] [Main ] [rline_pc] Closing remote browser window: 2
-[2025-09-04 21:53:31.764] [DISPLAY] [Main ] [rline_pc] SetRichPresenceText: 
-[2025-09-04 21:53:36.593] [WARNING] [22304] [gamelaunch] No game or BattlEye window exists for game tracking.
-[2025-09-04 21:53:36.593] [DISPLAY] [22304] [gamelaunch] Game exited with code 0x0 (0)
-[2025-09-04 21:53:36.621] [DISPLAY] [22304] [crashdetection] Game left no exit file.
-[2025-09-04 21:53:36.621] [DISPLAY] [22304] [crashdetection] Exit code 0x0 indicates a clean game shutdown
-[2025-09-04 21:53:36.635] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for app 'gta5_gen9'
-[2025-09-04 21:53:36.652] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for app 'gta5_gen9'
-[2025-09-04 21:53:36.652] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for app 'gta5_gen9' = enabled
-[2025-09-04 21:53:36.652] [DISPLAY] [Main ] [cloudsaveop] Identifying potential cloud save conflicts for app 'gta5_gen9'
-[2025-09-04 21:53:36.652] [DISPLAY] [Main ] [rline_pc] Identifying conflicts
-[2025-09-04 21:53:43.540] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2025-09-04 21:53:43.540] [DISPLAY] [Main ] [gamepipemtl] Command 4 received, 3 param(s).
-[2025-09-04 21:53:43.540] [DISPLAY] [Main ] [gamepipemtl] Param 1: 110800
-[2025-09-04 21:53:43.540] [DISPLAY] [Main ] [gamepipemtl] Param 2: D:\Games\StemLibrary\steamapps\common\L.A.Noire
-[2025-09-04 21:53:43.540] [DISPLAY] [Main ] [gamepipemtl] Param 3: LXNraXBQYXRjaGVyQ2hlY2sgLXN0ZWFtQXBwSWQ9MTEwODAwIC1zdGVhbUxvY2F0aW9uIEQ6XEdhbWVzXFN0ZW1MaWJyYXJ5XHN0ZWFtYXBwc1xjb21tb25cTC5BLk5vaXJlIEBhcmdzLnR4dA==
-[2025-09-04 21:53:43.540] [DISPLAY] [Main ] [gamepipemtl] Unable to process Steam Launch request. An external title launch is already in process
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SGTA50000'
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1742883392) matches the results from the server's (1742883392)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1742883392) matches the results from the server (1742883392)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's file version (0) matches the file version of the server (0)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's file size (562088) matches the file size of the server (562088)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SGTA50000' - Conflict State: 0
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] Resolving cloud file: 'SGTA50015'
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's file was not registered for upload.
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file had a client last modified date (1751874329) matches the results from the server's (1751874329)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's server last modified time (1751874329) matches the results from the server (1751874329)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's file version (7) matches the file version of the server (7)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] The local file's file size (567304) matches the file size of the server (567304)
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] Cloud File: 'SGTA50015' - Conflict State: 0
-[2025-09-04 21:53:45.550] [DISPLAY] [Main ] [rline_pc] Identifying conflicts completed with success (0 total conflicts) (code: 0)
-[2025-09-04 21:53:45.567] [DISPLAY] [Main ] [cloudsaveop] Received modification list of cloud save files for title 'gta5_gen9'
-[2025-09-04 21:53:45.567] [DISPLAY] [Main ] [cloudsaveop] Retrieving conflict metadata for app 'gta5_gen9'
-[2025-09-04 21:53:45.584] [DISPLAY] [Main ] [cloudsaveop] Downloaded conflict metadata for app 'gta5_gen9'
-[2025-09-04 21:53:45.584] [DISPLAY] [Main ] [cloudsaveop] Posting updated files for app 'gta5_gen9'
-[2025-09-04 21:53:45.584] [DISPLAY] [Main ] [rline_pc] Uploading files to the cloud.
-[2025-09-04 21:53:45.584] [DISPLAY] [Main ] [rline_pc] Uploading files completed with success (0 files uploaded) (code: 0)
-[2025-09-04 21:53:45.600] [DISPLAY] [Main ] [cloudsaveop] File uploading completed for app 'gta5_gen9'
-[2025-09-04 21:53:45.600] [DISPLAY] [Main ] [cloudsaveop] Getting update files for app 'gta5_gen9'
-[2025-09-04 21:53:45.600] [DISPLAY] [Main ] [rline_pc] Downloading files from the cloud.
-[2025-09-04 21:53:45.600] [DISPLAY] [Main ] [rline_pc] Downloading files completed with success (0 files downloaded) (code: 0)
-[2025-09-04 21:53:45.617] [DISPLAY] [Main ] [cloudsaveop] File downloading completed for app 'gta5_gen9'
-[2025-09-04 21:53:45.617] [DISPLAY] [Main ] [cloudsaveop] Deleting updated files for app 'gta5_gen9'
-[2025-09-04 21:53:45.617] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files
-[2025-09-04 21:53:45.617] [DISPLAY] [Main ] [rline_pc] Deleting unregistered cloud files completed with success (0 files deleted) (code: 0)
-[2025-09-04 21:53:45.634] [DISPLAY] [Main ] [cloudsaveop] Files deletion completed for app 'gta5_gen9'
-[2025-09-04 21:53:45.634] [DISPLAY] [Main ] [cloudsaveop] Swapping updated files in place for app 'gta5_gen9'
-[2025-09-04 21:53:45.634] [DISPLAY] [Main ] [rline_pc] Merging cloud files on disk.
-[2025-09-04 21:53:45.634] [DISPLAY] [Main ] [rline_pc] Merging cloud files completed with success (0 files merged) (code: 0)
-[2025-09-04 21:53:45.651] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for app 'gta5_gen9'
-[2025-09-04 21:53:47.423] [DISPLAY] [22304] [launcher] Shutdown requested! Forced: false
-[2025-09-04 21:53:47.424] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
-[2025-09-04 21:53:47.565] [DISPLAY] [Main ] [svc] Stopping the background service.
-[2025-09-04 21:53:47.565] [WARNING] [Main ] [worker] Not adding job (15) due to thread exiting
-[2025-09-04 21:53:47.582] [WARNING] [Main ] [worker] Not adding job (5) due to thread exiting
-[2025-09-04 21:53:47.587] [WARNING] [bgsvc] [svc_transactionqueue] Rejecting transaction.
-[2025-09-04 21:53:52.473] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
-[2025-09-04 21:53:52.473] [DISPLAY] [Main ] [gamepipemtl] Command 4 received, 3 param(s).
-[2025-09-04 21:53:52.473] [DISPLAY] [Main ] [gamepipemtl] Param 1: 204100
-[2025-09-04 21:53:52.473] [DISPLAY] [Main ] [gamepipemtl] Param 2: D:\Games\StemLibrary\steamapps\common\Max Payne 3\Max Payne 3
-[2025-09-04 21:53:52.473] [DISPLAY] [Main ] [gamepipemtl] Param 3: LXNraXBQYXRjaGVyQ2hlY2sgLXN0ZWFtQXBwSWQ9MjA0MTAwIC1zdGVhbUxvY2F0aW9uICJEOlxHYW1lc1xTdGVtTGlicmFyeVxzdGVhbWFwcHNcY29tbW9uXE1heCBQYXluZSAzXE1heCBQYXluZSAzIiBAYXJncy50eHQ=
-[2025-09-04 21:53:52.473] [WARNING] [Main ] [external] Ignoring steam Launch Request - Launcher shutdown in process
-[2025-09-04 21:53:57.574] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
-[2025-09-04 21:53:57.612] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2025-09-04 21:54:16.892] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_1 (remoteProcessId 18268)
+[2025-09-04 21:54:16.926] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2025-09-04 21:54:16.926] [DISPLAY] [Main ] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-09-04 21:54:16.927] [DISPLAY] [Admin] [external] Setting up steam title: lanoire
+[2025-09-04 21:54:16.927] [DISPLAY] [Admin] [external] Successfully setup title
+[2025-09-04 21:54:16.943] [DISPLAY] [Main ] [external] Client is ready to attempt a launch.
+[2025-09-04 21:54:16.943] [DISPLAY] [Main ] [external] Frontend is ready to launch the title
+[2025-09-04 21:54:17.229] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'WAITING_FOR_PAGE_READY'
+[2025-09-04 21:54:17.247] [DISPLAY] [Main ] [rline_pc] Handling action 'ScuiVersion' [EventId: 4]
+[2025-09-04 21:54:17.314] [DISPLAY] [Main ] [rline_pc] Handling action 'Geo' [EventId: 4]
+[2025-09-04 21:54:17.314] [DISPLAY] [Main ] [rline_pc] Handling action 'ExternIP' [EventId: 4]
+[2025-09-04 21:54:17.348] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'PAGE_READY'
+[2025-09-04 21:54:17.348] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'START_SIGN_IN'
+[2025-09-04 21:54:17.365] [DISPLAY] [Main ] [rline_pc] Social Club UI - Entering State: 'FINISHED'
+[2025-09-04 21:54:17.365] [DISPLAY] [Main ] [rline_pc] Finished loading Social Club UI
+[2025-09-04 21:54:17.365] [DISPLAY] [Main ] [launcher] Time to start up: 15247 ms
+[2025-09-04 21:54:17.368] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2025-09-04 21:54:17.397] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetContext: Invalid -> Auth
+[2025-09-04 21:54:17.397] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Invalid -> WaitForBrowser
+[2025-09-04 21:54:17.426] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-09-04 21:54:20.281] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_2bcc_channel_2
+[2025-09-04 21:54:20.298] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_2 (remoteProcessId 6512)
+[2025-09-04 21:54:37.432] [DISPLAY] [Main ] [ui_window_controller] OnScAuthError with fatal error invoked
+[2025-09-04 21:54:37.432] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> FatalError
+[2025-09-04 21:54:37.432] [ ERROR ] [Main ] [ui_window_controller] Handling error in window controller
+[2025-09-04 21:54:37.432] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: FatalError -> HandlingFatalError
+[2025-09-04 21:54:37.504] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_2bcc_channel_2
+[2025-09-04 21:54:43.727] [DISPLAY] [Main ] [ui_window_controller] User selected retry - reloading window
+[2025-09-04 21:54:43.727] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: HandlingFatalError -> WaitForBrowser
+[2025-09-04 21:54:43.744] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-09-04 21:54:44.150] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_2bcc_channel_3
+[2025-09-04 21:54:44.167] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_3 (remoteProcessId 16572)
+[2025-09-04 21:54:44.757] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
+[2025-09-04 21:54:46.602] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_2bcc_channel_4
+[2025-09-04 21:54:46.619] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_4 (remoteProcessId 16572)
+[2025-09-04 21:54:46.619] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_2bcc_channel_3
+[2025-09-04 21:54:47.160] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Active -> WaitForBrowser
+[2025-09-04 21:54:47.160] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-09-04 21:55:00.175] [DISPLAY] [Main ] [rline_pc] Handling action 'ShowNotification' [EventId: 2]
+[2025-09-04 21:55:06.453] [DISPLAY] [Main ] [rline_pc] Queue download of profile avatar
+[2025-09-04 21:55:06.495] [DISPLAY] [Main ] [rline_pc] Saved profile for BBBBZHANG
+[2025-09-04 21:55:06.495] [DISPLAY] [Main ] [rline_pc] Syncing friends.
+[2025-09-04 21:55:06.495] [DISPLAY] [Main ] [rline_pc] Syncing privacy settings.
+[2025-09-04 21:55:07.169] [DISPLAY] [Main ] [ui_window_controller] OnScAuthError with fatal error invoked
+[2025-09-04 21:55:07.169] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> FatalError
+[2025-09-04 21:55:07.169] [ ERROR ] [Main ] [ui_window_controller] Handling error in window controller
+[2025-09-04 21:55:07.199] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: FatalError -> HandlingFatalError
+[2025-09-04 21:55:08.276] [DISPLAY] [Main ] [ui_window_controller] User selected retry - reloading window
+[2025-09-04 21:55:08.277] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: HandlingFatalError -> WaitForBrowser
+[2025-09-04 21:55:08.292] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-09-04 21:55:08.833] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_2bcc_channel_5
+[2025-09-04 21:55:08.850] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_5 (remoteProcessId 1344)
+[2025-09-04 21:55:09.753] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
+[2025-09-04 21:55:22.325] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_2bcc_channel_4
+[2025-09-04 21:55:23.723] [DISPLAY] [Main ] [rline_pc] Signed in online to profile: BBBBZHANG
+[2025-09-04 21:55:23.723] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetContext: Auth -> MainWindow
+[2025-09-04 21:55:23.723] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: Active -> WaitForBrowser
+[2025-09-04 21:55:23.744] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 144,144
+[2025-09-04 21:55:23.744] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.50
+[2025-09-04 21:55:23.744] [DISPLAY] [Main ] [ui_mainwindow] Using saved geometry: 860,215 (1536 x 900)
+[2025-09-04 21:55:23.782] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2025-09-04 21:55:23.782] [DISPLAY] [Main ] [launcher] User 'BBBBZHANG' is now signed in
+[2025-09-04 21:55:23.796] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2025-09-04 21:55:23.796] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2025-09-04 21:55:23.796] [DISPLAY] [Main ] [rline_pc] Handling action 'EnableDownloading' [EventId: 2]
+[2025-09-04 21:55:23.796] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2025-09-04 21:55:23.797] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForBrowser -> WaitForWindow
+[2025-09-04 21:55:23.797] [DISPLAY] [Main ] [ui_window_controller] UiWindowController::SetState: WaitForWindow -> Active
+[2025-09-04 21:55:23.797] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2025-09-04 21:55:24.050] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [rline_pc] Handling action 'UpdateSetting' [EventId: 2]
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [scuicallbacks] Setting updated by frontend
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [rline_pc] Handling action 'Launch' [EventId: 2]
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [scuicallbacks] Launch requested: lanoire, , 
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [scuicallbacks] Launch requested by user: lanoire, default
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [external] Frontend is ready to launch the title
+[2025-09-04 21:55:24.270] [DISPLAY] [Main ] [external] Attempting external title launch...
+[2025-09-04 21:55:26.672] [DISPLAY] [Main ] [rline_pc] CreateIpcChannel returning channel name: rgsc_ipc_2bcc_channel_6
+[2025-09-04 21:55:26.689] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_ipc_2bcc_channel_6 (remoteProcessId 1344)
+[2025-09-04 21:55:26.689] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_2bcc_channel_5
+[2025-09-04 21:55:27.396] [DISPLAY] [Main ] [services] Parsed response from GetApps: 22 title(s), 4 branch(es)
+[2025-09-04 21:55:27.416] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2025-09-04 21:55:27.417] [DISPLAY] [Admin] [external] Attempting Steam launch. User is 'CLOUD'
+[2025-09-04 21:55:27.436] [DISPLAY] [Main ] [gamelaunch] Begin game launch: lanoire
+[2025-09-04 21:55:27.436] [DISPLAY] [Main ] [gamelaunch] Flags: 11
+[2025-09-04 21:55:27.436] [DISPLAY] [Main ] [gamelaunch] Path: D:\Games\StemLibrary\steamapps\common\L.A.Noire
+[2025-09-04 21:55:27.442] [DISPLAY] [Main ] [telemetrymanager] Secondary platform is set to: 2
+[2025-09-04 21:55:27.442] [DISPLAY] [ 6012] [gamelaunch] Launch Folder: D:\Games\StemLibrary\steamapps\common\L.A.Noire
+[2025-09-04 21:55:27.442] [DISPLAY] [ 6012] [gamelaunch] Launch Path: D:\Games\StemLibrary\steamapps\common\L.A.Noire\LANoire.exe
+[2025-09-04 21:55:27.443] [DISPLAY] [ 6012] [fileutils] Checking version: D:\Games\StemLibrary\steamapps\common\L.A.Noire\LANoire.exe
+[2025-09-04 21:55:27.498] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_ipc_2bcc_channel_6
+[2025-09-04 21:55:27.572] [DISPLAY] [ 6012] [gamelaunch] Title has no minimum RGL version.
+[2025-09-04 21:55:27.572] [DISPLAY] [ 6012] [gamelaunch] Title has no minimum RGL version.
+[2025-09-04 21:55:27.572] [DISPLAY] [ 6012] [fileutils] Checking version: C:\Program Files\Rockstar Games\Social Club\socialclub.dll
+[2025-09-04 21:55:34.003] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2025-09-04 21:55:34.003] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2025-09-04 21:55:36.641] [DISPLAY] [Main ] [services] Parsed response from GetApps: 22 title(s), 4 branch(es)
+[2025-09-04 21:55:36.657] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2025-09-04 21:55:41.595] [DISPLAY] [ 6012] [gamelaunch] Launching game...
+[2025-09-04 21:55:41.595] [DISPLAY] [ 6012] [gamelaunch]  Path: D:\Games\StemLibrary\steamapps\common\L.A.Noire\LANoire.exe
+[2025-09-04 21:55:41.595] [DISPLAY] [ 6012] [gamelaunch]  Command Line: "D:\Games\StemLibrary\steamapps\common\L.A.Noire\LANoire.exe" -skipPatcherCheck -steamLocation D:\Games\StemLibrary\steamapps\common\L.A.Noire @args.txt -useSteam -steamAppId=110800 -scCommerceProvider=4 @commandline.txt --parentIsLauncher -fromRGL -rglLanguage=zh-CHS
+[2025-09-04 21:55:41.595] [DISPLAY] [ 6012] [gamelaunch]  Working Directory: D:\Games\StemLibrary\steamapps\common\L.A.Noire
+[2025-09-04 21:55:43.050] [DISPLAY] [Main ] [rline_pc] OnChannelConnected - rgsc_gameinst_0 (remoteProcessId 5972)
+[2025-09-04 21:55:56.386] [DISPLAY] [Main ] [rline_pc] Handling action 'TerminateGame' [EventId: 2]
+[2025-09-04 21:55:56.386] [DISPLAY] [Main ] [scuicallbacks] Terminate game requested for lanoire
+[2025-09-04 21:55:56.386] [DISPLAY] [ 6012] [gamelaunch] Terminating game.
+[2025-09-04 21:55:56.386] [DISPLAY] [ 6012] [gamelaunch] Game exit code indicates Steam termination
+[2025-09-04 21:55:56.386] [DISPLAY] [ 6012] [crashdetection] Game left no exit file.
+[2025-09-04 21:55:56.436] [DISPLAY] [Main ] [scuicallbacks] Quit requested from frontend
+[2025-09-04 21:55:56.436] [DISPLAY] [Main ] [launcher] Shutdown requested! Forced: false
+[2025-09-04 21:55:56.436] [DISPLAY] [Main ] [rline_pc] Handling action 'Close' [EventId: 1]
+[2025-09-04 21:55:56.436] [DISPLAY] [Main ] [rline_pc] Close requested via the scui
+[2025-09-04 21:55:56.436] [DISPLAY] [Main ] [scuicallbacks] Close requested from frontend
+[2025-09-04 21:55:56.436] [DISPLAY] [Main ] [launcher] Shutdown requested! Forced: false
+[2025-09-04 21:55:56.436] [DISPLAY] [ 6012] [launcher] Shutdown requested! Forced: false
+[2025-09-04 21:55:56.437] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2025-09-04 21:55:56.559] [DISPLAY] [Main ] [svc] Stopping the background service.
+[2025-09-04 21:55:56.559] [WARNING] [Main ] [worker] Not adding job (15) due to thread exiting
+[2025-09-04 21:55:56.559] [DISPLAY] [Main ] [rline_pc] OnChannelError() - rgsc_gameinst_0
+[2025-09-04 21:55:56.577] [WARNING] [Main ] [worker] Not adding job (5) due to thread exiting
+[2025-09-04 21:55:58.059] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)

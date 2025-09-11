@@ -3055,3 +3055,38 @@
 [2025-09-06 16:37:34.107] [ 14188] [2CEC] Timed out waiting for windows to close on shutdown
 [2025-09-06 16:37:34.122] [ 14188] [2CEC] MainMessageLoopInternalPump - Preparing to shutdown
 [2025-09-06 16:37:37.210] [ 14188] [2CEC] MainMessageLoopInternalPump - Shutdown
+[2025-09-11 19:35:40.006] [ 13352] [3430] ===================================
+[2025-09-11 19:35:40.023] [ 13352] [3430] Browser process opened from pid: 30680
+[2025-09-11 19:35:40.024] [ 13352] [3430] Language: zh-CN
+[2025-09-11 19:35:40.024] [ 13352] [3430] Connecting to IPC channel: rgsc_ipc_77d8_channel_0
+[2025-09-11 19:35:40.025] [ 13352] [3430] Product version: RockstarGames/2.4.0.101/1.0.103.2534/launcher/PC
+[2025-09-11 19:35:40.301] [ 13352] [3430] OnChannelConnected - rgsc_ipc_77d8_channel_0 (remoteProcessId 30680)
+[2025-09-11 19:35:46.781] [ 13352] [3430] Renderer[1][27972] IPC Channel Response: 27972 -> rgsc_ipc_77d8_channel_1
+[2025-09-11 19:35:46.843] [ 13352] [3430] Renderer[1][27972] Connecting to IPC channel: rgsc_ipc_77d8_channel_1
+[2025-09-11 19:35:46.967] [ 13352] [3430] Renderer[1][27972] OnChannelConnected - rgsc_ipc_77d8_channel_1 (remoteProcessId 30680)
+[2025-09-11 19:35:57.312] [ 13352] [3430] Renderer[2][15080] IPC Channel Response: 15080 -> rgsc_ipc_77d8_channel_2
+[2025-09-11 19:35:57.313] [ 13352] [3430] Renderer[2][15080] Connecting to IPC channel: rgsc_ipc_77d8_channel_2
+[2025-09-11 19:35:57.468] [ 13352] [3430] Renderer[2][15080] OnChannelConnected - rgsc_ipc_77d8_channel_2 (remoteProcessId 30680)
+[2025-09-11 19:36:21.082] [ 13352] [3430] Renderer[3][19004] IPC Channel Response: 19004 -> rgsc_ipc_77d8_channel_3
+[2025-09-11 19:36:21.083] [ 13352] [3430] Renderer[3][19004] Connecting to IPC channel: rgsc_ipc_77d8_channel_3
+[2025-09-11 19:36:21.129] [ 13352] [3430] Renderer[3][19004] OnChannelConnected - rgsc_ipc_77d8_channel_3 (remoteProcessId 30680)
+[2025-09-11 19:36:31.916] [ 13352] [3430] Renderer[4][10980] IPC Channel Response: 10980 -> rgsc_ipc_77d8_channel_4
+[2025-09-11 19:36:31.917] [ 13352] [3430] Renderer[4][10980] Connecting to IPC channel: rgsc_ipc_77d8_channel_4
+[2025-09-11 19:36:31.978] [ 13352] [3430] Renderer[4][10980] OnChannelConnected - rgsc_ipc_77d8_channel_4 (remoteProcessId 30680)
+[2025-09-11 19:36:57.245] [ 13352] [3430] Renderer[5][18388] IPC Channel Response: 18388 -> rgsc_ipc_77d8_channel_5
+[2025-09-11 19:36:57.246] [ 13352] [3430] Renderer[5][18388] Connecting to IPC channel: rgsc_ipc_77d8_channel_5
+[2025-09-11 19:36:57.291] [ 13352] [3430] Renderer[5][18388] OnChannelConnected - rgsc_ipc_77d8_channel_5 (remoteProcessId 30680)
+[2025-09-11 19:37:14.253] [ 13352] [3430] Renderer[6][26996] IPC Channel Response: 26996 -> rgsc_ipc_77d8_channel_6
+[2025-09-11 19:37:14.253] [ 13352] [3430] Renderer[6][26996] Connecting to IPC channel: rgsc_ipc_77d8_channel_6
+[2025-09-11 19:37:14.346] [ 13352] [3430] Renderer[6][26996] OnChannelConnected - rgsc_ipc_77d8_channel_6 (remoteProcessId 30680)
+[2025-09-11 19:57:02.388] [ 13352] [3430] Renderer[7][18100] IPC Channel Response: 18100 -> rgsc_ipc_77d8_channel_7
+[2025-09-11 19:57:02.389] [ 13352] [3430] Renderer[7][18100] Connecting to IPC channel: rgsc_ipc_77d8_channel_7
+[2025-09-11 19:57:02.389] [ 13352] [3430] Renderer[7][18100] OnChannelConnected - rgsc_ipc_77d8_channel_7 (remoteProcessId 30680)
+[2025-09-11 19:57:07.618] [ 13352] [3430] Renderer[7][18100] IPC Channel Response: 18100 -> rgsc_ipc_77d8_channel_8
+[2025-09-11 19:57:07.619] [ 13352] [3430] Renderer[7][18100] Connecting to IPC channel: rgsc_ipc_77d8_channel_8
+[2025-09-11 19:57:07.739] [ 13352] [3430] Renderer[7][18100] OnChannelConnected - rgsc_ipc_77d8_channel_8 (remoteProcessId 30680)
+[2025-09-11 19:58:01.547] [ 13352] [3430] OnChannelError() - rgsc_ipc_77d8_channel_0
+[2025-09-11 19:58:01.547] [ 13352] [3430] Shutdown requested
+[2025-09-11 19:58:06.570] [ 13352] [3430] Timed out waiting for windows to close on shutdown
+[2025-09-11 19:58:06.586] [ 13352] [3430] MainMessageLoopInternalPump - Preparing to shutdown
+[2025-09-11 19:58:09.676] [ 13352] [3430] MainMessageLoopInternalPump - Shutdown
